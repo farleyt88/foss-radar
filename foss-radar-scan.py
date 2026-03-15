@@ -8,7 +8,7 @@ Key design principles:
   - Auto-scanned tools with vendor keywords in description do NOT get vendor bonus
   - Generic protocol terms (netconf, yang, gnmi) are high-relevance but NOT vendor-specific
   - Deduplication by URL is enforced on every run
-  - Full second-brain doc regeneration (no fragile regex patching)
+  - Full catalog doc regeneration (no fragile regex patching)
 
 Scoring guide (max ~250 for a perfectly relevant tool):
   vendor_verified + vendor in list:  +40 per vendor (capped at 3 vendors = 120)
@@ -24,12 +24,13 @@ from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
-SECOND_BRAIN_DOC = Path.home() / "clawd/second-brain/docs/foss-radar.md"
-TOOLS_DB = Path.home() / "clawd/data/foss-radar-tools.json"
-SCAN_LOG = Path.home() / "clawd/data/foss-radar-scans.json"
+SCRIPT_DIR = Path(__file__).resolve().parent
+SECOND_BRAIN_DOC = SCRIPT_DIR / "CATALOG.md"
+TOOLS_DB = SCRIPT_DIR / "data" / "tools.json"
+SCAN_LOG = SCRIPT_DIR / "data" / "scan-history.json"
 TOOLS_DB.parent.mkdir(parents=True, exist_ok=True)
 
-# TJ's actual vendor names — ONLY these trigger vendor bonus (when verified=True)
+# Target vendor names — ONLY these trigger vendor bonus (when verified=True)
 VENDOR_NAMES = {"ciena", "saos", "nokia", "ribbon", "aviat", "sel icon", "sel-icon"}
 
 # Generic protocol keywords — high relevance but NOT vendor-specific
@@ -39,7 +40,7 @@ PROTOCOL_KEYWORDS = {
     "netflow", "sflow", "ipfix", "snmp", "tl1", "cli automation"
 }
 
-# High relevance — directly related to TJ's work domain
+# High relevance — directly related to transport network engineering
 HIGH_KEYWORDS = {
     "network automation", "transport", "telecom", "carrier ethernet", "mpls",
     "optical", "dwdm", "otn", "sonet", "sdh", "microwave", "fiber",
@@ -149,8 +150,8 @@ def calculate_relevance_score(tool):
     return score
 
 
-def generate_second_brain_doc(tools):
-    """Fully regenerate the FOSS Radar Second Brain doc from current data."""
+def generate_catalog_doc(tools):
+    """Fully regenerate the FOSS Radar catalog doc from current data."""
     today = datetime.now().strftime("%m-%d-%Y")
     now = datetime.now().strftime("%m-%d-%Y %H:%M")
 
@@ -226,7 +227,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 **Categories:** {cat_str}
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
-> for TJ's stack (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
+> for target vendors (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
 > vendor column. Generic NETCONF/YANG tools are scored on utility alone — not inflated by protocol
 > keywords. Last full audit: 03-06-2026.
 
@@ -299,9 +300,9 @@ def main():
     # Step 3: Save
     save_tools_db(tools)
 
-    # Step 4: Regenerate second brain doc
-    generate_second_brain_doc(tools)
-    print(f"  Second Brain doc regenerated — {len(tools)} tools")
+    # Step 4: Regenerate catalog doc
+    generate_catalog_doc(tools)
+    print(f"  Catalog doc regenerated — {len(tools)} tools")
 
     log_scan(updated=updated, total=len(tools), deduped=deduped)
     print(f"  Done.")
