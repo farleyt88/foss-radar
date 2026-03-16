@@ -1984,20 +1984,22 @@
   {
     "name": "Scanopy",
     "url": "https://github.com/scanopy/scanopy",
-    "description": "Auto-discover and visualize network topology. Scans networks, identifies hosts/services, generates interactive diagrams. Docker-based with multi-VLAN scanning, scheduled discovery, and role-based access.",
-    "category": "Observability",
-    "stars": 200,
+    "description": "Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services (200+ service definitions), and generates interactive topology diagrams. Runs as lightweight Docker daemon(s) that scan VLANs via ARP and full 65k-port scans. Supports SNMP v2c polling for network devices. Produces living, self-updating network diagrams \u2014 no manual Visio/draw.io maintenance required. Also available as cloud-hosted option.",
+    "category": "Network Management",
+    "stars": 1200,
     "topics": [
       "network-discovery",
       "topology",
+      "self-hosted",
+      "snmp",
+      "documentation",
       "visualization",
       "docker",
-      "self-hosted",
-      "network-documentation"
+      "network-scanner"
     ],
-    "updated": "2026-01-15",
-    "discovered": "2026-02-05",
-    "relevance_score": 33,
+    "updated": "2026-03-15",
+    "discovered": "2026-03-15",
+    "relevance_score": 49,
     "vendor_verified": false
   },
   {
@@ -6661,5 +6663,148 @@
     "discovered": "2026-03-15",
     "relevance_score": 39,
     "vendor_verified": false
+  },
+  {
+    "name": "gNMI MCP Server (Nokia SR OS)",
+    "url": "https://github.com/coolexer/gNMI-MCP-server",
+    "description": "MCP (Model Context Protocol) server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible AI client. Provides gNMI Get (config + state), gNMI Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, and Capabilities discovery. Supports multi-device management with runtime credentials (no passwords in config files) and clean JSON-IETF encoding. More capable than pySROS-based alternatives \u2014 uses native gNMI protocol directly.",
+    "category": "Network Automation",
+    "stars": 10,
+    "topics": [
+      "nokia",
+      "sros",
+      "gnmi",
+      "mcp",
+      "grpc",
+      "ai-automation",
+      "python",
+      "claude-desktop"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-15",
+    "discovered": "2026-03-15",
+    "relevance_score": 77,
+    "vendor_verified": true
+  },
+  {
+    "name": "SROS gRPC Services",
+    "url": "https://github.com/nokia/SROS-grpc-services",
+    "description": "Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS gNMI and RibApi operations. Includes proto files for all Nokia-supported gRPC services, generated Python bindings, and a CLI shell for interactive gNMI Get/Set and RibApi RPC calls. Essential building block for custom gRPC-based automation against Nokia SR OS routers.",
+    "category": "Network Automation",
+    "stars": 40,
+    "topics": [
+      "nokia",
+      "sros",
+      "grpc",
+      "gnmi",
+      "ribapi",
+      "python",
+      "cli",
+      "protobuf"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-15",
+    "discovered": "2026-03-15",
+    "relevance_score": 83,
+    "vendor_verified": true
+  },
+  {
+    "name": "SigNoz",
+    "url": "https://github.com/SigNoz/signoz",
+    "description": "Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hosted alternative to Datadog and New Relic. Built on ClickHouse for fast queries at scale. Features distributed tracing, log management with pipeline processing, metrics with PromQL-compatible queries, alerting, and dashboards. Supports SNMP and syslog receivers via OTel Collector for network device monitoring. Apache 2.0 licensed.",
+    "category": "Observability",
+    "stars": 26094,
+    "topics": [
+      "observability",
+      "opentelemetry",
+      "apm",
+      "distributed-tracing",
+      "logs",
+      "metrics",
+      "monitoring",
+      "self-hosted",
+      "clickhouse",
+      "prometheus"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-16",
+    "discovered": "2026-03-16",
+    "relevance_score": 87,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Parseable",
+    "url": "https://github.com/parseablehq/parseable",
+    "description": "Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestion and analysis. Uses Apache Parquet columnar storage for efficient querying and compression. Self-hosted via Docker with minimal resource footprint. REST API for log ingestion, SQL-based querying, and alerting. Good fit for collecting syslog/structured logs from network devices without the overhead of a full ELK stack.",
+    "category": "Observability",
+    "stars": 2338,
+    "topics": [
+      "log-management",
+      "observability",
+      "rust",
+      "parquet",
+      "self-hosted",
+      "docker",
+      "elasticsearch-alternative",
+      "analytics"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-15",
+    "discovered": "2026-03-16",
+    "relevance_score": 43,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "selprotopy",
+    "url": "https://github.com/engineerjoe440/selprotopy",
+    "description": "Python bindings for the SEL Protocol suite (Fast Meter, Fast Message, Fast Operate) used by Schweitzer Engineering Laboratories protective relays and IEDs. Enables programmatic communication with SEL devices for data collection, monitoring, and control. Directly relevant for utility environments with SEL ICON and RTAC equipment. Community-developed, Apache 2.0 licensed.",
+    "category": "Network Automation",
+    "stars": 18,
+    "topics": [
+      "protocol",
+      "protocol-bindings",
+      "python",
+      "schweitzer-engineering-laboratories",
+      "sel-protocol",
+      "utility",
+      "protective-relay"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "vendor_verified": true,
+    "updated": "2025-08-01",
+    "discovered": "2026-03-16",
+    "relevance_score": 23,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia Network as Code (Python SDK)",
+    "url": "https://github.com/nokia/network-as-code-py",
+    "description": "Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities including quality-of-service management, network-based location services, and analytics via Nokia NaC APIs. Useful for exploring Nokia programmable network capabilities and integrating Nokia infrastructure into automation workflows.",
+    "category": "Network Automation",
+    "stars": 6,
+    "topics": [
+      "nokia",
+      "network-as-code",
+      "python",
+      "sdk",
+      "network-api",
+      "automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2025-12-22",
+    "discovered": "2026-03-16",
+    "relevance_score": 65,
+    "source": "foss-radar-scan"
   }
 ]
