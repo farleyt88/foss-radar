@@ -142,22 +142,22 @@ These are high-relevance protocols for transport network management, but they ar
 
 | Category | Count |
 |----------|-------|
-| [Network Automation](CATALOG.md#network-automation) | 223 |
-| [Observability](CATALOG.md#observability) | 76 |
-| [Network Management](CATALOG.md#network-management) | 7 |
-| [CLI Tools](CATALOG.md#cli-tools) | 5 |
-| [Self-Hosted](CATALOG.md#self-hosted) | 4 |
-| [Infrastructure as Code](CATALOG.md#infrastructure-as-code) | 4 |
-| [Network Observability](CATALOG.md#network-observability) | 4 |
-| [IPAM](CATALOG.md#ipam) | 3 |
-| [Network Simulation](CATALOG.md#network-simulation) | 3 |
-| [Network Testing](CATALOG.md#network-testing) | 3 |
-| [Network Monitoring](CATALOG.md#network-monitoring) | 3 |
-| [Data Management](CATALOG.md#data-management) | 2 |
-| [Network Diagnostics](CATALOG.md#network-diagnostics) | 2 |
-| [Other Categories](CATALOG.md) | 17 |
+| [Network Automation](categories/network-automation.md) | 223 |
+| [Observability](categories/observability.md) | 76 |
+| [Network Management](categories/network-management.md) | 7 |
+| [CLI Tools](categories/cli-tools.md) | 5 |
+| [Self-Hosted](categories/self-hosted.md) | 4 |
+| [Infrastructure as Code](categories/infrastructure-as-code.md) | 4 |
+| [Network Observability](categories/network-observability.md) | 4 |
+| [IPAM](categories/ipam.md) | 3 |
+| [Network Simulation](categories/network-simulation.md) | 3 |
+| [Network Testing](categories/network-testing.md) | 3 |
+| [Network Monitoring](categories/network-monitoring.md) | 3 |
+| [Data Management](categories/data-management.md) | 2 |
+| [Network Diagnostics](categories/network-diagnostics.md) | 2 |
+| [Other Categories](categories/) | 15 |
 
-> **Full tool catalog with links, scores, and descriptions:** See [`CATALOG.md`](CATALOG.md)
+> **Full catalog in one page:** [`CATALOG.md`](CATALOG.md) · **By category:** [`categories/`](categories/)
 
 ---
 
@@ -284,10 +284,15 @@ Add entries to `data/tools.json` with this schema:
 ```
 foss-radar/
 ├── README.md              # This file
-├── CATALOG.md             # Full catalog — all 350 tools with links and scores
+├── CATALOG.md             # Full catalog — all tools in one page
 ├── foss-radar-scan.py     # Scoring engine and catalog generator
+├── categories/            # One file per category (auto-generated)
+│   ├── network-automation.md
+│   ├── observability.md
+│   ├── cli-tools.md
+│   └── ...
 └── data/
-    ├── tools.json         # Tool database (350 entries)
+    ├── tools.json         # Tool database
     └── scan-history.json  # Scan run log
 ```
 
