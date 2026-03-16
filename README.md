@@ -1,13 +1,13 @@
 # 📡 FOSS Radar
 
-**A curated, scored database of 350 Free and Open Source tools for network automation, observability, and transport network modernization.**
+**A curated, scored database of 356+ Free and Open Source tools for network automation, observability, and transport network modernization.**
 
 Built for network engineers working with **Ciena, Nokia, Ribbon, Aviat, and SEL ICON** equipment — but useful for anyone in telecom/transport networking.
 
-[![Tools Tracked](https://img.shields.io/badge/Tools_Tracked-350-blue)]()
+[![Tools Tracked](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffarleyt88%2Ffoss-radar%2Fmain%2Fdata%2Ftools.json&query=%24.length&label=Tools%20Tracked&color=blue)]()
 [![Vendor Verified](https://img.shields.io/badge/Vendor_Verified-45-green)]()
 [![Categories](https://img.shields.io/badge/Categories-29-orange)]()
-[![Last Scan](https://img.shields.io/badge/Last_Scan-03--15--2026-brightgreen)]()
+[![Last Scan](https://img.shields.io/badge/Last_Scan-03--16--2026-brightgreen)]()
 
 ---
 
@@ -142,20 +142,20 @@ These are high-relevance protocols for transport network management, but they ar
 
 | Category | Count |
 |----------|-------|
-| [Network Automation](#network-automation) | 219 |
-| [Observability](#observability) | 75 |
-| [Network Management](#network-management) | 6 |
-| [CLI Tools](#cli-tools) | 5 |
-| [Self-Hosted](#self-hosted) | 4 |
-| [Infrastructure as Code](#infrastructure-as-code) | 4 |
-| [Network Observability](#network-observability) | 4 |
-| [IPAM](#ipam) | 3 |
-| [Network Simulation](#network-simulation) | 3 |
-| [Network Testing](#network-testing) | 3 |
-| [Network Monitoring](#network-monitoring) | 3 |
-| [Data Management](#data-management) | 2 |
-| [Network Diagnostics](#network-diagnostics) | 2 |
-| [Other Categories](#other-categories) | 17 |
+| [Network Automation](CATALOG.md#network-automation) | 223 |
+| [Observability](CATALOG.md#observability) | 76 |
+| [Network Management](CATALOG.md#network-management) | 7 |
+| [CLI Tools](CATALOG.md#cli-tools) | 5 |
+| [Self-Hosted](CATALOG.md#self-hosted) | 4 |
+| [Infrastructure as Code](CATALOG.md#infrastructure-as-code) | 4 |
+| [Network Observability](CATALOG.md#network-observability) | 4 |
+| [IPAM](CATALOG.md#ipam) | 3 |
+| [Network Simulation](CATALOG.md#network-simulation) | 3 |
+| [Network Testing](CATALOG.md#network-testing) | 3 |
+| [Network Monitoring](CATALOG.md#network-monitoring) | 3 |
+| [Data Management](CATALOG.md#data-management) | 2 |
+| [Network Diagnostics](CATALOG.md#network-diagnostics) | 2 |
+| [Other Categories](CATALOG.md) | 17 |
 
 > **Full tool catalog with links, scores, and descriptions:** See [`CATALOG.md`](CATALOG.md)
 
