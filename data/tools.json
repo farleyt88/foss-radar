@@ -6806,5 +6806,30 @@
     "discovered": "2026-03-16",
     "relevance_score": 65,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NAPALM SR Linux",
+    "url": "https://github.com/napalm-automation-community/napalm-srlinux",
+    "description": "Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM API (get_facts, get_interfaces, config management) against SR Linux devices. Leverages Nokia SRL YANG models. Validated on SRL OS 21.3.1+. Complements the existing NAPALM-SROS driver for 7750/SR OS.",
+    "category": "Network Automation",
+    "stars": 30,
+    "topics": [
+      "napalm",
+      "nokia",
+      "sr-linux",
+      "gnmi",
+      "json-rpc",
+      "yang",
+      "network-automation",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-03-17",
+    "discovered": "2026-03-17",
+    "relevance_score": 91,
+    "source": "foss-radar-scan"
   }
 ]

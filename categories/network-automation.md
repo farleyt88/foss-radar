@@ -1,6 +1,6 @@
 # Network Automation
 
-**223 tools** — sorted by relevance score.
+**224 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -17,6 +17,7 @@
 | 93 | [ncclient](https://github.com/ncclient/ncclient) | Python library for NETCONF clients. The standard NETCONF library for Python. | Nokia ✅ |
 | 91 | [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) | Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational  | Nokia ✅ |
 | 91 | [ciena.waveserver5](https://github.com/ciena/ciena.waveserver5) | Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF-ba | Ciena ✅ |
+| 91 | [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) | Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM  | Nokia ✅ |
 | 85 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Official Nokia Ansible collection for SR Linux device management. Provides modules for config manage | Nokia ✅ |
 | 85 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli | Nokia ✅ |
 | 83 | [Inmanta](https://github.com/inmanta/inmanta-core) | Infrastructure orchestration and automation tool with intent-based desired-state model. Built for ne | Nokia ✅ |

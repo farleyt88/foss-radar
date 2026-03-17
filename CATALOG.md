@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**356 tools** across 29 categories.
+**357 tools** across 29 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (223)
+- **Network Automation** (224)
 - **Observability** (76)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -169,6 +169,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Mininet](https://github.com/mininet/mininet) — Create realistic virtual networks with real kernel, switches, apps on single machine. (score: 0)
 - [moler](https://github.com/nokia/moler) — Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command-as-object automation (score: 0)
 - [NAPALM](https://github.com/napalm-automation/napalm) — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API. (score: 0)
+- [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) — Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM API (get_facts, get_ (score: 0)
 - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) — Ansible modules using NAPALM for multi-vendor network automation. (score: 0)
 - [napalm-ciena-saos](https://github.com/napalm-automation-community/napalm-ciena-saos) — NAPALM community driver for Ciena SAOS devices. Enables get_facts, get_config, save_config, and get_virtual_switch via S (score: 0)
 - [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) — Salt formula to simplify NAPALM installation and dependencies. (score: 0)
