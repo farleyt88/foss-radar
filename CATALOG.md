@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**358 tools** across 29 categories.
+**360 tools** across 29 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (225)
-- **Observability** (76)
+- **Network Automation** (226)
+- **Observability** (77)
 - **Network Management** (7)
 - **CLI Tools** (5)
 - **Self-Hosted** (4)
@@ -290,6 +290,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
 - [Sysrepo](https://github.com/sysrepo/sysrepo) — YANG-based configuration and operational state data store for Unix/Linux applications. Integrates with Netopeer2 NETCONF (score: 0)
 - [TextFSM](https://github.com/google/textfsm) — Google's template-based state machine for parsing semi-structured CLI output. (score: 0)
+- [TransportPCE](https://github.com/opendaylight/transportpce) — OpenDaylight-based open-source controller for optical transport networks. Implements path computation (PCE), topology ma (score: 0)
 - [Trigger](https://github.com/trigger/trigger) — Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports SSH/Telnet/JunOS XML  (score: 0)
 - [TTP](https://github.com/dmulyalin/ttp) — Template Text Parser - parse semi-structured text using templates. TextFSM alternative. (score: 0)
 - [ttp_templates](https://github.com/dmulyalin/ttp_templates) — Community library of TTP (Template Text Parser) templates for parsing network device CLI output into structured data. Co (score: 0)
@@ -405,6 +406,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [LibreNMS](https://github.com/librenms/librenms) — Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. (score: 0)
 - [LogTide](https://github.com/logtide-dev/logtide) — Open-source, self-hosted log management platform. Privacy-first alternative to Datadog and ELK. Lightweight, easy to dep (score: 0)
 - [mapgl](https://github.com/vaduga/mapgl) — Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network topology — nodes, link (score: 0)
+- [MDT Dialout Collector](https://github.com/network-analytics/mdt-dialout-collector) — Multi-vendor Model-Driven Telemetry (MDT) collector using gRPC dialout mode. Accepts streaming telemetry from network de (score: 0)
 - [mermin](https://github.com/elastiflow/mermin) — Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic and export it as Flow Tra (score: 0)
 - [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) — Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash, Nautobot integration (score: 0)
 - [N2G (Need To Graph)](https://github.com/dmulyalin/N2G) — Generate network diagrams in GraphML, draw.io or JSON from structured data or CLI output. (score: 0)

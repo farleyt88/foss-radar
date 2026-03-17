@@ -1,12 +1,13 @@
 # Observability
 
-**76 tools** — sorted by relevance score.
+**77 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
 | 146 | [GtExporter](https://github.com/automixer/gtexporter) | YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-com | Nokia, Ciena ✅ |
+| 111 | [MDT Dialout Collector](https://github.com/network-analytics/mdt-dialout-collector) | Multi-vendor Model-Driven Telemetry (MDT) collector using gRPC dialout mode. Accepts streaming telem | Nokia, Cisco ✅ |
 | 97 | [gNPSI](https://github.com/openconfig/gnpsi) | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-ba | Nokia |
 | 95 | [Nokia OSSMediator](https://github.com/nokia/OSSMediator) | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) d | Nokia ✅ |
 | 91 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics. De | Nokia ✅ |

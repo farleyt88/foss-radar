@@ -6860,5 +6860,54 @@
     "discovered": "2026-03-17",
     "relevance_score": 51,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "TransportPCE",
+    "url": "https://github.com/opendaylight/transportpce",
+    "description": "OpenDaylight-based open-source controller for optical transport networks. Implements path computation (PCE), topology management, service provisioning, and optical line management (OLM) using OpenROADM MSA YANG models. Supports OpenROADM device models v1.2.1, v2.2.1, and v7.x. Provisions end-to-end services via OpenConfig 2.0 and integrates with OpenROADM hardware for disaggregated optical transport.",
+    "category": "Network Automation",
+    "stars": 14,
+    "topics": [
+      "optical-transport",
+      "openroadm",
+      "opendaylight",
+      "pce",
+      "yang",
+      "netconf",
+      "transport-engineering",
+      "java"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-14",
+    "discovered": "2026-03-17",
+    "relevance_score": 73,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "MDT Dialout Collector",
+    "url": "https://github.com/network-analytics/mdt-dialout-collector",
+    "description": "Multi-vendor Model-Driven Telemetry (MDT) collector using gRPC dialout mode. Accepts streaming telemetry from network devices (Cisco IOS-XR/NX-OS, Nokia SROS/SRL, Juniper) via gRPC dialout, decodes protobuf/JSON payloads, and forwards to Kafka or file output. Supports OpenConfig and vendor-specific YANG-push telemetry. Written in C++ for high-throughput production deployments.",
+    "category": "Observability",
+    "stars": 31,
+    "topics": [
+      "telemetry",
+      "grpc",
+      "gnmi",
+      "openconfig",
+      "yang",
+      "streaming-telemetry",
+      "network-automation",
+      "cpp"
+    ],
+    "vendors": [
+      "Nokia",
+      "Cisco"
+    ],
+    "vendor_verified": true,
+    "updated": "2025-06-06",
+    "discovered": "2026-03-17",
+    "relevance_score": 111,
+    "source": "foss-radar-scan"
   }
 ]

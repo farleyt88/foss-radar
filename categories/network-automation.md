@@ -1,6 +1,6 @@
 # Network Automation
 
-**225 tools** — sorted by relevance score.
+**226 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -37,6 +37,7 @@
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7 | Nokia ✅ |
 | 75 | [ciena.waveserverai](https://github.com/ciena/ciena.waveserverai) | Ansible Collection for Ciena Waveserver Ai optical platforms. Supports NETCONF connection for automa | Ciena ✅ |
+| 73 | [TransportPCE](https://github.com/opendaylight/transportpce) | OpenDaylight-based open-source controller for optical transport networks. Implements path computatio | — |
 | 71 | [xNMS](https://github.com/xmas-ar/xNMS) | Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link ser | — |
 | 71 | [moler](https://github.com/nokia/moler) | Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command- | Nokia ✅ |
 | 71 | [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) | PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system  | Ribbon ✅ |
