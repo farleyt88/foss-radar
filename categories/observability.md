@@ -13,6 +13,7 @@
 | 87 | [SigNoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single a | — |
 | 85 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatib | — |
 | 81 | [GoFlow2](https://github.com/netsampler/goflow2) | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's | — |
+| 79 | [OpenObserve](https://github.com/openobserve/openobserve) | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x l | — |
 | 79 | [OpenNTI](https://github.com/Juniper/open-nti) | Containerized open network telemetry collector and visualization stack. Collects data from devices v | — |
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interf | — |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
@@ -42,7 +43,6 @@
 | 45 | [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) | Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targ | — |
 | 45 | [Fluere](https://github.com/SkuldNorniern/fluere) | Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v | — |
 | 43 | [Parseable](https://github.com/parseablehq/parseable) | Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Spl | — |
-| 41 | [OpenObserve](https://github.com/openobserve/openobserve) | Cloud-native observability platform - logs, metrics, traces. 10x lower storage cost than Elasticsear | — |
 | 41 | [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) | SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. | — |
 | 41 | [advanced-network-topology-mapper](https://github.com/x0VIER/advanced-network-topology-mapper) | Extensible network discovery, visualization, and analysis framework. Uses multiple protocols (SNMP,  | — |
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |

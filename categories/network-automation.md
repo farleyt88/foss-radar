@@ -1,6 +1,6 @@
 # Network Automation
 
-**224 tools** — sorted by relevance score.
+**225 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -68,6 +68,7 @@
 | 51 | [Ondatra](https://github.com/openconfig/ondatra) | Open Network Device Automated Test Runner and API by OpenConfig. Write and run tests against real an | Nokia, Arista, Juniper |
 | 51 | [NetDriver](https://github.com/OpenSecFlow/netdriver) | Network device CLI automation via HTTP RESTful API. Connects to network devices and executes CLI com | — |
 | 51 | [Bootz](https://github.com/openconfig/bootz) | OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC ser | Nokia |
+| 51 | [Diode (NetBox Labs)](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burde | — |
 | 50 | [Holo](https://github.com/holo-routing/holo) | Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven netwo | — |
 | 49 | [Netmiko](https://github.com/ktbyers/netmiko) | Multi-vendor SSH library for network devices. Simplifies CLI automation over SSH. | — |
 | 49 | [pyGNMI](https://github.com/akarneliuk/pygnmi) | Python gNMI client. Interact with network devices via gRPC Network Management Interface. | nokia |

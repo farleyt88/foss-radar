@@ -179,21 +179,27 @@
   {
     "name": "OpenObserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "Cloud-native observability platform - logs, metrics, traces. 10x lower storage cost than Elasticsearch.",
+    "description": "Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs vs Elasticsearch. Single binary deployment, Rust-based, supports OpenTelemetry, Prometheus remote write, syslog, and SNMP trap ingestion via OTel Collector. Built-in dashboards and alerting. AGPL-3.0 licensed. A compelling alternative to ELK/Splunk for collecting network device logs and telemetry at scale without massive infrastructure overhead.",
     "category": "Observability",
-    "stars": 14000,
+    "stars": 18160,
     "topics": [
       "observability",
       "logs",
       "metrics",
       "traces",
       "opentelemetry",
-      "rust"
+      "prometheus",
+      "rust",
+      "self-hosted",
+      "elasticsearch-alternative",
+      "monitoring"
     ],
-    "updated": "2026-02-01",
-    "discovered": "2026-02-03",
-    "relevance_score": 41,
-    "vendor_verified": false
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-17",
+    "discovered": "2026-03-17",
+    "relevance_score": 79,
+    "source": "foss-radar-scan"
   },
   {
     "name": "Airbyte",
@@ -6830,6 +6836,29 @@
     "updated": "2026-03-17",
     "discovered": "2026-03-17",
     "relevance_score": 91,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Diode (NetBox Labs)",
+    "url": "https://github.com/netboxlabs/diode",
+    "description": "Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burden of data normalization from the user to the platform. Supports Python and Go SDKs, gRPC-based ingestion, and an Orb agent for automated network discovery. Designed to keep your network source of truth always accurate and up to date without manual data entry. GA release, actively developed by NetBox Labs.",
+    "category": "Network Automation",
+    "stars": 133,
+    "topics": [
+      "netbox",
+      "data-ingestion",
+      "automation",
+      "discovery",
+      "grpc",
+      "python",
+      "golang",
+      "source-of-truth"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-13",
+    "discovered": "2026-03-17",
+    "relevance_score": 51,
     "source": "foss-radar-scan"
   }
 ]

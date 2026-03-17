@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**357 tools** across 29 categories.
+**358 tools** across 29 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (224)
+- **Network Automation** (225)
 - **Observability** (76)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -120,6 +120,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
+- [Diode (NetBox Labs)](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burden of data normalizat (score: 0)
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) — Python library for Cisco DNA Center Platform API. (score: 0)
 - [drawio-network-plot](https://github.com/amrelhusseiny/drawio_network_plot) — Python library for programmatically creating Draw.io network topology diagrams. Generate HLDs from code with customizabl (score: 0)
 - [EDA Containerlab Connector](https://github.com/eda-labs/clab-connector) — Integrates Containerlab topologies with Nokia Event-Driven Automation (EDA). Automates onboarding of container-based net (score: 0)
@@ -423,7 +424,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [openGemini](https://github.com/openGemini/openGemini) — CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency, high performance,  (score: 0)
 - [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) — Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1 and v2 REST endpoint (score: 0)
 - [OpenNTI](https://github.com/Juniper/open-nti) — Containerized open network telemetry collector and visualization stack. Collects data from devices via CLI/Netconf, JTI  (score: 0)
-- [OpenObserve](https://github.com/openobserve/openobserve) — Cloud-native observability platform - logs, metrics, traces. 10x lower storage cost than Elasticsearch. (score: 0)
+- [OpenObserve](https://github.com/openobserve/openobserve) — Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs v (score: 0)
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
 - [Orb](https://github.com/orb-community/orb) — Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelines. Pushes analysis  (score: 0)
