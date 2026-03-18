@@ -6959,5 +6959,52 @@
     "relevance_score": 85,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "srpls",
+    "url": "https://github.com/srl-labs/srpls",
+    "description": "Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Provides IDE-level autocompletion, diagnostics, and navigation for Nokia device configs in VS Code and other LSP-compatible editors. Brand new from the srl-labs team.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "sros",
+      "lsp",
+      "language-server",
+      "vscode",
+      "golang"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-18",
+    "discovered": "2026-03-18",
+    "relevance_score": 49,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "evpn-ninja",
+    "url": "https://github.com/ashimov/evpn-ninja",
+    "description": "Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate VNI, MTU, RD/RT values and generate EVPN configurations for Arista, Cisco, Juniper, Nokia, and 14+ more vendors. Useful for transport engineers designing EVPN fabrics.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "evpn",
+      "vxlan",
+      "fabric-design",
+      "multi-vendor",
+      "nokia",
+      "config-generation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-18",
+    "discovered": "2026-03-18",
+    "relevance_score": 21,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

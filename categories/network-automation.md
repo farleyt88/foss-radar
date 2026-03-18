@@ -1,6 +1,6 @@
 # Network Automation
 
-**228 tools** — sorted by relevance score.
+**230 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -75,6 +75,7 @@
 | 49 | [Netmiko](https://github.com/ktbyers/netmiko) | Multi-vendor SSH library for network devices. Simplifies CLI automation over SSH. | — |
 | 49 | [pyGNMI](https://github.com/akarneliuk/pygnmi) | Python gNMI client. Interact with network devices via gRPC Network Management Interface. | nokia |
 | 49 | [Clixon Controller](https://github.com/clicon/clixon-controller) | Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device pr | — |
+| 49 | [srpls](https://github.com/srl-labs/srpls) | Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Prov | Nokia ✅ |
 | 47 | [gNXI Tools](https://github.com/google/gnxi) | Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subsc | — |
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuousl | — |
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates  | — |
@@ -184,6 +185,7 @@
 | 21 | [NetClaw](https://github.com/automateyournetwork/netclaw) | CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backends. | — |
 | 21 | [Kubenet](https://github.com/kubenet-dev/kubenet) | Nokia-backed community project using Kubernetes as a network automation engine for managing physical | Nokia |
 | 21 | [nokia-sros-maintenance-scripts](https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts) | Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash s | Nokia |
+| 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate | Nokia |
 | 20 | [batfish](https://github.com/batfish/batfish) | Network configuration analysis. Validate configs, test changes, find bugs before deployment. | — |
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |

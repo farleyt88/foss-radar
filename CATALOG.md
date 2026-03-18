@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**362 tools** across 29 categories.
+**364 tools** across 29 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (228)
+- **Network Automation** (230)
 - **Observability** (77)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -128,6 +128,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [edit4config](https://github.com/umurarslan/edit4config) — Python tool for parsing and editing Nokia SROS and Cisco IOS style configs (parent/child with space indent) with regex s (score: 0)
 - [eNMS](https://github.com/eNMS-automation/eNMS) — Vendor-agnostic NMS for carrier-grade network visualization and automation. (score: 0)
 - [EVE-NG](https://github.com/SmartFinn/eve-ng-integration) — Emulated Virtual Environment for Network, Security and DevOps professionals. (score: 0)
+- [evpn-ninja](https://github.com/ashimov/evpn-ninja) — Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate VNI, MTU, RD/RT val (score: 0)
 - [f5-common-python](https://github.com/F5Networks/f5-common-python) — Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. (score: 0)
 - [FakeNOS](https://github.com/fakenos/fakenos) — Simulate network operating systems programmatically. Great for testing automation. (score: 0)
 - [fetchconfig](https://github.com/udhos/fetchconfig) — Perl script for retrieving configuration of multiple network devices. (score: 0)
@@ -288,6 +289,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) — Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS  (score: 0)
 - [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) — ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Algo slicing, gNMIc str (score: 0)
 - [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) — Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for bootstrapping autom (score: 0)
+- [srpls](https://github.com/srl-labs/srpls) — Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Provides IDE-level autoc (score: 0)
 - [Stratum](https://github.com/stratum/stratum) — Open source silicon-independent switch operating system for software-defined networks. Exposes P4Runtime and OpenConfig/ (score: 0)
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
 - [Sysrepo](https://github.com/sysrepo/sysrepo) — YANG-based configuration and operational state data store for Unix/Linux applications. Integrates with Netopeer2 NETCONF (score: 0)
