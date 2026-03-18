@@ -13,6 +13,7 @@
 | 101 | [pydantify](https://github.com/pydantify/pydantify) | CLI tool that transforms YANG models into Pydantic datastructures, serializable as RESTCONF payloads | Nokia ✅ |
 | 101 | [NetGauze](https://github.com/NetGauze/NetGauze) | High-performance Rust libraries and daemons for network protocol parsing and telemetry collection. S | Nokia ✅ |
 | 98 | [gnmic](https://github.com/openconfig/gnmic) | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✅ |
+| 95 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI t | Nokia ✅ |
 | 95 | [Ciena YANG Modules](https://github.com/ciena/yang) | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer | Ciena ✅ |
 | 93 | [ncclient](https://github.com/ncclient/ncclient) | Python library for NETCONF clients. The standard NETCONF library for Python. | Nokia ✅ |
 | 91 | [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) | Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational  | Nokia ✅ |
@@ -109,7 +110,6 @@
 | 37 | [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) | Network topology collector and visualizer. Collects from dynamic mesh routing protocols or OpenVPN,  | — |
 | 37 | [Netreplica Graphite](https://github.com/netreplica/graphite) | Interactive network topology visualization for NetBox, Containerlab, and Netlab. Browser-based with  | Nokia |
 | 37 | [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) | Optical route planning library for DWDM networks. Gaussian noise model for SNR estimation, path comp | — |
-| 37 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Nornir connection plugin and CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state | Nokia |
 | 37 | [netcfgbu](https://github.com/jeremyschulman/netcfgbu) | Async network configuration backup tool using SSH. Multi-vendor support for any NOS with monolithic  | — |
 | 37 | [network-mcp](https://github.com/latticio/network-mcp) | AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, C | — |
 | 37 | [VyManager](https://github.com/Community-VyProjects/VyManager) | Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers.  | — |

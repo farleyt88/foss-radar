@@ -236,7 +236,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [nokia-sros-maintenance-scripts](https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts) — Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash status reporting with (score: 0)
 - [NORFAB](https://github.com/norfablabs/NORFAB) — Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop or server, centrali (score: 0)
 - [Nornir](https://github.com/nornir-automation/nornir) — Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. (score: 0)
-- [nornir-srl](https://github.com/srl-labs/nornir-srl) — Nornir connection plugin and CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and push configs. P (score: 0)
+- [nornir-srl](https://github.com/srl-labs/nornir-srl) — Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and pu (score: 0)
 - [notconf](https://github.com/notconf/notconf) — NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper JUNOS, Nokia SROS. Drop (score: 0)
 - [nrx (Netreplica Exporter)](https://github.com/netreplica/nrx) — Export NetBox topologies to Containerlab, CML, NVIDIA Air, or Graphite for network lab orchestration and visualization. (score: 0)
 - [NSoT](https://github.com/dropbox/nsot) — Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. (score: 0)

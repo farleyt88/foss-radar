@@ -2975,24 +2975,27 @@
   {
     "name": "nornir-srl",
     "url": "https://github.com/srl-labs/nornir-srl",
-    "description": "Nornir connection plugin and CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and push configs. Provides network-wide show commands across SRLinux nodes with report generation.",
+    "description": "Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and push configs. Provides built-in tasks for common operations (BGP peers, MAC table, subinterfaces) and a CLI that runs show commands across an entire SR Linux fabric from one terminal. Abstracts away YANG model changes between SR Linux releases.",
     "category": "Network Automation",
-    "stars": 16,
+    "stars": 17,
     "topics": [
-      "nornir",
       "nokia",
       "sr-linux",
+      "nornir",
       "gnmi",
+      "network-automation",
+      "python",
       "cli",
-      "network-automation"
+      "fabric-wide"
     ],
-    "updated": "2026-02-15",
-    "discovered": "2026-02-15",
-    "relevance_score": 37,
     "vendors": [
       "Nokia"
     ],
-    "vendor_verified": false
+    "updated": "2026-03-17",
+    "discovered": "2026-03-18",
+    "relevance_score": 95,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   },
   {
     "name": "srl-sros-telemetry-lab",
