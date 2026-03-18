@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**360 tools** across 29 categories.
+**362 tools** across 29 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (226)
+- **Network Automation** (228)
 - **Observability** (77)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -199,6 +199,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netconan](https://github.com/intentionet/netconan) — Network Configuration Anonymizer - sanitize configs for sharing. (score: 0)
 - [netconf-go](https://github.com/nights99/netconf-go) — NETCONF CLI with tab completion and dynamic YANG module download. Can compile to WebAssembly for browser-based network m (score: 0)
 - [netconf-rs](https://github.com/jiegec/netconf-rs) — Rust library for NETCONF (RFC 6241). Multiple SSH backends (ssh2/russh), flexible XML parsing. Device configuration auto (score: 0)
+- [NetContext MCP](https://github.com/hgursel/NetContext-MCP) — AI-powered network automation through Model Context Protocol. Provides SSH-based command execution on network devices (C (score: 0)
 - [NetCopa](https://github.com/cidrblock/netcopa) — Network device configuration parser. Industry standard configs to YAML. (score: 0)
 - [Netdisco](https://github.com/netdisco/netdisco) — Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. (score: 0)
 - [NetDriver](https://github.com/OpenSecFlow/netdriver) — Network device CLI automation via HTTP RESTful API. Connects to network devices and executes CLI commands through a simp (score: 0)
@@ -220,6 +221,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
+- [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
 - [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, (score: 0)
 - [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) — Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state models, tagged by r (score: 0)
 - [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) — Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli_command modules, de (score: 0)

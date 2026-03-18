@@ -6909,5 +6909,55 @@
     "discovered": "2026-03-17",
     "relevance_score": 111,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetContext MCP",
+    "url": "https://github.com/hgursel/NetContext-MCP",
+    "description": "AI-powered network automation through Model Context Protocol. Provides SSH-based command execution on network devices (Cisco IOS/IOS-XE, HP/Aruba ProCurve, Ubiquiti UniFi, generic Linux/SSH) via MCP servers. Supports legacy SSH algorithms for older equipment, batch operations, device-specific pagination handling, and vendor-specific error detection. Enables natural language network management through Claude Desktop or any MCP-compatible AI client.",
+    "category": "Network Automation",
+    "stars": 15,
+    "topics": [
+      "mcp",
+      "ssh",
+      "network-automation",
+      "cisco",
+      "aruba",
+      "ubiquiti",
+      "ai-automation",
+      "multi-vendor"
+    ],
+    "vendors": [
+      "Cisco",
+      "HP/Aruba",
+      "Ubiquiti"
+    ],
+    "updated": "2026-03-10",
+    "discovered": "2026-03-18",
+    "relevance_score": 27,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia NSP Integration Bootstrap",
+    "url": "https://github.com/nokia/NSP-Integration-Bootstrap",
+    "description": "Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libraries for calling NSP REST APIs (nsp.developer.nokia.com). Useful for bootstrapping automation against Nokia NSP for service provisioning, inventory, fault management, and network planning. BSD-3-Clause licensed.",
+    "category": "Network Automation",
+    "stars": 7,
+    "topics": [
+      "nokia",
+      "nsp",
+      "rest-api",
+      "network-management",
+      "service-platform",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-06-01",
+    "discovered": "2026-03-18",
+    "relevance_score": 85,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

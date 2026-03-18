@@ -1,6 +1,6 @@
 # Network Automation
 
-**226 tools** — sorted by relevance score.
+**228 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -20,6 +20,7 @@
 | 91 | [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) | Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM  | Nokia ✅ |
 | 85 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Official Nokia Ansible collection for SR Linux device management. Provides modules for config manage | Nokia ✅ |
 | 85 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli | Nokia ✅ |
+| 85 | [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) | Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample c | Nokia ✅ |
 | 83 | [Inmanta](https://github.com/inmanta/inmanta-core) | Infrastructure orchestration and automation tool with intent-based desired-state model. Built for ne | Nokia ✅ |
 | 83 | [notconf](https://github.com/notconf/notconf) | NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper JUN | Nokia ✅ |
 | 83 | [ANX (Advanced NETCONF Explorer)](https://github.com/cisco-ie/anx) | Graphical explorer for YANG models on NETCONF devices. Features include model retrieval, tree visual | — |
@@ -154,6 +155,7 @@
 | 27 | [rauto](https://github.com/demohiiiii/rauto) | Rust CLI for network automation using Jinja2 templates and robust SSH. Supports Cisco, Huawei, Junip | Cisco, Huawei, Juniper |
 | 27 | [shconfparser](https://github.com/network-tools/shconfparser) | Network configuration parser that translates show command outputs from Cisco and other vendors into  | — |
 | 27 | [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) | Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for | Nokia |
+| 27 | [NetContext MCP](https://github.com/hgursel/NetContext-MCP) | AI-powered network automation through Model Context Protocol. Provides SSH-based command execution o | Cisco, HP/Aruba, Ubiquiti ✅ |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco A | — |
