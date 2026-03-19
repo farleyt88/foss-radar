@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**366 tools** across 30 categories.
+**368 tools** across 30 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (230)
+- **Network Automation** (232)
 - **Observability** (77)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -224,6 +224,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) — Artificially limit bandwidth, delay and loss rate on selected interfaces. (score: 0)
 - [network-mcp](https://github.com/latticio/network-mcp) — AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, Cisco IOS-XE/NX-OS, a (score: 0)
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
+- [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
@@ -234,6 +235,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) — Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized Nokia SR Linux and  (score: 0)
 - [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) — HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG paths. Archived but (score: 0)
 - [nokia-basic-dci-lab](https://github.com/srl-labs/nokia-basic-dci-lab) — Containerlab-based DCI lab with SR Linux leaf/spine and Nokia 7750 SR OS DC gateway and P routers. Demonstrates VXLAN/EV (score: 0)
+- [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) — Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interface/port/connected-dev (score: 0)
 - [nokia-eda-playground](https://github.com/nokia-eda/playground) — Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with example topologies, (score: 0)
 - [nokia-netconf-examples](https://github.com/nokia/netconf-examples) — Official Nokia NETCONF example scripts and code samples. Reference implementations for NETCONF operations on Nokia platf (score: 0)
 - [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) — Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with ncclient for Nokia n (score: 0)

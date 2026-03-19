@@ -7050,5 +7050,49 @@
     "discovered": "2026-03-19",
     "relevance_score": 33,
     "vendor_verified": false
+  },
+  {
+    "name": "nokia-config-visualizer",
+    "url": "https://github.com/20eung/nokia-config-visualizer",
+    "description": "Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interface/port/connected-device info, and generates Mermaid.js diagrams. Grafana Diagram panel compatible for real-time monitoring integration. TypeScript-based.",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "nokia",
+      "config-visualization",
+      "mermaid",
+      "grafana",
+      "typescript",
+      "network-diagram"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-19",
+    "discovered": "2026-03-19",
+    "relevance_score": 77,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetworkOps Platform",
+    "url": "https://github.com/E-Conners-Lab/NetworkOps_Platform",
+    "description": "AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrastructure management, self-healing agents, drift detection, and a real-time web dashboard. Python/MIT licensed.",
+    "category": "Network Automation",
+    "stars": 93,
+    "topics": [
+      "network-automation",
+      "netbox",
+      "mcp",
+      "ai",
+      "drift-detection",
+      "self-healing",
+      "python"
+    ],
+    "updated": "2026-03-19",
+    "discovered": "2026-03-19",
+    "relevance_score": 47,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

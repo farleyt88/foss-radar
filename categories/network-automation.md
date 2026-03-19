@@ -1,6 +1,6 @@
 # Network Automation
 
-**230 tools** — sorted by relevance score.
+**232 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -35,6 +35,7 @@
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
 | 77 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gNMI-MCP-server) | MCP (Model Context Protocol) server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Des | Nokia ✅ |
+| 77 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interfac | Nokia ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operation | Nokia ✅ |
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7 | Nokia ✅ |
@@ -80,6 +81,7 @@
 | 47 | [gNXI Tools](https://github.com/google/gnxi) | Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subsc | — |
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuousl | — |
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates  | — |
+| 47 | [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) | AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for  | — |
 | 45 | [netpalm](https://github.com/tbotnz/netpalm) | REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation. | — |
 | 45 | [SDC (sdctl)](https://github.com/sdcio/sdctl) | Schema Driven Configuration - cloud-native declarative config management for network devices using Y | — |
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like c | Nokia |
