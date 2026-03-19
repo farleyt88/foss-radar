@@ -7009,5 +7009,46 @@
     "relevance_score": 21,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Flowpipe",
+    "url": "https://github.com/turbot/flowpipe",
+    "description": "Cloud scripting engine for automation and workflow orchestration. Pipelines are defined as HCL code \u2014 version-controlled, composable, and shareable. Steps include HTTP calls, human input approval, messaging, queries, and sub-pipeline execution. Triggers via webhooks, queries, or schedules. Library mods for AWS, Azure, GCP, GitHub, Jira, Slack, Teams, and more. Useful for building network change approval workflows and runbook automation.",
+    "category": "Automation",
+    "stars": 459,
+    "topics": [
+      "automation",
+      "cloud",
+      "devops",
+      "flowpipe",
+      "golang",
+      "low-code",
+      "orchestration",
+      "workflow",
+      "workflow-automation"
+    ],
+    "updated": "2026-03-18",
+    "discovered": "2026-03-19",
+    "relevance_score": 25,
+    "vendor_verified": false
+  },
+  {
+    "name": "BGPKIT Parser",
+    "url": "https://github.com/bgpkit/bgpkit-parser",
+    "description": "High-performance MRT/BGP/BMP message parser in Rust. Comparable speed to C-based bgpdump/bgpreader with ergonomic Rust API. Handles remote or local files, bzip2/gz compressed data out of the box. Supports FlowSpec NLRI (RFC 5575) parsing. Useful for analyzing RouteViews/RIPE RIS archives, building BGP analytics pipelines, and transport network route analysis.",
+    "category": "Network Operations",
+    "stars": 129,
+    "topics": [
+      "bgp",
+      "bmp",
+      "mrt",
+      "rust",
+      "routing",
+      "network-analysis"
+    ],
+    "updated": "2026-03-17",
+    "discovered": "2026-03-19",
+    "relevance_score": 33,
+    "vendor_verified": false
   }
 ]

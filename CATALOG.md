@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**364 tools** across 29 categories.
+**366 tools** across 30 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -19,6 +19,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Monitoring** (3)
 - **Data Management** (2)
 - **Network Diagnostics** (2)
+- **Network Operations** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
@@ -27,7 +28,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Standards & Models** (1)
 - **Network Discovery** (1)
 - **Self-Hosted Infrastructure** (1)
-- **Network Operations** (1)
 - **Network Lab** (1)
 - **Lab / Testing** (1)
 - **Traffic Engineering** (1)
@@ -35,8 +35,13 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network OS / Infrastructure** (1)
 - **Documentation & Diagramming** (1)
 - **Network Analysis** (1)
+- **Automation** (1)
 
 ---
+
+## Automation
+
+- [Flowpipe](https://github.com/turbot/flowpipe) — Cloud scripting engine for automation and workflow orchestration. Pipelines are defined as HCL code — version-controlled (score: 0)
 
 ## CLI Tools
 
@@ -359,6 +364,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Operations
 
+- [BGPKIT Parser](https://github.com/bgpkit/bgpkit-parser) — High-performance MRT/BGP/BMP message parser in Rust. Comparable speed to C-based bgpdump/bgpreader with ergonomic Rust A (score: 0)
 - [hyperglass](https://github.com/thatmattlove/hyperglass) — Self-hosted network looking glass that makes BGP route queries, community lookups, AS path queries, ping, and traceroute (score: 0)
 
 ## Network Simulation
