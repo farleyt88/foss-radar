@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**368 tools** across 30 categories.
+**369 tools** across 30 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (232)
-- **Observability** (77)
+- **Observability** (78)
 - **Network Management** (7)
 - **CLI Tools** (5)
 - **Self-Hosted** (4)
@@ -125,7 +125,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
-- [Diode (NetBox Labs)](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burden of data normalizat (score: 0)
+- [Diode](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that a (score: 0)
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) — Python library for Cisco DNA Center Platform API. (score: 0)
 - [drawio-network-plot](https://github.com/amrelhusseiny/drawio_network_plot) — Python library for programmatically creating Draw.io network topology diagrams. Generate HLDs from code with customizabl (score: 0)
 - [EDA Containerlab Connector](https://github.com/eda-labs/clab-connector) — Integrates Containerlab topologies with Nokia Event-Driven Automation (EDA). Automates onboarding of container-based net (score: 0)
@@ -415,6 +415,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) — Tracks IS-IS topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [Keep](https://github.com/keephq/keep) — Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with deduplication, corr (score: 0)
 - [Kubeshark](https://github.com/kubeshark/kubeshark) — Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, Redis, Kafka, DNS)  (score: 0)
+- [Kula](https://github.com/c0m4r/kula) — Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero dependencies — includes  (score: 0)
 - [LibreNMS](https://github.com/librenms/librenms) — Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. (score: 0)
 - [LogTide](https://github.com/logtide-dev/logtide) — Open-source, self-hosted log management platform. Privacy-first alternative to Datadog and ELK. Lightweight, easy to dep (score: 0)
 - [mapgl](https://github.com/vaduga/mapgl) — Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network topology — nodes, link (score: 0)

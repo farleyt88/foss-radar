@@ -35,6 +35,7 @@
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
 | 77 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gNMI-MCP-server) | MCP (Model Context Protocol) server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Des | Nokia ✅ |
+| 77 | [Diode](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconcil | — |
 | 77 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interfac | Nokia ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operation | Nokia ✅ |
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
@@ -72,7 +73,6 @@
 | 51 | [Ondatra](https://github.com/openconfig/ondatra) | Open Network Device Automated Test Runner and API by OpenConfig. Write and run tests against real an | Nokia, Arista, Juniper |
 | 51 | [NetDriver](https://github.com/OpenSecFlow/netdriver) | Network device CLI automation via HTTP RESTful API. Connects to network devices and executes CLI com | — |
 | 51 | [Bootz](https://github.com/openconfig/bootz) | OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC ser | Nokia |
-| 51 | [Diode (NetBox Labs)](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burde | — |
 | 50 | [Holo](https://github.com/holo-routing/holo) | Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven netwo | — |
 | 49 | [Netmiko](https://github.com/ktbyers/netmiko) | Multi-vendor SSH library for network devices. Simplifies CLI automation over SSH. | — |
 | 49 | [pyGNMI](https://github.com/akarneliuk/pygnmi) | Python gNMI client. Interact with network devices via gRPC Network Management Interface. | nokia |

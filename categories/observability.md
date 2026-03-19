@@ -1,6 +1,6 @@
 # Observability
 
-**77 tools** — sorted by relevance score.
+**78 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -49,6 +49,7 @@
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |
 | 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (P | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, an | — |
+| 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero depe | — |
 | 39 | [NetXMS](https://github.com/netxms/netxms) | Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance | — |
 | 39 | [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) | Modern network weathermap web application showing link utilization, optical power, and link health o | — |
 | 37 | [LibreNMS](https://github.com/librenms/librenms) | Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. | — |

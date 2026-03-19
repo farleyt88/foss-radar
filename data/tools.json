@@ -6842,26 +6842,24 @@
     "source": "foss-radar-scan"
   },
   {
-    "name": "Diode (NetBox Labs)",
+    "name": "Diode",
     "url": "https://github.com/netboxlabs/diode",
-    "description": "Data ingestion service for NetBox that greatly simplifies adding and updating data. Shifts the burden of data normalization from the user to the platform. Supports Python and Go SDKs, gRPC-based ingestion, and an Orb agent for automated network discovery. Designed to keep your network source of truth always accurate and up to date without manual data entry. GA release, actively developed by NetBox Labs.",
+    "description": "Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that accepts network discovery data (from scripts, SNMP walks, or agents) and intelligently creates/updates NetBox objects. Includes Python and Go SDKs. Bridges the gap between network discovery tools and NetBox as source of truth \u2014 directly relevant to Nautobot/NetBox automation pipelines.",
     "category": "Network Automation",
-    "stars": 133,
+    "stars": 134,
     "topics": [
       "netbox",
-      "data-ingestion",
-      "automation",
+      "ingestion",
       "discovery",
+      "automation",
       "grpc",
-      "python",
       "golang",
       "source-of-truth"
     ],
-    "vendors": [],
+    "updated": "2026-03-19",
+    "discovered": "2026-03-19",
+    "relevance_score": 77,
     "vendor_verified": false,
-    "updated": "2026-03-13",
-    "discovered": "2026-03-17",
-    "relevance_score": 51,
     "source": "foss-radar-scan"
   },
   {
@@ -7092,6 +7090,27 @@
     "updated": "2026-03-19",
     "discovered": "2026-03-19",
     "relevance_score": 47,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Kula",
+    "url": "https://github.com/c0m4r/kula",
+    "description": "Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero dependencies \u2014 includes both a terminal TUI and web UI. Real-time CPU, memory, disk, network, and process monitoring. Created Feb 2026 and already at 758 stars. Perfect for monitoring network automation servers, jump boxes, or any Linux host without deploying a full monitoring stack.",
+    "category": "Observability",
+    "stars": 758,
+    "topics": [
+      "linux-monitoring",
+      "server-monitoring",
+      "tui",
+      "webui",
+      "self-contained",
+      "golang",
+      "real-time-monitoring"
+    ],
+    "updated": "2026-03-19",
+    "discovered": "2026-03-19",
+    "relevance_score": 40,
     "vendor_verified": false,
     "source": "foss-radar-scan"
   }
