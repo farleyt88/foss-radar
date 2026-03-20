@@ -1,20 +1,20 @@
 # FOSS Radar — Tool Catalog
 
-**373 tools** across 31 categories.
+**375 tools** across 31 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (234)
+- **Network Automation** (235)
 - **Observability** (78)
 - **Network Management** (7)
 - **CLI Tools** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
+- **Network Simulation** (4)
 - **Network Observability** (4)
 - **IPAM** (3)
-- **Network Simulation** (3)
 - **Network Testing** (3)
 - **Network Monitoring** (3)
 - **Data Management** (2)
@@ -129,6 +129,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [cnaas-nms](https://github.com/SUNET/cnaas-nms) — Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: zero-touch provisionin (score: 0)
 - [ConfigDrift](https://github.com/cwccie/configdrift) — Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuously poll devices, diff (score: 0)
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
+- [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
 - [Diode](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that a (score: 0)
@@ -380,6 +381,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [clab_mpls_frr](https://github.com/martimy/clab_mpls_frr) — MPLS network lab implementations using FRRouting and Containerlab. Covers manual MPLS, LDP label distribution, and L3 VP (score: 0)
 - [Clabernetes](https://github.com/srl-labs/clabernetes) — Containerlab but in Kubernetes. Deploys containerlab network topologies on K8s clusters, enabling scalable multi-node ne (score: 0)
+- [TopoViewer](https://github.com/asadarafat/topoViewer) — Network topology visualization tool that converts Containerlab topology data into interactive Cytoscape.js graphs. Go ba (score: 0)
 - [vscode-containerlab](https://github.com/srl-labs/vscode-containerlab) — VS Code extension for containerlab. Auto-discovers .clab.yml topologies, tree view with color-coded lab states, context  (score: 0)
 
 ## Network Testing

@@ -7196,5 +7196,53 @@
     "discovered": "2026-03-20",
     "relevance_score": 19,
     "vendor_verified": false
+  },
+  {
+    "name": "TopoViewer",
+    "url": "https://github.com/asadarafat/topoViewer",
+    "description": "Network topology visualization tool that converts Containerlab topology data into interactive Cytoscape.js graphs. Go backend with web frontend featuring Cytoscape.js for graph rendering and Xterm.js for in-browser shell access to lab nodes. When co-located with Containerlab, enables direct SSH to nodes from the browser. Supports topology grouping, custom layouts, and Nokia NSP integration.",
+    "category": "Network Simulation",
+    "stars": 120,
+    "topics": [
+      "containerlab",
+      "topology",
+      "visualization",
+      "cytoscape",
+      "nokia",
+      "sr-linux",
+      "web-ui",
+      "golang"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Containerz (gNOI)",
+    "url": "https://github.com/openconfig/containerz",
+    "description": "OpenConfig reference implementation for the gNOI Containerz service \u2014 enables deploying, starting, stopping, listing, and logging containers on network devices from an external client via gRPC. Extends the gNOI operations model to container lifecycle management on-box, relevant for Nokia and other OpenConfig-supporting platforms.",
+    "category": "Network Automation",
+    "stars": 50,
+    "topics": [
+      "openconfig",
+      "gnoi",
+      "containers",
+      "grpc",
+      "network-automation",
+      "golang"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

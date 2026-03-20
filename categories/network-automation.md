@@ -1,6 +1,6 @@
 # Network Automation
 
-**234 tools** — sorted by relevance score.
+**235 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -105,6 +105,7 @@
 | 39 | [nautobot-app-ssot](https://github.com/nautobot/nautobot-app-ssot) | Nautobot Single Source of Truth (SSoT) app. Synchronizes data between Nautobot and external systems  | — |
 | 39 | [netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) | NetBox plugin that syncs data bidirectionally between LibreNMS and NetBox. Keeps your network source | — |
 | 39 | [NetPulse](https://github.com/scitix/netpulse) | High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux se | — |
+| 39 | [Containerz (gNOI)](https://github.com/openconfig/containerz) | OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, s | Nokia |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
