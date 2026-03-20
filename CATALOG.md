@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**371 tools** across 31 categories.
+**373 tools** across 31 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (233)
+- **Network Automation** (234)
 - **Observability** (78)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -19,6 +19,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Monitoring** (3)
 - **Data Management** (2)
 - **Network Diagnostics** (2)
+- **Self-Hosted Infrastructure** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
@@ -27,7 +28,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Visualization** (1)
 - **Standards & Models** (1)
 - **Network Discovery** (1)
-- **Self-Hosted Infrastructure** (1)
 - **Network Lab** (1)
 - **Lab / Testing** (1)
 - **Traffic Engineering** (1)
@@ -223,6 +223,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netoviz](https://github.com/corestate55/netoviz) — RFC8345-based Network Topology Visualizer with multi-layer views (D3.js). Supports Batfish integration for configuration (score: 0)
 - [netpalm](https://github.com/tbotnz/netpalm) — REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation. (score: 0)
 - [Netpicker](https://github.com/netpicker/netpicker) — Network config backup, security/compliance testing, and job automation in one platform. Uses pytest for compliance check (score: 0)
+- [NetPulse](https://github.com/scitix/netpulse) — High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux servers into a structu (score: 0)
 - [Netreplica Graphite](https://github.com/netreplica/graphite) — Interactive network topology visualization for NetBox, Containerlab, and Netlab. Browser-based with WebSSH access to lab (score: 0)
 - [Netshot](https://github.com/netfishers-onl/Netshot) — Network configuration and compliance management. Backup, audit, and report. (score: 0)
 - [Netutils](https://github.com/networktocode/netutils) — Network automation utility functions. IP math, config parsing, bandwidth conversions. (score: 0)
@@ -485,6 +486,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Self-Hosted Infrastructure
 
+- [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
 
 ## Standards & Models

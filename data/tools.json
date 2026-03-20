@@ -7155,5 +7155,46 @@
     "relevance_score": 29,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetPulse",
+    "url": "https://github.com/scitix/netpulse",
+    "description": "High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux servers into a structured RESTful API. Features distributed controller-worker architecture with Redis-backed task dispatch, self-healing SSH session pooling, multi-vendor CLI support (Cisco, Arista, HP Comware), SFTP sync, sudo elevation, and AI-agent-ready context via llms.txt.",
+    "category": "Network Automation",
+    "stars": 94,
+    "topics": [
+      "network",
+      "automation",
+      "ssh",
+      "api",
+      "python",
+      "multi-vendor",
+      "cli-abstraction"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 39,
+    "vendor_verified": false
+  },
+  {
+    "name": "ICS Incident Response Framework",
+    "url": "https://github.com/ridpath/ics-incident-response-framework",
+    "description": "Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding to threats in OT systems including unauthorized PLC logic downloads, historian tampering, and SIS compromise. Features forensic preservation, operator alerting (Teams), STIX/MISP integration, NIST SP 800-53 compliance mapping, and interactive CLI.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 75,
+    "topics": [
+      "ics",
+      "scada",
+      "incident-response",
+      "ot-security",
+      "playbooks",
+      "forensics",
+      "python",
+      "utility"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 19,
+    "vendor_verified": false
   }
 ]
