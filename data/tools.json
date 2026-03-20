@@ -7113,5 +7113,47 @@
     "relevance_score": 40,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Network Sketcher",
+    "url": "https://github.com/cisco-open/network-sketcher",
+    "description": "AI-powered network diagram generator by Cisco Open. Generates network configuration diagrams in PowerPoint and manages configuration data in Excel. Ver 3.0+ includes an Online (Flask web service) edition with LLM integration for AI-native network design creation and updates, plus an Offline desktop GUI/CLI edition. Useful for rapid network documentation, topology diagrams, and config management without Visio.",
+    "category": "Documentation",
+    "stars": 0,
+    "topics": [
+      "network-diagrams",
+      "powerpoint",
+      "documentation",
+      "ai-assisted",
+      "python",
+      "cisco",
+      "topology"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 37,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Ansible WebUI",
+    "url": "https://github.com/O-X-L/ansible-webui",
+    "description": "Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and get a browser-based interface for managing and executing playbooks, inventories, and scheduled jobs \u2014 without the overhead of AWX/Tower. Supports cron-style job scheduling, multiple database backends (SQLite, PostgreSQL, MySQL), and unprivileged container images. Great for small teams or lab environments that want a quick Ansible frontend.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ansible",
+      "webui",
+      "automation",
+      "self-hosted",
+      "python",
+      "lightweight",
+      "scheduled-tasks"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-20",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

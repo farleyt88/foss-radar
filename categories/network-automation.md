@@ -1,6 +1,6 @@
 # Network Automation
 
-**232 tools** — sorted by relevance score.
+**233 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -150,6 +150,7 @@
 | 29 | [nautobot-ai-ops](https://github.com/kvncampos/nautobot-ai-ops) | Nautobot AI Plugin integrating Large Language Models (LLM) with Model Context Protocol (MCP) and Lan | — |
 | 29 | [ttp_templates](https://github.com/dmulyalin/ttp_templates) | Community library of TTP (Template Text Parser) templates for parsing network device CLI output into | Nokia |
 | 29 | [netbox-branching](https://github.com/netboxlabs/netbox-branching) | Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creatin | — |
+| 29 | [Ansible WebUI](https://github.com/O-X-L/ansible-webui) | Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and | — |
 | 28 | [eNMS](https://github.com/eNMS-automation/eNMS) | Vendor-agnostic NMS for carrier-grade network visualization and automation. | — |
 | 28 | [pyribbon](https://github.com/consentfactory/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots, a | Ribbon |
 | 28 | [libiec61850](https://github.com/mz-automation/libiec61850) | Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, GOOS | SEL |

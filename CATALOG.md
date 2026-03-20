@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**369 tools** across 30 categories.
+**371 tools** across 31 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (232)
+- **Network Automation** (233)
 - **Observability** (78)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -36,6 +36,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Documentation & Diagramming** (1)
 - **Network Analysis** (1)
 - **Automation** (1)
+- **Documentation** (1)
 
 ---
 
@@ -55,6 +56,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [Airbyte](https://github.com/airbytehq/airbyte) — Open-source ELT platform with 300+ connectors. Self-hosted data integration. (score: 0)
 - [Dremio](https://github.com/dremio/dremio-oss) — Data lakehouse query engine. SQL on data lakes without data movement, virtual datasets. (score: 0)
+
+## Documentation
+
+- [Network Sketcher](https://github.com/cisco-open/network-sketcher) — AI-powered network diagram generator by Cisco Open. Generates network configuration diagrams in PowerPoint and manages c (score: 0)
 
 ## Documentation & Diagramming
 
@@ -91,6 +96,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Aerleon](https://github.com/aerleon/aerleon) — Multi-platform ACL generation system. Generate Juniper/IOS/etc ACLs from single policy. (score: 0)
 - [aiNOC](https://github.com/pdudotdev/aiNOC) — AI-based network troubleshooting project using Claude Code, FastMCP, Python, Scrapli, and Containerlab. Multi-vendor (Ci (score: 0)
 - [annet](https://github.com/annetutil/annet) — Configuration generation and deployment utility translating config diffs into command sequences. Supports Huawei, Cisco  (score: 0)
+- [Ansible WebUI](https://github.com/O-X-L/ansible-webui) — Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and get a browser-based (score: 0)
 - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) — Junos OS modules for Ansible. (score: 0)
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) — Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentation interactively. S (score: 0)
 - [ANTA](https://github.com/aristanetworks/anta) — Arista Network Test Automation - Python framework for automated device testing. (score: 0)
