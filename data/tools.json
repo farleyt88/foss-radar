@@ -7268,5 +7268,49 @@
     "relevance_score": 59,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetAuto Studio",
+    "url": "https://github.com/eddiespaghettini/netauto-studio",
+    "description": "Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and export playbooks, roles, collections, inventories, and Jinja2 templates in one workspace. Supports IOS, NX-OS, EOS, Junos, PAN-OS, and 30+ platforms. Optional AI assist (BYO LLM), Nautobot integration, Podman-based deployment. AGPL-3.0 licensed.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ansible",
+      "network-automation",
+      "webui",
+      "self-hosted",
+      "jinja2",
+      "nautobot",
+      "python",
+      "validation-pipeline"
+    ],
+    "updated": "2026-03-21",
+    "discovered": "2026-03-21",
+    "relevance_score": 41,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Steward",
+    "url": "https://github.com/braedonsaunders/steward",
+    "description": "Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state, policy-gated remediation, secure credential vault, operator RBAC/SSO, and chat-over-infrastructure context. Includes autonomy layer with durable missions, subagents, investigations, and Telegram-first gateway for briefings and approvals. TypeScript-based, SQLite state.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "network-management",
+      "discovery",
+      "monitoring",
+      "self-hosted",
+      "ai-agent",
+      "graph-inventory",
+      "typescript",
+      "remediation"
+    ],
+    "updated": "2026-03-21",
+    "discovered": "2026-03-21",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

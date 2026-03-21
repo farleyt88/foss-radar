@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**376 tools** across 31 categories.
+**378 tools** across 31 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (236)
-- **Observability** (78)
+- **Network Automation** (237)
+- **Observability** (79)
 - **Network Management** (7)
 - **CLI Tools** (5)
 - **Self-Hosted** (4)
@@ -201,6 +201,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NCM (Network Config Management)](https://github.com/lijianqiao/ncm) — Enterprise network config management - Vue 3 + FastAPI. Config backup, batch deployment, asset/topology discovery. Suppo (score: 0)
 - [netaddr](https://github.com/netaddr/netaddr) — Network address manipulation library. Supernetting, subnetting, IP math. (score: 0)
 - [NetAI-MCP](https://github.com/pdudotdev/netaimcp) — Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for trouble (score: 0)
+- [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
 - [Netbox](https://github.com/netbox-community/netbox) — Network source of truth and IPAM. Infrastructure resource modeling for network automation. (score: 0)
 - [NetBox DeviceType Library](https://github.com/netbox-community/devicetype-library) — Community-sourced device type definitions for NetBox. 51 Ciena and 30 Nokia device types confirmed in library. Import di (score: 0)
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) — Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with NetBox data via LLMs  (score: 0)
@@ -468,6 +469,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
+- [Steward](https://github.com/braedonsaunders/steward) — Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state,  (score: 0)
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)

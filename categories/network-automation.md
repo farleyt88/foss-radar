@@ -1,6 +1,6 @@
 # Network Automation
 
-**236 tools** — sorted by relevance score.
+**237 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -98,6 +98,7 @@
 | 41 | [Network Importer](https://github.com/networktocode/network-importer) | Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Id | — |
 | 41 | [Validity](https://github.com/amyasnikov/validity) | NetBox plugin for writing compliance 'auto-tests' for network devices. Define compliance tests and V | — |
 | 41 | [cnaas-nms](https://github.com/SUNET/cnaas-nms) | Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: ze | — |
+| 41 | [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) | Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, t | — |
 | 40 | [Lemming](https://github.com/openconfig/lemming) | OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use a | Nokia |
 | 40 | [BGPalerter](https://github.com/nttgin/BGPalerter) | Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invali | — |
 | 39 | [jsnac](https://github.com/commitconfirmed/jsnac) | JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/infr | — |
