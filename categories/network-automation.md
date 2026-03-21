@@ -1,6 +1,6 @@
 # Network Automation
 
-**235 tools** — sorted by relevance score.
+**236 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -60,6 +60,7 @@
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services on n | Nokia |
+| 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server t | Nokia ✅ |
 | 57 | [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) | ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Alg | Nokia |
 | 57 | [ciena.saos10](https://github.com/ciena/ciena.saos10) | Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, inte | Ciena ✅ |
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |

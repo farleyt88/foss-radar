@@ -7244,5 +7244,29 @@
     "relevance_score": 39,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "vscode-sr",
+    "url": "https://github.com/srl-labs/vscode-sr",
+    "description": "VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax highlighting, YANG-aware autocomplete, and config flatten/unflatten for SR Linux. Supports .sros.cfg and .srl.cfg file types with platform-specific YANG model loading.",
+    "category": "Network Automation",
+    "stars": 3,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "sros",
+      "vscode",
+      "yang",
+      "syntax-highlighting",
+      "autocomplete"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-03-21",
+    "relevance_score": 59,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**375 tools** across 31 categories.
+**376 tools** across 31 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (235)
+- **Network Automation** (236)
 - **Observability** (78)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -317,6 +317,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Validity](https://github.com/amyasnikov/validity) — NetBox plugin for writing compliance 'auto-tests' for network devices. Define compliance tests and Validity checks devic (score: 0)
 - [vrnetlab](https://github.com/vrnetlab/vrnetlab) — Run virtual routers in Docker for labbing, development and testing. (score: 0)
 - [vscode-netconf](https://github.com/nokia/vscode-netconf) — Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operations for SR OS and SRLi (score: 0)
+- [vscode-sr](https://github.com/srl-labs/vscode-sr) — VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax hig (score: 0)
 - [VyManager](https://github.com/Community-VyProjects/VyManager) — Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers. Supports all active  (score: 0)
 - [xNMS](https://github.com/xmas-ar/xNMS) — Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link service templates on to (score: 0)
 - [YANCCM](https://github.com/cunningr/yanccm) — NETCONF-based network configuration and change management tool. Uses ncclient for config-diff, commit-confirm, and compl (score: 0)
