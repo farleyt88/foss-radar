@@ -103,6 +103,7 @@
 | 40 | [BGPalerter](https://github.com/nttgin/BGPalerter) | Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invali | — |
 | 39 | [jsnac](https://github.com/commitconfirmed/jsnac) | JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/infr | — |
 | 39 | [YANCCM](https://github.com/cunningr/yanccm) | NETCONF-based network configuration and change management tool. Uses ncclient for config-diff, commi | — |
+| 39 | [aiNOC](https://github.com/pdudotdev/aiNOC) | AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise | — |
 | 39 | [Secure Cartography](https://github.com/scottpeterman/secure_cartography) | SSH & SNMP-based network discovery and topology mapping tool. Crawls infrastructure via CDP/LLDP, au | — |
 | 39 | [nautobot-app-ssot](https://github.com/nautobot/nautobot-app-ssot) | Nautobot Single Source of Truth (SSoT) app. Synchronizes data between Nautobot and external systems  | — |
 | 39 | [netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) | NetBox plugin that syncs data bidirectionally between LibreNMS and NetBox. Keeps your network source | — |
@@ -128,7 +129,6 @@
 | 35 | [drawio-network-plot](https://github.com/amrelhusseiny/drawio_network_plot) | Python library for programmatically creating Draw.io network topology diagrams. Generate HLDs from c | — |
 | 35 | [circuit-maintenance-parser](https://github.com/networktocode/circuit-maintenance-parser) | Parses circuit maintenance notification emails from ISP/carrier NOC teams (Zayo, Verizon, Lumen, Cog | — |
 | 35 | [ygotsrl](https://github.com/srl-labs/ygotsrl) | Go API for Nokia SR Linux Network OS generated with ygot (YANG Go Tools). Provides type-safe Go stru | Nokia |
-| 35 | [aiNOC](https://github.com/pdudotdev/aiNOC) | AI-based network troubleshooting project using Claude Code, FastMCP, Python, Scrapli, and Containerl | — |
 | 35 | [nautobot-app-device-onboarding](https://github.com/nautobot/nautobot-app-device-onboarding) | Official Nautobot app for automated device onboarding. Uses netmiko and NAPALM to SSH into a device  | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |

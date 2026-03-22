@@ -94,7 +94,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [acton-yang](https://github.com/orchestron-orchestrator/acton-yang) — YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & JSON serializers. P (score: 0)
 - [Aerleon](https://github.com/aerleon/aerleon) — Multi-platform ACL generation system. Generate Juniper/IOS/etc ACLs from single policy. (score: 0)
-- [aiNOC](https://github.com/pdudotdev/aiNOC) — AI-based network troubleshooting project using Claude Code, FastMCP, Python, Scrapli, and Containerlab. Multi-vendor (Ci (score: 0)
+- [aiNOC](https://github.com/pdudotdev/aiNOC) — AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks. Built on  (score: 0)
 - [annet](https://github.com/annetutil/annet) — Configuration generation and deployment utility translating config diffs into command sequences. Supports Huawei, Cisco  (score: 0)
 - [Ansible WebUI](https://github.com/O-X-L/ansible-webui) — Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and get a browser-based (score: 0)
 - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) — Junos OS modules for Ansible. (score: 0)

@@ -3953,22 +3953,26 @@
   {
     "name": "aiNOC",
     "url": "https://github.com/pdudotdev/aiNOC",
-    "description": "AI-based network troubleshooting project using Claude Code, FastMCP, Python, Scrapli, and Containerlab. Multi-vendor (Cisco, Arista, MikroTik), multi-protocol topology with structured outputs via Genie/eAPI/REST. Demonstrates AI-assisted NOC operations with tool caching and hallucination reduction.",
+    "description": "AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks. Built on Claude Code, FastMCP, Scrapli, and RESTCONF with Containerlab test topologies. 15 MCP tools, 12 operational guardrails, HITL for config changes. Supports Cisco IOS-XE core with on-request modules for Arista, Juniper, MikroTik, and more. Integrates with Jira, Discord, NetBox, and HashiCorp Vault.",
     "category": "Network Automation",
-    "stars": 15,
+    "stars": 8,
     "topics": [
-      "ai",
       "network-automation",
-      "containerlab",
-      "scrapli",
-      "mcp",
       "troubleshooting",
+      "mcp",
+      "ai-automation",
+      "scrapli",
+      "restconf",
+      "containerlab",
+      "multi-vendor",
       "python"
     ],
-    "updated": "2026-02-25",
-    "discovered": "2026-02-25",
-    "relevance_score": 35,
-    "vendor_verified": false
+    "vendors": [],
+    "updated": "2026-03-17",
+    "discovered": "2026-03-22",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   },
   {
     "name": "NetOpsForge",
