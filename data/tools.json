@@ -7361,5 +7361,49 @@
       "docker"
     ],
     "relevance_score": 23
+  },
+  {
+    "name": "Nautobot MCP Server",
+    "url": "https://github.com/kvncampos/nautobot_mcp",
+    "description": "Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API requests. Uses ChromaDB-powered vector search to find relevant Nautobot API endpoints via natural language, then executes CRUD operations against them. Includes a knowledge base search tool indexing official Nautobot repositories. Supports multi-environment configs (dev/staging/prod). Directly enables AI-assisted network source-of-truth management.",
+    "category": "Network Automation",
+    "stars": 15,
+    "topics": [
+      "nautobot",
+      "mcp",
+      "llm",
+      "ai",
+      "network-automation",
+      "source-of-truth",
+      "semantic-search",
+      "python"
+    ],
+    "updated": "2026-03-22",
+    "discovered": "2026-03-22",
+    "relevance_score": 31,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetBox MCP RW",
+    "url": "https://github.com/alexkiwi1/netbox-mcp-rw",
+    "description": "First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-only NetBox MCP server, this provides comprehensive CRUD operations, bulk operations, and coverage across all major NetBox models (DCIM, IPAM, Circuits, Virtualization, Tenancy, etc.). Enables LLMs to not only query but also modify NetBox data directly. Production-ready with proper error handling and validation.",
+    "category": "Network Automation",
+    "stars": 20,
+    "topics": [
+      "netbox",
+      "mcp",
+      "llm",
+      "ai",
+      "crud",
+      "network-automation",
+      "source-of-truth",
+      "python"
+    ],
+    "updated": "2026-03-22",
+    "discovered": "2026-03-22",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

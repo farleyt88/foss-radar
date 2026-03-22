@@ -1,6 +1,6 @@
 # Network Automation
 
-**238 tools** — sorted by relevance score.
+**240 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -110,6 +110,7 @@
 | 39 | [netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) | NetBox plugin that syncs data bidirectionally between LibreNMS and NetBox. Keeps your network source | — |
 | 39 | [NetPulse](https://github.com/scitix/netpulse) | High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux se | — |
 | 39 | [Containerz (gNOI)](https://github.com/openconfig/containerz) | OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, s | Nokia |
+| 39 | [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) | First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike t | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
@@ -146,6 +147,7 @@
 | 31 | [nautobot-app-bgp-models](https://github.com/nautobot/nautobot-app-bgp-models) | Official Nautobot app extending core models with BGP-specific data — AS numbers, BGP peerings, peer  | — |
 | 31 | [edit4config](https://github.com/umurarslan/edit4config) | Python tool for parsing and editing Nokia SROS and Cisco IOS style configs (parent/child with space  | — |
 | 31 | [gRIBI](https://github.com/openconfig/gribi) | gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing | Nokia |
+| 31 | [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) | Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API re | — |
 | 29 | [acton-yang](https://github.com/orchestron-orchestrator/acton-yang) | YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & | — |
 | 29 | [Netutils](https://github.com/networktocode/netutils) | Network automation utility functions. IP math, config parsing, bandwidth conversions. | — |
 | 29 | [f5-common-python](https://github.com/F5Networks/f5-common-python) | Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. | — |

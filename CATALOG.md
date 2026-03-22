@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**380 tools** across 32 categories.
+**382 tools** across 32 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (238)
+- **Network Automation** (240)
 - **Observability** (79)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -196,6 +196,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) — Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational data retrieval via N (score: 0)
 - [Nautobot](https://github.com/nautobot/nautobot) — Network automation platform built on NetBox. Extensible network source of truth and automation. (score: 0)
 - [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) — Golden Config app for Nautobot. Network config compliance and remediation. (score: 0)
+- [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) — Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API requests. Uses ChromaD (score: 0)
 - [nautobot-ai-ops](https://github.com/kvncampos/nautobot-ai-ops) — Nautobot AI Plugin integrating Large Language Models (LLM) with Model Context Protocol (MCP) and Langchain. Enables AI-p (score: 0)
 - [nautobot-app-bgp-models](https://github.com/nautobot/nautobot-app-bgp-models) — Official Nautobot app extending core models with BGP-specific data — AS numbers, BGP peerings, peer groups, peer endpoin (score: 0)
 - [nautobot-app-circuit-maintenance](https://github.com/nautobot/nautobot-app-circuit-maintenance) — Nautobot plugin for tracking circuit maintenance windows from ISP/carrier notification emails (Zayo, Verizon, Lumen, Cog (score: 0)
@@ -210,6 +211,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
 - [Netbox](https://github.com/netbox-community/netbox) — Network source of truth and IPAM. Infrastructure resource modeling for network automation. (score: 0)
 - [NetBox DeviceType Library](https://github.com/netbox-community/devicetype-library) — Community-sourced device type definitions for NetBox. 51 Ciena and 30 Nokia device types confirmed in library. Import di (score: 0)
+- [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) — First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-onl (score: 0)
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) — Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with NetBox data via LLMs  (score: 0)
 - [netbox-branching](https://github.com/netboxlabs/netbox-branching) — Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creating isolated branches  (score: 0)
 - [netbox-config-diff](https://github.com/miaow2/netbox-config-diff) — NetBox plugin that finds diffs between rendered device configurations in NetBox and the actual running configs on device (score: 0)
