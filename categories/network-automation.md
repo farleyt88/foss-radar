@@ -1,6 +1,6 @@
 # Network Automation
 
-**237 tools** — sorted by relevance score.
+**238 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -56,6 +56,7 @@
 | 65 | [twampy](https://github.com/nokia/twampy) | Official Nokia Python implementation of TWAMP (RFC 5357) and STAMP (RFC 8762, 8972) for active netwo | Nokia ✅ |
 | 65 | [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) | Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to networ | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
+| 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |

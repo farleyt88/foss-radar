@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**378 tools** across 31 categories.
+**380 tools** across 32 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (237)
+- **Network Automation** (238)
 - **Observability** (79)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -37,6 +37,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Analysis** (1)
 - **Automation** (1)
 - **Documentation** (1)
+- **Infrastructure / Self-Hosted** (1)
 
 ---
 
@@ -74,6 +75,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Infrastructure
 
 - [OpenFTTH](https://github.com/DAXGRID/open-ftth-frontend) — Open source FTTH (Fiber to the Home) network planning and management system. QGIS integration for route network editing  (score: 0)
+
+## Infrastructure / Self-Hosted
+
+- [Eneru](https://github.com/m4r1k/Eneru) — Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdown orchestration, Dis (score: 0)
 
 ## Infrastructure as Code
 
@@ -146,6 +151,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [fetchconfig](https://github.com/udhos/fetchconfig) — Perl script for retrieving configuration of multiple network devices. (score: 0)
 - [freeRtr](https://github.com/mc36/freeRtr) — Free open-source router OS process written in Java. Speaks a comprehensive set of routing protocols (OSPF, IS-IS, BGP, E (score: 0)
 - [FreeZTP](https://github.com/PackeTsar/freeztp) — Zero-Touch Provisioning for Cisco IOS campus switches and routers. (score: 0)
+- [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) — SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port states overlay. Uses kitt (score: 0)
 - [FRRouting (FRR)](https://github.com/FRRouting/frr) — Open source routing protocol suite supporting BGP, OSPF, IS-IS, LDP, BFD, PIM, EIGRP, and more. Runs on Linux/BSD. Used  (score: 0)
 - [Genie Parser](https://github.com/CiscoTestAutomation/genieparser) — Cisco Genie device output parsers. 2000+ parsers for network device CLI output. (score: 0)
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)

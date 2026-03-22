@@ -7316,5 +7316,50 @@
     "relevance_score": 33,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "frontpanel-cli-plugin",
+    "url": "https://github.com/srl-labs/frontpanel-cli-plugin",
+    "description": "SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port states overlay. Uses kitty graphics protocol and iTerm inline images. Supports 7220 IXR-D2L, IXR-D3L, and other SR Linux platforms. Includes Containerlab lab for testing.",
+    "category": "Network Automation",
+    "stars": 12,
+    "language": "Go",
+    "updated": "2026-03-16",
+    "added": "2026-03-22",
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "topics": [
+      "sr-linux",
+      "ndk",
+      "cli-plugin",
+      "front-panel",
+      "visualization"
+    ],
+    "relevance_score": 63
+  },
+  {
+    "name": "Eneru",
+    "url": "https://github.com/m4r1k/Eneru",
+    "description": "Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdown orchestration, Discord notifications, and enterprise-grade power event handling. Handles VMs, containers, remote servers, and network mounts with coordinated graceful shutdown.",
+    "category": "Infrastructure / Self-Hosted",
+    "stars": 63,
+    "language": "Python",
+    "updated": "2026-03-11",
+    "added": "2026-03-22",
+    "vendors": [],
+    "vendor_verified": false,
+    "topics": [
+      "ups",
+      "monitoring",
+      "power-management",
+      "homelab",
+      "self-hosted",
+      "nut",
+      "proxmox",
+      "docker"
+    ],
+    "relevance_score": 23
   }
 ]
