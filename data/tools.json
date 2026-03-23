@@ -7405,5 +7405,26 @@
     "relevance_score": 39,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "RackPeek",
+    "url": "https://github.com/Timmoth/RackPeek",
+    "description": "CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-discovers devices, generates inventory reports, and produces network topology documentation. Self-hosted, AGPL-3.0 licensed. Useful for documenting telecom infrastructure alongside tools like NetBox/Nautobot.",
+    "category": "Infrastructure Management",
+    "stars": 1085,
+    "topics": [
+      "cli",
+      "home-lab",
+      "infrastructure",
+      "inventory",
+      "networking",
+      "self-hosted",
+      "documentation"
+    ],
+    "updated": "2026-03-23",
+    "discovered": "2026-03-23",
+    "relevance_score": 71,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

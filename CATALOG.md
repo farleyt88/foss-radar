@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**382 tools** across 32 categories.
+**383 tools** across 33 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -38,6 +38,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Automation** (1)
 - **Documentation** (1)
 - **Infrastructure / Self-Hosted** (1)
+- **Infrastructure Management** (1)
 
 ---
 
@@ -79,6 +80,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Infrastructure / Self-Hosted
 
 - [Eneru](https://github.com/m4r1k/Eneru) — Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdown orchestration, Dis (score: 0)
+
+## Infrastructure Management
+
+- [RackPeek](https://github.com/Timmoth/RackPeek) — CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-discovers devices, generate (score: 0)
 
 ## Infrastructure as Code
 
