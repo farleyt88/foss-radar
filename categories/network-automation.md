@@ -1,6 +1,6 @@
 # Network Automation
 
-**240 tools** — sorted by relevance score.
+**241 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -196,6 +196,7 @@
 | 21 | [Kubenet](https://github.com/kubenet-dev/kubenet) | Nokia-backed community project using Kubernetes as a network automation engine for managing physical | Nokia |
 | 21 | [nokia-sros-maintenance-scripts](https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts) | Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash s | Nokia |
 | 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate | Nokia |
+| 21 | [rneter](https://github.com/demohiiiii/rneter) | High-performance Rust library for network automation SSH with intelligent connection pooling, automa | — |
 | 20 | [batfish](https://github.com/batfish/batfish) | Network configuration analysis. Validate configs, test changes, find bugs before deployment. | — |
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |

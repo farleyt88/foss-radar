@@ -7426,5 +7426,28 @@
     "relevance_score": 71,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "rneter",
+    "url": "https://github.com/demohiiiii/rneter",
+    "description": "High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection, and state machine-based mode switching (user/enable/config). Supports Cisco, Huawei, Juniper with custom device templates. Async/await on Tokio, maximum SSH algorithm compatibility for legacy devices. Published on crates.io.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "rust",
+      "ssh",
+      "network-automation",
+      "connection-pooling",
+      "state-machine",
+      "cisco",
+      "huawei",
+      "juniper",
+      "async"
+    ],
+    "updated": "2026-03-23",
+    "discovered": "2026-03-23",
+    "relevance_score": 21,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

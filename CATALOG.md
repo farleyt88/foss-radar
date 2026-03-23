@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**383 tools** across 33 categories.
+**384 tools** across 33 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (240)
+- **Network Automation** (241)
 - **Observability** (79)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -299,6 +299,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Rconfig](https://github.com/rconfig/rconfig) — Free, open source network device configuration management. Customizable to your needs. (score: 0)
 - [rdb-tool](https://github.com/danyill/rdb-tool) — Python tool for manipulating Schweitzer Engineering Laboratories (SEL) relay database files (.RDB). Iterates across larg (score: 0)
 - [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) — PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system info, create/modify/ (score: 0)
+- [rneter](https://github.com/demohiiiii/rneter) — High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection (score: 0)
 - [Rousette](https://github.com/CESNET/rousette) — Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding, YANG module librar (score: 0)
 - [salt-nornir](https://github.com/dmulyalin/salt-nornir) — Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. (score: 0)
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) — Salt plugin for network automation at scale without running Proxy Minions. (score: 0)
