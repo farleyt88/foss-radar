@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**384 tools** across 33 categories.
+**385 tools** across 33 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -17,9 +17,9 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **IPAM** (3)
 - **Network Testing** (3)
 - **Network Monitoring** (3)
+- **Self-Hosted Infrastructure** (3)
 - **Data Management** (2)
 - **Network Diagnostics** (2)
-- **Self-Hosted Infrastructure** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
@@ -507,6 +507,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
+- [Portracker](https://github.com/mostafa-wahied/portracker) — Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running services, containers, and V (score: 0)
 
 ## Standards & Models
 

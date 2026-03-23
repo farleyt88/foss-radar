@@ -7449,5 +7449,25 @@
     "relevance_score": 21,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Portracker",
+    "url": "https://github.com/mostafa-wahied/portracker",
+    "description": "Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running services, containers, and VMs across your infrastructure. Shows internal vs published container ports, supports peer instances for multi-site views, hierarchical grouping, and a single-pane dashboard for all infrastructure services.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 2019,
+    "topics": [
+      "port-monitoring",
+      "service-discovery",
+      "self-hosted",
+      "docker",
+      "infrastructure",
+      "dashboard"
+    ],
+    "updated": "2026-03-03",
+    "discovered": "2026-03-23",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
