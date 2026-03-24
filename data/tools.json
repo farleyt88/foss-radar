@@ -7469,5 +7469,45 @@
     "relevance_score": 43,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Perses",
+    "url": "https://github.com/perses/perses",
+    "description": "CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki, and Pyroscope. GitOps-friendly with Dashboard-as-Code via SDKs and CLI, extensible plugin system, Kubernetes-native CRD mode, and embeddable npm packages. Actively maintained with 2k+ stars.",
+    "category": "Observability",
+    "stars": 2066,
+    "topics": [
+      "cncf",
+      "dashboard",
+      "observability",
+      "prometheus",
+      "grafana-alternative",
+      "dashboard-as-code",
+      "gitops"
+    ],
+    "updated": "2026-03-23",
+    "discovered": "2026-03-24",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "DigSiNet",
+    "url": "https://github.com/srieger1/digsinet",
+    "description": "Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network topology using containerlab. Each sibling can use different platforms and tools to simulate specific network functionality. Supports continuous data exchange between twins and the real network. Published at NOMS 2024 IEEE.",
+    "category": "Network Automation",
+    "stars": 11,
+    "topics": [
+      "network-digital-twin",
+      "containerlab",
+      "gnmi",
+      "emulation",
+      "topology"
+    ],
+    "updated": "2025-08-21",
+    "discovered": "2026-03-24",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

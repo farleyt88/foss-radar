@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**385 tools** across 33 categories.
+**387 tools** across 33 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (241)
-- **Observability** (79)
+- **Network Automation** (242)
+- **Observability** (80)
 - **Network Management** (7)
 - **CLI Tools** (5)
 - **Self-Hosted** (4)
@@ -142,6 +142,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
+- [DigSiNet](https://github.com/srieger1/digsinet) — Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network topology using contain (score: 0)
 - [Diode](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that a (score: 0)
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) — Python library for Cisco DNA Center Platform API. (score: 0)
 - [drawio-network-plot](https://github.com/amrelhusseiny/drawio_network_plot) — Python library for programmatically creating Draw.io network topology diagrams. Generate HLDs from code with customizabl (score: 0)
@@ -471,6 +472,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) — Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery solution. Pluggable (score: 0)
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
+- [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
 - [privacynet](https://github.com/cwccie/privacynet) — Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, random), flow aggregatio (score: 0)
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)

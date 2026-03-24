@@ -1,6 +1,6 @@
 # Observability
 
-**79 tools** — sorted by relevance score.
+**80 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -44,6 +44,7 @@
 | 45 | [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) | Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targ | — |
 | 45 | [Fluere](https://github.com/SkuldNorniern/fluere) | Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v | — |
 | 43 | [Parseable](https://github.com/parseablehq/parseable) | Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Spl | — |
+| 43 | [Perses](https://github.com/perses/perses) | CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prome | — |
 | 41 | [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) | SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. | — |
 | 41 | [advanced-network-topology-mapper](https://github.com/x0VIER/advanced-network-topology-mapper) | Extensible network discovery, visualization, and analysis framework. Uses multiple protocols (SNMP,  | — |
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |

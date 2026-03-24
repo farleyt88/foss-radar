@@ -1,6 +1,6 @@
 # Network Automation
 
-**241 tools** — sorted by relevance score.
+**242 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -135,6 +135,7 @@
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |
+| 33 | [DigSiNet](https://github.com/srieger1/digsinet) | Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network to | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
 | 31 | [NSoT](https://github.com/dropbox/nsot) | Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. | — |
