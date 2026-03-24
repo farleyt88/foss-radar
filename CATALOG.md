@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**387 tools** across 33 categories.
+**389 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (242)
+- **Network Automation** (243)
 - **Observability** (80)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -39,6 +39,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Documentation** (1)
 - **Infrastructure / Self-Hosted** (1)
 - **Infrastructure Management** (1)
+- **Monitoring** (1)
 
 ---
 
@@ -95,6 +96,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Lab / Testing
 
 - [multivendor-evpn-lab](https://github.com/srl-labs/multivendor-evpn-lab) — Containerlab-based multivendor EVPN lab topology. Spins up Nokia SROS (route reflectors), Nokia SR Linux (leaf), Arista  (score: 0)
+
+## Monitoring
+
+- [NMS_Tools](https://github.com/Linktech-Engineering-LLC/NMS_Tools) — Collection of deterministic, audit-transparent network monitoring and infrastructure validation tools. Includes TLS cert (score: 0)
 
 ## Network Analysis
 
@@ -302,6 +307,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) — PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system info, create/modify/ (score: 0)
 - [rneter](https://github.com/demohiiiii/rneter) — High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection (score: 0)
 - [Rousette](https://github.com/CESNET/rousette) — Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding, YANG module librar (score: 0)
+- [rustbgpd](https://github.com/lance0/rustbgpd) — API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack MP-BGP, Add-Path, G (score: 0)
 - [salt-nornir](https://github.com/dmulyalin/salt-nornir) — Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. (score: 0)
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) — Salt plugin for network automation at scale without running Proxy Minions. (score: 0)
 - [Schema Enforcer](https://github.com/networktocode/schema-enforcer) — Validate structured data against schemas. Network config data validation. (score: 0)

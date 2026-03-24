@@ -7509,5 +7509,52 @@
     "relevance_score": 33,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "rustbgpd",
+    "url": "https://github.com/lance0/rustbgpd",
+    "description": "API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack MP-BGP, Add-Path, GR/LLGR, RPKI/RTR, ASPA path verification, FlowSpec, BMP, MRT export, and a birdwatcher-compatible looking glass REST API. No restarts needed to add peers, change policy, or inject routes. Validated with automated interop suites against FRR, BIRD, and GoBGP. Designed for route-server, SDN controller, and network automation use cases. Includes containerlab interop for lab testing.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "bgp",
+      "rust",
+      "grpc",
+      "route-server",
+      "sdn",
+      "network-automation",
+      "flowspec",
+      "rpki",
+      "containerlab",
+      "mp-bgp"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-24",
+    "discovered": "2026-03-24",
+    "relevance_score": 39,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NMS_Tools",
+    "url": "https://github.com/Linktech-Engineering-LLC/NMS_Tools",
+    "description": "Collection of deterministic, audit-transparent network monitoring and infrastructure validation tools. Includes TLS certificate inspection with policy enforcement, HTTP/HTTPS content validation with backend fingerprinting, and network interface monitoring. All tools produce deterministic JSON output for automation integration and support Nagios/Icinga output modes. Designed for reproducible, no-hidden-state network operations.",
+    "category": "Monitoring",
+    "stars": 0,
+    "topics": [
+      "network-monitoring",
+      "nagios",
+      "tls-inspection",
+      "infrastructure-validation",
+      "python",
+      "deterministic",
+      "icinga"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-24",
+    "discovered": "2026-03-24",
+    "relevance_score": 29,
+    "source": "foss-radar-scan"
   }
 ]

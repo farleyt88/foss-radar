@@ -1,6 +1,6 @@
 # Network Automation
 
-**242 tools** — sorted by relevance score.
+**243 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -111,6 +111,7 @@
 | 39 | [NetPulse](https://github.com/scitix/netpulse) | High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux se | — |
 | 39 | [Containerz (gNOI)](https://github.com/openconfig/containerz) | OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, s | Nokia |
 | 39 | [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) | First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike t | — |
+| 39 | [rustbgpd](https://github.com/lance0/rustbgpd) | API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
