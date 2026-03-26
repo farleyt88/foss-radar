@@ -1,6 +1,6 @@
 # Network Automation
 
-**243 tools** — sorted by relevance score.
+**245 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -31,6 +31,7 @@
 | 83 | [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) | Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service librar | Nokia ✅ |
 | 81 | [pySROS](https://github.com/nokia/pysros) | Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF management  | Nokia ✅ |
 | 81 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with  | Nokia ✅ |
+| 81 | [Nokia gNMI MCP Server](https://github.com/coolexer/gnmi-mcp-server) | MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatibl | Nokia ✅ |
 | 79 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access | Nokia ✅ |
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
@@ -175,6 +176,7 @@
 | 25 | [ARouteServer](https://github.com/pierky/arouteserver) | Python tool to automatically build feature-rich, policy-driven configurations for BGP route servers  | — |
 | 25 | [RadOps](https://github.com/mehrdadrad/radops) | AI-powered multi-agent platform for NetDevOps and security automation. Uses Supervisor-Worker archit | — |
 | 25 | [netbox-config-diff](https://github.com/miaow2/netbox-config-diff) | NetBox plugin that finds diffs between rendered device configurations in NetBox and the actual runni | — |
+| 25 | [MCPyATS](https://github.com/automateyournetwork/MCPyATS) | VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, an | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
 | 23 | [Oxidized](https://github.com/ytti/oxidized) | Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. | ciena, nokia |

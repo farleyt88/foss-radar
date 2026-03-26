@@ -7556,5 +7556,55 @@
     "discovered": "2026-03-24",
     "relevance_score": 29,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia gNMI MCP Server",
+    "url": "https://github.com/coolexer/gnmi-mcp-server",
+    "description": "MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible client. Supports gNMI Get (config/state), Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, capabilities discovery, runtime credentials (no passwords in config files), and multi-device management. JSON IETF encoding for clean output. Ideal for AI-assisted Nokia router management.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "nokia",
+      "sros",
+      "gnmi",
+      "mcp",
+      "grpc",
+      "network-automation",
+      "claude",
+      "ai",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-03-25",
+    "discovered": "2026-03-25",
+    "relevance_score": 81,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "MCPyATS",
+    "url": "https://github.com/automateyournetwork/MCPyATS",
+    "description": "VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, and Cisco pyATS into an intelligent network automation platform. Multiple tool-integrated MCP servers, LangGraph agent backend, Streamlit UI frontend, and A2A agent communication. Enables AI-driven network task automation via natural language across Cisco devices.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "mcp",
+      "pyats",
+      "cisco",
+      "a2a",
+      "langgraph",
+      "network-automation",
+      "ai",
+      "streamlit",
+      "python"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-25",
+    "discovered": "2026-03-25",
+    "relevance_score": 25,
+    "source": "foss-radar-scan"
   }
 ]

@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**389 tools** across 34 categories.
+**391 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (243)
+- **Network Automation** (245)
 - **Observability** (80)
 - **Network Management** (7)
 - **CLI Tools** (5)
@@ -196,6 +196,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [libyang](https://github.com/CESNET/libyang) — YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2, and libnetconf2. Par (score: 0)
 - [lighty.io](https://github.com/PANTHEONtech/lighty) — Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime without Karaf overhea (score: 0)
 - [mcp-server-sros](https://github.com/mohamedhafez87/mcp-server-sros) — MCP (Model Context Protocol) server for Nokia SR OS devices. Provides AI-accessible tools for viewing operational state  (score: 0)
+- [MCPyATS](https://github.com/automateyournetwork/MCPyATS) — VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, and Cisco pyATS into a (score: 0)
 - [meshnet-cni](https://github.com/networkop/meshnet-cni) — Kubernetes CNI plugin to create arbitrary network topologies using point-to-point links (veth, vxlan, macvlan). Uses etc (score: 0)
 - [Mininet](https://github.com/mininet/mininet) — Create realistic virtual networks with real kernel, switches, apps on single machine. (score: 0)
 - [moler](https://github.com/nokia/moler) — Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command-as-object automation (score: 0)
@@ -255,6 +256,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
+- [Nokia gNMI MCP Server](https://github.com/coolexer/gnmi-mcp-server) — MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible client. Supports g (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
 - [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
 - [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, (score: 0)
