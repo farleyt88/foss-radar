@@ -1,6 +1,6 @@
 # Network Automation
 
-**245 tools** — sorted by relevance score.
+**246 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -177,6 +177,7 @@
 | 25 | [RadOps](https://github.com/mehrdadrad/radops) | AI-powered multi-agent platform for NetDevOps and security automation. Uses Supervisor-Worker archit | — |
 | 25 | [netbox-config-diff](https://github.com/miaow2/netbox-config-diff) | NetBox plugin that finds diffs between rendered device configurations in NetBox and the actual runni | — |
 | 25 | [MCPyATS](https://github.com/automateyournetwork/MCPyATS) | VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, an | — |
+| 25 | [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) | NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts.  | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
 | 23 | [Oxidized](https://github.com/ytti/oxidized) | Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. | ciena, nokia |

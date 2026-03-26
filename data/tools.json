@@ -7606,5 +7606,48 @@
     "discovered": "2026-03-25",
     "relevance_score": 25,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetBox Lifecycle",
+    "url": "https://github.com/DanSheps/netbox-lifecycle",
+    "description": "NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managing lifecycle data when phasing out legacy equipment and planning hardware refreshes. Tracks vendor lifecycle dates, support contracts with renewal dates, and license management.",
+    "category": "Network Automation",
+    "stars": 102,
+    "topics": [
+      "netbox",
+      "netbox-plugin",
+      "hardware-lifecycle",
+      "eol",
+      "eos",
+      "support-contracts",
+      "python"
+    ],
+    "updated": "2026-03-26",
+    "discovered": "2026-03-26",
+    "relevance_score": 25,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Networking Toolbox",
+    "url": "https://github.com/Lissy93/networking-toolbox",
+    "description": "Self-hosted collection of 100+ offline-first networking tools and utilities. Includes DNS lookup, WHOIS, port scanner, traceroute, SSL checker, subnet calculator, MAC lookup, HTTP headers, and many more. Web-based UI, Docker deployable, works offline. Built by Lissy93 (of Dashy fame).",
+    "category": "CLI Tools",
+    "stars": 2413,
+    "topics": [
+      "networking",
+      "self-hosted",
+      "docker",
+      "network-analysis",
+      "network-security",
+      "offline-capable",
+      "sysadmin",
+      "svelte"
+    ],
+    "updated": "2026-02-16",
+    "discovered": "2026-03-26",
+    "relevance_score": 23,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

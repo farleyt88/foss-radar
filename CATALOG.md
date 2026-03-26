@@ -1,15 +1,15 @@
 # FOSS Radar — Tool Catalog
 
-**391 tools** across 34 categories.
+**393 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (245)
+- **Network Automation** (246)
 - **Observability** (80)
 - **Network Management** (7)
-- **CLI Tools** (5)
+- **CLI Tools** (6)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **Network Simulation** (4)
@@ -52,6 +52,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Atuin](https://github.com/atuinsh/atuin) — Shell history sync and search. Encrypted sync across machines, SQLite backend, fuzzy search. (score: 0)
 - [netconf-cli](https://github.com/CESNET/netconf-cli) — Interactive console for working with YANG data. Connects to NETCONF servers, standalone YANG editor, or sysrepo. (score: 0)
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) — Collection of useful network automation functions for the CLI. (score: 0)
+- [Networking Toolbox](https://github.com/Lissy93/networking-toolbox) — Self-hosted collection of 100+ offline-first networking tools and utilities. Includes DNS lookup, WHOIS, port scanner, t (score: 0)
 - [sig](https://github.com/ynqa/sig) — Interactive grep for streaming data. Real-time search through live data streams with TUI, command re-execution for misse (score: 0)
 - [Zellij](https://github.com/zellij-org/zellij) — Terminal multiplexer (tmux alternative) with better defaults, modern UI, plugin system, floating panes. (score: 0)
 
@@ -223,6 +224,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
 - [Netbox](https://github.com/netbox-community/netbox) — Network source of truth and IPAM. Infrastructure resource modeling for network automation. (score: 0)
 - [NetBox DeviceType Library](https://github.com/netbox-community/devicetype-library) — Community-sourced device type definitions for NetBox. 51 Ciena and 30 Nokia device types confirmed in library. Import di (score: 0)
+- [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) — NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managi (score: 0)
 - [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) — First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-onl (score: 0)
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) — Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with NetBox data via LLMs  (score: 0)
 - [netbox-branching](https://github.com/netboxlabs/netbox-branching) — Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creating isolated branches  (score: 0)

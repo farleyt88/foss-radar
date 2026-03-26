@@ -1,6 +1,6 @@
 # CLI Tools
 
-**5 tools** — sorted by relevance score.
+**6 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -10,4 +10,5 @@
 | 29 | [Atuin](https://github.com/atuinsh/atuin) | Shell history sync and search. Encrypted sync across machines, SQLite backend, fuzzy search. | — |
 | 29 | [Zellij](https://github.com/zellij-org/zellij) | Terminal multiplexer (tmux alternative) with better defaults, modern UI, plugin system, floating pan | — |
 | 25 | [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) | Collection of useful network automation functions for the CLI. | — |
+| 23 | [Networking Toolbox](https://github.com/Lissy93/networking-toolbox) | Self-hosted collection of 100+ offline-first networking tools and utilities. Includes DNS lookup, WH | — |
 | 20 | [sig](https://github.com/ynqa/sig) | Interactive grep for streaming data. Real-time search through live data streams with TUI, command re | — |
