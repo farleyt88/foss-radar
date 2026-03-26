@@ -6680,26 +6680,27 @@
   {
     "name": "gNMI MCP Server (Nokia SR OS)",
     "url": "https://github.com/coolexer/gNMI-MCP-server",
-    "description": "MCP (Model Context Protocol) server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible AI client. Provides gNMI Get (config + state), gNMI Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, and Capabilities discovery. Supports multi-device management with runtime credentials (no passwords in config files) and clean JSON-IETF encoding. More capable than pySROS-based alternatives \u2014 uses native gNMI protocol directly.",
+    "description": "MCP server for managing Nokia SR OS devices via gNMI from Claude Desktop or any MCP-compatible client. Supports gNMI Get (config + state), Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, and Capabilities discovery. Multi-device management with runtime credentials and clean JSON output. Bridges AI-assisted workflows directly into Nokia router management.",
     "category": "Network Automation",
-    "stars": 10,
+    "stars": 0,
     "topics": [
       "nokia",
       "sros",
       "gnmi",
       "mcp",
       "grpc",
-      "ai-automation",
+      "network-automation",
       "python",
-      "claude-desktop"
+      "ai-integration"
     ],
     "vendors": [
       "Nokia"
     ],
-    "updated": "2026-03-15",
-    "discovered": "2026-03-15",
-    "relevance_score": 77,
-    "vendor_verified": true
+    "updated": "2026-03-26",
+    "discovered": "2026-03-26",
+    "relevance_score": 81,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   },
   {
     "name": "SROS gRPC Services",
@@ -7647,6 +7648,27 @@
     "updated": "2026-02-16",
     "discovered": "2026-03-26",
     "relevance_score": 23,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetWatch",
+    "url": "https://github.com/matthart1983/netwatch",
+    "description": "Real-time network diagnostics TUI \u2014 like htop for your network. Built with Rust + ratatui. Live interface monitoring with RX/TX sparklines, active connections with process info, ICMP health probes, latency heatmaps, Wireshark-style packet capture with deep protocol decoding (DNS, TLS/SNI, HTTP, ICMP, ARP, DHCP, NTP, mDNS), network topology ASCII diagrams, and connection timelines. Lightweight, keyboard-driven, cross-platform.",
+    "category": "Network Diagnostics",
+    "stars": 0,
+    "topics": [
+      "network-diagnostics",
+      "tui",
+      "rust",
+      "packet-capture",
+      "monitoring",
+      "cli",
+      "ratatui"
+    ],
+    "updated": "2026-03-26",
+    "discovered": "2026-03-26",
+    "relevance_score": 29,
     "vendor_verified": false,
     "source": "foss-radar-scan"
   }

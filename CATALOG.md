@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**393 tools** across 34 categories.
+**394 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -17,9 +17,9 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **IPAM** (3)
 - **Network Testing** (3)
 - **Network Monitoring** (3)
+- **Network Diagnostics** (3)
 - **Self-Hosted Infrastructure** (3)
 - **Data Management** (2)
-- **Network Diagnostics** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
@@ -167,7 +167,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [FRRouting (FRR)](https://github.com/FRRouting/frr) — Open source routing protocol suite supporting BGP, OSPF, IS-IS, LDP, BFD, PIM, EIGRP, and more. Runs on Linux/BSD. Used  (score: 0)
 - [Genie Parser](https://github.com/CiscoTestAutomation/genieparser) — Cisco Genie device output parsers. 2000+ parsers for network device CLI output. (score: 0)
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)
-- [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gNMI-MCP-server) — MCP (Model Context Protocol) server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-comp (score: 0)
+- [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gNMI-MCP-server) — MCP server for managing Nokia SR OS devices via gNMI from Claude Desktop or any MCP-compatible client. Supports gNMI Get (score: 0)
 - [gnmic](https://github.com/openconfig/gnmic) — gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. (score: 0)
 - [gnoic](https://github.com/karimra/gnoic) — gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like cert management, file (score: 0)
 - [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) — Optical route planning library for DWDM networks. Gaussian noise model for SNR estimation, path computation engine, band (score: 0)
@@ -357,6 +357,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Diagnostics
 
+- [NetWatch](https://github.com/matthart1983/netwatch) — Real-time network diagnostics TUI — like htop for your network. Built with Rust + ratatui. Live interface monitoring wit (score: 0)
 - [Trippy](https://github.com/fujiapple852/trippy) — Modern network diagnostic tool combining traceroute and ping with a beautiful TUI. Written in Rust, cross-platform, supp (score: 0)
 - [ttl](https://github.com/lance0/ttl) — Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A bet (score: 0)
 
