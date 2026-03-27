@@ -7714,5 +7714,68 @@
     "discovered": "2026-03-27",
     "relevance_score": 33,
     "vendor_verified": false
+  },
+  {
+    "name": "MultiCLI",
+    "url": "https://github.com/srl-labs/MultiCLI",
+    "description": "Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista EOS, Cisco NX-OS, Juniper JunOS, Nokia SR OS). Lets teams reuse existing MOPs, automation scripts, and muscle memory when migrating to SR Linux \u2014 commands and output match legacy formats.",
+    "category": "Network Automation",
+    "stars": 15,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "cli",
+      "multi-vendor",
+      "migration",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 59,
+    "vendor_verified": true
+  },
+  {
+    "name": "srlconv",
+    "url": "https://github.com/srl-labs/srlconv",
+    "description": "Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG model changes when upgrading SR Linux versions \u2014 outputs converted config plus a diff in JSON, CLI, and CLI-flat formats. Essential for validating automation scripts and templates before a software upgrade.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "configuration-management",
+      "migration",
+      "yang",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 71,
+    "vendor_verified": true
+  },
+  {
+    "name": "network.telemetry (Red Hat CoP)",
+    "url": "https://github.com/redhat-cop/network.telemetry",
+    "description": "Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers telemetry facts, manages sensor path config, performs health checks, and sets up a Telegraf-Kafka stack for Event-Driven Ansible (EDA) integration. Vendor-agnostic and tested with ansible-core 2.15+.",
+    "category": "Network Automation",
+    "stars": 12,
+    "topics": [
+      "ansible",
+      "telemetry",
+      "event-driven-ansible",
+      "telegraf",
+      "kafka",
+      "network-automation"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 39,
+    "vendor_verified": false
   }
 ]

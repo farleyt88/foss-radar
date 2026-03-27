@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**396 tools** across 34 categories.
+**399 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (247)
+- **Network Automation** (250)
 - **Observability** (80)
 - **Network Management** (7)
 - **CLI Tools** (6)
@@ -201,6 +201,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [meshnet-cni](https://github.com/networkop/meshnet-cni) — Kubernetes CNI plugin to create arbitrary network topologies using point-to-point links (veth, vxlan, macvlan). Uses etc (score: 0)
 - [Mininet](https://github.com/mininet/mininet) — Create realistic virtual networks with real kernel, switches, apps on single machine. (score: 0)
 - [moler](https://github.com/nokia/moler) — Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command-as-object automation (score: 0)
+- [MultiCLI](https://github.com/srl-labs/MultiCLI) — Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista EOS, Cisco NX-OS, J (score: 0)
 - [NAPALM](https://github.com/napalm-automation/napalm) — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API. (score: 0)
 - [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) — Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM API (get_facts, get_ (score: 0)
 - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) — Ansible modules using NAPALM for multi-vendor network automation. (score: 0)
@@ -256,6 +257,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) — Artificially limit bandwidth, delay and loss rate on selected interfaces. (score: 0)
 - [network-mcp](https://github.com/latticio/network-mcp) — AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, Cisco IOS-XE/NX-OS, a (score: 0)
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
+- [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) — Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers telemetry facts, manag (score: 0)
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
@@ -326,6 +328,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
 - [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) — Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prometheus, Grafana, Lok (score: 0)
 - [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) — Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access to source .yang fil (score: 0)
+- [srlconv](https://github.com/srl-labs/srlconv) — Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG mod (score: 0)
 - [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) — Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux — mon (score: 0)
 - [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) — SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux devices via the Scrapli (score: 0)
 - [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) — Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS  (score: 0)

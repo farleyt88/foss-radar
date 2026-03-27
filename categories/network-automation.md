@@ -1,6 +1,6 @@
 # Network Automation
 
-**247 tools** — sorted by relevance score.
+**250 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -46,6 +46,7 @@
 | 71 | [xNMS](https://github.com/xmas-ar/xNMS) | Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link ser | — |
 | 71 | [moler](https://github.com/nokia/moler) | Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command- | Nokia ✅ |
 | 71 | [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) | PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system  | Ribbon ✅ |
+| 71 | [srlconv](https://github.com/srl-labs/srlconv) | Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identi | Nokia ✅ |
 | 69 | [Nornir](https://github.com/nornir-automation/nornir) | Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. | — |
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no | Nokia ✅ |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
@@ -63,6 +64,7 @@
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services on n | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server t | Nokia ✅ |
+| 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista | Nokia ✅ |
 | 57 | [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) | ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Alg | Nokia |
 | 57 | [ciena.saos10](https://github.com/ciena/ciena.saos10) | Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, inte | Ciena ✅ |
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |
@@ -113,6 +115,7 @@
 | 39 | [Containerz (gNOI)](https://github.com/openconfig/containerz) | OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, s | Nokia |
 | 39 | [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) | First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike t | — |
 | 39 | [rustbgpd](https://github.com/lance0/rustbgpd) | API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack | — |
+| 39 | [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) | Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers te | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
