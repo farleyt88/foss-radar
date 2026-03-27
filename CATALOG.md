@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**399 tools** across 34 categories.
+**401 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (250)
-- **Observability** (80)
+- **Observability** (81)
 - **Network Management** (7)
 - **CLI Tools** (6)
 - **Self-Hosted** (4)
@@ -20,11 +20,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
 - **Data Management** (2)
+- **Infrastructure** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
-- **Infrastructure** (1)
 - **Network Visualization** (1)
 - **Standards & Models** (1)
 - **Network Discovery** (1)
@@ -77,6 +77,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Infrastructure
 
+- [certctl](https://github.com/shankar0123/certctl) — Self-hosted certificate lifecycle automation platform. Any CA, any server, zero human intervention. Full REST API, web d (score: 0)
 - [OpenFTTH](https://github.com/DAXGRID/open-ftth-frontend) — Open source FTTH (Fiber to the Home) network planning and management system. QGIS integration for route network editing  (score: 0)
 
 ## Infrastructure / Self-Hosted
@@ -469,6 +470,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nerdlog](https://github.com/dimonomid/nerdlog) — Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server. SSH-based log querying from (score: 0)
 - [NetAlertX](https://github.com/netalertx/NetAlertX) — Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors devices, detects cha (score: 0)
 - [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) — NetBox plugin for network topology visualization. D3.js based diagrams. (score: 0)
+- [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integratio (score: 0)
 - [NetGraf](https://github.com/esnet/netgraf) — End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and device-level data fr (score: 0)
 - [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) — Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS performance, and optional b (score: 0)
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)

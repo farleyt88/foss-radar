@@ -7777,5 +7777,47 @@
     "discovered": "2026-03-27",
     "relevance_score": 39,
     "vendor_verified": false
+  },
+  {
+    "name": "certctl",
+    "url": "https://github.com/shankar0123/certctl",
+    "description": "Self-hosted certificate lifecycle automation platform. Any CA, any server, zero human intervention. Full REST API, web dashboard, and agent-based deployment where private keys never leave your infrastructure. Includes CLI, MCP server for AI assistants, and compliance mapping for SOC 2, PCI-DSS, and NIST.",
+    "category": "Infrastructure",
+    "stars": 183,
+    "topics": [
+      "certificate-management",
+      "automation",
+      "self-hosted",
+      "mcp",
+      "compliance",
+      "rest-api",
+      "golang"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 41,
+    "vendor_verified": false
+  },
+  {
+    "name": "Netdata",
+    "url": "https://github.com/netdata/netdata",
+    "description": "Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integrations (Prometheus, InfluxDB, Grafana), distributed architecture with streaming. Lightweight C agent with zero-config auto-discovery. CNCF member project.",
+    "category": "Observability",
+    "stars": 78232,
+    "topics": [
+      "monitoring",
+      "observability",
+      "snmp",
+      "grafana",
+      "prometheus",
+      "ai",
+      "alerting",
+      "cncf",
+      "self-hosted"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 79,
+    "vendor_verified": false
   }
 ]

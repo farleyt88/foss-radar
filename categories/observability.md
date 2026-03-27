@@ -1,6 +1,6 @@
 # Observability
 
-**80 tools** — sorted by relevance score.
+**81 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -16,6 +16,7 @@
 | 81 | [GoFlow2](https://github.com/netsampler/goflow2) | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's | — |
 | 79 | [OpenObserve](https://github.com/openobserve/openobserve) | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x l | — |
 | 79 | [OpenNTI](https://github.com/Juniper/open-nti) | Containerized open network telemetry collector and visualization stack. Collects data from devices v | — |
+| 79 | [Netdata](https://github.com/netdata/netdata) | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, tho | — |
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interf | — |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
 | 65 | [gNMIc Operator](https://github.com/gnmic/operator) | Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry | — |
