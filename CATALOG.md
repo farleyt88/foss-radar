@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**394 tools** across 34 categories.
+**396 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (246)
+- **Network Automation** (247)
 - **Observability** (80)
 - **Network Management** (7)
 - **CLI Tools** (6)
@@ -14,11 +14,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Infrastructure as Code** (4)
 - **Network Simulation** (4)
 - **Network Observability** (4)
+- **Self-Hosted Infrastructure** (4)
 - **IPAM** (3)
 - **Network Testing** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
-- **Self-Hosted Infrastructure** (3)
 - **Data Management** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
@@ -235,6 +235,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netconan](https://github.com/intentionet/netconan) — Network Configuration Anonymizer - sanitize configs for sharing. (score: 0)
 - [netconf-go](https://github.com/nights99/netconf-go) — NETCONF CLI with tab completion and dynamic YANG module download. Can compile to WebAssembly for browser-based network m (score: 0)
 - [netconf-rs](https://github.com/jiegec/netconf-rs) — Rust library for NETCONF (RFC 6241). Multiple SSH backends (ssh2/russh), flexible XML parsing. Device configuration auto (score: 0)
+- [NetConfigArk](https://github.com/kDolphin/NetConfigArk) — Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports Cisco IOS/IOS-XE/NX (score: 0)
 - [NetContext MCP](https://github.com/hgursel/NetContext-MCP) — AI-powered network automation through Model Context Protocol. Provides SSH-based command execution on network devices (C (score: 0)
 - [NetCopa](https://github.com/cidrblock/netcopa) — Network device configuration parser. Industry standard configs to YAML. (score: 0)
 - [Netdisco](https://github.com/netdisco/netdisco) — Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. (score: 0)
@@ -520,6 +521,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
+- [Pangolin](https://github.com/fosrl/pangolin) — Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self- (score: 0)
 - [Portracker](https://github.com/mostafa-wahied/portracker) — Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running services, containers, and V (score: 0)
 
 ## Standards & Models

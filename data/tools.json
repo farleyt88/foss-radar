@@ -7671,5 +7671,48 @@
     "relevance_score": 29,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetConfigArk",
+    "url": "https://github.com/kDolphin/NetConfigArk",
+    "description": "Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports Cisco IOS/IOS-XE/NX-OS/IOS-XR, Huawei VRP/USG, H3C, Fortinet, Juniper, Palo Alto, and MikroTik. Features include auto-detection of device type via SSHDetect, pre-check reachability validation, config completeness checks, concurrent backups, HTML diff reports between backup runs, and read-only guarantee (never enters config mode).",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "network-backup",
+      "config-management",
+      "cisco",
+      "huawei",
+      "juniper",
+      "fortinet",
+      "ssh",
+      "multi-vendor",
+      "python"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 31,
+    "vendor_verified": false
+  },
+  {
+    "name": "Pangolin",
+    "url": "https://github.com/fosrl/pangolin",
+    "description": "Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self-hosted platform with zero-trust security, browser-based web app access, client-based private resource access, and granular access control. Cloudflare Tunnel alternative. Docker deployable with ~19k GitHub stars.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 19000,
+    "topics": [
+      "wireguard",
+      "reverse-proxy",
+      "vpn",
+      "self-hosted",
+      "zero-trust",
+      "tunnel",
+      "remote-access",
+      "identity"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-03-27",
+    "relevance_score": 33,
+    "vendor_verified": false
   }
 ]

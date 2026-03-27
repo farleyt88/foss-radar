@@ -1,6 +1,6 @@
 # Network Automation
 
-**246 tools** — sorted by relevance score.
+**247 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -151,6 +151,7 @@
 | 31 | [edit4config](https://github.com/umurarslan/edit4config) | Python tool for parsing and editing Nokia SROS and Cisco IOS style configs (parent/child with space  | — |
 | 31 | [gRIBI](https://github.com/openconfig/gribi) | gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing | Nokia |
 | 31 | [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) | Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API re | — |
+| 31 | [NetConfigArk](https://github.com/kDolphin/NetConfigArk) | Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports | — |
 | 29 | [acton-yang](https://github.com/orchestron-orchestrator/acton-yang) | YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & | — |
 | 29 | [Netutils](https://github.com/networktocode/netutils) | Network automation utility functions. IP math, config parsing, bandwidth conversions. | — |
 | 29 | [f5-common-python](https://github.com/F5Networks/f5-common-python) | Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. | — |
