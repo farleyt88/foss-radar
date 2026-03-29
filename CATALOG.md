@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**401 tools** across 34 categories.
+**404 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (250)
-- **Observability** (81)
+- **Network Automation** (252)
+- **Observability** (82)
 - **Network Management** (7)
 - **CLI Tools** (6)
 - **Self-Hosted** (4)
@@ -177,6 +177,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [gNXI Tools](https://github.com/google/gnxi) — Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subscribe, gnoi_cert, gno (score: 0)
 - [GoBGP](https://github.com/osrg/gobgp) — Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers, looking glasses, SDN (score: 0)
 - [gRIBI](https://github.com/openconfig/gribi) — gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing entries into a netw (score: 0)
+- [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
 - [Holo](https://github.com/holo-routing/holo) — Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven networks. Memory-safe, mo (score: 0)
 - [Icinga](https://github.com/Icinga/icinga2) — Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend prediction. (score: 0)
@@ -296,6 +297,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) — Device framework for interacting with Palo Alto Networks devices. (score: 0)
 - [Pola PCE](https://github.com/nttcom/pola) — Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and SRv6 (full-SID/uSID) (score: 0)
 - [Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) — PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for querying state, creating/up (score: 0)
+- [prefixd](https://github.com/lance0/prefixd) — BGP FlowSpec policy daemon for automated DDoS mitigation. Works with GoBGP and FastNetMon. Written in Rust for high perf (score: 0)
 - [prefixopt](https://github.com/ReuxM13/prefixopt) — High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/Bogons, compares lis (score: 0)
 - [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) — Python library for Junos automation (PyEZ). (score: 0)
 - [pyATS](https://github.com/CiscoTestAutomation/pyats) — Cisco's Python Automation Test System. Network test automation framework. (score: 0)
@@ -465,6 +467,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [mermin](https://github.com/elastiflow/mermin) — Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic and export it as Flow Tra (score: 0)
 - [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) — Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash, Nautobot integration (score: 0)
 - [N2G (Need To Graph)](https://github.com/dmulyalin/N2G) — Generate network diagrams in GraphML, draw.io or JSON from structured data or CLI output. (score: 0)
+- [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) — Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics explorer, RBAC, audit  (score: 0)
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) — Cross-vendor normalisation for network syslog messages. OpenConfig/IETF YANG models. (score: 0)
 - [natlas](https://github.com/MJL85/natlas) — Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Auto-discovers topolog (score: 0)
 - [Nerdlog](https://github.com/dimonomid/nerdlog) — Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server. SSH-based log querying from (score: 0)

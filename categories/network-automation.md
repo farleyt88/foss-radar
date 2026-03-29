@@ -1,6 +1,6 @@
 # Network Automation
 
-**250 tools** — sorted by relevance score.
+**252 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -83,6 +83,7 @@
 | 49 | [pyGNMI](https://github.com/akarneliuk/pygnmi) | Python gNMI client. Interact with network devices via gRPC Network Management Interface. | nokia |
 | 49 | [Clixon Controller](https://github.com/clicon/clixon-controller) | Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device pr | — |
 | 49 | [srpls](https://github.com/srl-labs/srpls) | Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Prov | Nokia ✅ |
+| 49 | [h-cli](https://github.com/h-network/h-cli) | AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration.  | — |
 | 47 | [gNXI Tools](https://github.com/google/gnxi) | Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subsc | — |
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuousl | — |
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates  | — |
@@ -222,6 +223,7 @@
 | 16 | [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) | Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. | SEL ✅ |
 | 15 | [Pola PCE](https://github.com/nttcom/pola) | Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and  | — |
 | 15 | [Schema Enforcer](https://github.com/networktocode/schema-enforcer) | Validate structured data against schemas. Network config data validation. | — |
+| 15 | [prefixd](https://github.com/lance0/prefixd) | BGP FlowSpec policy daemon for automated DDoS mitigation. Works with GoBGP and FastNetMon. Written i | — |
 | 13 | [Aerleon](https://github.com/aerleon/aerleon) | Multi-platform ACL generation system. Generate Juniper/IOS/etc ACLs from single policy. | — |
 | 13 | [fetchconfig](https://github.com/udhos/fetchconfig) | Perl script for retrieving configuration of multiple network devices. | — |
 | 13 | [Jazigo](https://github.com/udhos/jazigo) | Go-based tool for retrieving network device configurations. Similar to RANCID, Oxidized. | — |

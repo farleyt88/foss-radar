@@ -7819,5 +7819,74 @@
     "discovered": "2026-03-27",
     "relevance_score": 79,
     "vendor_verified": false
+  },
+  {
+    "name": "prefixd",
+    "url": "https://github.com/lance0/prefixd",
+    "description": "BGP FlowSpec policy daemon for automated DDoS mitigation. Works with GoBGP and FastNetMon. Written in Rust for high performance.",
+    "category": "Network Automation",
+    "stars": 74,
+    "topics": [
+      "bgp",
+      "ddos-mitigation",
+      "flowspec",
+      "gobgp",
+      "netops",
+      "network-automation",
+      "rust"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-21",
+    "added": "2026-03-29",
+    "source": "foss-radar-scan",
+    "relevance_score": 15
+  },
+  {
+    "name": "h-cli",
+    "url": "https://github.com/h-network/h-cli",
+    "description": "AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM safety firewall, self-hosted, self-learning. Built with 8 parallel AI agent teams.",
+    "category": "Network Automation",
+    "stars": 38,
+    "topics": [
+      "ai-agents",
+      "cli",
+      "netbox",
+      "network-automation",
+      "network-engineering",
+      "netconf",
+      "ssh",
+      "self-hosted",
+      "python"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-17",
+    "added": "2026-03-29",
+    "source": "foss-radar-scan",
+    "relevance_score": 49
+  },
+  {
+    "name": "n8nTrace",
+    "url": "https://github.com/Mohammedaljer/n8nTrace",
+    "description": "Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics explorer, RBAC, audit logging. Security-first, MIT licensed.",
+    "category": "Observability",
+    "stars": 8,
+    "topics": [
+      "analytics",
+      "dashboard",
+      "monitoring",
+      "n8n",
+      "observability",
+      "prometheus",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-03-26",
+    "added": "2026-03-29",
+    "source": "foss-radar-scan",
+    "relevance_score": 37
   }
 ]
