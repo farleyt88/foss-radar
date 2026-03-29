@@ -1,6 +1,6 @@
 # Network Automation
 
-**252 tools** — sorted by relevance score.
+**253 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -70,6 +70,7 @@
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
+| 55 | [Itential MCP Server](https://github.com/itential/itential-mcp) | MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation wo | Nokia, Ciena, Ribbon |
 | 53 | [lighty.io](https://github.com/PANTHEONtech/lighty) | Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime w | — |
 | 51 | [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) | Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prom | Nokia |
 | 51 | [Clixon](https://github.com/clicon/clixon) | YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendor | — |

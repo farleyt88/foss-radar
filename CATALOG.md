@@ -1,20 +1,20 @@
 # FOSS Radar — Tool Catalog
 
-**404 tools** across 34 categories.
+**406 tools** across 34 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (252)
+- **Network Automation** (253)
 - **Observability** (82)
 - **Network Management** (7)
 - **CLI Tools** (6)
+- **Self-Hosted Infrastructure** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **Network Simulation** (4)
 - **Network Observability** (4)
-- **Self-Hosted Infrastructure** (4)
 - **IPAM** (3)
 - **Network Testing** (3)
 - **Network Monitoring** (3)
@@ -187,6 +187,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Infrahub](https://github.com/opsmill/infrahub) — New approach to Infrastructure Management. Version-controlled infrastructure data. (score: 0)
 - [Inmanta](https://github.com/inmanta/inmanta-core) — Infrastructure orchestration and automation tool with intent-based desired-state model. Built for network service orches (score: 0)
 - [Intent-Based Ansible Lab](https://github.com/srl-labs/intent-based-ansible-lab) — Containerlab-based lab demonstrating intent-based network automation with Ansible and Nokia SR Linux. Shows how to use A (score: 0)
+- [Itential MCP Server](https://github.com/itential/itential-mcp) — MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation workflows. Supports de (score: 0)
 - [Jalapeno](https://github.com/cisco-open/jalapeno) — Cloud-native infrastructure platform for network services built on BMP, GoBGP, Kafka, ArangoDB, and Kubernetes. Collects (score: 0)
 - [Jazigo](https://github.com/udhos/jazigo) — Go-based tool for retrieving network device configurations. Similar to RANCID, Oxidized. (score: 0)
 - [jdiff](https://github.com/networktocode/jdiff) — Python library for examining and comparing structured data (JSON). Useful for network config drift detection, pre/post c (score: 0)
@@ -527,6 +528,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Self-Hosted Infrastructure
 
+- [Circuit Breaker](https://github.com/BlkLeg/CircuitBreaker) — Self-hosted homelab/infrastructure visualization platform. Maps hardware, services, networks, and clusters with interact (score: 0)
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
 - [Pangolin](https://github.com/fosrl/pangolin) — Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self- (score: 0)

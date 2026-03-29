@@ -7888,5 +7888,54 @@
     "added": "2026-03-29",
     "source": "foss-radar-scan",
     "relevance_score": 37
+  },
+  {
+    "name": "Itential MCP Server",
+    "url": "https://github.com/itential/itential-mcp",
+    "description": "MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation workflows. Supports device configuration, compliance management, golden configs, Jinja2/TextFSM templates, workflow orchestration, and health monitoring. Requires Itential Platform but server itself is open-source (GPL-3.0). Python 3.10+, supports stdio/SSE/HTTP transports.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "mcp",
+      "model-context-protocol",
+      "network-automation",
+      "llm",
+      "netconf",
+      "jinja2",
+      "compliance",
+      "golden-config",
+      "python"
+    ],
+    "updated": "2026-03-29",
+    "discovered": "2026-03-29",
+    "relevance_score": 55,
+    "vendor_verified": false,
+    "vendors": [
+      "Nokia",
+      "Ciena",
+      "Ribbon"
+    ]
+  },
+  {
+    "name": "Circuit Breaker",
+    "url": "https://github.com/BlkLeg/CircuitBreaker",
+    "description": "Self-hosted homelab/infrastructure visualization platform. Maps hardware, services, networks, and clusters with interactive topology views, live telemetry (iDRAC/iLO/SNMP), auto-discovery (nmap/SNMP/ARP), 3D rack simulator, Proxmox integration, and audit logging. Includes RBAC, MFA, and secrets vault. No Docker required (systemd native install).",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 0,
+    "topics": [
+      "infrastructure",
+      "ipam",
+      "topology",
+      "visualization",
+      "snmp",
+      "self-hosted",
+      "homelab",
+      "rack-management",
+      "proxmox"
+    ],
+    "updated": "2026-03-29",
+    "discovered": "2026-03-29",
+    "relevance_score": 59,
+    "vendor_verified": false
   }
 ]

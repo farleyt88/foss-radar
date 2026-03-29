@@ -1,11 +1,12 @@
 # Self-Hosted Infrastructure
 
-**4 tools** — sorted by relevance score.
+**5 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 59 | [Circuit Breaker](https://github.com/BlkLeg/CircuitBreaker) | Self-hosted homelab/infrastructure visualization platform. Maps hardware, services, networks, and cl | — |
 | 43 | [Portracker](https://github.com/mostafa-wahied/portracker) | Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running service | — |
 | 33 | [Pangolin](https://github.com/fosrl/pangolin) | Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN | — |
 | 19 | [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) | Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for dete | — |
