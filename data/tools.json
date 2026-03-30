@@ -7933,5 +7933,49 @@
     "discovered": "2026-03-29",
     "relevance_score": 59,
     "vendor_verified": false
+  },
+  {
+    "name": "phpipam-mcp-server",
+    "url": "https://github.com/InfraMCP/phpipam-mcp-server",
+    "description": "MCP server for phpIPAM IP address management - enables AI assistants to query/manage subnets, VLANs, VRFs, and IP addresses via Model Context Protocol",
+    "category": "MCP / AI Integration",
+    "topics": [
+      "mcp",
+      "ipam",
+      "network automation",
+      "ai",
+      "phpipam",
+      "ip management",
+      "self-hosted"
+    ],
+    "stars": 0,
+    "updated": "2026-03",
+    "added": "2026-03-30",
+    "source": "foss-radar-scan",
+    "vendors": [],
+    "vendor_verified": false,
+    "relevance_score": 25
+  },
+  {
+    "name": "ssh-mcp-server",
+    "url": "https://github.com/InfraMCP/ssh-mcp-server",
+    "description": "MCP server for AI-driven remote Linux server management over SSH - command execution, service management, system health monitoring with domain auth support",
+    "category": "MCP / AI Integration",
+    "topics": [
+      "mcp",
+      "ssh",
+      "automation",
+      "remote management",
+      "linux",
+      "infrastructure",
+      "ai"
+    ],
+    "stars": 0,
+    "updated": "2026-03",
+    "added": "2026-03-30",
+    "source": "foss-radar-scan",
+    "vendors": [],
+    "vendor_verified": false,
+    "relevance_score": 21
   }
 ]

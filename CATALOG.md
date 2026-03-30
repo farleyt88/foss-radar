@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**406 tools** across 34 categories.
+**408 tools** across 35 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -23,6 +23,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Infrastructure** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
+- **MCP / AI Integration** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
 - **Network Visualization** (1)
@@ -98,6 +99,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Lab / Testing
 
 - [multivendor-evpn-lab](https://github.com/srl-labs/multivendor-evpn-lab) — Containerlab-based multivendor EVPN lab topology. Spins up Nokia SROS (route reflectors), Nokia SR Linux (leaf), Arista  (score: 0)
+
+## MCP / AI Integration
+
+- [phpipam-mcp-server](https://github.com/InfraMCP/phpipam-mcp-server) — MCP server for phpIPAM IP address management - enables AI assistants to query/manage subnets, VLANs, VRFs, and IP addres (score: 0)
+- [ssh-mcp-server](https://github.com/InfraMCP/ssh-mcp-server) — MCP server for AI-driven remote Linux server management over SSH - command execution, service management, system health  (score: 0)
 
 ## Monitoring
 
