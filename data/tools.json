@@ -6660,47 +6660,53 @@
   {
     "name": "Homelable",
     "url": "https://github.com/Pouzor/homelable",
-    "description": "Self-hosted homelab infrastructure visualizer with interactive network diagrams and live status monitoring. TypeScript-based, generates visual maps of infrastructure with real-time health checks. Docker-friendly. Useful for building quick visual overviews of lab environments, automation servers, and test infrastructure without heavyweight NMS tools.",
-    "category": "Network Management",
-    "stars": 60,
+    "description": "Self-hosted infrastructure visualization with interactive network diagrams and live status monitoring. Features nmap-based network scanning for auto-discovery, healthcheck system (ping/TCP/HTTP), customizable device styles, and PNG export. Docker deployment. Useful for mapping lab or production infrastructure with live online/offline status on a visual canvas.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 0,
     "topics": [
-      "network-diagram",
       "infrastructure",
-      "self-hosted",
       "visualization",
-      "proxmox",
+      "network-diagram",
+      "self-hosted",
+      "nmap",
       "monitoring",
-      "typescript"
+      "docker",
+      "healthcheck"
     ],
-    "updated": "2026-03-15",
-    "discovered": "2026-03-15",
-    "relevance_score": 39,
-    "vendor_verified": false
+    "updated": "2026-03",
+    "discovered": "2026-03-30",
+    "added": "2026-03-30",
+    "source": "foss-radar-scan",
+    "vendors": [],
+    "vendor_verified": false,
+    "relevance_score": 33
   },
   {
     "name": "gNMI MCP Server (Nokia SR OS)",
-    "url": "https://github.com/coolexer/gNMI-MCP-server",
-    "description": "MCP server for managing Nokia SR OS devices via gNMI from Claude Desktop or any MCP-compatible client. Supports gNMI Get (config + state), Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, and Capabilities discovery. Multi-device management with runtime credentials and clean JSON output. Bridges AI-assisted workflows directly into Nokia router management.",
-    "category": "Network Automation",
+    "url": "https://github.com/coolexer/gnmi-mcp-server",
+    "description": "MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible AI client. Supports gNMI Get/Set/Capabilities, MD-CLI commands via Nokia gNMI CLI extension, runtime credentials (no passwords in config files), multi-device management, and JSON IETF encoding. Enables AI-assisted Nokia router management with natural language.",
+    "category": "MCP / AI Integration",
     "stars": 0,
     "topics": [
+      "mcp",
       "nokia",
       "sros",
       "gnmi",
-      "mcp",
       "grpc",
       "network-automation",
-      "python",
-      "ai-integration"
+      "ai",
+      "claude",
+      "python"
     ],
     "vendors": [
       "Nokia"
     ],
-    "updated": "2026-03-26",
-    "discovered": "2026-03-26",
-    "relevance_score": 81,
+    "updated": "2026-03",
+    "discovered": "2026-03-30",
+    "added": "2026-03-30",
+    "source": "foss-radar-scan",
     "vendor_verified": true,
-    "source": "foss-radar-scan"
+    "relevance_score": 81
   },
   {
     "name": "SROS gRPC Services",
@@ -7552,32 +7558,6 @@
     "updated": "2026-03-24",
     "discovered": "2026-03-24",
     "relevance_score": 29,
-    "source": "foss-radar-scan"
-  },
-  {
-    "name": "Nokia gNMI MCP Server",
-    "url": "https://github.com/coolexer/gnmi-mcp-server",
-    "description": "MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible client. Supports gNMI Get (config/state), Set (update/replace/delete), MD-CLI commands via Nokia gNMI CLI extension, capabilities discovery, runtime credentials (no passwords in config files), and multi-device management. JSON IETF encoding for clean output. Ideal for AI-assisted Nokia router management.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "nokia",
-      "sros",
-      "gnmi",
-      "mcp",
-      "grpc",
-      "network-automation",
-      "claude",
-      "ai",
-      "python"
-    ],
-    "vendors": [
-      "Nokia"
-    ],
-    "vendor_verified": true,
-    "updated": "2026-03-25",
-    "discovered": "2026-03-25",
-    "relevance_score": 81,
     "source": "foss-radar-scan"
   },
   {

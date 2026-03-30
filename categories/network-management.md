@@ -1,6 +1,6 @@
 # Network Management
 
-**7 tools** — sorted by relevance score.
+**6 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -11,5 +11,4 @@
 | 51 | [OpenNetworkDiagram](https://github.com/jcreek/OpenNetworkDiagram) | Declarative, self-hosted containerized tool for visualizing and managing network architecture diagra | — |
 | 49 | [Scanopy](https://github.com/scanopy/scanopy) | Self-hosted network discovery and documentation tool that automatically scans networks, identifies h | — |
 | 41 | [Netipam](https://github.com/nodeplex/Netipam) | Self-hosted IP address management (IPAM) and network visibility tool. Docker-based, easy to deploy,  | — |
-| 39 | [Homelable](https://github.com/Pouzor/homelable) | Self-hosted homelab infrastructure visualizer with interactive network diagrams and live status moni | — |
 | 28 | [Rackula](https://github.com/RackulaLives/Rackula) | Open-source drag-and-drop rack layout designer that runs entirely in the browser. Supports real devi | — |

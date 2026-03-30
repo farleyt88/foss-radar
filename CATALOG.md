@@ -1,16 +1,16 @@
 # FOSS Radar — Tool Catalog
 
-**408 tools** across 35 categories.
+**407 tools** across 35 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (253)
+- **Network Automation** (251)
 - **Observability** (82)
-- **Network Management** (7)
 - **CLI Tools** (6)
-- **Self-Hosted Infrastructure** (5)
+- **Network Management** (6)
+- **Self-Hosted Infrastructure** (6)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **Network Simulation** (4)
@@ -19,11 +19,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Testing** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
+- **MCP / AI Integration** (3)
 - **Data Management** (2)
 - **Infrastructure** (2)
 - **Network Operations** (2)
 - **Uncategorized** (2)
-- **MCP / AI Integration** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
 - **Network Visualization** (1)
@@ -102,6 +102,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## MCP / AI Integration
 
+- [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gnmi-mcp-server) — MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible AI client. Support (score: 0)
 - [phpipam-mcp-server](https://github.com/InfraMCP/phpipam-mcp-server) — MCP server for phpIPAM IP address management - enables AI assistants to query/manage subnets, VLANs, VRFs, and IP addres (score: 0)
 - [ssh-mcp-server](https://github.com/InfraMCP/ssh-mcp-server) — MCP server for AI-driven remote Linux server management over SSH - command execution, service management, system health  (score: 0)
 
@@ -174,7 +175,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [FRRouting (FRR)](https://github.com/FRRouting/frr) — Open source routing protocol suite supporting BGP, OSPF, IS-IS, LDP, BFD, PIM, EIGRP, and more. Runs on Linux/BSD. Used  (score: 0)
 - [Genie Parser](https://github.com/CiscoTestAutomation/genieparser) — Cisco Genie device output parsers. 2000+ parsers for network device CLI output. (score: 0)
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)
-- [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gNMI-MCP-server) — MCP server for managing Nokia SR OS devices via gNMI from Claude Desktop or any MCP-compatible client. Supports gNMI Get (score: 0)
 - [gnmic](https://github.com/openconfig/gnmic) — gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. (score: 0)
 - [gnoic](https://github.com/karimra/gnoic) — gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like cert management, file (score: 0)
 - [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) — Optical route planning library for DWDM networks. Gaussian noise model for SNR estimation, path computation engine, band (score: 0)
@@ -270,7 +270,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
-- [Nokia gNMI MCP Server](https://github.com/coolexer/gnmi-mcp-server) — MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compatible client. Supports g (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
 - [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
 - [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, (score: 0)
@@ -389,7 +388,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Management
 
-- [Homelable](https://github.com/Pouzor/homelable) — Self-hosted homelab infrastructure visualizer with interactive network diagrams and live status monitoring. TypeScript-b (score: 0)
 - [Netipam](https://github.com/nodeplex/Netipam) — Self-hosted IP address management (IPAM) and network visibility tool. Docker-based, easy to deploy, designed for network (score: 0)
 - [NOC Project](https://github.com/nocproject/noc) — Open-source Operation Support System (OSS) designed for telecom companies, ISPs, and enterprise NOCs. Features fault man (score: 0)
 - [OpenNetworkDiagram](https://github.com/jcreek/OpenNetworkDiagram) — Declarative, self-hosted containerized tool for visualizing and managing network architecture diagrams. Stores topology  (score: 0)
@@ -535,6 +533,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Self-Hosted Infrastructure
 
 - [Circuit Breaker](https://github.com/BlkLeg/CircuitBreaker) — Self-hosted homelab/infrastructure visualization platform. Maps hardware, services, networks, and clusters with interact (score: 0)
+- [Homelable](https://github.com/Pouzor/homelable) — Self-hosted infrastructure visualization with interactive network diagrams and live status monitoring. Features nmap-bas (score: 0)
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
 - [Pangolin](https://github.com/fosrl/pangolin) — Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self- (score: 0)
