@@ -240,7 +240,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netconf-go](https://github.com/nights99/netconf-go) — NETCONF CLI with tab completion and dynamic YANG module download. Can compile to WebAssembly for browser-based network m (score: 0)
 - [netconf-rs](https://github.com/jiegec/netconf-rs) — Rust library for NETCONF (RFC 6241). Multiple SSH backends (ssh2/russh), flexible XML parsing. Device configuration auto (score: 0)
 - [NetConfigArk](https://github.com/kDolphin/NetConfigArk) — Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports Cisco IOS/IOS-XE/NX (score: 0)
-- [NetContext MCP](https://github.com/hgursel/NetContext-MCP) — AI-powered network automation through Model Context Protocol. Provides SSH-based command execution on network devices (C (score: 0)
+- [NetContext-MCP](https://github.com/hgursel/NetContext-MCP) — MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network devices via SSH. Mult (score: 0)
 - [NetCopa](https://github.com/cidrblock/netcopa) — Network device configuration parser. Industry standard configs to YAML. (score: 0)
 - [Netdisco](https://github.com/netdisco/netdisco) — Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. (score: 0)
 - [NetDriver](https://github.com/OpenSecFlow/netdriver) — Network device CLI automation via HTTP RESTful API. Connects to network devices and executes CLI commands through a simp (score: 0)

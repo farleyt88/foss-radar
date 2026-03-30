@@ -175,7 +175,6 @@
 | 27 | [rauto](https://github.com/demohiiiii/rauto) | Rust CLI for network automation using Jinja2 templates and robust SSH. Supports Cisco, Huawei, Junip | Cisco, Huawei, Juniper |
 | 27 | [shconfparser](https://github.com/network-tools/shconfparser) | Network configuration parser that translates show command outputs from Cisco and other vendors into  | — |
 | 27 | [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) | Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for | Nokia |
-| 27 | [NetContext MCP](https://github.com/hgursel/NetContext-MCP) | AI-powered network automation through Model Context Protocol. Provides SSH-based command execution o | Cisco, HP/Aruba, Ubiquiti ✅ |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco A | — |
@@ -242,6 +241,7 @@
 | 13 | [ara](https://github.com/ansible-community/ara) | Ansible Runtime Analysis. Records Ansible runs for reporting and analysis. | — |
 | 13 | [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) | Salt formula to simplify NAPALM installation and dependencies. | — |
 | 13 | [Infoblox Ansible](https://github.com/infobloxopen/infoblox-ansible) | Ansible module for Infoblox integration. | — |
+| 13 | [NetContext-MCP](https://github.com/hgursel/NetContext-MCP) | MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network d | — |
 | 11 | [SR Linux Controller](https://github.com/srl-labs/srl-controller) | Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topolo | Nokia |
 | 11 | [bond](https://github.com/srl-labs/bond) | A Go package to simplify Nokia SR Linux NDK (NetOps Development Kit) app development. Provides abstr | Nokia |
 | 9 | [Cidr](https://github.com/renard/cidr) | Cidr Is not as Dumb as Rancid. Simple network device config backup tool. | — |
