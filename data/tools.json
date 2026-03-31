@@ -7982,5 +7982,48 @@
     "relevance_score": 59,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Ask O11y",
+    "url": "https://github.com/Consensys/ask-o11y-plugin",
+    "description": "AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Tempo (TraceQL) in natural language. Integrates with MCP for 56+ Grafana tools, supports RBAC, session management, alert investigation with one-click RCA, and 8 visualization types. Requires Grafana LLM plugin.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "grafana",
+      "observability",
+      "ai",
+      "mcp",
+      "prometheus",
+      "loki",
+      "natural-language",
+      "dashboard"
+    ],
+    "updated": "2026-03-31",
+    "discovered": "2026-03-31",
+    "relevance_score": 41,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "pyATS MCP Server",
+    "url": "https://github.com/automateyournetwork/pyATS_MCP",
+    "description": "Model Context Protocol (MCP) server wrapping Cisco pyATS and Genie for structured network device interaction. Enables AI agents to run show commands, parse outputs, learn device features, and compare device state via JSON-RPC 2.0 over STDIO. Useful for AI-assisted network troubleshooting and testing.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "mcp",
+      "pyats",
+      "cisco",
+      "network-automation",
+      "ai-agent",
+      "json-rpc",
+      "python"
+    ],
+    "updated": "2026-03-31",
+    "discovered": "2026-03-31",
+    "relevance_score": 17,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

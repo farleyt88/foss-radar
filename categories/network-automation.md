@@ -1,6 +1,6 @@
 # Network Automation
 
-**252 tools** — sorted by relevance score.
+**253 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -218,6 +218,7 @@
 | 17 | [Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) | PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for queryin | Ribbon |
 | 17 | [mcp-server-sros](https://github.com/mohamedhafez87/mcp-server-sros) | MCP (Model Context Protocol) server for Nokia SR OS devices. Provides AI-accessible tools for viewin | — |
 | 17 | [rdb-tool](https://github.com/danyill/rdb-tool) | Python tool for manipulating Schweitzer Engineering Laboratories (SEL) relay database files (.RDB).  | SEL ✅ |
+| 17 | [pyATS MCP Server](https://github.com/automateyournetwork/pyATS_MCP) | Model Context Protocol (MCP) server wrapping Cisco pyATS and Genie for structured network device int | — |
 | 16 | [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) | SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux dev | Nokia |
 | 16 | [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) | Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. | SEL ✅ |
 | 15 | [Pola PCE](https://github.com/nttcom/pola) | Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and  | — |
