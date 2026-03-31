@@ -1,6 +1,6 @@
 # Network Automation
 
-**251 tools** — sorted by relevance score.
+**252 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -63,6 +63,7 @@
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services on n | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server t | Nokia ✅ |
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista | Nokia ✅ |
+| 59 | [NSQuattro](https://github.com/anton-tvrz/project-network-synapse-quattro) | Intent-based network automation platform with full business-to-device lineage. Uses Infrahub as grap | Nokia |
 | 57 | [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) | ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Alg | Nokia |
 | 57 | [ciena.saos10](https://github.com/ciena/ciena.saos10) | Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, inte | Ciena ✅ |
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |

@@ -5314,30 +5314,28 @@
   {
     "name": "BNG Blaster",
     "url": "https://github.com/rtbrick/bngblaster",
-    "description": "Open-source network tester for routing and access protocols. Tests IS-IS, OSPF, LDP, BGP, PPPoE, IPoE/DHCP, IPTV, and L2TP at scale. Includes a traffic generator that can simulate millions of flows for QoS validation, convergence time measurement, and full-table forwarding verification. Used in production by Deutsche Telekom. Excellent for validating Nokia, Ribbon, and other carrier-grade equipment behavior before production deployment.",
+    "description": "Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP, plus full support for IS-IS, OSPF, LDP, and BGP routing protocols. Built-in traffic generator for forwarding verification, QoS testing, and convergence measurement with millions of tracked flows. Used by Deutsche Telekom and other carriers. C-based, high performance.",
     "category": "Network Testing",
-    "stars": 274,
+    "stars": 269,
     "topics": [
       "network-testing",
-      "bgp",
-      "ospf",
+      "routing",
       "isis",
-      "mpls",
+      "ospf",
       "ldp",
-      "segment-routing",
-      "pppoe",
-      "bng",
+      "bgp",
+      "mpls",
       "traffic-generator",
+      "convergence",
+      "qos",
       "c"
     ],
-    "vendors": [
-      "Nokia",
-      "Ribbon"
-    ],
-    "updated": "2026-03-04",
-    "discovered": "2026-03-07",
+    "vendors": [],
+    "updated": "2026-03-30",
+    "discovered": "2026-03-30",
     "relevance_score": 21,
-    "vendor_verified": false
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   },
   {
     "name": "Rackula",
@@ -7957,5 +7955,32 @@
     "vendors": [],
     "vendor_verified": false,
     "relevance_score": 21
+  },
+  {
+    "name": "NSQuattro",
+    "url": "https://github.com/anton-tvrz/project-network-synapse-quattro",
+    "description": "Intent-based network automation platform with full business-to-device lineage. Uses Infrahub as graph-native Source of Truth, Temporal for durable workflow orchestration, and Nokia SR Linux via gNMI. Every firewall rule traces to a business owner; operational overrides have auto-revert timers. Includes Prometheus, InfluxDB, Grafana (7 dashboards), and SuzieQ for network state. Runs on Containerlab with OrbStack.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "gnmi",
+      "infrahub",
+      "temporal",
+      "intent-based",
+      "network-automation",
+      "grafana",
+      "containerlab",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-29",
+    "discovered": "2026-03-30",
+    "relevance_score": 59,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

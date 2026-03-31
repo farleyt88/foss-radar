@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**407 tools** across 35 categories.
+**408 tools** across 35 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (251)
+- **Network Automation** (252)
 - **Observability** (82)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -290,6 +290,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [notconf](https://github.com/notconf/notconf) — NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper JUNOS, Nokia SROS. Drop (score: 0)
 - [nrx (Netreplica Exporter)](https://github.com/netreplica/nrx) — Export NetBox topologies to Containerlab, CML, NVIDIA Air, or Graphite for network lab orchestration and visualization. (score: 0)
 - [NSoT](https://github.com/dropbox/nsot) — Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. (score: 0)
+- [NSQuattro](https://github.com/anton-tvrz/project-network-synapse-quattro) — Intent-based network automation platform with full business-to-device lineage. Uses Infrahub as graph-native Source of T (score: 0)
 - [NTC Ansible](https://github.com/networktocode/ntc-ansible) — Multi-vendor Ansible modules for Network Automation by Network to Code. (score: 0)
 - [ntc-templates](https://github.com/networktocode/ntc-templates) — TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. (score: 0)
 - [NUTS](https://github.com/network-unit-testing-system/nuts) — Network Unit Testing System - Pytest plugin for writing network tests with YAML. (score: 0)
@@ -426,7 +427,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Testing
 
-- [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Tests IS-IS, OSPF, LDP, BGP, PPPoE, IPoE/DHCP, IPTV, and L2 (score: 0)
+- [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP (score: 0)
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
 
