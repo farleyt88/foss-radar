@@ -6922,26 +6922,26 @@
   },
   {
     "name": "NetContext-MCP",
-    "url": "https://github.com/hgursel/NetContext-MCP",
-    "description": "MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network devices via SSH. Multi-vendor support for Cisco IOS/IOS-XE, HP/Aruba ProCurve, Ubiquiti UniFi, and generic SSH devices. Features legacy SSH algorithm support (for older network gear), device-specific pagination handling, batch parallel operations, command sanitization, and Docker test environment. GPL-3.0 licensed.",
+    "url": "https://github.com/hgursel/netcontext-mcp",
+    "description": "MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network devices via SSH. Multi-vendor support for Cisco IOS/IOS-XE, HP/Aruba ProCurve, Ubiquiti UniFi, and generic Linux/SSH. Features legacy SSH algorithm support (diffie-hellman-group14-sha1, ssh-rsa), device pagination handling, batch parallel operations, and multiple auth methods (password, keys, SSH agent). Docker test environment included.",
     "category": "Network Automation",
     "stars": 0,
     "topics": [
       "mcp",
       "network-automation",
       "ssh",
-      "ai",
+      "multi-vendor",
       "cisco",
       "aruba",
-      "multi-vendor",
-      "nodejs"
+      "ubiquiti",
+      "ai-assistant"
     ],
     "vendors": [],
+    "updated": "2026-04-03",
+    "discovered": "2026-04-03",
+    "relevance_score": 13,
     "vendor_verified": false,
-    "updated": "2026-03-30",
-    "added": "2026-03-30",
-    "source": "foss-radar-scan",
-    "relevance_score": 13
+    "source": "foss-radar-scan"
   },
   {
     "name": "Nokia NSP Integration Bootstrap",

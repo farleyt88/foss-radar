@@ -242,7 +242,7 @@
 | 13 | [ara](https://github.com/ansible-community/ara) | Ansible Runtime Analysis. Records Ansible runs for reporting and analysis. | — |
 | 13 | [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) | Salt formula to simplify NAPALM installation and dependencies. | — |
 | 13 | [Infoblox Ansible](https://github.com/infobloxopen/infoblox-ansible) | Ansible module for Infoblox integration. | — |
-| 13 | [NetContext-MCP](https://github.com/hgursel/NetContext-MCP) | MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network d | — |
+| 13 | [NetContext-MCP](https://github.com/hgursel/netcontext-mcp) | MCP server enabling AI assistants (Claude Desktop, LM Studio, etc.) to execute commands on network d | — |
 | 11 | [SR Linux Controller](https://github.com/srl-labs/srl-controller) | Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topolo | Nokia |
 | 11 | [bond](https://github.com/srl-labs/bond) | A Go package to simplify Nokia SR Linux NDK (NetOps Development Kit) app development. Provides abstr | Nokia |
 | 9 | [Cidr](https://github.com/renard/cidr) | Cidr Is not as Dumb as Rancid. Simple network device config backup tool. | — |
