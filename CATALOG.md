@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**410 tools** across 35 categories.
+**411 tools** across 35 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (253)
+- **Network Automation** (254)
 - **Observability** (83)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -136,6 +136,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [cawk](https://github.com/cedricllorens/cawk) — Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no additional language (score: 0)
 - [Cidr](https://github.com/renard/cidr) — Cidr Is not as Dumb as Rancid. Simple network device config backup tool. (score: 0)
 - [Ciena YANG Modules](https://github.com/ciena/yang) — Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer, etc.). Actively ma (score: 0)
+- [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) — Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for SAOS6/SAOS8 devices an (score: 0)
 - [ciena.saos10](https://github.com/ciena/ciena.saos10) — Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, interfaces, classifiers, (score: 0)
 - [ciena.saos6](https://github.com/ciena/ciena.saos6) — Official Ciena Ansible Collection for SAOS 6.x devices. Automate management of legacy Ciena carrier ethernet appliances  (score: 0)
 - [ciena.saos8](https://github.com/ciena/ciena.saos8) — Official Ansible Collection for Ciena SAOS 8.x devices. Includes modules for running commands (saos8_command) and collec (score: 0)

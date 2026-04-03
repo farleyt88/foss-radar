@@ -1,6 +1,6 @@
 # Network Automation
 
-**253 tools** — sorted by relevance score.
+**254 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -36,6 +36,7 @@
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
 | 77 | [Diode](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconcil | — |
 | 77 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interfac | Nokia ✅ |
+| 77 | [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) | Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for SA | Ciena ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operation | Nokia ✅ |
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7 | Nokia ✅ |

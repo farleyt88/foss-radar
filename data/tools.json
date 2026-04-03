@@ -8025,5 +8025,30 @@
     "relevance_score": 17,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Ciena-SAOS Automation",
+    "url": "https://github.com/Akintund3/Ciena-SAOS",
+    "description": "Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for SAOS6/SAOS8 devices and backbone 100G/10G backhaul optical level health report generation (Excel output) for metro carrier ethernet networks. Practical day-2 operations scripts.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ciena",
+      "saos",
+      "saos6",
+      "saos8",
+      "carrier-ethernet",
+      "optical",
+      "automation",
+      "python"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2025-01-01",
+    "discovered": "2026-04-03",
+    "relevance_score": 77,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]
