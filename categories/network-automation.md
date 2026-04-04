@@ -192,7 +192,6 @@
 | 23 | [jdiff](https://github.com/networktocode/jdiff) | Python library for examining and comparing structured data (JSON). Useful for network config drift d | — |
 | 23 | [Nokia EDA](https://github.com/nokia-eda/docs) | Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driv | Nokia |
 | 23 | [nokia-eda-playground](https://github.com/nokia-eda/playground) | Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with | Nokia |
-| 23 | [selprotopy](https://github.com/engineerjoe440/selprotopy) | Python bindings for the SEL Protocol suite (Fast Meter, Fast Message, Fast Operate) used by Schweitz | SEL ✅ |
 | 21 | [hier_config](https://github.com/netdevops/hier_config) | Hierarchical Configuration - compare running config to intended config and build remediation steps. | — |
 | 21 | [ANTA](https://github.com/aristanetworks/anta) | Arista Network Test Automation - Python framework for automated device testing. | — |
 | 21 | [pyATS](https://github.com/CiscoTestAutomation/pyats) | Cisco's Python Automation Test System. Network test automation framework. | — |
@@ -259,4 +258,5 @@
 | 9 | [GNS3](https://github.com/GNS3/gns3-server) | Graphical Network Simulator-3. Emulate complex networks on commodity hardware. | — |
 | 9 | [Mininet](https://github.com/mininet/mininet) | Create realistic virtual networks with real kernel, switches, apps on single machine. | — |
 | 7 | [nokia-basic-dci-lab](https://github.com/srl-labs/nokia-basic-dci-lab) | Containerlab-based DCI lab with SR Linux leaf/spine and Nokia 7750 SR OS DC gateway and P routers. D | Nokia |
+| 6 | [selprotopy](https://github.com/engineerjoe440/selprotopy) | Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols — SEL Fast Meter | SEL ✅ |
 | 5 | [vrnetlab](https://github.com/vrnetlab/vrnetlab) | Run virtual routers in Docker for labbing, development and testing. | — |

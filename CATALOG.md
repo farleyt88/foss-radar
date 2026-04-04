@@ -344,7 +344,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SDC (sdctl)](https://github.com/sdcio/sdctl) — Schema Driven Configuration - cloud-native declarative config management for network devices using YANG schemas. Idempot (score: 0)
 - [Secure Cartography](https://github.com/scottpeterman/secure_cartography) — SSH & SNMP-based network discovery and topology mapping tool. Crawls infrastructure via CDP/LLDP, auto-generates topolog (score: 0)
 - [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) — Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. Parses and manipula (score: 0)
-- [selprotopy](https://github.com/engineerjoe440/selprotopy) — Python bindings for the SEL Protocol suite (Fast Meter, Fast Message, Fast Operate) used by Schweitzer Engineering Labor (score: 0)
+- [selprotopy](https://github.com/engineerjoe440/selprotopy) — Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols — SEL Fast Meter, SEL Fast Message,  (score: 0)
 - [shconfparser](https://github.com/network-tools/shconfparser) — Network configuration parser that translates show command outputs from Cisco and other vendors into structured tree, tab (score: 0)
 - [SR Linux Controller](https://github.com/srl-labs/srl-controller) — Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topologies. Native k8s int (score: 0)
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)

@@ -6781,25 +6781,27 @@
   {
     "name": "selprotopy",
     "url": "https://github.com/engineerjoe440/selprotopy",
-    "description": "Python bindings for the SEL Protocol suite (Fast Meter, Fast Message, Fast Operate) used by Schweitzer Engineering Laboratories protective relays and IEDs. Enables programmatic communication with SEL devices for data collection, monitoring, and control. Directly relevant for utility environments with SEL ICON and RTAC equipment. Community-developed, Apache 2.0 licensed.",
+    "description": "Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols \u2014 SEL Fast Meter, SEL Fast Message, and SEL Fast Operate. Enables programmatic interaction with SEL protective relays and IEDs. Community-maintained, MIT licensed. Directly relevant for utility environments with SEL ICON and RTAC devices.",
     "category": "Network Automation",
     "stars": 18,
     "topics": [
-      "protocol",
+      "sel",
+      "schweitzer-engineering",
       "protocol-bindings",
       "python",
-      "schweitzer-engineering-laboratories",
-      "sel-protocol",
       "utility",
-      "protective-relay"
+      "protective-relay",
+      "ied"
     ],
+    "language": "Python",
+    "license": "MIT",
     "vendors": [
       "SEL"
     ],
+    "updated": "2024-05-01",
+    "discovered": "2026-04-04",
+    "relevance_score": 6,
     "vendor_verified": true,
-    "updated": "2025-08-01",
-    "discovered": "2026-03-16",
-    "relevance_score": 23,
     "source": "foss-radar-scan"
   },
   {
