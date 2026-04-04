@@ -8050,5 +8050,46 @@
     "relevance_score": 77,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "L0p4Map",
+    "url": "https://github.com/HaxL0p4/L0p4Map",
+    "description": "Network monitoring and visualization tool combining high-speed ARP discovery with nmap integration and real-time interactive topology engine. Works on local networks and custom IPs/websites. Python 3.11+, Linux.",
+    "category": "Monitoring & Observability",
+    "stars": 5,
+    "topics": [
+      "network-monitoring",
+      "topology",
+      "visualization",
+      "nmap",
+      "arp-discovery",
+      "python"
+    ],
+    "updated": "2026-04-01",
+    "discovered": "2026-04-04",
+    "relevance_score": 37,
+    "vendor_verified": false
+  },
+  {
+    "name": "HybridOps Core",
+    "url": "https://github.com/hybridops-tech/hybridops-core",
+    "description": "Contract-driven automation platform for hybrid infrastructure across Proxmox, Hetzner, GCP, AWS, Azure and local. 68 modules, 24 blueprints. Uses NetBox as IPAM/inventory source of truth, supports EVE-NG labs, VyOS HA, BGP peering, RKE2 Kubernetes, PostgreSQL HA. CLI-driven with Terragrunt/Ansible/Packer drivers.",
+    "category": "Infrastructure Automation",
+    "stars": 15,
+    "topics": [
+      "infrastructure-as-code",
+      "hybrid-cloud",
+      "automation",
+      "netbox",
+      "ansible",
+      "terragrunt",
+      "eve-ng",
+      "vyos",
+      "bgp"
+    ],
+    "updated": "2026-04-03",
+    "discovered": "2026-04-04",
+    "relevance_score": 51,
+    "vendor_verified": false
   }
 ]

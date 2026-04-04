@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**411 tools** across 35 categories.
+**413 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -41,6 +41,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Infrastructure / Self-Hosted** (1)
 - **Infrastructure Management** (1)
 - **Monitoring** (1)
+- **Monitoring & Observability** (1)
+- **Infrastructure Automation** (1)
 
 ---
 
@@ -85,6 +87,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [Eneru](https://github.com/m4r1k/Eneru) — Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdown orchestration, Dis (score: 0)
 
+## Infrastructure Automation
+
+- [HybridOps Core](https://github.com/hybridops-tech/hybridops-core) — Contract-driven automation platform for hybrid infrastructure across Proxmox, Hetzner, GCP, AWS, Azure and local. 68 mod (score: 0)
+
 ## Infrastructure Management
 
 - [RackPeek](https://github.com/Timmoth/RackPeek) — CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-discovers devices, generate (score: 0)
@@ -109,6 +115,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Monitoring
 
 - [NMS_Tools](https://github.com/Linktech-Engineering-LLC/NMS_Tools) — Collection of deterministic, audit-transparent network monitoring and infrastructure validation tools. Includes TLS cert (score: 0)
+
+## Monitoring & Observability
+
+- [L0p4Map](https://github.com/HaxL0p4/L0p4Map) — Network monitoring and visualization tool combining high-speed ARP discovery with nmap integration and real-time interac (score: 0)
 
 ## Network Analysis
 
