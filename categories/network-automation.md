@@ -1,6 +1,6 @@
 # Network Automation
 
-**254 tools** — sorted by relevance score.
+**255 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -139,6 +139,7 @@
 | 35 | [circuit-maintenance-parser](https://github.com/networktocode/circuit-maintenance-parser) | Parses circuit maintenance notification emails from ISP/carrier NOC teams (Zayo, Verizon, Lumen, Cog | — |
 | 35 | [ygotsrl](https://github.com/srl-labs/ygotsrl) | Go API for Nokia SR Linux Network OS generated with ygot (YANG Go Tools). Provides type-safe Go stru | Nokia |
 | 35 | [nautobot-app-device-onboarding](https://github.com/nautobot/nautobot-app-device-onboarding) | Official Nautobot app for automated device onboarding. Uses netmiko and NAPALM to SSH into a device  | — |
+| 35 | [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) | NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfa | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |

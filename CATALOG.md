@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**416 tools** across 37 categories.
+**419 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (254)
-- **Observability** (86)
+- **Network Automation** (255)
+- **Observability** (88)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -244,6 +244,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetAI-MCP](https://github.com/pdudotdev/netaimcp) — Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for trouble (score: 0)
 - [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
 - [Netbox](https://github.com/netbox-community/netbox) — Network source of truth and IPAM. Infrastructure resource modeling for network automation. (score: 0)
+- [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) — NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfaces on the device de (score: 0)
 - [NetBox DeviceType Library](https://github.com/netbox-community/devicetype-library) — Community-sourced device type definitions for NetBox. 51 Ciena and 30 Nokia device types confirmed in library. Import di (score: 0)
 - [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) — NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managi (score: 0)
 - [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) — First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-onl (score: 0)
@@ -518,6 +519,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [privacynet](https://github.com/cwccie/privacynet) — Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, random), flow aggregatio (score: 0)
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)
 - [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) — SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. (score: 0)
+- [Retina](https://github.com/microsoft/retina) — eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visibility across cluster (score: 0)
 - [Scanlyne](https://github.com/Josperdo/scanlyne) — Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLite, and diffs subsequen (score: 0)
 - [SEC](https://github.com/simple-evcorr/sec) — Simple Event Correlator - Advanced event processing for log monitoring, security, fraud detection. (score: 0)
 - [ServiceRadar](https://github.com/carverauto/serviceradar) — Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constrained environments. Feat (score: 0)
@@ -525,6 +527,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
+- [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
 - [Steward](https://github.com/braedonsaunders/steward) — Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state,  (score: 0)

@@ -8157,5 +8157,68 @@
     "vendor_verified": false,
     "source": "foss-radar-scan",
     "relevance_score": 43
+  },
+  {
+    "name": "NetBox Device View",
+    "url": "https://github.com/peterbaumert/netbox-device-view",
+    "description": "NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfaces on the device detail page. Useful for faster rack/device inspection and documentation inside a NetBox-driven source-of-truth workflow.",
+    "category": "Network Automation",
+    "stars": 66,
+    "topics": [
+      "netbox",
+      "netbox-plugin",
+      "dcim",
+      "network-automation",
+      "python",
+      "documentation",
+      "device-visualization"
+    ],
+    "vendors": [],
+    "updated": "2026-04-05",
+    "discovered": "2026-04-05",
+    "relevance_score": 35,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Sparrow",
+    "url": "https://github.com/telekom/sparrow",
+    "description": "Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure network data for observability workflows; interesting lightweight option for self-hosted infrastructure visibility.",
+    "category": "Observability",
+    "stars": 23,
+    "topics": [
+      "observability",
+      "monitoring",
+      "network",
+      "infrastructure",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-05",
+    "discovered": "2026-04-05",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Retina",
+    "url": "https://github.com/microsoft/retina",
+    "description": "eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visibility across clusters; a strong fit for self-hosted infrastructure observability where containerized services or automation platforms need deeper network insight.",
+    "category": "Observability",
+    "stars": 3113,
+    "topics": [
+      "ebpf",
+      "kubernetes",
+      "networking",
+      "observability",
+      "network-observability",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-03",
+    "discovered": "2026-04-05",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
