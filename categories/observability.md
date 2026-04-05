@@ -1,6 +1,6 @@
 # Observability
 
-**83 tools** — sorted by relevance score.
+**86 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -41,15 +41,18 @@
 | 49 | [openGemini](https://github.com/openGemini/openGemini) | CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency | — |
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
+| 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |
 | 45 | [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) | Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targ | — |
 | 45 | [Fluere](https://github.com/SkuldNorniern/fluere) | Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v | — |
 | 43 | [Parseable](https://github.com/parseablehq/parseable) | Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Spl | — |
 | 43 | [Perses](https://github.com/perses/perses) | CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prome | — |
+| 43 | [snmpsim](https://github.com/etingof/snmpsim) | SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, aler | — |
 | 41 | [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) | SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. | — |
 | 41 | [advanced-network-topology-mapper](https://github.com/x0VIER/advanced-network-topology-mapper) | Extensible network discovery, visualization, and analysis framework. Uses multiple protocols (SNMP,  | — |
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |
 | 41 | [Ask O11y](https://github.com/Consensys/ask-o11y-plugin) | AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Temp | — |
+| 41 | [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) | Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric  | — |
 | 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (P | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, an | — |
 | 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero depe | — |

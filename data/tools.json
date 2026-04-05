@@ -8093,5 +8093,69 @@
     "discovered": "2026-04-04",
     "relevance_score": 51,
     "vendor_verified": false
+  },
+  {
+    "name": "OpenBMP Collector",
+    "url": "https://github.com/OpenBMP/obmp-collector",
+    "description": "BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale route visibility pipelines for BGP monitoring, analytics, and transport routing observability.",
+    "category": "Observability",
+    "stars": 30,
+    "topics": [
+      "bmp",
+      "bgp",
+      "route-monitoring",
+      "telemetry",
+      "network-observability",
+      "transport-engineering"
+    ],
+    "vendors": [],
+    "updated": "2026-01-14",
+    "discovered": "2026-04-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 47
+  },
+  {
+    "name": "OpenWISP Monitoring",
+    "url": "https://github.com/openwisp/openwisp-monitoring",
+    "description": "Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visualization for managed infrastructure; useful as a self-hosted monitoring layer for distributed networks.",
+    "category": "Observability",
+    "stars": 228,
+    "topics": [
+      "monitoring",
+      "networking",
+      "django",
+      "python",
+      "metrics",
+      "alerts",
+      "self-hosted",
+      "openwisp"
+    ],
+    "vendors": [],
+    "updated": "2026-03-30",
+    "discovered": "2026-04-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 41
+  },
+  {
+    "name": "snmpsim",
+    "url": "https://github.com/etingof/snmpsim",
+    "description": "SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP polling workflows without needing live network hardware.",
+    "category": "Observability",
+    "stars": 448,
+    "topics": [
+      "snmp",
+      "snmp-simulator",
+      "network-monitoring",
+      "testing",
+      "python"
+    ],
+    "vendors": [],
+    "updated": "2026-04-01",
+    "discovered": "2026-04-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 43
   }
 ]

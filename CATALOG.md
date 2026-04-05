@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**413 tools** across 37 categories.
+**416 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (254)
-- **Observability** (83)
+- **Observability** (86)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -501,12 +501,14 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pag (score: 0)
+- [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) — BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale r (score: 0)
 - [openGemini](https://github.com/openGemini/openGemini) — CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency, high performance,  (score: 0)
 - [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) — Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1 and v2 REST endpoint (score: 0)
 - [OpenNTI](https://github.com/Juniper/open-nti) — Containerized open network telemetry collector and visualization stack. Collects data from devices via CLI/Netconf, JTI  (score: 0)
 - [OpenObserve](https://github.com/openobserve/openobserve) — Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs v (score: 0)
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
+- [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) — Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visu (score: 0)
 - [Orb](https://github.com/orb-community/orb) — Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelines. Pushes analysis  (score: 0)
 - [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) — Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery solution. Pluggable (score: 0)
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
@@ -522,6 +524,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SigNoz](https://github.com/SigNoz/signoz) — Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hos (score: 0)
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
+- [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
 - [Steward](https://github.com/braedonsaunders/steward) — Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state,  (score: 0)
