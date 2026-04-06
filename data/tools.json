@@ -8356,5 +8356,65 @@
     "relevance_score": 95,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "damianoneill/net",
+    "url": "https://github.com/damianoneill/net",
+    "description": "Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, and CLI transport helpers. Useful building block for custom network automation against mixed legacy and model-driven environments.",
+    "category": "Network Automation",
+    "stars": 18,
+    "topics": [
+      "go",
+      "netconf",
+      "snmp",
+      "cli",
+      "ssh",
+      "yang",
+      "library"
+    ],
+    "updated": "2026-04-01",
+    "discovered": "2026-04-06",
+    "relevance_score": 65,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "SDC Config Server",
+    "url": "https://github.com/sdcio/config-server",
+    "description": "Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, target discovery, and configuration deployment through custom resources for declarative network automation workflows.",
+    "category": "Network Automation",
+    "stars": 13,
+    "topics": [
+      "cloud-native",
+      "configuration-management",
+      "netconf",
+      "network-automation",
+      "kubernetes",
+      "operator"
+    ],
+    "updated": "2026-04-06",
+    "discovered": "2026-04-06",
+    "relevance_score": 37,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetObserv eBPF Agent",
+    "url": "https://github.com/netobserv/netobserv-ebpf-agent",
+    "description": "eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linux hosts. Good fit for self-hosted infrastructure visibility and modern flow-based observability pipelines.",
+    "category": "Observability",
+    "stars": 200,
+    "topics": [
+      "ebpf",
+      "kubernetes",
+      "network-observability",
+      "linux",
+      "flow-visibility"
+    ],
+    "updated": "2026-04-06",
+    "discovered": "2026-04-06",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

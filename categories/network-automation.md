@@ -1,6 +1,6 @@
 # Network Automation
 
-**259 tools** — sorted by relevance score.
+**261 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -59,6 +59,7 @@
 | 65 | [ciena.saos8](https://github.com/ciena/ciena.saos8) | Official Ansible Collection for Ciena SAOS 8.x devices. Includes modules for running commands (saos8 | Ciena ✅ |
 | 65 | [twampy](https://github.com/nokia/twampy) | Official Nokia Python implementation of TWAMP (RFC 5357) and STAMP (RFC 8762, 8972) for active netwo | Nokia ✅ |
 | 65 | [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) | Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to networ | Nokia ✅ |
+| 65 | [damianoneill/net](https://github.com/damianoneill/net) | Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, | — |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
@@ -133,6 +134,7 @@
 | 37 | [netcfgbu](https://github.com/jeremyschulman/netcfgbu) | Async network configuration backup tool using SSH. Multi-vendor support for any NOS with monolithic  | — |
 | 37 | [network-mcp](https://github.com/latticio/network-mcp) | AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, C | — |
 | 37 | [VyManager](https://github.com/Community-VyProjects/VyManager) | Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers.  | — |
+| 37 | [SDC Config Server](https://github.com/sdcio/config-server) | Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, targ | — |
 | 36 | [Trigger](https://github.com/trigger/trigger) | Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports S | — |
 | 35 | [Icinga](https://github.com/Icinga/icinga2) | Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend predictio | — |
 | 35 | [yangson](https://github.com/CZ-NIC/yangson) | YANG data modeling language parser and validator. JSON instance validation against YANG schemas. | — |

@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**425 tools** across 37 categories.
+**428 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (259)
-- **Observability** (90)
+- **Network Automation** (261)
+- **Observability** (91)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -167,6 +167,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
 - [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
+- [damianoneill/net](https://github.com/damianoneill/net) — Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, and CLI transport h (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
 - [DigSiNet](https://github.com/srieger1/digsinet) — Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network topology using contain (score: 0)
 - [Diode](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that a (score: 0)
@@ -347,6 +348,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Schema Enforcer](https://github.com/networktocode/schema-enforcer) — Validate structured data against schemas. Network config data validation. (score: 0)
 - [scrapli](https://github.com/carlmontanari/scrapli) — Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. (score: 0)
 - [SDC (sdctl)](https://github.com/sdcio/sdctl) — Schema Driven Configuration - cloud-native declarative config management for network devices using YANG schemas. Idempot (score: 0)
+- [SDC Config Server](https://github.com/sdcio/config-server) — Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, target discovery, and co (score: 0)
 - [Secure Cartography](https://github.com/scottpeterman/secure_cartography) — SSH & SNMP-based network discovery and topology mapping tool. Crawls infrastructure via CDP/LLDP, auto-generates topolog (score: 0)
 - [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) — Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. Parses and manipula (score: 0)
 - [selprotopy](https://github.com/engineerjoe440/selprotopy) — Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols — SEL Fast Meter, SEL Fast Message,  (score: 0)
@@ -500,6 +502,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) — NetBox plugin for network topology visualization. D3.js based diagrams. (score: 0)
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integratio (score: 0)
 - [NetGraf](https://github.com/esnet/netgraf) — End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and device-level data fr (score: 0)
+- [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) — eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linux hosts. Good fit fo (score: 0)
 - [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) — Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS performance, and optional b (score: 0)
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)
 - [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) — Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Trac (score: 0)
