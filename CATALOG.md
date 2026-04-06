@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**422 tools** across 37 categories.
+**425 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (256)
+- **Network Automation** (259)
 - **Observability** (90)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -145,6 +145,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Capirca](https://github.com/google/capirca) — Google's multi-platform ACL generation system. Output Juniper/IOS/etc ACLs from same policy. (score: 0)
 - [cawk](https://github.com/cedricllorens/cawk) — Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no additional language (score: 0)
 - [Cidr](https://github.com/renard/cidr) — Cidr Is not as Dumb as Rancid. Simple network device config backup tool. (score: 0)
+- [Ciena gNMI C++ Client](https://github.com/ciena/gNMI-cpp-client) — Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for building or testing gNMI (score: 0)
 - [Ciena YANG Modules](https://github.com/ciena/yang) — Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer, etc.). Actively ma (score: 0)
 - [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) — Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for SAOS6/SAOS8 devices an (score: 0)
 - [ciena.saos10](https://github.com/ciena/ciena.saos10) — Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, interfaces, classifiers, (score: 0)
@@ -283,8 +284,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
+- [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) — Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting S (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
 - [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
+- [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) — Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and module (score: 0)
 - [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, (score: 0)
 - [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) — Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state models, tagged by r (score: 0)
 - [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) — Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli_command modules, de (score: 0)

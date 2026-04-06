@@ -8285,5 +8285,76 @@
     "relevance_score": 39,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia OpenConfig Ansible Collection",
+    "url": "https://github.com/nokia/openconfig-ansible-collection",
+    "description": "Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and modules for devices exposing OpenConfig gRPC APIs; validated against Nokia SR OS and SR Linux.",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "ansible",
+      "openconfig",
+      "gnmi",
+      "grpc",
+      "nokia",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-11-26",
+    "discovered": "2026-04-06",
+    "relevance_score": 95,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia NAPALM SR Linux Driver",
+    "url": "https://github.com/nokia/napalm-srlinux",
+    "description": "Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting SR Linux fit into existing NAPALM-based automation workflows.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "napalm",
+      "nokia",
+      "sr-linux",
+      "gnmi",
+      "json-rpc",
+      "network-automation",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-11-27",
+    "discovered": "2026-04-06",
+    "relevance_score": 75,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Ciena gNMI C++ Client",
+    "url": "https://github.com/ciena/gNMI-cpp-client",
+    "description": "Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for building or testing gNMI/OpenConfig integrations against Ciena-managed telemetry and automation workflows.",
+    "category": "Network Automation",
+    "stars": 5,
+    "topics": [
+      "ciena",
+      "gnmi",
+      "openconfig",
+      "grpc",
+      "cpp",
+      "telemetry",
+      "network-automation"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2026-01-21",
+    "discovered": "2026-04-06",
+    "relevance_score": 95,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

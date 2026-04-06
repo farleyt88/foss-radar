@@ -1,6 +1,6 @@
 # Network Automation
 
-**256 tools** — sorted by relevance score.
+**259 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -15,6 +15,8 @@
 | 98 | [gnmic](https://github.com/openconfig/gnmic) | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✅ |
 | 95 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI t | Nokia ✅ |
 | 95 | [Ciena YANG Modules](https://github.com/ciena/yang) | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer | Ciena ✅ |
+| 95 | [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) | Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connectio | Nokia ✅ |
+| 95 | [Ciena gNMI C++ Client](https://github.com/ciena/gNMI-cpp-client) | Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for buil | Ciena ✅ |
 | 93 | [ncclient](https://github.com/ncclient/ncclient) | Python library for NETCONF clients. The standard NETCONF library for Python. | Nokia ✅ |
 | 91 | [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) | Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational  | Nokia ✅ |
 | 91 | [ciena.waveserver5](https://github.com/ciena/ciena.waveserver5) | Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF-ba | Ciena ✅ |
@@ -41,6 +43,7 @@
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7 | Nokia ✅ |
 | 75 | [ciena.waveserverai](https://github.com/ciena/ciena.waveserverai) | Ansible Collection for Ciena Waveserver Ai optical platforms. Supports NETCONF connection for automa | Ciena ✅ |
+| 75 | [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) | Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set o | Nokia ✅ |
 | 73 | [TransportPCE](https://github.com/opendaylight/transportpce) | OpenDaylight-based open-source controller for optical transport networks. Implements path computatio | — |
 | 71 | [xNMS](https://github.com/xmas-ar/xNMS) | Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link ser | — |
 | 71 | [moler](https://github.com/nokia/moler) | Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command- | Nokia ✅ |
