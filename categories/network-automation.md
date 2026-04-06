@@ -1,6 +1,6 @@
 # Network Automation
 
-**255 tools** — sorted by relevance score.
+**256 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -118,6 +118,7 @@
 | 39 | [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) | First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike t | — |
 | 39 | [rustbgpd](https://github.com/lance0/rustbgpd) | API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack | — |
 | 39 | [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) | Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers te | — |
+| 39 | [ExaBGP](https://github.com/Exa-Networks/exabgp) | Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route anno | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |

@@ -1,6 +1,6 @@
 # Observability
 
-**88 tools** — sorted by relevance score.
+**90 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -31,6 +31,7 @@
 | 56 | [Keep](https://github.com/keephq/keep) | Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with | — |
 | 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pager | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
+| 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and  | — |
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling i | Nokia, Ciena |
@@ -40,6 +41,7 @@
 | 51 | [Kubeshark](https://github.com/kubeshark/kubeshark) | Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, | — |
 | 49 | [openGemini](https://github.com/openGemini/openGemini) | CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency | — |
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
+| 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |

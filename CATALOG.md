@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**419 tools** across 37 categories.
+**422 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (255)
-- **Observability** (88)
+- **Network Automation** (256)
+- **Observability** (90)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -177,6 +177,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [eNMS](https://github.com/eNMS-automation/eNMS) — Vendor-agnostic NMS for carrier-grade network visualization and automation. (score: 0)
 - [EVE-NG](https://github.com/SmartFinn/eve-ng-integration) — Emulated Virtual Environment for Network, Security and DevOps professionals. (score: 0)
 - [evpn-ninja](https://github.com/ashimov/evpn-ninja) — Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate VNI, MTU, RD/RT val (score: 0)
+- [ExaBGP](https://github.com/Exa-Networks/exabgp) — Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route announcements, health-ch (score: 0)
 - [f5-common-python](https://github.com/F5Networks/f5-common-python) — Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. (score: 0)
 - [FakeNOS](https://github.com/fakenos/fakenos) — Simulate network operating systems programmatically. Great for testing automation. (score: 0)
 - [fetchconfig](https://github.com/udhos/fetchconfig) — Perl script for retrieving configuration of multiple network devices. (score: 0)
@@ -476,6 +477,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [GtExporter](https://github.com/automixer/gtexporter) — YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-compliant devices and e (score: 0)
 - [inet-henge](https://github.com/codeout/inet-henge) — Generate d3.js network diagrams from JSON. Interactive network topology visualization. (score: 0)
 - [InfluxDB](https://github.com/influxdata/influxdb) — Time-series database for metrics, events, and real-time analytics. (score: 0)
+- [IPFIXcol2](https://github.com/CESNET/ipfixcol2) — High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture with enterprise-focus (score: 0)
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) — Tracks IS-IS topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [Keep](https://github.com/keephq/keep) — Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with deduplication, corr (score: 0)
 - [Kubeshark](https://github.com/kubeshark/kubeshark) — Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, Redis, Kafka, DNS)  (score: 0)
@@ -538,6 +540,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)
 - [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) — Modern network weathermap web application showing link utilization, optical power, and link health on logical maps. Auto (score: 0)
+- [xenoeye](https://github.com/vmxdev/xenoeye) — Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and Grafana integration. (score: 0)
 
 ## Reference
 
