@@ -1,6 +1,6 @@
 # Network Automation
 
-**262 tools** — sorted by relevance score.
+**265 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -151,6 +151,7 @@
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |
 | 33 | [DigSiNet](https://github.com/srieger1/digsinet) | Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network to | — |
+| 33 | [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) | Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Noki | Nokia |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
 | 31 | [NSoT](https://github.com/dropbox/nsot) | Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. | — |
@@ -183,6 +184,7 @@
 | 27 | [rauto](https://github.com/demohiiiii/rauto) | Rust CLI for network automation using Jinja2 templates and robust SSH. Supports Cisco, Huawei, Junip | Cisco, Huawei, Juniper |
 | 27 | [shconfparser](https://github.com/network-tools/shconfparser) | Network configuration parser that translates show command outputs from Cisco and other vendors into  | — |
 | 27 | [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) | Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for | Nokia |
+| 27 | [sros](https://github.com/g0053/sros) | Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automati | Nokia |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco A | — |
@@ -214,6 +216,7 @@
 | 21 | [nokia-sros-maintenance-scripts](https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts) | Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash s | Nokia |
 | 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate | Nokia |
 | 21 | [rneter](https://github.com/demohiiiii/rneter) | High-performance Rust library for network automation SSH with intelligent connection pooling, automa | — |
+| 21 | [mcp-api-sros](https://github.com/drupertifranco/mcp-api-sros) | FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HT | Nokia |
 | 20 | [batfish](https://github.com/batfish/batfish) | Network configuration analysis. Validate configs, test changes, find bugs before deployment. | — |
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |

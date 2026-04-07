@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**431 tools** across 37 categories.
+**434 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (262)
+- **Network Automation** (265)
 - **Observability** (93)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -158,6 +158,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) — Parse, audit, query, build, and modify Cisco IOS-style configurations. (score: 0)
 - [clab-api-server](https://github.com/srl-labs/clab-api-server) — RESTful API server for Containerlab. Programmatic lab management: deploy, destroy, inspect labs. Node SSH access, CLOS t (score: 0)
 - [clab-io-draw](https://github.com/srl-labs/clab-io-draw) — Bi-directional conversion between Containerlab YAML files and Draw.io diagrams. Includes clab2drawio and drawio2clab too (score: 0)
+- [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) — Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Nokia 7750 SR OS lab top (score: 0)
 - [clicrud](https://github.com/davidjohngee/clicrud) — Brocade specific CLI driver (MLX/VDX/ICX/CER/CES) for Telnet & SSH. (score: 0)
 - [Clixon](https://github.com/clicon/clixon) — YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendors (Netgate, Ceragon) (score: 0)
 - [Clixon Controller](https://github.com/clicon/clixon-controller) — Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device profiles, Python API f (score: 0)
@@ -220,6 +221,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [libiec61850](https://github.com/mz-automation/libiec61850) — Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, GOOSE, and Sampled Value (score: 0)
 - [libyang](https://github.com/CESNET/libyang) — YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2, and libnetconf2. Par (score: 0)
 - [lighty.io](https://github.com/PANTHEONtech/lighty) — Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime without Karaf overhea (score: 0)
+- [mcp-api-sros](https://github.com/drupertifranco/mcp-api-sros) — FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HTTP and MCP interface (score: 0)
 - [mcp-server-sros](https://github.com/mohamedhafez87/mcp-server-sros) — MCP (Model Context Protocol) server for Nokia SR OS devices. Provides AI-accessible tools for viewing operational state  (score: 0)
 - [MCPyATS](https://github.com/automateyournetwork/MCPyATS) — VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, and Cisco pyATS into a (score: 0)
 - [meshnet-cni](https://github.com/networkop/meshnet-cni) — Kubernetes CNI plugin to create arbitrary network topologies using point-to-point links (veth, vxlan, macvlan). Uses etc (score: 0)
@@ -361,6 +363,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [srlconv](https://github.com/srl-labs/srlconv) — Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG mod (score: 0)
 - [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) — Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux — mon (score: 0)
 - [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) — SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux devices via the Scrapli (score: 0)
+- [sros](https://github.com/g0053/sros) — Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automation against TiMOS-bas (score: 0)
 - [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) — Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS  (score: 0)
 - [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) — ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Algo slicing, gNMIc str (score: 0)
 - [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) — Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for bootstrapping autom (score: 0)

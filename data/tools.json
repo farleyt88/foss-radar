@@ -8476,5 +8476,74 @@
     "vendor_verified": false,
     "vendors": [],
     "relevance_score": 37
+  },
+  {
+    "name": "mcp-api-sros",
+    "url": "https://github.com/drupertifranco/mcp-api-sros",
+    "description": "FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HTTP and MCP interfaces for add/delete prefix operations and is aimed at n8n-style automation integration.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "nokia",
+      "sros",
+      "mcp",
+      "fastapi",
+      "python",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-07",
+    "relevance_score": 21,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "sros",
+    "url": "https://github.com/g0053/sros",
+    "description": "Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automation against TiMOS-based 7750 systems.",
+    "category": "Network Automation",
+    "stars": 9,
+    "topics": [
+      "nokia",
+      "sros",
+      "7750",
+      "netmiko",
+      "python",
+      "cli-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-07",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "clab-nokia-ip-automation",
+    "url": "https://github.com/yusufziyaunel/clab-nokia-ip-automation",
+    "description": "Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Nokia 7750 SR OS lab topologies. Useful for repeatable SR OS lab bring-up and validation workflows.",
+    "category": "Network Automation",
+    "stars": 2,
+    "topics": [
+      "nokia",
+      "sros",
+      "containerlab",
+      "ansible",
+      "python",
+      "network-lab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-07",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
