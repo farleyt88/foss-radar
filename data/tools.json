@@ -8416,5 +8416,65 @@
     "relevance_score": 33,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NMIS 9",
+    "url": "https://github.com/Opmantek/nmis9",
+    "description": "Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, extensible GUI, and long-running production maturity. Good fit for self-hosted infrastructure monitoring and legacy-friendly network operations.",
+    "category": "Observability",
+    "stars": 53,
+    "topics": [
+      "snmp",
+      "network-management",
+      "monitoring",
+      "observability",
+      "self-hosted",
+      "performance"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-06",
+    "vendor_verified": false,
+    "vendors": [],
+    "relevance_score": 45
+  },
+  {
+    "name": "snmp_notifier",
+    "url": "https://github.com/maxwo/snmp_notifier",
+    "description": "Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitoring needs to feed legacy NMS or trap-based workflows still common in transport and utility environments.",
+    "category": "Observability",
+    "stars": 70,
+    "topics": [
+      "snmp",
+      "prometheus",
+      "alertmanager",
+      "traps",
+      "network-monitoring",
+      "legacy-integration"
+    ],
+    "updated": "2026-04-06",
+    "discovered": "2026-04-06",
+    "vendor_verified": false,
+    "vendors": [],
+    "relevance_score": 37
+  },
+  {
+    "name": "EzSnmp",
+    "url": "https://github.com/carlkidcrypto/ezsnmp",
+    "description": "Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ and helps keep SNMP polling and automation workflows viable without relying on an abandoned package.",
+    "category": "Network Automation",
+    "stars": 33,
+    "topics": [
+      "snmp",
+      "python",
+      "net-snmp",
+      "network-automation",
+      "monitoring",
+      "library"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-06",
+    "vendor_verified": false,
+    "vendors": [],
+    "relevance_score": 37
   }
 ]

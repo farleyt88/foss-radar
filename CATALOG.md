@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**428 tools** across 37 categories.
+**431 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (261)
-- **Observability** (91)
+- **Network Automation** (262)
+- **Observability** (93)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -180,6 +180,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [EVE-NG](https://github.com/SmartFinn/eve-ng-integration) — Emulated Virtual Environment for Network, Security and DevOps professionals. (score: 0)
 - [evpn-ninja](https://github.com/ashimov/evpn-ninja) — Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate VNI, MTU, RD/RT val (score: 0)
 - [ExaBGP](https://github.com/Exa-Networks/exabgp) — Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route announcements, health-ch (score: 0)
+- [EzSnmp](https://github.com/carlkidcrypto/ezsnmp) — Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ and helps keep SNMP po (score: 0)
 - [f5-common-python](https://github.com/F5Networks/f5-common-python) — Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. (score: 0)
 - [FakeNOS](https://github.com/fakenos/fakenos) — Simulate network operating systems programmatically. Great for testing automation. (score: 0)
 - [fetchconfig](https://github.com/udhos/fetchconfig) — Perl script for retrieving configuration of multiple network devices. (score: 0)
@@ -508,6 +509,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) — Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Trac (score: 0)
 - [network-observability-lab](https://github.com/network-observability/network-observability-lab) — Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collection, Prometheus, Gra (score: 0)
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
+- [NMIS 9](https://github.com/Opmantek/nmis9) — Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, e (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pag (score: 0)
 - [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) — BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale r (score: 0)
@@ -534,6 +536,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SigNoz](https://github.com/SigNoz/signoz) — Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hos (score: 0)
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
+- [snmp_notifier](https://github.com/maxwo/snmp_notifier) — Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitor (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)

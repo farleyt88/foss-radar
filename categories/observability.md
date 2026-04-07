@@ -1,6 +1,6 @@
 # Observability
 
-**91 tools** — sorted by relevance score.
+**93 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -47,6 +47,7 @@
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |
 | 45 | [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) | Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targ | — |
 | 45 | [Fluere](https://github.com/SkuldNorniern/fluere) | Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v | — |
+| 45 | [NMIS 9](https://github.com/Opmantek/nmis9) | Flexible open-source Network Management System with distributed SNMP polling, performance and availa | — |
 | 43 | [Parseable](https://github.com/parseablehq/parseable) | Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Spl | — |
 | 43 | [Perses](https://github.com/perses/perses) | CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prome | — |
 | 43 | [snmpsim](https://github.com/etingof/snmpsim) | SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, aler | — |
@@ -68,6 +69,7 @@
 | 37 | [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) | Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS perform | — |
 | 37 | [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) | Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1  | — |
 | 37 | [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) | Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics ex | — |
+| 37 | [snmp_notifier](https://github.com/maxwo/snmp_notifier) | Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prom | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash,  | — |
 | 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network da | — |
