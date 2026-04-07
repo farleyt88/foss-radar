@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**434 tools** across 37 categories.
+**436 tools** across 37 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (265)
-- **Observability** (93)
+- **Network Automation** (266)
+- **Observability** (94)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -223,6 +223,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [lighty.io](https://github.com/PANTHEONtech/lighty) — Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime without Karaf overhea (score: 0)
 - [mcp-api-sros](https://github.com/drupertifranco/mcp-api-sros) — FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HTTP and MCP interface (score: 0)
 - [mcp-server-sros](https://github.com/mohamedhafez87/mcp-server-sros) — MCP (Model Context Protocol) server for Nokia SR OS devices. Provides AI-accessible tools for viewing operational state  (score: 0)
+- [MCP-Telecom](https://github.com/Avinash-Amudala/MCP-Telecom) — MCP server for network equipment that gives AI agents read-only access to Nokia SR OS, Cisco IOS-XR, Juniper Junos, Aris (score: 0)
 - [MCPyATS](https://github.com/automateyournetwork/MCPyATS) — VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, and Cisco pyATS into a (score: 0)
 - [meshnet-cni](https://github.com/networkop/meshnet-cni) — Kubernetes CNI plugin to create arbitrary network topologies using point-to-point links (veth, vxlan, macvlan). Uses etc (score: 0)
 - [Mininet](https://github.com/mininet/mininet) — Create realistic virtual networks with real kernel, switches, apps on single machine. (score: 0)
@@ -480,6 +481,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
 - [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) — Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targets, exports to othe (score: 0)
 - [gNMIc Operator](https://github.com/gnmic/operator) — Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry infrastructure as C (score: 0)
+- [gnp-stack](https://github.com/gnp-stack/gnp-stack) — gNMIc-NATS-Prometheus Stack for network telemetry. Open proof-of-concept stack focused on making streaming telemetry eas (score: 0)
 - [gNPSI](https://github.com/openconfig/gnpsi) — gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-based streaming packet (score: 0)
 - [GoFlow2](https://github.com/netsampler/goflow2) — High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's original GoFlow. In (score: 0)
 - [Grafana Alloy](https://github.com/grafana/alloy) — Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipelines. Unified agent for (score: 0)

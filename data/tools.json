@@ -8545,5 +8545,52 @@
     "relevance_score": 33,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "MCP-Telecom",
+    "url": "https://github.com/Avinash-Amudala/MCP-Telecom",
+    "description": "MCP server for network equipment that gives AI agents read-only access to Nokia SR OS, Cisco IOS-XR, Juniper Junos, Arista EOS, and Cisco NX-OS via SSH, NETCONF, gNMI, and SNMP. Includes topology discovery, compliance checks, and multi-device parallel queries.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "mcp",
+      "network-automation",
+      "nokia",
+      "netconf",
+      "gnmi",
+      "snmp",
+      "telecom"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-07",
+    "relevance_score": 59,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "gnp-stack",
+    "url": "https://github.com/gnp-stack/gnp-stack",
+    "description": "gNMIc-NATS-Prometheus Stack for network telemetry. Open proof-of-concept stack focused on making streaming telemetry easier to deploy, with an initial emphasis on Nokia SR Linux and Arista EOS and planned support for Juniper and Nokia SR OS.",
+    "category": "Observability",
+    "stars": 16,
+    "topics": [
+      "gnmi",
+      "telemetry",
+      "prometheus",
+      "nats",
+      "network-observability",
+      "containerlab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-04-07",
+    "relevance_score": 45,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
