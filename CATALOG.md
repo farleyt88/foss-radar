@@ -1,6 +1,6 @@
 # FOSS Radar — Tool Catalog
 
-**439 tools** across 38 categories.
+**442 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
@@ -19,20 +19,20 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Testing** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
+- **Timing & Synchronization** (3)
 - **MCP / AI Integration** (3)
 - **Data Management** (2)
 - **Infrastructure** (2)
 - **Network Operations** (2)
 - **Network Lab** (2)
+- **Lab / Testing** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
 - **Network Visualization** (1)
 - **Standards & Models** (1)
 - **Network Discovery** (1)
-- **Lab / Testing** (1)
 - **Traffic Engineering** (1)
-- **Timing & Synchronization** (1)
 - **Network OS / Infrastructure** (1)
 - **Documentation & Diagramming** (1)
 - **Network Analysis** (1)
@@ -106,6 +106,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Lab / Testing
 
 - [multivendor-evpn-lab](https://github.com/srl-labs/multivendor-evpn-lab) — Containerlab-based multivendor EVPN lab topology. Spins up Nokia SROS (route reflectors), Nokia SR Linux (leaf), Arista  (score: 0)
+- [Nokia Segment Routing Lab](https://github.com/srl-labs/nokia-segment-routing-lab) — Containerlab-based Nokia lab demonstrating Segment Routing Flex-Algo use cases. Useful for testing transport path engine (score: 0)
 
 ## MCP / AI Integration
 
@@ -585,6 +586,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Timing & Synchronization
 
+- [linuxptp](https://github.com/richardcochran/linuxptp) — User-space implementation of IEEE 1588 Precision Time Protocol for Linux. Includes ptp4l, phc2sys, pmc, and ts2phc for g (score: 0)
+- [rkik](https://github.com/aguacero7/rkik) — Rusty Klock Inspection Kit — Rust CLI for stateless inspection of NTP, NTS, and PTP sources. Handy for validating timing (score: 0)
 - [Statime](https://github.com/pendulum-project/statime) — A full Rust implementation of IEEE 1588 Precision Time Protocol (PTP). Supports ordinary clock, boundary clock, and tran (score: 0)
 
 ## Traffic Engineering

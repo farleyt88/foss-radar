@@ -8665,5 +8665,69 @@
     "relevance_score": 21,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "linuxptp",
+    "url": "https://github.com/richardcochran/linuxptp",
+    "description": "User-space implementation of IEEE 1588 Precision Time Protocol for Linux. Includes ptp4l, phc2sys, pmc, and ts2phc for grandmaster/slave synchronization, PHC discipline, management queries, and telecom-grade time sync workflows. Highly relevant for transport networks where PTP underpins frequency and phase sync.",
+    "category": "Timing & Synchronization",
+    "stars": 371,
+    "topics": [
+      "ptp",
+      "ieee1588",
+      "time-synchronization",
+      "linux",
+      "telecom",
+      "timing"
+    ],
+    "updated": "2026-03-13",
+    "discovered": "2026-04-08",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia Segment Routing Lab",
+    "url": "https://github.com/srl-labs/nokia-segment-routing-lab",
+    "description": "Containerlab-based Nokia lab demonstrating Segment Routing Flex-Algo use cases. Useful for testing transport path engineering scenarios and validating SR concepts in a reproducible Nokia-centric lab before touching production.",
+    "category": "Lab / Testing",
+    "stars": 31,
+    "topics": [
+      "nokia",
+      "segment-routing",
+      "flex-algo",
+      "containerlab",
+      "transport",
+      "network-lab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2023-05-24",
+    "discovered": "2026-04-08",
+    "relevance_score": 54,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "rkik",
+    "url": "https://github.com/aguacero7/rkik",
+    "description": "Rusty Klock Inspection Kit \u2014 Rust CLI for stateless inspection of NTP, NTS, and PTP sources. Handy for validating timing sources, clock quality, and protocol behavior from Linux hosts without deploying a full monitoring stack. Useful for telecom timing troubleshooting and sync verification.",
+    "category": "Timing & Synchronization",
+    "stars": 56,
+    "topics": [
+      "ptp",
+      "ntp",
+      "nts",
+      "timing",
+      "diagnostics",
+      "rust",
+      "cli"
+    ],
+    "updated": "2026-03-31",
+    "discovered": "2026-04-08",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
