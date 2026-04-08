@@ -1,6 +1,6 @@
 # Network Automation
 
-**266 tools** — sorted by relevance score.
+**267 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -203,6 +203,7 @@
 | 23 | [jdiff](https://github.com/networktocode/jdiff) | Python library for examining and comparing structured data (JSON). Useful for network config drift d | — |
 | 23 | [Nokia EDA](https://github.com/nokia-eda/docs) | Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driv | Nokia |
 | 23 | [nokia-eda-playground](https://github.com/nokia-eda/playground) | Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with | Nokia |
+| 23 | [iec61850_open_gateway](https://github.com/robidev/iec61850_open_gateway) | Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pa | — |
 | 21 | [hier_config](https://github.com/netdevops/hier_config) | Hierarchical Configuration - compare running config to intended config and build remediation steps. | — |
 | 21 | [ANTA](https://github.com/aristanetworks/anta) | Arista Network Test Automation - Python framework for automated device testing. | — |
 | 21 | [pyATS](https://github.com/CiscoTestAutomation/pyats) | Cisco's Python Automation Test System. Network test automation framework. | — |

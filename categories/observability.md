@@ -1,6 +1,6 @@
 # Observability
 
-**95 tools** — sorted by relevance score.
+**97 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -43,6 +43,7 @@
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
 | 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |
 | 49 | [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) | Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a t | Nokia |
+| 49 | [json-scada](https://github.com/riclolsen/json-scada) | Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC  | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |
@@ -59,6 +60,7 @@
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |
 | 41 | [Ask O11y](https://github.com/Consensys/ask-o11y-plugin) | AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Temp | — |
 | 41 | [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) | Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric  | — |
+| 41 | [openPDC](https://github.com/GridProtectionAlliance/openPDC) | Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, | SEL |
 | 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (P | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, an | — |
 | 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero depe | — |

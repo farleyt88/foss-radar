@@ -8729,5 +8729,80 @@
     "relevance_score": 27,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "json-scada",
+    "url": "https://github.com/riclolsen/json-scada",
+    "description": "Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC 60870-5-101/104, DNP3, OPC UA, MQTT, and Grafana-friendly data pipelines. Strong fit for utility telecom and substation-adjacent monitoring stacks.",
+    "category": "Observability",
+    "stars": 390,
+    "topics": [
+      "scada",
+      "iec61850",
+      "iec60870-5-104",
+      "dnp3",
+      "opc-ua",
+      "mqtt",
+      "mongodb",
+      "protocol-gateway",
+      "grafana",
+      "web-based"
+    ],
+    "language": "C",
+    "license": "GPL-3.0",
+    "vendors": [],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-08",
+    "relevance_score": 49,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "openPDC",
+    "url": "https://github.com/GridProtectionAlliance/openPDC",
+    "description": "Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, supports IEC 61850 and IEEE C37.118 related workflows, and fits grid/transport observability where power-system telemetry intersects network operations.",
+    "category": "Observability",
+    "stars": 152,
+    "topics": [
+      "iec61850",
+      "pmu",
+      "phasor-data-concentrator",
+      "synchrophasor",
+      "stream-processing",
+      "time-series",
+      "power-utility"
+    ],
+    "language": "C#",
+    "license": "MIT",
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-08",
+    "relevance_score": 41,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "iec61850_open_gateway",
+    "url": "https://github.com/robidev/iec61850_open_gateway",
+    "description": "Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pattern when utility or substation protocols need to be translated into existing operations or monitoring systems.",
+    "category": "Network Automation",
+    "stars": 14,
+    "topics": [
+      "iec61850",
+      "iec60870-5-104",
+      "protocol-gateway",
+      "python",
+      "utility-automation"
+    ],
+    "language": "Python",
+    "license": "GPL-3.0",
+    "vendors": [],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-08",
+    "relevance_score": 23,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

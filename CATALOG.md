@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**442 tools** across 38 categories.
+**445 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (266)
-- **Observability** (95)
+- **Network Automation** (267)
+- **Observability** (97)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -205,6 +205,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
 - [Holo](https://github.com/holo-routing/holo) — Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven networks. Memory-safe, mo (score: 0)
 - [Icinga](https://github.com/Icinga/icinga2) — Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend prediction. (score: 0)
+- [iec61850_open_gateway](https://github.com/robidev/iec61850_open_gateway) — Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pattern when utility o (score: 0)
 - [Infoblox Ansible](https://github.com/infobloxopen/infoblox-ansible) — Ansible module for Infoblox integration. (score: 0)
 - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) — Go wrapper for Infoblox REST API. (score: 0)
 - [Infoblox Python Client](https://github.com/infobloxopen/infoblox-client) — Python wrapper for Infoblox REST API. (score: 0)
@@ -493,6 +494,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [InfluxDB](https://github.com/influxdata/influxdb) — Time-series database for metrics, events, and real-time analytics. (score: 0)
 - [IPFIXcol2](https://github.com/CESNET/ipfixcol2) — High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture with enterprise-focus (score: 0)
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) — Tracks IS-IS topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
+- [json-scada](https://github.com/riclolsen/json-scada) — Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC 60870-5-101/104, DNP (score: 0)
 - [Keep](https://github.com/keephq/keep) — Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with deduplication, corr (score: 0)
 - [Kubeshark](https://github.com/kubeshark/kubeshark) — Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, Redis, Kafka, DNS)  (score: 0)
 - [Kula](https://github.com/c0m4r/kula) — Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero dependencies — includes  (score: 0)
@@ -526,6 +528,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenNTI](https://github.com/Juniper/open-nti) — Containerized open network telemetry collector and visualization stack. Collects data from devices via CLI/Netconf, JTI  (score: 0)
 - [OpenObserve](https://github.com/openobserve/openobserve) — Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs v (score: 0)
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
+- [openPDC](https://github.com/GridProtectionAlliance/openPDC) — Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, supports IEC 61850  (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
 - [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) — Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visu (score: 0)
 - [Orb](https://github.com/orb-community/orb) — Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelines. Pushes analysis  (score: 0)
