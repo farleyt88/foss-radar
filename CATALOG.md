@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**436 tools** across 37 categories.
+**439 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (266)
-- **Observability** (94)
+- **Observability** (95)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -23,13 +23,13 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Data Management** (2)
 - **Infrastructure** (2)
 - **Network Operations** (2)
+- **Network Lab** (2)
 - **Uncategorized** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
 - **Network Visualization** (1)
 - **Standards & Models** (1)
 - **Network Discovery** (1)
-- **Network Lab** (1)
 - **Lab / Testing** (1)
 - **Traffic Engineering** (1)
 - **Timing & Synchronization** (1)
@@ -43,6 +43,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Monitoring** (1)
 - **Monitoring & Observability** (1)
 - **Infrastructure Automation** (1)
+- **Utility Protocols** (1)
 
 ---
 
@@ -409,6 +410,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Lab
 
+- [SR Linux Container Image](https://github.com/nokia/srlinux-container-image) — Official Nokia repository for the freely distributed SR Linux container image. Handy for building reproducible container (score: 0)
 - [wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) — Pre-configured WSL2 Linux distribution purpose-built for Containerlab network labbing on Windows. Bundles Docker, Contai (score: 0)
 
 ## Network Management
@@ -546,6 +548,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
+- [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) — Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a transport-focused ref (score: 0)
 - [Steward](https://github.com/braedonsaunders/steward) — Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state,  (score: 0)
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
@@ -590,3 +593,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Uncategorized
 
+
+## Utility Protocols
+
+- [iec61850_open_server](https://github.com/robidev/iec61850_open_server) — Open-source IEC 61850 IED/server implementation built on libiec61850. Relevant for utility and substation labs where SEL (score: 0)

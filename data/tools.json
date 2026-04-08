@@ -8592,5 +8592,78 @@
     "relevance_score": 45,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "SRv6 FlexAlgo Telemetry Lab",
+    "url": "https://github.com/sros-labs/srv6-flexalgo-telemetry-lab",
+    "description": "Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a transport-focused reference lab for telemetry, SRv6 path engineering, and latency visualization on SROS.",
+    "category": "Observability",
+    "stars": 12,
+    "topics": [
+      "nokia",
+      "sros",
+      "srv6",
+      "flex-algo",
+      "containerlab",
+      "gnmic",
+      "prometheus",
+      "grafana",
+      "telemetry"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-01-29",
+    "discovered": "2026-04-08",
+    "relevance_score": 49,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "SR Linux Container Image",
+    "url": "https://github.com/nokia/srlinux-container-image",
+    "description": "Official Nokia repository for the freely distributed SR Linux container image. Handy for building reproducible containerlab testbeds, validating automation safely, and standing up self-hosted digital twin labs before touching production transport gear.",
+    "category": "Network Lab",
+    "stars": 97,
+    "topics": [
+      "nokia",
+      "srlinux",
+      "containerlab",
+      "network-automation",
+      "networking",
+      "datacenter"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-04-08",
+    "relevance_score": 71,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "iec61850_open_server",
+    "url": "https://github.com/robidev/iec61850_open_server",
+    "description": "Open-source IEC 61850 IED/server implementation built on libiec61850. Relevant for utility and substation labs where SEL-adjacent workflows, MMS/GOOSE testing, or protocol emulation are useful before integrating with protection and telecom environments.",
+    "category": "Utility Protocols",
+    "stars": 126,
+    "topics": [
+      "iec61850",
+      "mms",
+      "goose",
+      "substation-automation",
+      "power-utility",
+      "c",
+      "linux"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-03-17",
+    "discovered": "2026-04-08",
+    "relevance_score": 21,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

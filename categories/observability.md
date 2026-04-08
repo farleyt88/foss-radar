@@ -1,6 +1,6 @@
 # Observability
 
-**94 tools** — sorted by relevance score.
+**95 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -42,6 +42,7 @@
 | 49 | [openGemini](https://github.com/openGemini/openGemini) | CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency | — |
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
 | 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |
+| 49 | [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) | Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a t | Nokia |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |
