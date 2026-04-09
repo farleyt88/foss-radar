@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**448 tools** across 38 categories.
+**451 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (270)
-- **Observability** (97)
+- **Network Automation** (271)
+- **Observability** (99)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -285,6 +285,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Netshot](https://github.com/netfishers-onl/Netshot) — Network configuration and compliance management. Backup, audit, and report. (score: 0)
 - [Netutils](https://github.com/networktocode/netutils) — Network automation utility functions. IP math, config parsing, bandwidth conversions. (score: 0)
 - [Network Importer](https://github.com/networktocode/network-importer) — Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Idempotent by default, (score: 0)
+- [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) — Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and NVIDIA Cumulus Linux i (score: 0)
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) — Artificially limit bandwidth, delay and loss rate on selected interfaces. (score: 0)
 - [network-mcp](https://github.com/latticio/network-mcp) — AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, Cisco IOS-XE/NX-OS, a (score: 0)
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
@@ -475,6 +476,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)
 - [clio](https://github.com/openconfig/clio) — OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling integration between O (score: 0)
+- [Convergence](https://github.com/byrn-baker/Convergence) — Network observability platform with Nautobot integration, built on OpenTelemetry Collector, VictoriaMetrics, Grafana, Lo (score: 0)
 - [Coroot](https://github.com/coroot/coroot) — Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs, traces, continuous p (score: 0)
 - [D2](https://github.com/terrastruct/d2) — Create beautiful diagrams in minutes. Simple syntax, endlessly customizable. (score: 0)
 - [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) — Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates topology visualizati (score: 0)
@@ -517,6 +519,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integratio (score: 0)
 - [NetGraf](https://github.com/esnet/netgraf) — End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and device-level data fr (score: 0)
 - [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) — eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linux hosts. Good fit fo (score: 0)
+- [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) — Kubernetes-based NetOps platform for deploying network automation, observability, and configuration management apps toge (score: 0)
 - [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) — Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS performance, and optional b (score: 0)
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)
 - [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) — Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Trac (score: 0)

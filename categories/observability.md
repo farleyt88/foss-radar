@@ -1,6 +1,6 @@
 # Observability
 
-**97 tools** — sorted by relevance score.
+**99 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -13,6 +13,7 @@
 | 91 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics. De | Nokia ✅ |
 | 87 | [SigNoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single a | — |
 | 85 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatib | — |
+| 83 | [Convergence](https://github.com/byrn-baker/Convergence) | Network observability platform with Nautobot integration, built on OpenTelemetry Collector, Victoria | — |
 | 81 | [GoFlow2](https://github.com/netsampler/goflow2) | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's | — |
 | 79 | [OpenObserve](https://github.com/openobserve/openobserve) | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x l | — |
 | 79 | [OpenNTI](https://github.com/Juniper/open-nti) | Containerized open network telemetry collector and visualization stack. Collects data from devices v | — |
@@ -32,6 +33,7 @@
 | 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pager | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
 | 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and  | — |
+| 55 | [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) | Kubernetes-based NetOps platform for deploying network automation, observability, and configuration  | — |
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling i | Nokia, Ciena |

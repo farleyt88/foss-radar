@@ -8873,5 +8873,78 @@
     "discovered": "2026-04-08",
     "vendor_verified": false,
     "relevance_score": 53
+  },
+  {
+    "name": "NetOpsKube",
+    "url": "https://github.com/CSPDevLabs/NetOpsKube",
+    "description": "Kubernetes-based NetOps platform for deploying network automation, observability, and configuration management apps together. Bundles Grafana, Prometheus, Loki, gNMIc, rsyslog, and SDCIO/Kubenet patterns into a portable self-hosted cluster foundation.",
+    "category": "Observability",
+    "stars": 1,
+    "topics": [
+      "kubernetes",
+      "netops",
+      "observability",
+      "prometheus",
+      "grafana",
+      "loki",
+      "gnmic",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-03-30",
+    "discovered": "2026-04-09",
+    "relevance_score": 55,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Network-Automation-and-Observability",
+    "url": "https://github.com/martimy/Network-Automation-and-Observability",
+    "description": "Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and NVIDIA Cumulus Linux in a container-based leaf-spine fabric. Useful reference for comparing management models before building a shared automation framework and telemetry pipeline.",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "network-automation",
+      "network-observability",
+      "nokia",
+      "sr-linux",
+      "nvidia",
+      "cumulus",
+      "containerlab",
+      "infrastructure-as-code"
+    ],
+    "vendors": [
+      "Nokia",
+      "NVIDIA"
+    ],
+    "updated": "2025-11-01",
+    "discovered": "2026-04-09",
+    "relevance_score": 77,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Convergence",
+    "url": "https://github.com/byrn-baker/Convergence",
+    "description": "Network observability platform with Nautobot integration, built on OpenTelemetry Collector, VictoriaMetrics, Grafana, Loki, and Alertmanager. Supports automatic device discovery, rich inventory metadata, SNMP/syslog ingest, and a path toward NETCONF/gNMI telemetry.",
+    "category": "Observability",
+    "stars": 6,
+    "topics": [
+      "observability",
+      "nautobot",
+      "opentelemetry",
+      "victoriametrics",
+      "grafana",
+      "loki",
+      "alertmanager",
+      "snmp",
+      "syslog"
+    ],
+    "vendors": [],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-09",
+    "relevance_score": 83,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
