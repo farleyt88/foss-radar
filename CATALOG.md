@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**451 tools** across 38 categories.
+**454 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (271)
-- **Observability** (99)
+- **Network Automation** (273)
+- **Observability** (100)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -232,6 +232,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Mininet](https://github.com/mininet/mininet) — Create realistic virtual networks with real kernel, switches, apps on single machine. (score: 0)
 - [moler](https://github.com/nokia/moler) — Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command-as-object automation (score: 0)
 - [MultiCLI](https://github.com/srl-labs/MultiCLI) — Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista EOS, Cisco NX-OS, J (score: 0)
+- [n8n-nodes-netdevices](https://github.com/arpit-patel1/n8n-nodes-netdevices) — Custom n8n node for SSH-based network device automation. Brings Netmiko-style operations into n8n workflows for multi-ve (score: 0)
 - [NAPALM](https://github.com/napalm-automation/napalm) — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API. (score: 0)
 - [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) — Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM API (get_facts, get_ (score: 0)
 - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) — Ansible modules using NAPALM for multi-vendor network automation. (score: 0)
@@ -385,6 +386,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ttp_templates](https://github.com/dmulyalin/ttp_templates) — Community library of TTP (Template Text Parser) templates for parsing network device CLI output into structured data. Co (score: 0)
 - [twampy](https://github.com/nokia/twampy) — Official Nokia Python implementation of TWAMP (RFC 5357) and STAMP (RFC 8762, 8972) for active network measurement. Meas (score: 0)
 - [Validity](https://github.com/amyasnikov/validity) — NetBox plugin for writing compliance 'auto-tests' for network devices. Define compliance tests and Validity checks devic (score: 0)
+- [vMark](https://github.com/xmas-ar/vMark) — Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployment, TWAMP benchmarking, (score: 0)
 - [vrnetlab](https://github.com/vrnetlab/vrnetlab) — Run virtual routers in Docker for labbing, development and testing. (score: 0)
 - [vscode-netconf](https://github.com/nokia/vscode-netconf) — Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operations for SR OS and SRLi (score: 0)
 - [vscode-sr](https://github.com/srl-labs/vscode-sr) — VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax hig (score: 0)
@@ -547,6 +549,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)
 - [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) — SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. (score: 0)
 - [Retina](https://github.com/microsoft/retina) — eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visibility across cluster (score: 0)
+- [RFM](https://github.com/stepbrobd/rfm) — eBPF-based router flow monitor for Linux routers. Attaches TC programs to interfaces, observes IPv4/IPv6 plus VLAN/QinQ  (score: 0)
 - [Scanlyne](https://github.com/Josperdo/scanlyne) — Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLite, and diffs subsequen (score: 0)
 - [SEC](https://github.com/simple-evcorr/sec) — Simple Event Correlator - Advanced event processing for log monitoring, security, fraud detection. (score: 0)
 - [ServiceRadar](https://github.com/carverauto/serviceradar) — Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constrained environments. Feat (score: 0)

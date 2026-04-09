@@ -1,6 +1,6 @@
 # Observability
 
-**99 tools** — sorted by relevance score.
+**100 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -63,6 +63,7 @@
 | 41 | [Ask O11y](https://github.com/Consensys/ask-o11y-plugin) | AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Temp | — |
 | 41 | [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) | Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric  | — |
 | 41 | [openPDC](https://github.com/GridProtectionAlliance/openPDC) | Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, | SEL |
+| 41 | [RFM](https://github.com/stepbrobd/rfm) | eBPF-based router flow monitor for Linux routers. Attaches TC programs to interfaces, observes IPv4/ | — |
 | 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (P | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, an | — |
 | 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero depe | — |

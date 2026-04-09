@@ -1,6 +1,6 @@
 # Network Automation
 
-**271 tools** — sorted by relevance score.
+**273 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -181,6 +181,7 @@
 | 29 | [ttp_templates](https://github.com/dmulyalin/ttp_templates) | Community library of TTP (Template Text Parser) templates for parsing network device CLI output into | Nokia |
 | 29 | [netbox-branching](https://github.com/netboxlabs/netbox-branching) | Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creatin | — |
 | 29 | [Ansible WebUI](https://github.com/O-X-L/ansible-webui) | Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and | — |
+| 29 | [vMark](https://github.com/xmas-ar/vMark) | Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployment, | — |
 | 28 | [eNMS](https://github.com/eNMS-automation/eNMS) | Vendor-agnostic NMS for carrier-grade network visualization and automation. | — |
 | 28 | [pyribbon](https://github.com/consentfactory/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots, a | Ribbon |
 | 28 | [libiec61850](https://github.com/mz-automation/libiec61850) | Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, GOOS | SEL |
@@ -190,6 +191,7 @@
 | 27 | [shconfparser](https://github.com/network-tools/shconfparser) | Network configuration parser that translates show command outputs from Cisco and other vendors into  | — |
 | 27 | [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) | Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for | Nokia |
 | 27 | [sros](https://github.com/g0053/sros) | Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automati | Nokia |
+| 27 | [n8n-nodes-netdevices](https://github.com/arpit-patel1/n8n-nodes-netdevices) | Custom n8n node for SSH-based network device automation. Brings Netmiko-style operations into n8n wo | — |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco A | — |

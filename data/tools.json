@@ -8946,5 +8946,73 @@
     "relevance_score": 83,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "RFM",
+    "url": "https://github.com/stepbrobd/rfm",
+    "description": "eBPF-based router flow monitor for Linux routers. Attaches TC programs to interfaces, observes IPv4/IPv6 plus VLAN/QinQ traffic, can enrich flows from BMP/MMDB data, and exports to Prometheus and IPFIX.",
+    "category": "Observability",
+    "stars": 42,
+    "topics": [
+      "ebpf",
+      "flow-monitoring",
+      "prometheus",
+      "ipfix",
+      "bmp",
+      "router",
+      "linux",
+      "network-observability"
+    ],
+    "vendors": [],
+    "updated": "2026-04-07",
+    "discovered": "2026-04-09",
+    "relevance_score": 41,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "vMark",
+    "url": "https://github.com/xmas-ar/vMark",
+    "description": "Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployment, TWAMP benchmarking, heartbeat monitoring, node management, and remote MEF E-Line service deployment using eBPF/XDP.",
+    "category": "Network Automation",
+    "stars": 6,
+    "topics": [
+      "carrier-ethernet",
+      "demarcation",
+      "twamp",
+      "mef",
+      "ebpf",
+      "xdp",
+      "mpls",
+      "docker"
+    ],
+    "vendors": [],
+    "updated": "2026-02-14",
+    "discovered": "2026-04-09",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "n8n-nodes-netdevices",
+    "url": "https://github.com/arpit-patel1/n8n-nodes-netdevices",
+    "description": "Custom n8n node for SSH-based network device automation. Brings Netmiko-style operations into n8n workflows for multi-vendor infrastructure, making it relevant for self-hosted workflow automation around network changes and data collection.",
+    "category": "Network Automation",
+    "stars": 11,
+    "topics": [
+      "n8n",
+      "network-automation",
+      "ssh",
+      "workflow-automation",
+      "typescript",
+      "netmiko-style",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-03-17",
+    "discovered": "2026-04-09",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
