@@ -8804,5 +8804,74 @@
     "relevance_score": 23,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia 7x50 Protobufs",
+    "url": "https://github.com/nokia/7x50_protobufs",
+    "description": "Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platforms. Useful for building programmatic automation and telemetry tooling against Nokia SR OS routers beyond YANG-only workflows.",
+    "category": "Network Automation",
+    "stars": 14,
+    "topics": [
+      "nokia",
+      "sros",
+      "protobuf",
+      "grpc",
+      "router-automation",
+      "telemetry"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-26",
+    "discovered": "2026-04-08",
+    "vendor_verified": true,
+    "relevance_score": 79
+  },
+  {
+    "name": "Nokia VS Code Intent Manager",
+    "url": "https://github.com/nokia/vscode-intent-manager",
+    "description": "Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents from the editor, which makes it relevant for teams exploring Nokia intent-based automation and service orchestration workflows.",
+    "category": "Network Automation",
+    "stars": 8,
+    "topics": [
+      "nokia",
+      "nsp",
+      "intent-manager",
+      "vscode",
+      "intent-based-networking",
+      "automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-08",
+    "vendor_verified": true,
+    "relevance_score": 53
+  },
+  {
+    "name": "ygnmi",
+    "url": "https://github.com/openconfig/ygnmi",
+    "description": "OpenConfig Go gNMI client library built on ygot-generated code. Supports typed telemetry queries and config sets from YANG-generated paths, making it useful for building strongly-typed automation against OpenConfig-capable platforms.",
+    "category": "Network Automation",
+    "stars": 13,
+    "topics": [
+      "openconfig",
+      "gnmi",
+      "ygot",
+      "yang",
+      "golang",
+      "telemetry"
+    ],
+    "vendors": [
+      "Nokia",
+      "Arista",
+      "Cisco",
+      "Juniper"
+    ],
+    "updated": "2026-03-31",
+    "discovered": "2026-04-08",
+    "vendor_verified": false,
+    "relevance_score": 53
   }
 ]

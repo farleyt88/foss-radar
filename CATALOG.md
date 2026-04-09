@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**445 tools** across 38 categories.
+**448 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (267)
+- **Network Automation** (270)
 - **Observability** (97)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -290,6 +290,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
 - [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) — Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers telemetry facts, manag (score: 0)
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
+- [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) — Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platforms. Useful for build (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) — Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting S (score: 0)
@@ -300,6 +301,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) — Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state models, tagged by r (score: 0)
 - [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) — Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli_command modules, de (score: 0)
 - [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) — Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized Nokia SR Linux and  (score: 0)
+- [Nokia VS Code Intent Manager](https://github.com/nokia/vscode-intent-manager) — Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents from the editor, which (score: 0)
 - [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) — HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG paths. Archived but (score: 0)
 - [nokia-basic-dci-lab](https://github.com/srl-labs/nokia-basic-dci-lab) — Containerlab-based DCI lab with SR Linux leaf/spine and Nokia 7750 SR OS DC gateway and P routers. Demonstrates VXLAN/EV (score: 0)
 - [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) — Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interface/port/connected-dev (score: 0)
@@ -393,6 +395,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [yang.ncdiff](https://github.com/CiscoTestAutomation/yang) — NETCONF/YANG test framework with config diff capabilities. Downloads, compiles, and diffs NETCONF configs for automation (score: 0)
 - [yangson](https://github.com/CZ-NIC/yangson) — YANG data modeling language parser and validator. JSON instance validation against YANG schemas. (score: 0)
 - [YAPYANG](https://github.com/nomios-opensource/yapyang) — Python package that helps translate YANG data models to Python. (score: 0)
+- [ygnmi](https://github.com/openconfig/ygnmi) — OpenConfig Go gNMI client library built on ygot-generated code. Supports typed telemetry queries and config sets from YA (score: 0)
 - [ygot](https://github.com/openconfig/ygot) — YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSON/gNMI notifications. C (score: 0)
 - [ygotsrl](https://github.com/srl-labs/ygotsrl) — Go API for Nokia SR Linux Network OS generated with ygot (YANG Go Tools). Provides type-safe Go structures for SR Linux  (score: 0)
 

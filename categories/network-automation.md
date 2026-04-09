@@ -1,6 +1,6 @@
 # Network Automation
 
-**267 tools** — sorted by relevance score.
+**270 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -34,6 +34,7 @@
 | 81 | [pySROS](https://github.com/nokia/pysros) | Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF management  | Nokia ✅ |
 | 81 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with  | Nokia ✅ |
 | 79 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access | Nokia ✅ |
+| 79 | [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) | Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platfor | Nokia ✅ |
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
 | 77 | [Diode](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconcil | — |
@@ -77,6 +78,8 @@
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
 | 55 | [Itential MCP Server](https://github.com/itential/itential-mcp) | MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation wo | Nokia, Ciena, Ribbon |
 | 53 | [lighty.io](https://github.com/PANTHEONtech/lighty) | Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime w | — |
+| 53 | [Nokia VS Code Intent Manager](https://github.com/nokia/vscode-intent-manager) | Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents fr | Nokia ✅ |
+| 53 | [ygnmi](https://github.com/openconfig/ygnmi) | OpenConfig Go gNMI client library built on ygot-generated code. Supports typed telemetry queries and | Nokia, Arista, Cisco, Juniper |
 | 51 | [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) | Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prom | Nokia |
 | 51 | [Clixon](https://github.com/clicon/clixon) | YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendor | — |
 | 51 | [yang.ncdiff](https://github.com/CiscoTestAutomation/yang) | NETCONF/YANG test framework with config diff capabilities. Downloads, compiles, and diffs NETCONF co | — |
