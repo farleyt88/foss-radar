@@ -9014,5 +9014,68 @@
     "relevance_score": 27,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "sros-ansible-automation",
+    "url": "https://github.com/ters-golemi/sros-ansible-automation",
+    "description": "Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point for automating SR OS deployments, standard builds, and repeatable config generation.",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "nokia",
+      "sr-os",
+      "ansible",
+      "network-automation",
+      "templates"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-04",
+    "discovered": "2026-04-10",
+    "relevance_score": 65,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "snappi",
+    "url": "https://github.com/open-traffic-generator/snappi",
+    "description": "Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and automated performance testing of transport or packet networks before cutovers.",
+    "category": "Network Testing",
+    "stars": 93,
+    "topics": [
+      "traffic-generator",
+      "testing",
+      "network-automation",
+      "python",
+      "golang",
+      "lab-validation"
+    ],
+    "vendors": [],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-10",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Pint",
+    "url": "https://github.com/cloudflare/pint",
+    "description": "Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-hosted observability stacks.",
+    "category": "Observability",
+    "stars": 1015,
+    "topics": [
+      "prometheus",
+      "observability",
+      "alerting",
+      "linting",
+      "monitoring"
+    ],
+    "vendors": [],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-10",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

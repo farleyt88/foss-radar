@@ -1,22 +1,22 @@
 # FOSS Radar — Tool Catalog
 
-**454 tools** across 38 categories.
+**457 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (273)
-- **Observability** (100)
+- **Network Automation** (274)
+- **Observability** (101)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **Network Simulation** (4)
+- **Network Testing** (4)
 - **Network Observability** (4)
 - **IPAM** (3)
-- **Network Testing** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
 - **Timing & Synchronization** (3)
@@ -373,6 +373,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) — SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux devices via the Scrapli (score: 0)
 - [sros](https://github.com/g0053/sros) — Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automation against TiMOS-bas (score: 0)
 - [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) — Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS  (score: 0)
+- [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) — Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point for automating SR O (score: 0)
 - [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) — ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Algo slicing, gNMIc str (score: 0)
 - [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) — Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for bootstrapping autom (score: 0)
 - [srpls](https://github.com/srl-labs/srpls) — Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Provides IDE-level autoc (score: 0)
@@ -464,6 +465,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP (score: 0)
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
+- [snappi](https://github.com/open-traffic-generator/snappi) — Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and automated performance te (score: 0)
 
 ## Network Visualization
 
@@ -544,6 +546,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
+- [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
 - [privacynet](https://github.com/cwccie/privacynet) — Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, random), flow aggregatio (score: 0)
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)

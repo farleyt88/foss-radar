@@ -1,6 +1,6 @@
 # Network Automation
 
-**273 tools** — sorted by relevance score.
+**274 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -62,6 +62,7 @@
 | 65 | [twampy](https://github.com/nokia/twampy) | Official Nokia Python implementation of TWAMP (RFC 5357) and STAMP (RFC 8762, 8972) for active netwo | Nokia ✅ |
 | 65 | [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) | Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to networ | Nokia ✅ |
 | 65 | [damianoneill/net](https://github.com/damianoneill/net) | Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, | — |
+| 65 | [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) | Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
