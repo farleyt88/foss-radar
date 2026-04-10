@@ -1,6 +1,6 @@
 # Observability
 
-**101 tools** — sorted by relevance score.
+**103 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -21,6 +21,7 @@
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interf | — |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
 | 65 | [gNMIc Operator](https://github.com/gnmic/operator) | Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry | — |
+| 65 | [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) | Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for exper | — |
 | 63 | [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) | Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates  | — |
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
@@ -46,6 +47,7 @@
 | 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |
 | 49 | [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) | Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a t | Nokia |
 | 49 | [json-scada](https://github.com/riclolsen/json-scada) | Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC  | — |
+| 49 | [DDoS Protect (sFlow-RT)](https://github.com/sflow-rt/ddos-protect) | Open-source DDoS mitigation toolkit built on sFlow-RT using BGP RTBH and FlowSpec. Relevant for tran | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches | — |

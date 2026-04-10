@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**457 tools** across 38 categories.
+**460 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (274)
-- **Observability** (101)
+- **Network Automation** (275)
+- **Observability** (103)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -164,6 +164,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [clicrud](https://github.com/davidjohngee/clicrud) — Brocade specific CLI driver (MLX/VDX/ICX/CER/CES) for Telnet & SSH. (score: 0)
 - [Clixon](https://github.com/clicon/clixon) — YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendors (Netgate, Ceragon) (score: 0)
 - [Clixon Controller](https://github.com/clicon/clixon-controller) — Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device profiles, Python API f (score: 0)
+- [cmdo](https://github.com/hellt/cmdo) — Batch command runner for networking devices. Lets you execute commands across multiple devices in parallel from one CLI, (score: 0)
 - [CML virl2_client](https://github.com/CiscoDevNet/virl2-client) — Python client for Cisco CML (VIRL 2) API. Automate lab creation and management. (score: 0)
 - [cnaas-nms](https://github.com/SUNET/cnaas-nms) — Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: zero-touch provisionin (score: 0)
 - [ConfigDrift](https://github.com/cwccie/configdrift) — Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuously poll devices, diff (score: 0)
@@ -484,6 +485,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Coroot](https://github.com/coroot/coroot) — Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs, traces, continuous p (score: 0)
 - [D2](https://github.com/terrastruct/d2) — Create beautiful diagrams in minutes. Simple syntax, endlessly customizable. (score: 0)
 - [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) — Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates topology visualizati (score: 0)
+- [DDoS Protect (sFlow-RT)](https://github.com/sflow-rt/ddos-protect) — Open-source DDoS mitigation toolkit built on sFlow-RT using BGP RTBH and FlowSpec. Relevant for transport and edge opera (score: 0)
 - [DeepFlow](https://github.com/deepflowio/deepflow) — eBPF-powered zero-code observability platform. Automatically captures application, network, and infrastructure metrics/t (score: 0)
 - [DiGSiViz](https://github.com/netlab-hfd/digsiviz) — gNMI-powered real-time visualization of Network Digital Twin topologies running in Containerlab. A proof-of-concept fron (score: 0)
 - [drawthe.net](https://github.com/cidrblock/drawthe.net) — Draw network diagrams from YAML. Automated network diagram generation. (score: 0)
@@ -556,6 +558,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Scanlyne](https://github.com/Josperdo/scanlyne) — Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLite, and diffs subsequen (score: 0)
 - [SEC](https://github.com/simple-evcorr/sec) — Simple Event Correlator - Advanced event processing for log monitoring, security, fraud detection. (score: 0)
 - [ServiceRadar](https://github.com/carverauto/serviceradar) — Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constrained environments. Feat (score: 0)
+- [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) — Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for experimenting with stream (score: 0)
 - [SigNoz](https://github.com/SigNoz/signoz) — Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hos (score: 0)
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)

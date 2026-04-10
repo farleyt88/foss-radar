@@ -9077,5 +9077,61 @@
     "relevance_score": 43,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "cmdo",
+    "url": "https://github.com/hellt/cmdo",
+    "description": "Batch command runner for networking devices. Lets you execute commands across multiple devices in parallel from one CLI, which is handy for fleet-wide audits, state collection, and quick operational checks.",
+    "category": "Network Automation",
+    "stars": 53,
+    "topics": [
+      "network-automation",
+      "cli",
+      "batch-operations",
+      "network-devices",
+      "golang"
+    ],
+    "updated": "2026-03-07",
+    "discovered": "2026-04-10",
+    "relevance_score": 19,
+    "vendor_verified": false
+  },
+  {
+    "name": "sFlow-RT Containerlab",
+    "url": "https://github.com/sflow-rt/containerlab",
+    "description": "Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for experimenting with streaming network visibility, topology-aware monitoring, and event-driven analytics in a self-hosted lab.",
+    "category": "Observability",
+    "stars": 42,
+    "topics": [
+      "containerlab",
+      "sflow",
+      "network-monitoring",
+      "real-time-analytics",
+      "topology",
+      "observability"
+    ],
+    "updated": "2026-02-09",
+    "discovered": "2026-04-10",
+    "relevance_score": 65,
+    "vendor_verified": false
+  },
+  {
+    "name": "DDoS Protect (sFlow-RT)",
+    "url": "https://github.com/sflow-rt/ddos-protect",
+    "description": "Open-source DDoS mitigation toolkit built on sFlow-RT using BGP RTBH and FlowSpec. Relevant for transport and edge operations teams that want automated detection/mitigation patterns tied to modern telemetry pipelines.",
+    "category": "Observability",
+    "stars": 52,
+    "topics": [
+      "ddos-mitigation",
+      "bgp-flowspec",
+      "rtbh",
+      "sflow",
+      "prometheus-exporter",
+      "network-observability"
+    ],
+    "updated": "2026-04-04",
+    "discovered": "2026-04-10",
+    "relevance_score": 49,
+    "vendor_verified": false
   }
 ]

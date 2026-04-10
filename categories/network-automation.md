@@ -1,6 +1,6 @@
 # Network Automation
 
-**274 tools** — sorted by relevance score.
+**275 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -230,6 +230,7 @@
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |
 | 19 | [Netpicker](https://github.com/netpicker/netpicker) | Network config backup, security/compliance testing, and job automation in one platform. Uses pytest  | — |
+| 19 | [cmdo](https://github.com/hellt/cmdo) | Batch command runner for networking devices. Lets you execute commands across multiple devices in pa | — |
 | 17 | [Netshot](https://github.com/netfishers-onl/Netshot) | Network configuration and compliance management. Backup, audit, and report. | — |
 | 17 | [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) | Ansible modules for Palo Alto Networks PAN-OS. | — |
 | 17 | [Rconfig](https://github.com/rconfig/rconfig) | Free, open source network device configuration management. Customizable to your needs. | — |
