@@ -1,19 +1,19 @@
 # FOSS Radar — Tool Catalog
 
-**462 tools** across 38 categories.
+**464 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (275)
+- **Network Automation** (276)
 - **Observability** (105)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
+- **Network Simulation** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
-- **Network Simulation** (4)
 - **Network Testing** (4)
 - **Network Observability** (4)
 - **IPAM** (3)
@@ -278,6 +278,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netlab](https://github.com/ipspace/netlab) — Infrastructure-as-code for network labs. YAML topology to VirtualBox/libvirt/containerlab. (score: 0)
 - [Netmiko](https://github.com/ktbyers/netmiko) — Multi-vendor SSH library for network devices. Simplifies CLI automation over SSH. (score: 0)
 - [Netopeer2](https://github.com/nokia/Netopeer2) — NETCONF toolset from Nokia - server, CLI client, and keystored implementation. Second generation of the Netopeer project (score: 0)
+- [NetOps Stack](https://github.com/pamosima/netops-stack) — Composable Docker-based NetOps observability and orchestration stack combining gNMIc, Prometheus, ClickHouse/HyperDX, Gr (score: 0)
 - [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) — AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco AUTOCOR v2.0. Feature (score: 0)
 - [netoviz](https://github.com/corestate55/netoviz) — RFC8345-based Network Topology Visualizer with multi-layer views (D3.js). Supports Batfish integration for configuration (score: 0)
 - [netpalm](https://github.com/tbotnz/netpalm) — REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation. (score: 0)
@@ -458,6 +459,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [clab_mpls_frr](https://github.com/martimy/clab_mpls_frr) — MPLS network lab implementations using FRRouting and Containerlab. Covers manual MPLS, LDP label distribution, and L3 VP (score: 0)
 - [Clabernetes](https://github.com/srl-labs/clabernetes) — Containerlab but in Kubernetes. Deploys containerlab network topologies on K8s clusters, enabling scalable multi-node ne (score: 0)
+- [small-isp-lab](https://github.com/abelperezr/small-isp-lab) — Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP traffic engineering, IPoE/ (score: 0)
 - [TopoViewer](https://github.com/asadarafat/topoViewer) — Network topology visualization tool that converts Containerlab topology data into interactive Cytoscape.js graphs. Go ba (score: 0)
 - [vscode-containerlab](https://github.com/srl-labs/vscode-containerlab) — VS Code extension for containerlab. Auto-discovers .clab.yml topologies, tree view with color-coded lab states, context  (score: 0)
 

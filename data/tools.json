@@ -9177,5 +9177,54 @@
     "relevance_score": 37,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetOps Stack",
+    "url": "https://github.com/pamosima/netops-stack",
+    "description": "Composable Docker-based NetOps observability and orchestration stack combining gNMIc, Prometheus, ClickHouse/HyperDX, Grafana, GitLab CI/CD, and Ansible for config collection, drift detection, dry-runs, and rollback. Useful as a self-hosted reference architecture for network automation and telemetry workflows.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "gnmi",
+      "prometheus",
+      "grafana",
+      "clickhouse",
+      "ansible",
+      "gitlab",
+      "config-drift",
+      "self-hosted"
+    ],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-11",
+    "vendors": [],
+    "relevance_score": 71,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "small-isp-lab",
+    "url": "https://github.com/abelperezr/small-isp-lab",
+    "description": "Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP traffic engineering, IPoE/PPPoE subscribers, NAT64/CGNAT, and observability via gNMIc, Prometheus, Grafana, Loki, and Alloy. Strong transport-engineering reference lab.",
+    "category": "Network Simulation",
+    "stars": 17,
+    "topics": [
+      "containerlab",
+      "nokia",
+      "sros",
+      "sr-linux",
+      "bgp-traffic-engineering",
+      "gnmic",
+      "prometheus",
+      "grafana",
+      "isp-lab"
+    ],
+    "updated": "2026-03-14",
+    "discovered": "2026-04-11",
+    "vendors": [
+      "Nokia"
+    ],
+    "relevance_score": 81,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

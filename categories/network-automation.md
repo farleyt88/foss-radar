@@ -1,6 +1,6 @@
 # Network Automation
 
-**275 tools** — sorted by relevance score.
+**276 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -51,6 +51,7 @@
 | 71 | [moler](https://github.com/nokia/moler) | Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command- | Nokia ✅ |
 | 71 | [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) | PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system  | Ribbon ✅ |
 | 71 | [srlconv](https://github.com/srl-labs/srlconv) | Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identi | Nokia ✅ |
+| 71 | [NetOps Stack](https://github.com/pamosima/netops-stack) | Composable Docker-based NetOps observability and orchestration stack combining gNMIc, Prometheus, Cl | — |
 | 69 | [Nornir](https://github.com/nornir-automation/nornir) | Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. | — |
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no | Nokia ✅ |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
