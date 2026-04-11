@@ -1,6 +1,6 @@
 # Observability
 
-**105 tools** — sorted by relevance score.
+**107 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -37,6 +37,7 @@
 | 55 | [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) | Kubernetes-based NetOps platform for deploying network automation, observability, and configuration  | — |
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
+| 53 | [Orb Discovery](https://github.com/netboxlabs/orb-discovery) | Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-ba | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling i | Nokia, Ciena |
 | 52 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and  | — |
 | 51 | [Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. | — |
@@ -97,6 +98,7 @@
 | 27 | [mermin](https://github.com/elastiflow/mermin) | Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic and e | — |
 | 25 | [Topolograph](https://github.com/Vadims06/topolograph) | Python web tool for OSPF/ISIS topology visualization and outage prediction. | — |
 | 25 | [LogTide](https://github.com/logtide-dev/logtide) | Open-source, self-hosted log management platform. Privacy-first alternative to Datadog and ELK. Ligh | — |
+| 25 | [OpenTelemetry Infinity](https://github.com/netboxlabs/opentelemetry-infinity) | Wrapper/orchestrator for spinning up ephemeral otelcol-contrib instances via REST policies. Interest | — |
 | 23 | [Nerdlog](https://github.com/dimonomid/nerdlog) | Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server. SSH-bas | — |
 | 21 | [drawthe.net](https://github.com/cidrblock/drawthe.net) | Draw network diagrams from YAML. Automated network diagram generation. | — |
 | 21 | [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) | Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enable | — |

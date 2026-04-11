@@ -9226,5 +9226,71 @@
     "relevance_score": 81,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Orb Discovery",
+    "url": "https://github.com/netboxlabs/orb-discovery",
+    "description": "Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-based network discovery, SNMP discovery, and a worker backend for custom implementations. Useful for feeding discovered devices and topology context into a NetBox-centered source-of-truth and observability workflow.",
+    "category": "Observability",
+    "stars": 19,
+    "topics": [
+      "diode",
+      "discovery",
+      "netbox",
+      "network",
+      "orb"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-11",
+    "source": "foss-radar-scan",
+    "relevance_score": 53,
+    "vendor_verified": false
+  },
+  {
+    "name": "NetBox Proxmox Automation",
+    "url": "https://github.com/netboxlabs/netbox-proxmox-automation",
+    "description": "Event-driven automation stack that ties NetBox changes to Proxmox actions. Includes discovery, playbooks, and workflow glue for turning NetBox into an automation control point for self-hosted virtualization infrastructure.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 100,
+    "topics": [
+      "automation",
+      "awx",
+      "awx-ansible",
+      "flask-application",
+      "netbox",
+      "network",
+      "proxmox"
+    ],
+    "language": "Python",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-11",
+    "source": "foss-radar-scan",
+    "relevance_score": 39,
+    "vendor_verified": false
+  },
+  {
+    "name": "OpenTelemetry Infinity",
+    "url": "https://github.com/netboxlabs/opentelemetry-infinity",
+    "description": "Wrapper/orchestrator for spinning up ephemeral otelcol-contrib instances via REST policies. Interesting for lightweight, self-hosted telemetry pipelines when you want flexible collector deployment without a heavier operator stack.",
+    "category": "Observability",
+    "stars": 7,
+    "topics": [
+      "opentelemetry",
+      "opentelemetry-collector",
+      "otlp"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2026-04-06",
+    "discovered": "2026-04-11",
+    "source": "foss-radar-scan",
+    "relevance_score": 25,
+    "vendor_verified": false
   }
 ]

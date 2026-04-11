@@ -1,16 +1,16 @@
 # FOSS Radar — Tool Catalog
 
-**464 tools** across 38 categories.
+**467 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (276)
-- **Observability** (105)
+- **Observability** (107)
+- **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
-- **Self-Hosted Infrastructure** (6)
 - **Network Simulation** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
@@ -544,9 +544,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
 - [openPDC](https://github.com/GridProtectionAlliance/openPDC) — Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, supports IEC 61850  (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
+- [OpenTelemetry Infinity](https://github.com/netboxlabs/opentelemetry-infinity) — Wrapper/orchestrator for spinning up ephemeral otelcol-contrib instances via REST policies. Interesting for lightweight, (score: 0)
 - [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) — Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visu (score: 0)
 - [Orb](https://github.com/orb-community/orb) — Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelines. Pushes analysis  (score: 0)
 - [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) — Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery solution. Pluggable (score: 0)
+- [Orb Discovery](https://github.com/netboxlabs/orb-discovery) — Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-based network discover (score: 0)
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
@@ -598,6 +600,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Circuit Breaker](https://github.com/BlkLeg/CircuitBreaker) — Self-hosted homelab/infrastructure visualization platform. Maps hardware, services, networks, and clusters with interact (score: 0)
 - [Homelable](https://github.com/Pouzor/homelable) — Self-hosted infrastructure visualization with interactive network diagrams and live status monitoring. Features nmap-bas (score: 0)
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
+- [NetBox Proxmox Automation](https://github.com/netboxlabs/netbox-proxmox-automation) — Event-driven automation stack that ties NetBox changes to Proxmox actions. Includes discovery, playbooks, and workflow g (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
 - [Pangolin](https://github.com/fosrl/pangolin) — Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self- (score: 0)
 - [Portracker](https://github.com/mostafa-wahied/portracker) — Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running services, containers, and V (score: 0)
