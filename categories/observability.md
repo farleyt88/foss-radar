@@ -1,6 +1,6 @@
 # Observability
 
-**103 tools** — sorted by relevance score.
+**105 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -38,6 +38,7 @@
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling i | Nokia, Ciena |
+| 52 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and  | — |
 | 51 | [Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. | — |
 | 51 | [DiGSiViz](https://github.com/netlab-hfd/digsiviz) | gNMI-powered real-time visualization of Network Digital Twin topologies running in Containerlab. A p | — |
 | 51 | [Checkmate](https://github.com/bluewave-labs/Checkmate) | Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU,  | — |
@@ -80,6 +81,7 @@
 | 37 | [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) | Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1  | — |
 | 37 | [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) | Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics ex | — |
 | 37 | [snmp_notifier](https://github.com/maxwo/snmp_notifier) | Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prom | — |
+| 37 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter select | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash,  | — |
 | 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network da | — |

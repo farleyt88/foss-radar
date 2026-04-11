@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**460 tools** across 38 categories.
+**462 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (275)
-- **Observability** (103)
+- **Observability** (105)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Self-Hosted Infrastructure** (6)
@@ -561,6 +561,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) — Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for experimenting with stream (score: 0)
 - [SigNoz](https://github.com/SigNoz/signoz) — Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hos (score: 0)
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter selection, protocol/servic (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
 - [snmp_notifier](https://github.com/maxwo/snmp_notifier) — Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitor (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
@@ -575,6 +576,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)
+- [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) — Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and Prometheus/InfluxDB  (score: 0)
 - [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) — Modern network weathermap web application showing link utilization, optical power, and link health on logical maps. Auto (score: 0)
 - [xenoeye](https://github.com/vmxdev/xenoeye) — Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and Grafana integration. (score: 0)
 

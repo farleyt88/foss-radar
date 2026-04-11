@@ -9133,5 +9133,49 @@
     "discovered": "2026-04-10",
     "relevance_score": 49,
     "vendor_verified": false
+  },
+  {
+    "name": "WatchYourLAN",
+    "url": "https://github.com/aceberg/WatchYourLAN",
+    "description": "Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and Prometheus/InfluxDB export for Grafana dashboards. Useful for simple asset visibility and change detection in self-hosted environments.",
+    "category": "Observability",
+    "stars": 6875,
+    "topics": [
+      "arp-scan",
+      "monitoring",
+      "network-security",
+      "self-hosted",
+      "prometheus",
+      "grafana",
+      "asset-discovery"
+    ],
+    "vendors": [],
+    "updated": "2025-09-10",
+    "discovered": "2026-04-11",
+    "relevance_score": 52,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Sniffnet",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "description": "Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter selection, protocol/service identification, ASN/domain visibility, local-network awareness, and PCAP import/export. Handy lightweight visibility tool for troubleshooting and traffic inspection.",
+    "category": "Observability",
+    "stars": 33203,
+    "topics": [
+      "network-monitoring",
+      "packet-capture",
+      "pcap",
+      "packet-sniffer",
+      "network-analysis",
+      "rust",
+      "gui"
+    ],
+    "vendors": [],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-11",
+    "relevance_score": 37,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
