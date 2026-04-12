@@ -9420,5 +9420,67 @@
     "relevance_score": 25,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "ntpd-rs",
+    "url": "https://github.com/pendulum-project/ntpd-rs",
+    "description": "Full-featured Rust implementation of the Network Time Protocol with NTS support. Relevant for hardened timing infrastructure and telecom-grade synchronization services in self-hosted environments.",
+    "category": "Timing & Synchronization",
+    "stars": 1061,
+    "topics": [
+      "ntp",
+      "nts",
+      "time-synchronization",
+      "rust",
+      "ntp-server",
+      "ntp-client"
+    ],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-12",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 39
+  },
+  {
+    "name": "NTPsec",
+    "url": "https://github.com/ntpsec/ntpsec",
+    "description": "Security-focused refactor of the classic NTP suite. Useful for self-hosted, utility-grade timing infrastructure where attack surface and protocol hygiene matter.",
+    "category": "Timing & Synchronization",
+    "stars": 277,
+    "topics": [
+      "ntp",
+      "ntp-server",
+      "ntp-client",
+      "time-synchronization",
+      "security"
+    ],
+    "updated": "2026-03-25",
+    "discovered": "2026-04-12",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 21
+  },
+  {
+    "name": "SR Linux NDK Go",
+    "url": "https://github.com/nokia/srlinux-ndk-go",
+    "description": "Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR Linux agents and integrations directly against SR Linux gRPC/NDK APIs.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "ndk",
+      "golang",
+      "grpc",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-05-29",
+    "discovered": "2026-04-12",
+    "source": "foss-radar-scan",
+    "vendor_verified": true,
+    "relevance_score": 67
   }
 ]

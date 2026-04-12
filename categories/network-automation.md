@@ -1,6 +1,6 @@
 # Network Automation
 
-**278 tools** — sorted by relevance score.
+**279 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -56,6 +56,7 @@
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no | Nokia ✅ |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
 | 67 | [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) | Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (NDT | — |
+| 67 | [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) | Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR L | Nokia ✅ |
 | 65 | [nokia-netconf-examples](https://github.com/nokia/netconf-examples) | Official Nokia NETCONF example scripts and code samples. Reference implementations for NETCONF opera | Nokia ✅ |
 | 65 | [Arista OpenMgmt](https://github.com/aristanetworks/openmgmt) | Documentation and examples for OpenConfig, NETCONF, RESTCONF, gNMI with Arista EOS. Reference implem | Arista |
 | 65 | [ciena.saos6](https://github.com/ciena/ciena.saos6) | Official Ciena Ansible Collection for SAOS 6.x devices. Automate management of legacy Ciena carrier  | Ciena ✅ |

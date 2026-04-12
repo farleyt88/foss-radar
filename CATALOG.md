@@ -1,22 +1,22 @@
 # FOSS Radar — Tool Catalog
 
-**473 tools** across 38 categories.
+**476 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (278)
+- **Network Automation** (279)
 - **Observability** (110)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
+- **Timing & Synchronization** (6)
 - **Network Simulation** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **Network Testing** (4)
 - **Network Observability** (4)
-- **Timing & Synchronization** (4)
 - **IPAM** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
@@ -369,6 +369,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [selprotopy](https://github.com/engineerjoe440/selprotopy) — Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols — SEL Fast Meter, SEL Fast Message,  (score: 0)
 - [shconfparser](https://github.com/network-tools/shconfparser) — Network configuration parser that translates show command outputs from Cisco and other vendors into structured tree, tab (score: 0)
 - [SR Linux Controller](https://github.com/srl-labs/srl-controller) — Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topologies. Native k8s int (score: 0)
+- [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) — Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR Linux agents and inte (score: 0)
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
 - [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) — Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prometheus, Grafana, Lok (score: 0)
 - [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) — Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access to source .yang fil (score: 0)
@@ -617,6 +618,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Timing & Synchronization
 
 - [linuxptp](https://github.com/richardcochran/linuxptp) — User-space implementation of IEEE 1588 Precision Time Protocol for Linux. Includes ptp4l, phc2sys, pmc, and ts2phc for g (score: 0)
+- [ntpd-rs](https://github.com/pendulum-project/ntpd-rs) — Full-featured Rust implementation of the Network Time Protocol with NTS support. Relevant for hardened timing infrastruc (score: 0)
+- [NTPsec](https://github.com/ntpsec/ntpsec) — Security-focused refactor of the classic NTP suite. Useful for self-hosted, utility-grade timing infrastructure where at (score: 0)
 - [rkik](https://github.com/aguacero7/rkik) — Rusty Klock Inspection Kit — Rust CLI for stateless inspection of NTP, NTS, and PTP sources. Handy for validating timing (score: 0)
 - [Statime](https://github.com/pendulum-project/statime) — A full Rust implementation of IEEE 1588 Precision Time Protocol (PTP). Supports ordinary clock, boundary clock, and tran (score: 0)
 - [Time-Card](https://github.com/Time-Appliances-Project/Time-Card) — Open precision time platform and reference architecture for PTP/NTP synchronization. Covers timing distribution, monitor (score: 0)
