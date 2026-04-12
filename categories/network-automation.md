@@ -1,6 +1,6 @@
 # Network Automation
 
-**277 tools** — sorted by relevance score.
+**278 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -77,6 +77,7 @@
 | 57 | [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) | ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Alg | Nokia |
 | 57 | [ciena.saos10](https://github.com/ciena/ciena.saos10) | Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, inte | Ciena ✅ |
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |
+| 56 | [gnmi-map](https://github.com/hellt/gnmi-map) | gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightwei | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
 | 55 | [Itential MCP Server](https://github.com/itential/itential-mcp) | MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation wo | Nokia, Ciena, Ribbon |

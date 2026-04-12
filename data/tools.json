@@ -9358,5 +9358,67 @@
     "vendor_verified": false,
     "source": "foss-radar-scan",
     "relevance_score": 37
+  },
+  {
+    "name": "Time-Card",
+    "url": "https://github.com/Time-Appliances-Project/Time-Card",
+    "description": "Open precision time platform and reference architecture for PTP/NTP synchronization. Covers timing distribution, monitoring, and performance objectives for data center and telecom-style networks. Strong fit for transport timing baselines and SLA validation across packet networks.",
+    "category": "Timing & Synchronization",
+    "stars": 1457,
+    "topics": [
+      "ptp",
+      "ntp",
+      "synchronization",
+      "telecom",
+      "timing",
+      "time-card"
+    ],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-12",
+    "relevance_score": 47,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "gnmi-map",
+    "url": "https://github.com/hellt/gnmi-map",
+    "description": "gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightweight helper when working with OpenConfig/gNMI telemetry and model-driven automation pipelines.",
+    "category": "Network Automation",
+    "stars": 33,
+    "topics": [
+      "gnmi",
+      "grpc",
+      "openconfig",
+      "telemetry",
+      "network-automation"
+    ],
+    "updated": "2020-07-07",
+    "discovered": "2026-04-12",
+    "relevance_score": 56,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "VoIPmonitor sniffer",
+    "url": "https://github.com/voipmonitor/sniffer",
+    "description": "Open-source VoIP/SIP traffic sniffer and monitoring engine. Relevant for Ribbon/Sonus-adjacent SBC environments where call quality, SIP troubleshooting, and packet-level voice observability matter.",
+    "category": "Observability",
+    "stars": 282,
+    "topics": [
+      "voip",
+      "sip",
+      "sbc",
+      "packet-capture",
+      "monitoring",
+      "telephony"
+    ],
+    "vendors": [
+      "Ribbon"
+    ],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-12",
+    "relevance_score": 25,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

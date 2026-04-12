@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**470 tools** across 38 categories.
+**473 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (277)
-- **Observability** (109)
+- **Network Automation** (278)
+- **Observability** (110)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -16,10 +16,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Infrastructure as Code** (4)
 - **Network Testing** (4)
 - **Network Observability** (4)
+- **Timing & Synchronization** (4)
 - **IPAM** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
-- **Timing & Synchronization** (3)
 - **MCP / AI Integration** (3)
 - **Data Management** (2)
 - **Infrastructure** (2)
@@ -194,6 +194,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [FRRouting (FRR)](https://github.com/FRRouting/frr) — Open source routing protocol suite supporting BGP, OSPF, IS-IS, LDP, BFD, PIM, EIGRP, and more. Runs on Linux/BSD. Used  (score: 0)
 - [Genie Parser](https://github.com/CiscoTestAutomation/genieparser) — Cisco Genie device output parsers. 2000+ parsers for network device CLI output. (score: 0)
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)
+- [gnmi-map](https://github.com/hellt/gnmi-map) — gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightweight helper when work (score: 0)
 - [gnmic](https://github.com/openconfig/gnmic) — gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. (score: 0)
 - [gnoic](https://github.com/karimra/gnoic) — gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like cert management, file (score: 0)
 - [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) — Optical route planning library for DWDM networks. Gaussian noise model for SNR estimation, path computation engine, band (score: 0)
@@ -583,6 +584,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)
+- [VoIPmonitor sniffer](https://github.com/voipmonitor/sniffer) — Open-source VoIP/SIP traffic sniffer and monitoring engine. Relevant for Ribbon/Sonus-adjacent SBC environments where ca (score: 0)
 - [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) — Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and Prometheus/InfluxDB  (score: 0)
 - [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) — Modern network weathermap web application showing link utilization, optical power, and link health on logical maps. Auto (score: 0)
 - [xenoeye](https://github.com/vmxdev/xenoeye) — Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and Grafana integration. (score: 0)
@@ -617,6 +619,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [linuxptp](https://github.com/richardcochran/linuxptp) — User-space implementation of IEEE 1588 Precision Time Protocol for Linux. Includes ptp4l, phc2sys, pmc, and ts2phc for g (score: 0)
 - [rkik](https://github.com/aguacero7/rkik) — Rusty Klock Inspection Kit — Rust CLI for stateless inspection of NTP, NTS, and PTP sources. Handy for validating timing (score: 0)
 - [Statime](https://github.com/pendulum-project/statime) — A full Rust implementation of IEEE 1588 Precision Time Protocol (PTP). Supports ordinary clock, boundary clock, and tran (score: 0)
+- [Time-Card](https://github.com/Time-Appliances-Project/Time-Card) — Open precision time platform and reference architecture for PTP/NTP synchronization. Covers timing distribution, monitor (score: 0)
 
 ## Traffic Engineering
 
