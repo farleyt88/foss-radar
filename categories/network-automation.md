@@ -1,6 +1,6 @@
 # Network Automation
 
-**276 tools** — sorted by relevance score.
+**277 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -143,6 +143,7 @@
 | 37 | [VyManager](https://github.com/Community-VyProjects/VyManager) | Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers.  | — |
 | 37 | [SDC Config Server](https://github.com/sdcio/config-server) | Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, targ | — |
 | 37 | [EzSnmp](https://github.com/carlkidcrypto/ezsnmp) | Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ an | — |
+| 37 | [OpenConfig gNOI](https://github.com/openconfig/gnoi) | OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks su | — |
 | 36 | [Trigger](https://github.com/trigger/trigger) | Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports S | — |
 | 35 | [Icinga](https://github.com/Icinga/icinga2) | Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend predictio | — |
 | 35 | [yangson](https://github.com/CZ-NIC/yangson) | YANG data modeling language parser and validator. JSON instance validation against YANG schemas. | — |

@@ -9292,5 +9292,71 @@
     "source": "foss-radar-scan",
     "relevance_score": 25,
     "vendor_verified": false
+  },
+  {
+    "name": "pktvisor",
+    "url": "https://github.com/netboxlabs/pktvisor",
+    "description": "Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus, and other metrics. Useful for packet-level visibility, DNS/network analytics, and self-hosted observability pipelines.",
+    "category": "Observability",
+    "stars": 515,
+    "topics": [
+      "network-observability",
+      "opentelemetry",
+      "prometheus",
+      "packet-capture",
+      "dns",
+      "grafana",
+      "self-hosted"
+    ],
+    "updated": "2026-04-11",
+    "discovered": "2026-04-11",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 48
+  },
+  {
+    "name": "Nautobot Capacity Metrics",
+    "url": "https://github.com/nautobot/nautobot-app-capacity-metrics",
+    "description": "Prometheus metrics endpoint plugin for Nautobot. Exposes application and operational metrics for self-hosted observability, making it easier to monitor Nautobot health and capacity inside Grafana/Prometheus stacks.",
+    "category": "Observability",
+    "stars": 14,
+    "topics": [
+      "nautobot",
+      "prometheus",
+      "metrics",
+      "observability",
+      "grafana",
+      "self-hosted",
+      "network-automation"
+    ],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-11",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 43
+  },
+  {
+    "name": "OpenConfig gNOI",
+    "url": "https://github.com/openconfig/gnoi",
+    "description": "OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks such as certificate management, healthz, file transfer, OS install/activation, and system control on network devices.",
+    "category": "Network Automation",
+    "stars": 187,
+    "topics": [
+      "gnoi",
+      "grpc",
+      "openconfig",
+      "network-operations",
+      "automation",
+      "certificates",
+      "os-upgrade"
+    ],
+    "updated": "2026-04-06",
+    "discovered": "2026-04-11",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 37
   }
 ]

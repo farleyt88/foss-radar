@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**467 tools** across 38 categories.
+**470 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (276)
-- **Observability** (107)
+- **Network Automation** (277)
+- **Observability** (109)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -327,6 +327,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Ondatra](https://github.com/openconfig/ondatra) — Open Network Device Automated Test Runner and API by OpenConfig. Write and run tests against real and containerized netw (score: 0)
 - [OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles) — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI, BG (score: 0)
 - [OpenConfig gNMI](https://github.com/openconfig/gnmi) — gRPC Network Management Interface specification and reference implementation. The foundation for gNMI-based network auto (score: 0)
+- [OpenConfig gNOI](https://github.com/openconfig/gnoi) — OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks such as certificate ma (score: 0)
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) — Network topology collector and visualizer. Collects from dynamic mesh routing protocols or OpenVPN, saves daily snapshot (score: 0)
 - [Oxidized](https://github.com/ytti/oxidized) — Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. (score: 0)
 - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) — Ansible modules for Palo Alto Networks PAN-OS. (score: 0)
@@ -521,6 +522,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) — Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics explorer, RBAC, audit  (score: 0)
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) — Cross-vendor normalisation for network syslog messages. OpenConfig/IETF YANG models. (score: 0)
 - [natlas](https://github.com/MJL85/natlas) — Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Auto-discovers topolog (score: 0)
+- [Nautobot Capacity Metrics](https://github.com/nautobot/nautobot-app-capacity-metrics) — Prometheus metrics endpoint plugin for Nautobot. Exposes application and operational metrics for self-hosted observabili (score: 0)
 - [Nerdlog](https://github.com/dimonomid/nerdlog) — Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server. SSH-based log querying from (score: 0)
 - [NetAlertX](https://github.com/netalertx/NetAlertX) — Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors devices, detects cha (score: 0)
 - [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) — NetBox plugin for network topology visualization. D3.js based diagrams. (score: 0)
@@ -553,6 +555,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
 - [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
+- [pktvisor](https://github.com/netboxlabs/pktvisor) — Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus, and other metrics. (score: 0)
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
 - [privacynet](https://github.com/cwccie/privacynet) — Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, random), flow aggregatio (score: 0)
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)
