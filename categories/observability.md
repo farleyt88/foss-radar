@@ -1,6 +1,6 @@
 # Observability
 
-**112 tools** — sorted by relevance score.
+**113 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -97,6 +97,7 @@
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |
 | 29 | [inet-henge](https://github.com/codeout/inet-henge) | Generate d3.js network diagrams from JSON. Interactive network topology visualization. | — |
 | 29 | [NetAlertX](https://github.com/netalertx/NetAlertX) | Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors  | — |
+| 29 | [NetObserv Operator](https://github.com/netobserv/netobserv-operator) | Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with i | — |
 | 28 | [Orb](https://github.com/orb-community/orb) | Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelin | — |
 | 27 | [Scanlyne](https://github.com/Josperdo/scanlyne) | Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLite, | — |
 | 27 | [mermin](https://github.com/elastiflow/mermin) | Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic and e | — |

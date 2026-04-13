@@ -1,6 +1,6 @@
 # Network Automation
 
-**283 tools** — sorted by relevance score.
+**284 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -234,6 +234,7 @@
 | 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate | Nokia |
 | 21 | [rneter](https://github.com/demohiiiii/rneter) | High-performance Rust library for network automation SSH with intelligent connection pooling, automa | — |
 | 21 | [mcp-api-sros](https://github.com/drupertifranco/mcp-api-sros) | FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HT | Nokia |
+| 21 | [Go IEC61850](https://github.com/wendy512/iec61850) | Go-based IEC 61850 library for building utility and substation automation tooling. Relevant for powe | SEL |
 | 20 | [batfish](https://github.com/batfish/batfish) | Network configuration analysis. Validate configs, test changes, find bugs before deployment. | — |
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |

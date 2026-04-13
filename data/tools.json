@@ -9621,5 +9621,50 @@
     "relevance_score": 57,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetObserv Operator",
+    "url": "https://github.com/netobserv/netobserv-operator",
+    "description": "Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with integrations for Loki and Prometheus, making it useful for self-hosted network visibility in containerized infrastructure.",
+    "category": "Observability",
+    "stars": 222,
+    "topics": [
+      "ebpf",
+      "kubernetes",
+      "network",
+      "observability",
+      "operator"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2026-04-10",
+    "discovered": "2026-04-13",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Go IEC61850",
+    "url": "https://github.com/wendy512/iec61850",
+    "description": "Go-based IEC 61850 library for building utility and substation automation tooling. Relevant for power-network environments and adjacent SEL-style operational workflows where IEC 61850 data exchange matters.",
+    "category": "Network Automation",
+    "stars": 170,
+    "topics": [
+      "cgo",
+      "golang",
+      "iec",
+      "iec61850"
+    ],
+    "language": "C",
+    "license": "GPL-3.0",
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-03-16",
+    "discovered": "2026-04-13",
+    "relevance_score": 21,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

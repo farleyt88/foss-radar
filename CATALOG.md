@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**482 tools** across 38 categories.
+**484 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (283)
-- **Observability** (112)
+- **Network Automation** (284)
+- **Observability** (113)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -202,6 +202,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [GNS3](https://github.com/GNS3/gns3-server) — Graphical Network Simulator-3. Emulate complex networks on commodity hardware. (score: 0)
 - [gNSI](https://github.com/openconfig/gnsi) — gRPC Network Security Interface — OpenConfig specification for security infrastructure services on network devices. Cove (score: 0)
 - [gNXI Tools](https://github.com/google/gnxi) — Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subscribe, gnoi_cert, gno (score: 0)
+- [Go IEC61850](https://github.com/wendy512/iec61850) — Go-based IEC 61850 library for building utility and substation automation tooling. Relevant for power-network environmen (score: 0)
 - [GoBGP](https://github.com/osrg/gobgp) — Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers, looking glasses, SDN (score: 0)
 - [gRIBI](https://github.com/openconfig/gribi) — gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing entries into a netw (score: 0)
 - [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
@@ -536,6 +537,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integratio (score: 0)
 - [NetGraf](https://github.com/esnet/netgraf) — End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and device-level data fr (score: 0)
 - [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) — eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linux hosts. Good fit fo (score: 0)
+- [NetObserv Operator](https://github.com/netobserv/netobserv-operator) — Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with integrations for Loki (score: 0)
 - [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) — Kubernetes-based NetOps platform for deploying network automation, observability, and configuration management apps toge (score: 0)
 - [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) — Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS performance, and optional b (score: 0)
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)
