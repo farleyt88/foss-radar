@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**479 tools** across 38 categories.
+**482 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (281)
-- **Observability** (111)
+- **Network Automation** (283)
+- **Observability** (112)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -356,6 +356,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [rauto](https://github.com/demohiiiii/rauto) — Rust CLI for network automation using Jinja2 templates and robust SSH. Supports Cisco, Huawei, Juniper with dry-run, JSO (score: 0)
 - [Rconfig](https://github.com/rconfig/rconfig) — Free, open source network device configuration management. Customizable to your needs. (score: 0)
 - [rdb-tool](https://github.com/danyill/rdb-tool) — Python tool for manipulating Schweitzer Engineering Laboratories (SEL) relay database files (.RDB). Iterates across larg (score: 0)
+- [resource_module_builder](https://github.com/ciena/resource_module_builder) — Ciena scaffold/maintenance toolkit for generating Ansible resource modules from YANG models. README explicitly covers Wa (score: 0)
 - [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) — PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system info, create/modify/ (score: 0)
 - [rneter](https://github.com/demohiiiii/rneter) — High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection (score: 0)
 - [Rousette](https://github.com/CESNET/rousette) — Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding, YANG module librar (score: 0)
@@ -370,6 +371,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) — Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. Parses and manipula (score: 0)
 - [selprotopy](https://github.com/engineerjoe440/selprotopy) — Python bindings for Schweitzer Engineering Laboratories (SEL) proprietary protocols — SEL Fast Meter, SEL Fast Message,  (score: 0)
 - [shconfparser](https://github.com/network-tools/shconfparser) — Network configuration parser that translates show command outputs from Cisco and other vendors into structured tree, tab (score: 0)
+- [SIMNOS](https://github.com/Route-Reflector/simnos) — Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS personas including C (score: 0)
 - [SR Linux Controller](https://github.com/srl-labs/srl-controller) — Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topologies. Native k8s int (score: 0)
 - [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) — Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR Linux agents and inte (score: 0)
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
@@ -503,6 +505,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
 - [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) — Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targets, exports to othe (score: 0)
 - [gNMIc Operator](https://github.com/gnmic/operator) — Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry infrastructure as C (score: 0)
+- [gnmic-cluster-chart](https://github.com/workfloworchestrator/gnmic-cluster-chart) — Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted streaming telemetry (score: 0)
 - [gnp-stack](https://github.com/gnp-stack/gnp-stack) — gNMIc-NATS-Prometheus Stack for network telemetry. Open proof-of-concept stack focused on making streaming telemetry eas (score: 0)
 - [gNPSI](https://github.com/openconfig/gnpsi) — gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-based streaming packet (score: 0)
 - [GoFlow2](https://github.com/netsampler/goflow2) — High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's original GoFlow. In (score: 0)

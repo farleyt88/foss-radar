@@ -1,6 +1,6 @@
 # Network Automation
 
-**281 tools** — sorted by relevance score.
+**283 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -57,6 +57,7 @@
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
 | 67 | [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) | Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (NDT | — |
 | 67 | [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) | Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR L | Nokia ✅ |
+| 67 | [resource_module_builder](https://github.com/ciena/resource_module_builder) | Ciena scaffold/maintenance toolkit for generating Ansible resource modules from YANG models. README  | Ciena ✅ |
 | 65 | [nokia-netconf-examples](https://github.com/nokia/netconf-examples) | Official Nokia NETCONF example scripts and code samples. Reference implementations for NETCONF opera | Nokia ✅ |
 | 65 | [Arista OpenMgmt](https://github.com/aristanetworks/openmgmt) | Documentation and examples for OpenConfig, NETCONF, RESTCONF, gNMI with Arista EOS. Reference implem | Arista |
 | 65 | [ciena.saos6](https://github.com/ciena/ciena.saos6) | Official Ciena Ansible Collection for SAOS 6.x devices. Automate management of legacy Ciena carrier  | Ciena ✅ |
@@ -65,6 +66,7 @@
 | 65 | [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) | Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to networ | Nokia ✅ |
 | 65 | [damianoneill/net](https://github.com/damianoneill/net) | Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, | — |
 | 65 | [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) | Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point | Nokia ✅ |
+| 65 | [SIMNOS](https://github.com/Route-Reflector/simnos) | Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS  | Ciena ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |

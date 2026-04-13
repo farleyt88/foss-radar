@@ -9550,5 +9550,76 @@
     "vendor_verified": false,
     "source": "foss-radar-scan",
     "relevance_score": 57
+  },
+  {
+    "name": "SIMNOS",
+    "url": "https://github.com/Route-Reflector/simnos",
+    "description": "Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS personas including Ciena SAOS, making it useful for offline parser, prompt, and workflow validation before touching production gear.",
+    "category": "Network Automation",
+    "stars": 2,
+    "topics": [
+      "network-automation",
+      "simulator",
+      "ssh",
+      "testing",
+      "ciena",
+      "saos",
+      "python"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2026-04-11",
+    "discovered": "2026-04-13",
+    "relevance_score": 65,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "resource_module_builder",
+    "url": "https://github.com/ciena/resource_module_builder",
+    "description": "Ciena scaffold/maintenance toolkit for generating Ansible resource modules from YANG models. README explicitly covers Waveserver Ai, SAOS 10, Waveserver 5, and RLS workflows.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "ansible",
+      "yang",
+      "resource-modules",
+      "ciena",
+      "saos10",
+      "waveserver",
+      "automation"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2025-04-02",
+    "discovered": "2026-04-13",
+    "relevance_score": 67,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "gnmic-cluster-chart",
+    "url": "https://github.com/workfloworchestrator/gnmic-cluster-chart",
+    "description": "Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted streaming telemetry pipelines, fan-out collection, and observability stacks built around OpenConfig/gNMI.",
+    "category": "Observability",
+    "stars": 6,
+    "topics": [
+      "gnmi",
+      "gnmic",
+      "telemetry",
+      "kubernetes",
+      "helm",
+      "observability",
+      "openconfig",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-02-12",
+    "discovered": "2026-04-13",
+    "relevance_score": 57,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

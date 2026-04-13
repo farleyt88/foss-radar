@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-03-07T01:03:00.932675",
-    "new": 0,
-    "updated": 281,
-    "deduped": 0,
-    "total": 287
-  },
-  {
     "timestamp": "2026-03-07T01:03:31.935255",
     "new": 0,
     "updated": 32,
@@ -698,5 +691,12 @@
     "updated": 3,
     "deduped": 0,
     "total": 479
+  },
+  {
+    "timestamp": "2026-04-13T07:50:23.570895",
+    "new": 0,
+    "updated": 3,
+    "deduped": 0,
+    "total": 482
   }
 ]

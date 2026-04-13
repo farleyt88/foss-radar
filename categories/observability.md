@@ -1,6 +1,6 @@
 # Observability
 
-**111 tools** — sorted by relevance score.
+**112 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -30,6 +30,7 @@
 | 57 | [mapgl](https://github.com/vaduga/mapgl) | Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network to | — |
 | 57 | [Beszel](https://github.com/henrygd/beszel) | Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, mu | — |
 | 57 | [Grafana Alloy](https://github.com/grafana/alloy) | Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipeline | — |
+| 57 | [gnmic-cluster-chart](https://github.com/workfloworchestrator/gnmic-cluster-chart) | Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted | — |
 | 56 | [Keep](https://github.com/keephq/keep) | Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with | — |
 | 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pager | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
