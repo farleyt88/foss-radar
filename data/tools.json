@@ -9482,5 +9482,73 @@
     "source": "foss-radar-scan",
     "vendor_verified": true,
     "relevance_score": 67
+  },
+  {
+    "name": "Aimusubi",
+    "url": "https://github.com/aimusubi/aimusubi",
+    "description": "Local-first agentic NetOps framework that connects LLMs to real network devices with unified intents, adapters, and full observability.",
+    "category": "Network Automation",
+    "stars": 7,
+    "topics": [
+      "netops",
+      "network-automation",
+      "observability",
+      "fastapi",
+      "prometheus",
+      "grafana",
+      "restconf",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-03-24",
+    "discovered": "2026-04-13",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 51
+  },
+  {
+    "name": "Streaming Telemetry Lab",
+    "url": "https://github.com/indigo423/streaming-telemetry-lab",
+    "description": "Containerlab environment for gNMI streaming telemetry with Nokia SR Linux. Useful as a practical lab reference for building Prometheus/Grafana-style telemetry pipelines around SR Linux.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "containerlab",
+      "gnmi",
+      "streaming-telemetry",
+      "nokia",
+      "sr-linux",
+      "observability"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-06-23",
+    "discovered": "2026-04-13",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 51
+  },
+  {
+    "name": "HybridOps Network Automation Framework",
+    "url": "https://github.com/jeleel-muibi/hybridops-network-automation-framework",
+    "description": "Programmable network automation framework using Python, Nornir, Scrapli, and NAPALM for configuration management, validation, and infrastructure observability.",
+    "category": "Network Automation",
+    "stars": 1,
+    "topics": [
+      "python",
+      "nornir",
+      "scrapli",
+      "napalm",
+      "configuration-management",
+      "observability",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-03-15",
+    "discovered": "2026-04-13",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 57
   }
 ]

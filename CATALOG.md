@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**476 tools** across 38 categories.
+**479 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (279)
-- **Observability** (110)
+- **Network Automation** (281)
+- **Observability** (111)
 - **Self-Hosted Infrastructure** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -130,6 +130,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [acton-yang](https://github.com/orchestron-orchestrator/acton-yang) — YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & JSON serializers. P (score: 0)
 - [Aerleon](https://github.com/aerleon/aerleon) — Multi-platform ACL generation system. Generate Juniper/IOS/etc ACLs from single policy. (score: 0)
+- [Aimusubi](https://github.com/aimusubi/aimusubi) — Local-first agentic NetOps framework that connects LLMs to real network devices with unified intents, adapters, and full (score: 0)
 - [aiNOC](https://github.com/pdudotdev/aiNOC) — AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks. Built on  (score: 0)
 - [annet](https://github.com/annetutil/annet) — Configuration generation and deployment utility translating config diffs into command sequences. Supports Huawei, Cisco  (score: 0)
 - [Ansible WebUI](https://github.com/O-X-L/ansible-webui) — Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker and get a browser-based (score: 0)
@@ -206,6 +207,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
 - [Holo](https://github.com/holo-routing/holo) — Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven networks. Memory-safe, mo (score: 0)
+- [HybridOps Network Automation Framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework) — Programmable network automation framework using Python, Nornir, Scrapli, and NAPALM for configuration management, valida (score: 0)
 - [Icinga](https://github.com/Icinga/icinga2) — Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend prediction. (score: 0)
 - [iec61850_open_gateway](https://github.com/robidev/iec61850_open_gateway) — Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pattern when utility o (score: 0)
 - [Infoblox Ansible](https://github.com/infobloxopen/infoblox-ansible) — Ansible module for Infoblox integration. (score: 0)
@@ -579,6 +581,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
 - [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) — Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a transport-focused ref (score: 0)
 - [Steward](https://github.com/braedonsaunders/steward) — Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery, persistent state,  (score: 0)
+- [Streaming Telemetry Lab](https://github.com/indigo423/streaming-telemetry-lab) — Containerlab environment for gNMI streaming telemetry with Nokia SR Linux. Useful as a practical lab reference for build (score: 0)
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)

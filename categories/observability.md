@@ -1,6 +1,6 @@
 # Observability
 
-**110 tools** — sorted by relevance score.
+**111 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -44,6 +44,7 @@
 | 51 | [DiGSiViz](https://github.com/netlab-hfd/digsiviz) | gNMI-powered real-time visualization of Network Digital Twin topologies running in Containerlab. A p | — |
 | 51 | [Checkmate](https://github.com/bluewave-labs/Checkmate) | Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU,  | — |
 | 51 | [Kubeshark](https://github.com/kubeshark/kubeshark) | Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, | — |
+| 51 | [Streaming Telemetry Lab](https://github.com/indigo423/streaming-telemetry-lab) | Containerlab environment for gNMI streaming telemetry with Nokia SR Linux. Useful as a practical lab | Nokia |
 | 49 | [openGemini](https://github.com/openGemini/openGemini) | CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency | — |
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
 | 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |
