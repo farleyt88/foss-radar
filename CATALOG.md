@@ -1,17 +1,17 @@
 # FOSS Radar — Tool Catalog
 
-**484 tools** across 38 categories.
+**487 tools** across 38 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (284)
-- **Observability** (113)
+- **Network Automation** (285)
+- **Observability** (114)
 - **Self-Hosted Infrastructure** (7)
+- **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
-- **Timing & Synchronization** (6)
 - **Network Simulation** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
@@ -403,6 +403,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [vscode-sr](https://github.com/srl-labs/vscode-sr) — VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax hig (score: 0)
 - [VyManager](https://github.com/Community-VyProjects/VyManager) — Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers. Supports all active  (score: 0)
 - [xNMS](https://github.com/xmas-ar/xNMS) — Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link service templates on to (score: 0)
+- [Y.1731 Test Automation](https://github.com/SilvaDDev/Y_1731_Test_Automation) — Python-based automation for creating Y.1731 performance tests on Ciena devices. Useful for transport fault management, S (score: 0)
 - [YANCCM](https://github.com/cunningr/yanccm) — NETCONF-based network configuration and change management tool. Uses ncclient for config-diff, commit-confirm, and compl (score: 0)
 - [yang-comparator](https://github.com/yang-central/yang-comparator) — Compare two YANG release versions. Identifies added/changed/deleted statements, schema tree diffs, and compatibility bre (score: 0)
 - [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) — Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (NDT) solutions. Uses py (score: 0)
@@ -502,6 +503,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) — Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. (score: 0)
 - [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) — Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics. Deploys a full Contain (score: 0)
 - [Edgeshark](https://github.com/siemens/edgeshark) — Discover and capture container network traffic from desktop Wireshark with a single click. Containerized service with Wi (score: 0)
+- [flowcus](https://github.com/consi/flowcus) — High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for self-hosted traffic (score: 0)
 - [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) — Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, and exports to Loki an (score: 0)
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
 - [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) — Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targets, exports to othe (score: 0)
@@ -628,6 +630,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [linuxptp](https://github.com/richardcochran/linuxptp) — User-space implementation of IEEE 1588 Precision Time Protocol for Linux. Includes ptp4l, phc2sys, pmc, and ts2phc for g (score: 0)
 - [ntpd-rs](https://github.com/pendulum-project/ntpd-rs) — Full-featured Rust implementation of the Network Time Protocol with NTS support. Relevant for hardened timing infrastruc (score: 0)
 - [NTPsec](https://github.com/ntpsec/ntpsec) — Security-focused refactor of the classic NTP suite. Useful for self-hosted, utility-grade timing infrastructure where at (score: 0)
+- [ptp-trace](https://github.com/holoplot/ptp-trace) — Rust TUI for tracing and inspecting IEEE 1588 / PTP traffic. Handy for timing and synchronization troubleshooting in tra (score: 0)
 - [rkik](https://github.com/aguacero7/rkik) — Rusty Klock Inspection Kit — Rust CLI for stateless inspection of NTP, NTS, and PTP sources. Handy for validating timing (score: 0)
 - [Statime](https://github.com/pendulum-project/statime) — A full Rust implementation of IEEE 1588 Precision Time Protocol (PTP). Supports ordinary clock, boundary clock, and tran (score: 0)
 - [Time-Card](https://github.com/Time-Appliances-Project/Time-Card) — Open precision time platform and reference architecture for PTP/NTP synchronization. Covers timing distribution, monitor (score: 0)

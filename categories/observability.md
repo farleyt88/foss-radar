@@ -1,6 +1,6 @@
 # Observability
 
-**113 tools** — sorted by relevance score.
+**114 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -23,6 +23,7 @@
 | 65 | [gNMIc Operator](https://github.com/gnmic/operator) | Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry | — |
 | 65 | [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) | Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for exper | — |
 | 63 | [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) | Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates  | — |
+| 63 | [flowcus](https://github.com/consi/flowcus) | High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for | — |
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
 | 57 | [network-observability-lab](https://github.com/network-observability/network-observability-lab) | Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collect | — |

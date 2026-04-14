@@ -9666,5 +9666,71 @@
     "relevance_score": 21,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Y.1731 Test Automation",
+    "url": "https://github.com/SilvaDDev/Y_1731_Test_Automation",
+    "description": "Python-based automation for creating Y.1731 performance tests on Ciena devices. Useful for transport fault management, SLA validation, and service-performance workflows on carrier Ethernet networks.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ciena",
+      "y.1731",
+      "carrier-ethernet",
+      "transport",
+      "performance-monitoring",
+      "fault-management",
+      "python"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2026-02-18",
+    "discovered": "2026-04-14",
+    "relevance_score": 41,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "ptp-trace",
+    "url": "https://github.com/holoplot/ptp-trace",
+    "description": "Rust TUI for tracing and inspecting IEEE 1588 / PTP traffic. Handy for timing and synchronization troubleshooting in transport networks where phase/frequency accuracy matters.",
+    "category": "Timing & Synchronization",
+    "stars": 30,
+    "topics": [
+      "ptp",
+      "ieee1588",
+      "gptp",
+      "timing",
+      "synchronization",
+      "monitoring",
+      "rust"
+    ],
+    "updated": "2026-04-13",
+    "discovered": "2026-04-14",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "flowcus",
+    "url": "https://github.com/consi/flowcus",
+    "description": "High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for self-hosted traffic analysis and flow visibility in transport and backbone environments.",
+    "category": "Observability",
+    "stars": 29,
+    "topics": [
+      "netflow",
+      "ipfix",
+      "flow-collector",
+      "network-monitoring",
+      "observability",
+      "rust",
+      "self-hosted"
+    ],
+    "updated": "2026-04-01",
+    "discovered": "2026-04-14",
+    "relevance_score": 63,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
