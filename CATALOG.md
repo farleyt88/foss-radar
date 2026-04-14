@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**490 tools** across 39 categories.
+**493 tools** across 39 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (285)
-- **Observability** (115)
+- **Network Automation** (287)
+- **Observability** (116)
 - **Self-Hosted Infrastructure** (7)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -224,6 +224,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [jdiff](https://github.com/networktocode/jdiff) — Python library for examining and comparing structured data (JSON). Useful for network config drift detection, pre/post c (score: 0)
 - [Jerikan](https://github.com/jerikan-network/cmdb) — Network CMDB with Git-based config management. Template-driven network automation. (score: 0)
 - [jsnac](https://github.com/commitconfirmed/jsnac) — JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/infrastructure templates (score: 0)
+- [junos-ops](https://github.com/shigechika/junos-ops) — Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config push, and RSI/SCF colle (score: 0)
 - [KNE](https://github.com/openconfig/kne) — Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, Nokia, Drivenets) as cont (score: 0)
 - [Kubenet](https://github.com/kubenet-dev/kubenet) — Nokia-backed community project using Kubernetes as a network automation engine for managing physical, virtual, or contai (score: 0)
 - [Lemming](https://github.com/openconfig/lemming) — OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use as a fake network dev (score: 0)
@@ -363,6 +364,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [rneter](https://github.com/demohiiiii/rneter) — High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection (score: 0)
 - [Rousette](https://github.com/CESNET/rousette) — Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding, YANG module librar (score: 0)
 - [rustbgpd](https://github.com/lance0/rustbgpd) — API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack MP-BGP, Add-Path, G (score: 0)
+- [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) — Rust network automation platform with async NETCONF client library, YANG code generation, vendor profiles, connection po (score: 0)
 - [salt-nornir](https://github.com/dmulyalin/salt-nornir) — Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. (score: 0)
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) — Salt plugin for network automation at scale without running Proxy Minions. (score: 0)
 - [Schema Enforcer](https://github.com/networktocode/schema-enforcer) — Validate structured data against schemas. Network config data validation. (score: 0)
@@ -489,6 +491,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [advanced-network-topology-mapper](https://github.com/x0VIER/advanced-network-topology-mapper) — Extensible network discovery, visualization, and analysis framework. Uses multiple protocols (SNMP, LLDP, CDP) for auto- (score: 0)
 - [Akvorado](https://github.com/akvorado/akvorado) — Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interface names and geo da (score: 0)
 - [Ask O11y](https://github.com/Consensys/ask-o11y-plugin) — AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Tempo (TraceQL) in natur (score: 0)
+- [augur](https://github.com/starkross/augur) — Static analysis tool for OpenTelemetry Collector configurations. Uses OPA/Rego rules to catch misconfigurations, securit (score: 0)
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)

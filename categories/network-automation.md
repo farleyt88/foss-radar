@@ -1,6 +1,6 @@
 # Network Automation
 
-**285 tools** — sorted by relevance score.
+**287 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -111,6 +111,7 @@
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like c | Nokia |
 | 45 | [KNE](https://github.com/openconfig/kne) | Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, Nokia | Nokia |
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4Run | — |
+| 45 | [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor pro | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSON/g | Nokia, Arista, Cisco, Juniper |
 | 43 | [nautobot-app-circuit-maintenance](https://github.com/nautobot/nautobot-app-circuit-maintenance) | Nautobot plugin for tracking circuit maintenance windows from ISP/carrier notification emails (Zayo, | — |
 | 43 | [nautobot-app-nornir](https://github.com/nautobot/nautobot-app-nornir) | Official Nautobot app providing a Nornir ORM-based inventory and credential manager. Acts as the fou | — |
@@ -137,6 +138,7 @@
 | 39 | [rustbgpd](https://github.com/lance0/rustbgpd) | API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack | — |
 | 39 | [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) | Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers te | — |
 | 39 | [ExaBGP](https://github.com/Exa-Networks/exabgp) | Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route anno | — |
+| 39 | [junos-ops](https://github.com/shigechika/junos-ops) | Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config pus | Juniper |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |

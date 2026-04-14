@@ -9800,5 +9800,79 @@
     "vendor_verified": false,
     "source": "foss-radar-scan",
     "relevance_score": 67
+  },
+  {
+    "name": "rustnetconf",
+    "url": "https://github.com/fastrevmd-lab/rustnetconf",
+    "description": "Rust network automation platform with async NETCONF client library, YANG code generation, vendor profiles, connection pooling, and a Terraform-like CLI for declarative network config management.",
+    "category": "Network Automation",
+    "stars": 3,
+    "topics": [
+      "netconf",
+      "rust"
+    ],
+    "vendors": [],
+    "updated": "2026-04-12",
+    "discovered": "2026-04-14",
+    "relevance_score": 45,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "junos-ops",
+    "url": "https://github.com/shigechika/junos-ops",
+    "description": "Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config push, and RSI/SCF collection. Good pattern reference for safe day-2 network automation workflows.",
+    "category": "Network Automation",
+    "stars": 2,
+    "topics": [
+      "cli",
+      "firmware-upgrade",
+      "juniper",
+      "junos",
+      "junos-pyez",
+      "netconf",
+      "network-automation",
+      "network-engineering",
+      "pyez",
+      "python"
+    ],
+    "vendors": [
+      "Juniper"
+    ],
+    "updated": "2026-04-14",
+    "discovered": "2026-04-14",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "augur",
+    "url": "https://github.com/starkross/augur",
+    "description": "Static analysis tool for OpenTelemetry Collector configurations. Uses OPA/Rego rules to catch misconfigurations, security issues, and performance pitfalls before OTel pipeline changes hit production.",
+    "category": "Observability",
+    "stars": 48,
+    "topics": [
+      "ci-cd",
+      "collector-configuration",
+      "config-linter",
+      "configuration-validation",
+      "devops",
+      "linter",
+      "monitoring",
+      "observability",
+      "opentelemetry",
+      "opentelemetry-collector",
+      "opentelemetry-tools",
+      "otel",
+      "otel-collector",
+      "static-analysis",
+      "telemetry"
+    ],
+    "vendors": [],
+    "updated": "2026-04-14",
+    "discovered": "2026-04-14",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
