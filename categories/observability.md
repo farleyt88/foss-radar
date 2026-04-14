@@ -1,6 +1,6 @@
 # Observability
 
-**114 tools** — sorted by relevance score.
+**115 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -20,6 +20,7 @@
 | 79 | [Netdata](https://github.com/netdata/netdata) | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, tho | — |
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interf | — |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
+| 67 | [panoptes-stream](https://github.com/yahoo/panoptes-stream) | Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT su | — |
 | 65 | [gNMIc Operator](https://github.com/gnmic/operator) | Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry | — |
 | 65 | [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) | Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for exper | — |
 | 63 | [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) | Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates  | — |

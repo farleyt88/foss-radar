@@ -9732,5 +9732,73 @@
     "relevance_score": 63,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OSHMI",
+    "url": "https://github.com/riclolsen/OSHMI",
+    "description": "Open-source SCADA/HMI platform for substations and automation applications. Supports IEC 61850, DNP3, ICCP/TASE.2, Modbus, OPC UA/DA, and Grafana integration. Strong fit for utility operations and substation visibility work adjacent to SEL ICON environments.",
+    "category": "Utility Automation",
+    "stars": 440,
+    "topics": [
+      "scada",
+      "hmi",
+      "iec61850",
+      "dnp3",
+      "substation",
+      "grafana",
+      "iccp",
+      "modbus",
+      "utility"
+    ],
+    "updated": "2026-04-14",
+    "discovered": "2026-04-14",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 21
+  },
+  {
+    "name": "open-scd",
+    "url": "https://github.com/openscd/open-scd",
+    "description": "Apache-licensed editor for IEC 61850 Substation Configuration Description (SCD/SCL) files. Useful for substation engineering workflows, validating and editing digital substation configs, and utility-side standards work around SEL/IEC 61850 ecosystems.",
+    "category": "Utility Automation",
+    "stars": 140,
+    "topics": [
+      "iec61850",
+      "scl",
+      "scd",
+      "substation",
+      "configuration",
+      "editor",
+      "utility"
+    ],
+    "updated": "2026-03-20",
+    "discovered": "2026-04-14",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 13
+  },
+  {
+    "name": "panoptes-stream",
+    "url": "https://github.com/yahoo/panoptes-stream",
+    "description": "Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT support. Good fit for building multi-vendor telemetry pipelines and modernizing transport observability without locking into a single vendor stack.",
+    "category": "Observability",
+    "stars": 38,
+    "topics": [
+      "gnmi",
+      "openconfig",
+      "jti",
+      "mdt",
+      "telemetry",
+      "network-observability",
+      "streaming-telemetry"
+    ],
+    "updated": "2025-12-19",
+    "discovered": "2026-04-14",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 67
   }
 ]

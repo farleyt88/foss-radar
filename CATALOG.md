@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**487 tools** across 38 categories.
+**490 tools** across 39 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (285)
-- **Observability** (114)
+- **Observability** (115)
 - **Self-Hosted Infrastructure** (7)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -27,6 +27,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Lab** (2)
 - **Lab / Testing** (2)
 - **Uncategorized** (2)
+- **Utility Automation** (2)
 - **Reference** (1)
 - **Network Inventory** (1)
 - **Network Visualization** (1)
@@ -563,6 +564,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) — Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery solution. Pluggable (score: 0)
 - [Orb Discovery](https://github.com/netboxlabs/orb-discovery) — Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-based network discover (score: 0)
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
+- [panoptes-stream](https://github.com/yahoo/panoptes-stream) — Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT support. Good fit for  (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
 - [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
@@ -641,6 +643,11 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Uncategorized
 
+
+## Utility Automation
+
+- [open-scd](https://github.com/openscd/open-scd) — Apache-licensed editor for IEC 61850 Substation Configuration Description (SCD/SCL) files. Useful for substation enginee (score: 0)
+- [OSHMI](https://github.com/riclolsen/OSHMI) — Open-source SCADA/HMI platform for substations and automation applications. Supports IEC 61850, DNP3, ICCP/TASE.2, Modbu (score: 0)
 
 ## Utility Protocols
 
