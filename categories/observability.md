@@ -1,6 +1,6 @@
 # Observability
 
-**116 tools** — sorted by relevance score.
+**117 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -95,6 +95,7 @@
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network da | — |
 | 33 | [Steward](https://github.com/braedonsaunders/steward) | Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery | — |
 | 33 | [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) | eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linu | — |
+| 33 | [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) | Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses | — |
 | 32 | [suzieq](https://github.com/netenglabs/suzieq) | Software for network observability and understanding. Agentless, multi-vendor network observability  | Nokia |
 | 31 | [natlas](https://github.com/MJL85/natlas) | Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Au | — |
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |

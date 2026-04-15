@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**496 tools** across 39 categories.
+**499 tools** across 39 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (288)
-- **Observability** (116)
+- **Network Automation** (290)
+- **Observability** (117)
 - **Self-Hosted Infrastructure** (7)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -298,6 +298,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) — Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and NVIDIA Cumulus Linux i (score: 0)
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) — Artificially limit bandwidth, delay and loss rate on selected interfaces. (score: 0)
 - [network-mcp](https://github.com/latticio/network-mcp) — AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, Cisco IOS-XE/NX-OS, a (score: 0)
+- [network-mcp-docker-suite](https://github.com/pamosima/network-mcp-docker-suite) — Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHouse, GitLab, Meraki,  (score: 0)
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
 - [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) — Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers telemetry facts, manag (score: 0)
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
@@ -406,6 +407,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [vscode-netconf](https://github.com/nokia/vscode-netconf) — Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operations for SR OS and SRLi (score: 0)
 - [vscode-sr](https://github.com/srl-labs/vscode-sr) — VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax hig (score: 0)
 - [VyManager](https://github.com/Community-VyProjects/VyManager) — Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers. Supports all active  (score: 0)
+- [wisp-network-automation-lab](https://github.com/Murashidzi/wisp-network-automation-lab) — Small-scale WISP design and automation lab with MikroTik provisioning, PPPoE/RADIUS workflows, VRRP core design, CGNAT,  (score: 0)
 - [xNMS](https://github.com/xmas-ar/xNMS) — Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link service templates on to (score: 0)
 - [Y.1731 Test Automation](https://github.com/SilvaDDev/Y_1731_Test_Automation) — Python-based automation for creating Y.1731 performance tests on Ciena devices. Useful for transport fault management, S (score: 0)
 - [YANCCM](https://github.com/cunningr/yanccm) — NETCONF-based network configuration and change management tool. Uses ncclient for config-diff, commit-confirm, and compl (score: 0)
@@ -552,6 +554,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)
 - [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) — Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Trac (score: 0)
 - [network-observability-lab](https://github.com/network-observability/network-observability-lab) — Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collection, Prometheus, Gra (score: 0)
+- [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) — Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses Genie parsers to va (score: 0)
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
 - [NMIS 9](https://github.com/Opmantek/nmis9) — Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, e (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)

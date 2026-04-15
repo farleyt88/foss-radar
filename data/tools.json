@@ -9938,5 +9938,70 @@
     "relevance_score": 9,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "network-mcp-docker-suite",
+    "url": "https://github.com/pamosima/network-mcp-docker-suite",
+    "description": "Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHouse, GitLab, Meraki, Catalyst Center, IOS XE, ISE, ThousandEyes, and Splunk MCP servers for troubleshooting and operational workflows.",
+    "category": "Network Automation",
+    "topics": [
+      "mcp",
+      "network-automation",
+      "aiops",
+      "netbox",
+      "prometheus",
+      "clickhouse",
+      "gitlab",
+      "docker"
+    ],
+    "updated": "2026-04-15",
+    "discovered": "2026-04-15",
+    "vendors": [],
+    "relevance_score": 25,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "networkmonitoring",
+    "url": "https://github.com/yzmar4real/networkmonitoring",
+    "description": "Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses Genie parsers to validate routing state and export structured JSON results for follow-up actions.",
+    "category": "Observability",
+    "topics": [
+      "pyats",
+      "genie",
+      "network-observability",
+      "assurance",
+      "python",
+      "automation",
+      "monitoring"
+    ],
+    "updated": "2026-04-15",
+    "discovered": "2026-04-15",
+    "vendors": [],
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "wisp-network-automation-lab",
+    "url": "https://github.com/Murashidzi/wisp-network-automation-lab",
+    "description": "Small-scale WISP design and automation lab with MikroTik provisioning, PPPoE/RADIUS workflows, VRRP core design, CGNAT, and Telegraf/InfluxDB/Grafana monitoring. Useful reference for self-hosted transport-edge observability patterns.",
+    "category": "Network Automation",
+    "topics": [
+      "mikrotik",
+      "pppoe",
+      "radius",
+      "telegraf",
+      "influxdb",
+      "grafana",
+      "wisp",
+      "network-automation"
+    ],
+    "updated": "2026-04-15",
+    "discovered": "2026-04-15",
+    "vendors": [],
+    "relevance_score": 57,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
