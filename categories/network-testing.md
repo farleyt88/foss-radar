@@ -1,6 +1,6 @@
 # Network Testing
 
-**4 tools** — sorted by relevance score.
+**5 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -10,3 +10,4 @@
 | 21 | [BNG Blaster](https://github.com/rtbrick/bngblaster) | Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscriber | — |
 | 17 | [Ixia-C](https://github.com/open-traffic-generator/ixia-c) | Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes networ | — |
 | 16 | [Etherate](https://github.com/jwbensley/Etherate) | Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MP | — |
+| 9 | [qtester104](https://github.com/riclolsen/qtester104) | Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating  | SEL |

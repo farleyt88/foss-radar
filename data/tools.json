@@ -9874,5 +9874,69 @@
     "relevance_score": 43,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenBMP",
+    "url": "https://github.com/SNAS/openbmp",
+    "description": "OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing/control-plane data and feeds downstream analytics/visualization stacks for route monitoring and transport engineering visibility.",
+    "category": "Network Observability",
+    "stars": 240,
+    "topics": [
+      "bgp",
+      "bgp-ls",
+      "bmp",
+      "openbmp-collector"
+    ],
+    "vendors": [],
+    "updated": "2021-04-23",
+    "discovered": "2026-04-15",
+    "relevance_score": 40,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "lib60870",
+    "url": "https://github.com/mz-automation/lib60870",
+    "description": "Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacent integration work where transport or OT systems still rely on IEC 104 telemetry/control flows.",
+    "category": "Network Automation",
+    "stars": 560,
+    "topics": [
+      "iec60870",
+      "iec104",
+      "scada",
+      "substation-automation",
+      "telemetry",
+      "c"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-02-20",
+    "discovered": "2026-04-15",
+    "relevance_score": 32,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "qtester104",
+    "url": "https://github.com/riclolsen/qtester104",
+    "description": "Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating IEC 104 communications, troubleshooting RTU/IED links, and lab-testing OT integrations before field rollout.",
+    "category": "Network Testing",
+    "stars": 104,
+    "topics": [
+      "communication-protocol",
+      "iec60870",
+      "iec60870-5-104",
+      "rtu",
+      "scada"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-03-25",
+    "discovered": "2026-04-15",
+    "relevance_score": 9,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

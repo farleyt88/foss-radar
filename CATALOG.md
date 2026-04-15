@@ -1,22 +1,22 @@
 # FOSS Radar — Tool Catalog
 
-**493 tools** across 39 categories.
+**496 tools** across 39 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (287)
+- **Network Automation** (288)
 - **Observability** (116)
 - **Self-Hosted Infrastructure** (7)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Network Simulation** (5)
+- **Network Testing** (5)
+- **Network Observability** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
-- **Network Testing** (4)
-- **Network Observability** (4)
 - **IPAM** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
@@ -228,6 +228,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [KNE](https://github.com/openconfig/kne) — Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, Nokia, Drivenets) as cont (score: 0)
 - [Kubenet](https://github.com/kubenet-dev/kubenet) — Nokia-backed community project using Kubernetes as a network automation engine for managing physical, virtual, or contai (score: 0)
 - [Lemming](https://github.com/openconfig/lemming) — OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use as a fake network dev (score: 0)
+- [lib60870](https://github.com/mz-automation/lib60870) — Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacent integration work w (score: 0)
 - [libiec61850](https://github.com/mz-automation/libiec61850) — Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, GOOSE, and Sampled Value (score: 0)
 - [libyang](https://github.com/CESNET/libyang) — YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2, and libnetconf2. Par (score: 0)
 - [lighty.io](https://github.com/PANTHEONtech/lighty) — Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime without Karaf overhea (score: 0)
@@ -460,6 +461,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [GoBMP](https://github.com/sbezverk/gobmp) — Go-based BGP Monitoring Protocol (BMP) implementation. Full SRv6 support with BGP-LS extensions (Flex Algo), multiple pu (score: 0)
 - [ktranslate](https://github.com/kentik/ktranslate) — Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IPFIX), and streaming tel (score: 0)
 - [Monocle (BGPKIT)](https://github.com/bgpkit/monocle) — Fast CLI tool for analyzing BGP data from public MRT archives (RouteViews, RIPE RIS). Written in Rust. Quickly queries h (score: 0)
+- [OpenBMP](https://github.com/SNAS/openbmp) — OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing/control-plane data and (score: 0)
 - [Skydive](https://github.com/skydive-project/skydive) — Real-time network topology and protocols analyzer. Agents collect topology info and flows, forwarding to a central agent (score: 0)
 
 ## Network Operations
@@ -480,6 +482,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP (score: 0)
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
+- [qtester104](https://github.com/riclolsen/qtester104) — Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating IEC 104 communicatio (score: 0)
 - [snappi](https://github.com/open-traffic-generator/snappi) — Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and automated performance te (score: 0)
 
 ## Network Visualization

@@ -1,6 +1,6 @@
 # Network Automation
 
-**287 tools** — sorted by relevance score.
+**288 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -170,6 +170,7 @@
 | 33 | [DigSiNet](https://github.com/srieger1/digsinet) | Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network to | — |
 | 33 | [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) | Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Noki | Nokia |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
+| 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacen | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
 | 31 | [NSoT](https://github.com/dropbox/nsot) | Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. | — |
 | 31 | [Infrahub](https://github.com/opsmill/infrahub) | New approach to Infrastructure Management. Version-controlled infrastructure data. | — |
