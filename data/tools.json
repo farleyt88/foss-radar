@@ -10003,5 +10003,55 @@
     "relevance_score": 57,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "pyiec61850-ng",
+    "url": "https://github.com/f0rw4rd/pyiec61850-ng",
+    "description": "Experimental next-generation Python bindings for libiec61850, packaged as a Python wheel. Makes IEC 61850 MMS/client workflows easier to integrate into Python-based utility and substation automation tooling.",
+    "category": "Utility / Substation Automation",
+    "stars": 5,
+    "topics": [
+      "iec61850",
+      "mms",
+      "python",
+      "python3",
+      "scada",
+      "smart-grid"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-04-12",
+    "discovered": "2026-04-15",
+    "relevance_score": 17,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "srl-grpc-tunnel",
+    "url": "https://github.com/karimra/srl-grpc-tunnel",
+    "description": "SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI/gNOI access patterns where devices need to reach a tunnel server through constrained or indirect connectivity.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "gnmi",
+      "gnoi",
+      "grpc",
+      "grpc-go",
+      "ndk",
+      "nokia",
+      "openconfig",
+      "srl",
+      "telemetry",
+      "tunnel"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2024-03-11",
+    "discovered": "2026-04-15",
+    "relevance_score": 78,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

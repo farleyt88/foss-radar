@@ -1,6 +1,6 @@
 # Network Automation
 
-**290 tools** — sorted by relevance score.
+**291 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -35,6 +35,7 @@
 | 81 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with  | Nokia ✅ |
 | 79 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access | Nokia ✅ |
 | 79 | [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) | Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platfor | Nokia ✅ |
+| 78 | [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) | SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI | Nokia ✅ |
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
 | 77 | [Diode](https://github.com/netboxlabs/diode) | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconcil | — |

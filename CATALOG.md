@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**499 tools** across 39 categories.
+**501 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (290)
+- **Network Automation** (291)
 - **Observability** (117)
 - **Self-Hosted Infrastructure** (7)
 - **Timing & Synchronization** (7)
@@ -45,6 +45,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Monitoring & Observability** (1)
 - **Infrastructure Automation** (1)
 - **Utility Protocols** (1)
+- **Utility / Substation Automation** (1)
 
 ---
 
@@ -383,6 +384,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
 - [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) — Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prometheus, Grafana, Lok (score: 0)
 - [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) — Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access to source .yang fil (score: 0)
+- [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) — SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI/gNOI access pattern (score: 0)
 - [srlconv](https://github.com/srl-labs/srlconv) — Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG mod (score: 0)
 - [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) — Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux — mon (score: 0)
 - [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) — SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux devices via the Scrapli (score: 0)
@@ -652,6 +654,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Uncategorized
 
+
+## Utility / Substation Automation
+
+- [pyiec61850-ng](https://github.com/f0rw4rd/pyiec61850-ng) — Experimental next-generation Python bindings for libiec61850, packaged as a Python wheel. Makes IEC 61850 MMS/client wor (score: 0)
 
 ## Utility Automation
 
