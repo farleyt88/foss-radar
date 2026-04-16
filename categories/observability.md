@@ -1,6 +1,6 @@
 # Observability
 
-**117 tools** — sorted by relevance score.
+**119 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -25,8 +25,10 @@
 | 65 | [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) | Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for exper | — |
 | 63 | [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) | Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates  | — |
 | 63 | [flowcus](https://github.com/consi/flowcus) | High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for | — |
+| 63 | [nProbe](https://github.com/ntop/nProbe) | Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enric | — |
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
+| 58 | [nfdump](https://github.com/phaag/nfdump) | Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports hi | — |
 | 57 | [network-observability-lab](https://github.com/network-observability/network-observability-lab) | Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collect | — |
 | 57 | [privacynet](https://github.com/cwccie/privacynet) | Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, rand | — |
 | 57 | [mapgl](https://github.com/vaduga/mapgl) | Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network to | — |

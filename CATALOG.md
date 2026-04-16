@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**504 tools** across 40 categories.
+**506 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (293)
-- **Observability** (117)
+- **Observability** (119)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -560,8 +560,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [network-observability-lab](https://github.com/network-observability/network-observability-lab) — Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collection, Prometheus, Gra (score: 0)
 - [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) — Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses Genie parsers to va (score: 0)
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
+- [nfdump](https://github.com/phaag/nfdump) — Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports high-performance filte (score: 0)
 - [NMIS 9](https://github.com/Opmantek/nmis9) — Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, e (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)
+- [nProbe](https://github.com/ntop/nProbe) — Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enrichment, and export in (score: 0)
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pag (score: 0)
 - [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) — BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale r (score: 0)
 - [openGemini](https://github.com/openGemini/openGemini) — CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency, high performance,  (score: 0)

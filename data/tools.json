@@ -10116,5 +10116,49 @@
     "relevance_score": 43,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "nfdump",
+    "url": "https://github.com/phaag/nfdump",
+    "description": "Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports high-performance filtering, aggregation, enrichment, pcap-to-flow conversion, and multiple output formats for network traffic analysis.",
+    "category": "Observability",
+    "stars": 895,
+    "topics": [
+      "netflow",
+      "ipfix",
+      "sflow",
+      "flow-collector",
+      "network-monitoring",
+      "traffic-analysis",
+      "pcap"
+    ],
+    "vendors": [],
+    "updated": "2026-04-11",
+    "discovered": "2026-04-16",
+    "relevance_score": 58,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "nProbe",
+    "url": "https://github.com/ntop/nProbe",
+    "description": "Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enrichment, and export integrations including InfluxDB, Splunk, and ZeroMQ. Strong fit for flow-based transport observability stacks.",
+    "category": "Observability",
+    "stars": 1784,
+    "topics": [
+      "netflow",
+      "ipfix",
+      "flow-collector",
+      "network-monitoring",
+      "traffic-analysis",
+      "influxdb",
+      "splunk"
+    ],
+    "vendors": [],
+    "updated": "2026-04-16",
+    "discovered": "2026-04-16",
+    "relevance_score": 63,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
