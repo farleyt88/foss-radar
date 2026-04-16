@@ -10053,5 +10053,68 @@
     "relevance_score": 78,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenKilda",
+    "url": "https://github.com/telstra/open-kilda",
+    "description": "Open-source OpenFlow controller built for large, latency-sensitive networks. Focuses on flow management, path computation, resiliency, and telemetry across distributed transport-style environments.",
+    "category": "Network Automation",
+    "stars": 86,
+    "topics": [
+      "openflow",
+      "sdn",
+      "traffic-engineering",
+      "network-automation",
+      "telemetry"
+    ],
+    "vendors": [],
+    "updated": "2025-07-10",
+    "discovered": "2026-04-16",
+    "relevance_score": 31,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nephio",
+    "url": "https://github.com/nephio-project/nephio",
+    "description": "Kubernetes-based automation platform for deploying and managing distributed network functions and the underlying infrastructure. Relevant for cloud-native telecom automation and self-hosted orchestration patterns.",
+    "category": "Network Automation",
+    "stars": 174,
+    "topics": [
+      "kubernetes",
+      "telecom",
+      "network-automation",
+      "orchestration",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-15",
+    "discovered": "2026-04-16",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Open5GS",
+    "url": "https://github.com/open5gs/open5gs",
+    "description": "Open-source 4G/5G core network implementation. Not a transport engineering tool directly, but relevant telecom infrastructure software for lab, integration, and self-hosted core-network experimentation.",
+    "category": "Self-Hosted Infrastructure",
+    "stars": 2526,
+    "topics": [
+      "3gpp",
+      "4g",
+      "5g",
+      "core-network",
+      "lte",
+      "nr",
+      "self-hosted",
+      "telecom"
+    ],
+    "vendors": [],
+    "updated": "2026-04-14",
+    "discovered": "2026-04-16",
+    "relevance_score": 43,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

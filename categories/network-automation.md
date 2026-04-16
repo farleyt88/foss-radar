@@ -1,6 +1,6 @@
 # Network Automation
 
-**291 tools** — sorted by relevance score.
+**293 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -171,6 +171,7 @@
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |
 | 33 | [DigSiNet](https://github.com/srieger1/digsinet) | Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network to | — |
 | 33 | [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) | Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Noki | Nokia |
+| 33 | [Nephio](https://github.com/nephio-project/nephio) | Kubernetes-based automation platform for deploying and managing distributed network functions and th | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacen | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
@@ -186,6 +187,7 @@
 | 31 | [gRIBI](https://github.com/openconfig/gribi) | gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing | Nokia |
 | 31 | [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) | Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API re | — |
 | 31 | [NetConfigArk](https://github.com/kDolphin/NetConfigArk) | Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports | — |
+| 31 | [OpenKilda](https://github.com/telstra/open-kilda) | Open-source OpenFlow controller built for large, latency-sensitive networks. Focuses on flow managem | — |
 | 29 | [acton-yang](https://github.com/orchestron-orchestrator/acton-yang) | YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & | — |
 | 29 | [Netutils](https://github.com/networktocode/netutils) | Network automation utility functions. IP math, config parsing, bandwidth conversions. | — |
 | 29 | [f5-common-python](https://github.com/F5Networks/f5-common-python) | Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. | — |

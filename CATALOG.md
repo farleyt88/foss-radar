@@ -1,14 +1,14 @@
 # FOSS Radar — Tool Catalog
 
-**501 tools** across 40 categories.
+**504 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (291)
+- **Network Automation** (293)
 - **Observability** (117)
-- **Self-Hosted Infrastructure** (7)
+- **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
@@ -260,6 +260,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ncclient](https://github.com/ncclient/ncclient) — Python library for NETCONF clients. The standard NETCONF library for Python. (score: 0)
 - [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) — Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates edit-config deltas,  (score: 0)
 - [NCM (Network Config Management)](https://github.com/lijianqiao/ncm) — Enterprise network config management - Vue 3 + FastAPI. Config backup, batch deployment, asset/topology discovery. Suppo (score: 0)
+- [Nephio](https://github.com/nephio-project/nephio) — Kubernetes-based automation platform for deploying and managing distributed network functions and the underlying infrast (score: 0)
 - [netaddr](https://github.com/netaddr/netaddr) — Network address manipulation library. Supernetting, subnetting, IP math. (score: 0)
 - [NetAI-MCP](https://github.com/pdudotdev/netaimcp) — Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for trouble (score: 0)
 - [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
@@ -337,6 +338,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles) — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI, BG (score: 0)
 - [OpenConfig gNMI](https://github.com/openconfig/gnmi) — gRPC Network Management Interface specification and reference implementation. The foundation for gNMI-based network auto (score: 0)
 - [OpenConfig gNOI](https://github.com/openconfig/gnoi) — OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks such as certificate ma (score: 0)
+- [OpenKilda](https://github.com/telstra/open-kilda) — Open-source OpenFlow controller built for large, latency-sensitive networks. Focuses on flow management, path computatio (score: 0)
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) — Network topology collector and visualizer. Collects from dynamic mesh routing protocols or OpenVPN, saves daily snapshot (score: 0)
 - [Oxidized](https://github.com/ytti/oxidized) — Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. (score: 0)
 - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) — Ansible modules for Palo Alto Networks PAN-OS. (score: 0)
@@ -631,6 +633,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ICS Incident Response Framework](https://github.com/ridpath/ics-incident-response-framework) — Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding (score: 0)
 - [NetBox Proxmox Automation](https://github.com/netboxlabs/netbox-proxmox-automation) — Event-driven automation stack that ties NetBox changes to Proxmox actions. Includes discovery, playbooks, and workflow g (score: 0)
 - [Octelium](https://github.com/octelium/octelium) — Next-gen FOSS self-hosted unified zero trust secure access platform. Operates as remote access VPN, ZTNA platform, API/A (score: 0)
+- [Open5GS](https://github.com/open5gs/open5gs) — Open-source 4G/5G core network implementation. Not a transport engineering tool directly, but relevant telecom infrastru (score: 0)
 - [Pangolin](https://github.com/fosrl/pangolin) — Open-source identity-based remote access platform built on WireGuard. Combines reverse proxy and VPN into a single self- (score: 0)
 - [Portracker](https://github.com/mostafa-wahied/portracker) — Open source self-hosted real-time port monitoring and discovery tool. Auto-discovers running services, containers, and V (score: 0)
 
