@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**512 tools** across 40 categories.
+**515 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (296)
-- **Observability** (122)
+- **Observability** (125)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -530,6 +530,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [gNPSI](https://github.com/openconfig/gnpsi) — gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-based streaming packet (score: 0)
 - [GoFlow2](https://github.com/netsampler/goflow2) — High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's original GoFlow. In (score: 0)
 - [Grafana Alloy](https://github.com/grafana/alloy) — Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipelines. Unified agent for (score: 0)
+- [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) — Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dashboards where link ut (score: 0)
 - [GtExporter](https://github.com/automixer/gtexporter) — YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-compliant devices and e (score: 0)
 - [inet-henge](https://github.com/codeout/inet-henge) — Generate d3.js network diagrams from JSON. Interactive network topology visualization. (score: 0)
 - [InfluxDB](https://github.com/influxdata/influxdb) — Time-series database for metrics, events, and real-time analytics. (score: 0)
@@ -539,6 +540,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Keep](https://github.com/keephq/keep) — Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with deduplication, corr (score: 0)
 - [Kubeshark](https://github.com/kubeshark/kubeshark) — Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, Redis, Kafka, DNS)  (score: 0)
 - [Kula](https://github.com/c0m4r/kula) — Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero dependencies — includes  (score: 0)
+- [Lagident](https://github.com/nook24/lagident) — Lightweight latency and packet-loss monitor that continuously pings targets and helps surface anomalies across a network (score: 0)
 - [LibreNMS](https://github.com/librenms/librenms) — Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. (score: 0)
 - [LogTide](https://github.com/logtide-dev/logtide) — Open-source, self-hosted log management platform. Privacy-first alternative to Datadog and ELK. Lightweight, easy to dep (score: 0)
 - [mapgl](https://github.com/vaduga/mapgl) — Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network topology — nodes, link (score: 0)
@@ -591,6 +593,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
 - [privacynet](https://github.com/cwccie/privacynet) — Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, random), flow aggregatio (score: 0)
 - [Prometheus](https://github.com/prometheus/prometheus) — Open-source monitoring and alerting toolkit. Cloud-native foundation project. (score: 0)
+- [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) — Prometheus blackbox probing exporter for ICMP, HTTP, DNS, TCP, and other synthetic checks. Good fit for self-hosted path (score: 0)
 - [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) — SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. (score: 0)
 - [Retina](https://github.com/microsoft/retina) — eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visibility across cluster (score: 0)
 - [RFM](https://github.com/stepbrobd/rfm) — eBPF-based router flow monitor for Linux routers. Attaches TC programs to interfaces, observes IPv4/IPv6 plus VLAN/QinQ  (score: 0)

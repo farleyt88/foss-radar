@@ -1,6 +1,6 @@
 # Observability
 
-**122 tools** — sorted by relevance score.
+**125 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -39,6 +39,7 @@
 | 57 | [Grafana Alloy](https://github.com/grafana/alloy) | Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipeline | — |
 | 57 | [gnmic-cluster-chart](https://github.com/workfloworchestrator/gnmic-cluster-chart) | Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted | — |
 | 56 | [Keep](https://github.com/keephq/keep) | Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with | — |
+| 56 | [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) | Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dash | — |
 | 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pager | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
 | 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and  | — |
@@ -84,6 +85,7 @@
 | 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (P | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, an | — |
 | 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero depe | — |
+| 40 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | Prometheus blackbox probing exporter for ICMP, HTTP, DNS, TCP, and other synthetic checks. Good fit  | — |
 | 39 | [NetXMS](https://github.com/netxms/netxms) | Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance | — |
 | 39 | [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) | Modern network weathermap web application showing link utilization, optical power, and link health o | — |
 | 39 | [Retina](https://github.com/microsoft/retina) | eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visib | — |
@@ -101,6 +103,7 @@
 | 33 | [Steward](https://github.com/braedonsaunders/steward) | Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery | — |
 | 33 | [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) | eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linu | — |
 | 33 | [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) | Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses | — |
+| 33 | [Lagident](https://github.com/nook24/lagident) | Lightweight latency and packet-loss monitor that continuously pings targets and helps surface anomal | — |
 | 32 | [suzieq](https://github.com/netenglabs/suzieq) | Software for network observability and understanding. Agentless, multi-vendor network observability  | Nokia |
 | 31 | [natlas](https://github.com/MJL85/natlas) | Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Au | — |
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |

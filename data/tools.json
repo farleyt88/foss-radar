@@ -10297,5 +10297,71 @@
     "discovered": "2026-04-17",
     "relevance_score": 89,
     "vendor_verified": true
+  },
+  {
+    "name": "Prometheus Blackbox Exporter",
+    "url": "https://github.com/prometheus/blackbox_exporter",
+    "description": "Prometheus blackbox probing exporter for ICMP, HTTP, DNS, TCP, and other synthetic checks. Good fit for self-hosted path validation, reachability monitoring, and SLA-style endpoint checks across network and infrastructure services.",
+    "category": "Observability",
+    "stars": 5645,
+    "topics": [
+      "prometheus",
+      "icmp",
+      "synthetic-monitoring",
+      "blackbox-exporter",
+      "network-monitoring"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2026-04-16",
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 40
+  },
+  {
+    "name": "Grafana Network Weathermap",
+    "url": "https://github.com/knightss27/grafana-network-weathermap",
+    "description": "Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dashboards where link utilization, circuit health, and path status need to be visualized directly inside Grafana.",
+    "category": "Observability",
+    "stars": 171,
+    "topics": [
+      "grafana",
+      "grafana-plugin",
+      "weathermap",
+      "network-topology",
+      "visualization"
+    ],
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "vendors": [],
+    "updated": "2023-08-24",
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 56
+  },
+  {
+    "name": "Lagident",
+    "url": "https://github.com/nook24/lagident",
+    "description": "Lightweight latency and packet-loss monitor that continuously pings targets and helps surface anomalies across a network. Useful for tracking reachability, jitter-adjacent behavior, and path quality from self-hosted monitoring points.",
+    "category": "Observability",
+    "stars": 206,
+    "topics": [
+      "latency",
+      "packet-loss",
+      "ping",
+      "monitoring",
+      "network-observability"
+    ],
+    "language": "Go",
+    "license": "MIT",
+    "vendors": [],
+    "updated": "2026-01-04",
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 33
   }
 ]
