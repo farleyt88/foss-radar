@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**506 tools** across 40 categories.
+**509 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (293)
-- **Observability** (119)
+- **Network Automation** (294)
+- **Observability** (121)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -251,6 +251,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nautobot](https://github.com/nautobot/nautobot) — Network automation platform built on NetBox. Extensible network source of truth and automation. (score: 0)
 - [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) — Golden Config app for Nautobot. Network config compliance and remediation. (score: 0)
 - [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) — Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API requests. Uses ChromaD (score: 0)
+- [Nautobot NetBox Importer](https://github.com/nautobot/nautobot-app-netbox-importer) — Official Nautobot plugin that simplifies migrating data from NetBox into Nautobot using DiffSync. Relevant for teams eva (score: 0)
 - [nautobot-ai-ops](https://github.com/kvncampos/nautobot-ai-ops) — Nautobot AI Plugin integrating Large Language Models (LLM) with Model Context Protocol (MCP) and Langchain. Enables AI-p (score: 0)
 - [nautobot-app-bgp-models](https://github.com/nautobot/nautobot-app-bgp-models) — Official Nautobot app extending core models with BGP-specific data — AS numbers, BGP peerings, peer groups, peer endpoin (score: 0)
 - [nautobot-app-circuit-maintenance](https://github.com/nautobot/nautobot-app-circuit-maintenance) — Nautobot plugin for tracking circuit maintenance windows from ISP/carrier notification emails (Zayo, Verizon, Lumen, Cog (score: 0)
@@ -502,6 +503,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Ask O11y](https://github.com/Consensys/ask-o11y-plugin) — AI-powered observability assistant Grafana plugin. Query Prometheus (PromQL), Loki (LogQL), and Tempo (TraceQL) in natur (score: 0)
 - [augur](https://github.com/starkross/augur) — Static analysis tool for OpenTelemetry Collector configurations. Uses OPA/Rego rules to catch misconfigurations, securit (score: 0)
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard (score: 0)
+- [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) — Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path val (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)
 - [clio](https://github.com/openconfig/clio) — OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling integration between O (score: 0)
@@ -601,6 +603,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [snmp_notifier](https://github.com/maxwo/snmp_notifier) — Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitor (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
+- [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) — Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates syslog ingestion and vi (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
 - [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) — Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a transport-focused ref (score: 0)

@@ -10160,5 +10160,74 @@
     "relevance_score": 63,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "BGP Routing Security Monitor",
+    "url": "https://github.com/nokia/bgp-routing-security-monitor",
+    "description": "Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path validation in a single Go binary. Useful for monitoring route leaks, hijacks, and routing policy health in carrier/transport environments.",
+    "category": "Observability",
+    "stars": 3,
+    "topics": [
+      "aspa",
+      "bgp",
+      "bmp",
+      "containerlab",
+      "go",
+      "network-observability",
+      "prometheus",
+      "routing-security",
+      "rpki"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-16",
+    "discovered": "2026-04-16",
+    "relevance_score": 73,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "SR Linux ELK Lab",
+    "url": "https://github.com/srl-labs/srl-elk-lab",
+    "description": "Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates syslog ingestion and visualization using Elasticsearch, Logstash, and Kibana for network observability pipelines.",
+    "category": "Observability",
+    "stars": 6,
+    "topics": [
+      "clab-topo",
+      "elastic",
+      "elk",
+      "kibana",
+      "logstash",
+      "srlinux",
+      "syslog"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-07-10",
+    "discovered": "2026-04-16",
+    "relevance_score": 69,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nautobot NetBox Importer",
+    "url": "https://github.com/nautobot/nautobot-app-netbox-importer",
+    "description": "Official Nautobot plugin that simplifies migrating data from NetBox into Nautobot using DiffSync. Relevant for teams evaluating or staging NetBox-to-Nautobot transitions as part of source-of-truth modernization.",
+    "category": "Network Automation",
+    "stars": 24,
+    "topics": [
+      "diffsync",
+      "nautobot",
+      "nautobot-plugin",
+      "netbox"
+    ],
+    "vendors": [],
+    "updated": "2026-04-13",
+    "discovered": "2026-04-16",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
