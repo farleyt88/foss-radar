@@ -1,6 +1,6 @@
 # Observability
 
-**121 tools** — sorted by relevance score.
+**122 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -11,6 +11,7 @@
 | 97 | [gNPSI](https://github.com/openconfig/gnpsi) | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-ba | Nokia |
 | 95 | [Nokia OSSMediator](https://github.com/nokia/OSSMediator) | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) d | Nokia ✅ |
 | 91 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics. De | Nokia ✅ |
+| 89 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and G | Nokia ✅ |
 | 87 | [SigNoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single a | — |
 | 85 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatib | — |
 | 83 | [Convergence](https://github.com/byrn-baker/Convergence) | Network observability platform with Nautobot integration, built on OpenTelemetry Collector, Victoria | — |

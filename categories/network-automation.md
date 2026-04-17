@@ -1,6 +1,6 @@
 # Network Automation
 
-**294 tools** — sorted by relevance score.
+**296 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -13,6 +13,7 @@
 | 101 | [pydantify](https://github.com/pydantify/pydantify) | CLI tool that transforms YANG models into Pydantic datastructures, serializable as RESTCONF payloads | Nokia ✅ |
 | 101 | [NetGauze](https://github.com/NetGauze/NetGauze) | High-performance Rust libraries and daemons for network protocol parsing and telemetry collection. S | Nokia ✅ |
 | 98 | [gnmic](https://github.com/openconfig/gnmic) | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✅ |
+| 97 | [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) | Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF | Nokia ✅ |
 | 95 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI t | Nokia ✅ |
 | 95 | [Ciena YANG Modules](https://github.com/ciena/yang) | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer | Ciena ✅ |
 | 95 | [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) | Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connectio | Nokia ✅ |
@@ -87,6 +88,7 @@
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
 | 55 | [Itential MCP Server](https://github.com/itential/itential-mcp) | MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation wo | Nokia, Ciena, Ribbon |
+| 54 | [sros-peering](https://github.com/sajusal/sros-peering) | Practical Nokia SR OS peering configuration guide and lab repo with MD-CLI examples for 7750 routers | Nokia ✅ |
 | 53 | [lighty.io](https://github.com/PANTHEONtech/lighty) | Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime w | — |
 | 53 | [Nokia VS Code Intent Manager](https://github.com/nokia/vscode-intent-manager) | Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents fr | Nokia ✅ |
 | 53 | [ygnmi](https://github.com/openconfig/ygnmi) | OpenConfig Go gNMI client library built on ygot-generated code. Supports typed telemetry queries and | Nokia, Arista, Cisco, Juniper |

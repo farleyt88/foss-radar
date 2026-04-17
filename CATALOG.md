@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**509 tools** across 40 categories.
+**512 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (294)
-- **Observability** (121)
+- **Network Automation** (296)
+- **Observability** (122)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -307,6 +307,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
 - [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) — Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platforms. Useful for build (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
+- [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) — Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF workflows plus gRPC (score: 0)
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) — Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting S (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
@@ -396,6 +397,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) — Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point for automating SR O (score: 0)
 - [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) — ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-Algo slicing, gNMIc str (score: 0)
 - [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) — Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for bootstrapping autom (score: 0)
+- [sros-peering](https://github.com/sajusal/sros-peering) — Practical Nokia SR OS peering configuration guide and lab repo with MD-CLI examples for 7750 routers, useful for buildin (score: 0)
 - [srpls](https://github.com/srl-labs/srpls) — Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Provides IDE-level autoc (score: 0)
 - [Stratum](https://github.com/stratum/stratum) — Open source silicon-independent switch operating system for software-defined networks. Exposes P4Runtime and OpenConfig/ (score: 0)
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
@@ -611,6 +613,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Streaming Telemetry Lab](https://github.com/indigo423/streaming-telemetry-lab) — Containerlab environment for gNMI streaming telemetry with Nokia SR Linux. Useful as a practical lab reference for build (score: 0)
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
+- [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) — Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up a (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)

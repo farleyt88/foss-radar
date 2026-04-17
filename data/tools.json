@@ -10229,5 +10229,73 @@
     "relevance_score": 27,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia Ansible Networking Collections",
+    "url": "https://github.com/nokia/ansible-networking-collections",
+    "description": "Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF workflows plus gRPC/gNMI-oriented modules.",
+    "category": "Network Automation",
+    "stars": 43,
+    "topics": [
+      "nokia",
+      "sros",
+      "ansible",
+      "netconf",
+      "gnmi",
+      "grpc",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-02-12",
+    "discovered": "2026-04-17",
+    "relevance_score": 97,
+    "vendor_verified": true
+  },
+  {
+    "name": "sros-peering",
+    "url": "https://github.com/sajusal/sros-peering",
+    "description": "Practical Nokia SR OS peering configuration guide and lab repo with MD-CLI examples for 7750 routers, useful for building and validating peering automation patterns.",
+    "category": "Network Automation",
+    "stars": 24,
+    "topics": [
+      "nokia",
+      "sros",
+      "md-cli",
+      "peering",
+      "bgp",
+      "containerlab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2024-01-11",
+    "discovered": "2026-04-17",
+    "relevance_score": 54,
+    "vendor_verified": true
+  },
+  {
+    "name": "telemetry-demo",
+    "url": "https://github.com/JaakkoRautanen/telemetry-demo",
+    "description": "Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up an end-to-end open-source observability lab.",
+    "category": "Observability",
+    "stars": 25,
+    "topics": [
+      "streaming-telemetry",
+      "containerlab",
+      "gnmic",
+      "influxdb",
+      "grafana",
+      "observability",
+      "nokia"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-01-05",
+    "discovered": "2026-04-17",
+    "relevance_score": 89,
+    "vendor_verified": true
   }
 ]
