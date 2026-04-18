@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**518 tools** across 40 categories.
+**521 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (298)
-- **Observability** (126)
+- **Network Automation** (299)
+- **Observability** (128)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -233,6 +233,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Lemming](https://github.com/openconfig/lemming) — OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use as a fake network dev (score: 0)
 - [lib60870](https://github.com/mz-automation/lib60870) — Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacent integration work w (score: 0)
 - [libiec61850](https://github.com/mz-automation/libiec61850) — Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, GOOSE, and Sampled Value (score: 0)
+- [libnetconf2](https://github.com/CESNET/libnetconf2) — C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS transport support, useful fo (score: 0)
 - [libyang](https://github.com/CESNET/libyang) — YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2, and libnetconf2. Par (score: 0)
 - [lighty.io](https://github.com/PANTHEONtech/lighty) — Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime without Karaf overhea (score: 0)
 - [mcp-api-sros](https://github.com/drupertifranco/mcp-api-sros) — FastAPI + MCP server for Nokia SR OS that manages IP prefixes via pySROS-style workflows. Exposes HTTP and MCP interface (score: 0)
@@ -534,6 +535,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Grafana Alloy](https://github.com/grafana/alloy) — Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipelines. Unified agent for (score: 0)
 - [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) — Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dashboards where link ut (score: 0)
 - [GtExporter](https://github.com/automixer/gtexporter) — YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-compliant devices and e (score: 0)
+- [Hubble](https://github.com/cilium/hubble) — Network, service, and security observability for Kubernetes using eBPF. Strong fit for self-hosted infrastructure visibi (score: 0)
 - [inet-henge](https://github.com/codeout/inet-henge) — Generate d3.js network diagrams from JSON. Interactive network topology visualization. (score: 0)
 - [InfluxDB](https://github.com/influxdata/influxdb) — Time-series database for metrics, events, and real-time analytics. (score: 0)
 - [IPFIXcol2](https://github.com/CESNET/ipfixcol2) — High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture with enterprise-focus (score: 0)
@@ -609,6 +611,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
 - [snmp_notifier](https://github.com/maxwo/snmp_notifier) — Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitor (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
+- [sonic-exporter](https://github.com/vinted/sonic-exporter) — Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and scraping network OS  (score: 0)
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
 - [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) — Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates syslog ingestion and vi (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)

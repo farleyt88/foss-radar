@@ -1,6 +1,6 @@
 # Network Automation
 
-**298 tools** — sorted by relevance score.
+**299 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -84,6 +84,7 @@
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding | — |
 | 57 | [HybridOps Network Automation Framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework) | Programmable network automation framework using Python, Nornir, Scrapli, and NAPALM for configuratio | — |
 | 57 | [wisp-network-automation-lab](https://github.com/Murashidzi/wisp-network-automation-lab) | Small-scale WISP design and automation lab with MikroTik provisioning, PPPoE/RADIUS workflows, VRRP  | — |
+| 57 | [libnetconf2](https://github.com/CESNET/libnetconf2) | C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS transpor | — |
 | 56 | [gnmi-map](https://github.com/hellt/gnmi-map) | gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightwei | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |

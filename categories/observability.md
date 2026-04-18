@@ -1,6 +1,6 @@
 # Observability
 
-**126 tools** — sorted by relevance score.
+**128 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -60,6 +60,7 @@
 | 49 | [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) | Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a t | Nokia |
 | 49 | [json-scada](https://github.com/riclolsen/json-scada) | Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC  | — |
 | 49 | [DDoS Protect (sFlow-RT)](https://github.com/sflow-rt/ddos-protect) | Open-source DDoS mitigation toolkit built on sFlow-RT using BGP RTBH and FlowSpec. Relevant for tran | — |
+| 49 | [sonic-exporter](https://github.com/vinted/sonic-exporter) | Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and  | — |
 | 48 | [pktvisor](https://github.com/netboxlabs/pktvisor) | Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
@@ -76,6 +77,7 @@
 | 43 | [Pint](https://github.com/cloudflare/pint) | Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard | — |
 | 43 | [Nautobot Capacity Metrics](https://github.com/nautobot/nautobot-app-capacity-metrics) | Prometheus metrics endpoint plugin for Nautobot. Exposes application and operational metrics for sel | — |
 | 43 | [augur](https://github.com/starkross/augur) | Static analysis tool for OpenTelemetry Collector configurations. Uses OPA/Rego rules to catch miscon | — |
+| 43 | [Hubble](https://github.com/cilium/hubble) | Network, service, and security observability for Kubernetes using eBPF. Strong fit for self-hosted i | — |
 | 41 | [Prometheus SNMP Exporter](https://github.com/prometheus/snmp_exporter) | SNMP Exporter for Prometheus. Expose SNMP metrics for Prometheus scraping. | — |
 | 41 | [advanced-network-topology-mapper](https://github.com/x0VIER/advanced-network-topology-mapper) | Extensible network discovery, visualization, and analysis framework. Uses multiple protocols (SNMP,  | — |
 | 41 | [ServiceRadar](https://github.com/carverauto/serviceradar) | Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constraine | — |

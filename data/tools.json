@@ -10420,5 +10420,68 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 24
+  },
+  {
+    "name": "libnetconf2",
+    "url": "https://github.com/CESNET/libnetconf2",
+    "description": "C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS transport support, useful for model-driven network automation stacks and YANG-driven tooling.",
+    "category": "Network Automation",
+    "stars": 222,
+    "topics": [
+      "netconf",
+      "yang",
+      "library",
+      "c",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-04-17",
+    "discovered": "2026-04-18",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 57
+  },
+  {
+    "name": "sonic-exporter",
+    "url": "https://github.com/vinted/sonic-exporter",
+    "description": "Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and scraping network OS metrics into Grafana/Prometheus observability stacks.",
+    "category": "Observability",
+    "stars": 8,
+    "topics": [
+      "prometheus",
+      "prometheus-exporter",
+      "sonic",
+      "telemetry",
+      "metrics",
+      "network-monitoring"
+    ],
+    "vendors": [],
+    "updated": "2026-03-31",
+    "discovered": "2026-04-18",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 49
+  },
+  {
+    "name": "Hubble",
+    "url": "https://github.com/cilium/hubble",
+    "description": "Network, service, and security observability for Kubernetes using eBPF. Strong fit for self-hosted infrastructure visibility when TJ wants deeper east-west traffic insight alongside app telemetry.",
+    "category": "Observability",
+    "stars": 4159,
+    "topics": [
+      "ebpf",
+      "kubernetes",
+      "network-observability",
+      "observability",
+      "tracing",
+      "metrics",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-14",
+    "discovered": "2026-04-18",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 43
   }
 ]
