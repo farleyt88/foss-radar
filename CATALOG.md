@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**515 tools** across 40 categories.
+**518 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (296)
-- **Observability** (125)
+- **Network Automation** (298)
+- **Observability** (126)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -147,6 +147,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [BGPalerter](https://github.com/nttgin/BGPalerter) — Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invalid announcements, ROA (score: 0)
 - [bond](https://github.com/srl-labs/bond) — A Go package to simplify Nokia SR Linux NDK (NetOps Development Kit) app development. Provides abstractions for building (score: 0)
 - [Bootz](https://github.com/openconfig/bootz) — OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC service for taking devi (score: 0)
+- [bront-network](https://github.com/brontnet/bront-network) — CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a lightweight option  (score: 0)
 - [Capirca](https://github.com/google/capirca) — Google's multi-platform ACL generation system. Output Juniper/IOS/etc ACLs from same policy. (score: 0)
 - [cawk](https://github.com/cedricllorens/cawk) — Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no additional language (score: 0)
 - [Cidr](https://github.com/renard/cidr) — Cidr Is not as Dumb as Rancid. Simple network device config backup tool. (score: 0)
@@ -195,6 +196,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [FreeZTP](https://github.com/PackeTsar/freeztp) — Zero-Touch Provisioning for Cisco IOS campus switches and routers. (score: 0)
 - [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) — SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port states overlay. Uses kitt (score: 0)
 - [FRRouting (FRR)](https://github.com/FRRouting/frr) — Open source routing protocol suite supporting BGP, OSPF, IS-IS, LDP, BFD, PIM, EIGRP, and more. Runs on Linux/BSD. Used  (score: 0)
+- [Gantry](https://github.com/NLnetLabs/gantry) — Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation and transport/network  (score: 0)
 - [Genie Parser](https://github.com/CiscoTestAutomation/genieparser) — Cisco Genie device output parsers. 2000+ parsers for network device CLI output. (score: 0)
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)
 - [gnmi-map](https://github.com/hellt/gnmi-map) — gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightweight helper when work (score: 0)
@@ -619,6 +621,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) — Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up a (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
+- [TWSNMP FC](https://github.com/twsnmp/twsnmpfc) — Self-hosted SNMP-focused monitoring platform packaged for containers. Relevant for lightweight network observability lab (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)
 - [VoIPmonitor sniffer](https://github.com/voipmonitor/sniffer) — Open-source VoIP/SIP traffic sniffer and monitoring engine. Relevant for Ribbon/Sonus-adjacent SBC environments where ca (score: 0)

@@ -10363,5 +10363,62 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 33
+  },
+  {
+    "name": "bront-network",
+    "url": "https://github.com/brontnet/bront-network",
+    "description": "CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a lightweight option for ad-hoc network tasks without a lot of Python scaffolding.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "network-automation",
+      "cli",
+      "operator-workflows",
+      "automation"
+    ],
+    "vendors": [],
+    "updated": "2026-03-28",
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 33
+  },
+  {
+    "name": "TWSNMP FC",
+    "url": "https://github.com/twsnmp/twsnmpfc",
+    "description": "Self-hosted SNMP-focused monitoring platform packaged for containers. Relevant for lightweight network observability labs and infrastructure monitoring without a heavier full-stack deployment.",
+    "category": "Observability",
+    "stars": 18,
+    "topics": [
+      "snmp",
+      "network-monitoring",
+      "observability",
+      "self-hosted",
+      "containers"
+    ],
+    "vendors": [],
+    "updated": "2026-04-08",
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 45
+  },
+  {
+    "name": "Gantry",
+    "url": "https://github.com/NLnetLabs/gantry",
+    "description": "Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation and transport/network automation testing workflows.",
+    "category": "Network Automation",
+    "stars": 10,
+    "topics": [
+      "router-testing",
+      "cloud-lab",
+      "network-automation",
+      "validation"
+    ],
+    "vendors": [],
+    "discovered": "2026-04-17",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 24
   }
 ]

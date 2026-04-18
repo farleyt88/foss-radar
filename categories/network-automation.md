@@ -1,6 +1,6 @@
 # Network Automation
 
-**296 tools** — sorted by relevance score.
+**298 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -174,6 +174,7 @@
 | 33 | [DigSiNet](https://github.com/srieger1/digsinet) | Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network to | — |
 | 33 | [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) | Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Noki | Nokia |
 | 33 | [Nephio](https://github.com/nephio-project/nephio) | Kubernetes-based automation platform for deploying and managing distributed network functions and th | — |
+| 33 | [bront-network](https://github.com/brontnet/bront-network) | CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacen | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
@@ -222,6 +223,7 @@
 | 25 | [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) | NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts.  | — |
 | 25 | [network-mcp-docker-suite](https://github.com/pamosima/network-mcp-docker-suite) | Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHou | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
+| 24 | [Gantry](https://github.com/NLnetLabs/gantry) | Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation an | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
 | 23 | [Oxidized](https://github.com/ytti/oxidized) | Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. | ciena, nokia |
 | 23 | [YAPYANG](https://github.com/nomios-opensource/yapyang) | Python package that helps translate YANG data models to Python. | — |
