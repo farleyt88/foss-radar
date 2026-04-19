@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**524 tools** across 40 categories.
+**527 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (300)
-- **Observability** (129)
+- **Observability** (132)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -512,6 +512,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard (score: 0)
 - [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) — Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path val (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
+- [Centreon](https://github.com/centreon/centreon) — Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphing, alerting, analyt (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)
 - [clio](https://github.com/openconfig/clio) — OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling integration between O (score: 0)
 - [Convergence](https://github.com/byrn-baker/Convergence) — Network observability platform with Nautobot integration, built on OpenTelemetry Collector, VictoriaMetrics, Grafana, Lo (score: 0)
@@ -564,6 +565,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) — NetBox plugin for network topology visualization. D3.js based diagrams. (score: 0)
 - [Netdata](https://github.com/netdata/netdata) — Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, thousands of integratio (score: 0)
 - [NetGraf](https://github.com/esnet/netgraf) — End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and device-level data fr (score: 0)
+- [NetObserv CLI](https://github.com/netobserv/netobserv-cli) — Kubernetes/OpenShift CLI tool for network observability. Deploys the NetObserv eBPF agent, captures flows, packets, and  (score: 0)
 - [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) — eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linux hosts. Good fit fo (score: 0)
 - [NetObserv Operator](https://github.com/netobserv/netobserv-operator) — Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with integrations for Loki (score: 0)
 - [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) — Kubernetes-based NetOps platform for deploying network automation, observability, and configuration management apps toge (score: 0)
@@ -627,6 +629,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) — Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up a (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
+- [tsmetrics](https://github.com/sbaerlocher/tsmetrics) — Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for network observability. S (score: 0)
 - [TWSNMP FC](https://github.com/twsnmp/twsnmpfc) — Self-hosted SNMP-focused monitoring platform packaged for containers. Relevant for lightweight network observability lab (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)

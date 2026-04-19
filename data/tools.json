@@ -10548,5 +10548,67 @@
     "source": "foss-radar-scan",
     "relevance_score": 21,
     "vendor_verified": false
+  },
+  {
+    "name": "Centreon",
+    "url": "https://github.com/centreon/centreon",
+    "description": "Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphing, alerting, analytics, and observability workflows. Relevant as a self-hosted NMS/monitoring option for infrastructure visibility.",
+    "category": "Observability",
+    "stars": 148,
+    "topics": [
+      "monitoring",
+      "observability",
+      "alerting",
+      "dashboard",
+      "graphing",
+      "analytics",
+      "metrics"
+    ],
+    "updated": "2026-04-17",
+    "discovered": "2026-04-19",
+    "relevance_score": 49,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetObserv CLI",
+    "url": "https://github.com/netobserv/netobserv-cli",
+    "description": "Kubernetes/OpenShift CLI tool for network observability. Deploys the NetObserv eBPF agent, captures flows, packets, and metrics from cluster interfaces, and streams them to a local collector for analysis and visualization.",
+    "category": "Observability",
+    "stars": 25,
+    "topics": [
+      "kubernetes",
+      "openshift",
+      "observability",
+      "cli",
+      "ebpf",
+      "flow-visibility",
+      "packet-capture"
+    ],
+    "updated": "2026-04-18",
+    "discovered": "2026-04-19",
+    "relevance_score": 31,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "tsmetrics",
+    "url": "https://github.com/sbaerlocher/tsmetrics",
+    "description": "Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for network observability. Supports Docker/Kubernetes deployment and secure tsnet-based access.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "tailscale",
+      "prometheus",
+      "exporter",
+      "metrics",
+      "observability",
+      "self-hosted"
+    ],
+    "updated": "2026-04-16",
+    "discovered": "2026-04-19",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

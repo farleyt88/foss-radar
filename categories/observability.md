@@ -1,6 +1,6 @@
 # Observability
 
-**129 tools** — sorted by relevance score.
+**132 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -61,6 +61,7 @@
 | 49 | [json-scada](https://github.com/riclolsen/json-scada) | Portable and scalable SCADA/IIoT gateway and observability platform with drivers for IEC 61850, IEC  | — |
 | 49 | [DDoS Protect (sFlow-RT)](https://github.com/sflow-rt/ddos-protect) | Open-source DDoS mitigation toolkit built on sFlow-RT using BGP RTBH and FlowSpec. Relevant for tran | — |
 | 49 | [sonic-exporter](https://github.com/vinted/sonic-exporter) | Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and  | — |
+| 49 | [Centreon](https://github.com/centreon/centreon) | Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphi | — |
 | 48 | [pktvisor](https://github.com/netboxlabs/pktvisor) | Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus | — |
 | 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs,  | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and su | — |
@@ -111,9 +112,11 @@
 | 32 | [suzieq](https://github.com/netenglabs/suzieq) | Software for network observability and understanding. Agentless, multi-vendor network observability  | Nokia |
 | 31 | [natlas](https://github.com/MJL85/natlas) | Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Au | — |
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |
+| 31 | [NetObserv CLI](https://github.com/netobserv/netobserv-cli) | Kubernetes/OpenShift CLI tool for network observability. Deploys the NetObserv eBPF agent, captures  | — |
 | 29 | [inet-henge](https://github.com/codeout/inet-henge) | Generate d3.js network diagrams from JSON. Interactive network topology visualization. | — |
 | 29 | [NetAlertX](https://github.com/netalertx/NetAlertX) | Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors  | — |
 | 29 | [NetObserv Operator](https://github.com/netobserv/netobserv-operator) | Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with i | — |
+| 29 | [tsmetrics](https://github.com/sbaerlocher/tsmetrics) | Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for netw | — |
 | 28 | [Orb](https://github.com/orb-community/orb) | Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipelin | — |
 | 27 | [Scanlyne](https://github.com/Josperdo/scanlyne) | Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLite, | — |
 | 27 | [mermin](https://github.com/elastiflow/mermin) | Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic and e | — |
