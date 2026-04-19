@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**521 tools** across 40 categories.
+**524 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (299)
-- **Observability** (128)
+- **Network Automation** (300)
+- **Observability** (129)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -20,10 +20,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **IPAM** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
+- **Network Operations** (3)
 - **MCP / AI Integration** (3)
 - **Data Management** (2)
 - **Infrastructure** (2)
-- **Network Operations** (2)
 - **Network Lab** (2)
 - **Lab / Testing** (2)
 - **Uncategorized** (2)
@@ -349,6 +349,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) — Ansible modules for Palo Alto Networks PAN-OS. (score: 0)
 - [pan-python](https://github.com/kevinsteves/pan-python) — Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus. (score: 0)
 - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) — Device framework for interacting with Palo Alto Networks devices. (score: 0)
+- [Peering Manager](https://github.com/peering-manager/peering-manager) — BGP session management and source-of-truth platform for external BGP sessions, Internet exchanges, transit, customers, a (score: 0)
 - [Pola PCE](https://github.com/nttcom/pola) — Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and SRv6 (full-SID/uSID) (score: 0)
 - [Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) — PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for querying state, creating/up (score: 0)
 - [prefixd](https://github.com/lance0/prefixd) — BGP FlowSpec policy daemon for automated DDoS mitigation. Works with GoBGP and FastNetMon. Written in Rust for high perf (score: 0)
@@ -479,6 +480,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Network Operations
 
 - [BGPKIT Parser](https://github.com/bgpkit/bgpkit-parser) — High-performance MRT/BGP/BMP message parser in Rust. Comparable speed to C-based bgpdump/bgpreader with ergonomic Rust A (score: 0)
+- [bird-lg-go](https://github.com/xddxdd/bird-lg-go) — Go-based BIRD looking glass with web frontend and proxy. Exposes BGP peering status, route lookups, whois, traceroute, a (score: 0)
 - [hyperglass](https://github.com/thatmattlove/hyperglass) — Self-hosted network looking glass that makes BGP route queries, community lookups, AS path queries, ping, and traceroute (score: 0)
 
 ## Network Simulation
@@ -526,6 +528,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [flowcus](https://github.com/consi/flowcus) — High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for self-hosted traffic (score: 0)
 - [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) — Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, and exports to Loki an (score: 0)
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
+- [FRR Exporter](https://github.com/tynany/frr_exporter) — Prometheus exporter for FRRouting that collects BGP, BFD, OSPF, route, and other FRR metrics from Unix sockets or vtysh  (score: 0)
 - [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) — Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targets, exports to othe (score: 0)
 - [gNMIc Operator](https://github.com/gnmic/operator) — Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry infrastructure as C (score: 0)
 - [gnmic-cluster-chart](https://github.com/workfloworchestrator/gnmic-cluster-chart) — Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted streaming telemetry (score: 0)

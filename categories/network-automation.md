@@ -1,6 +1,6 @@
 # Network Automation
 
-**299 tools** — sorted by relevance score.
+**300 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -252,6 +252,7 @@
 | 21 | [Go IEC61850](https://github.com/wendy512/iec61850) | Go-based IEC 61850 library for building utility and substation automation tooling. Relevant for powe | SEL |
 | 20 | [batfish](https://github.com/batfish/batfish) | Network configuration analysis. Validate configs, test changes, find bugs before deployment. | — |
 | 20 | [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) | Parse, audit, query, build, and modify Cisco IOS-style configurations. | — |
+| 20 | [Peering Manager](https://github.com/peering-manager/peering-manager) | BGP session management and source-of-truth platform for external BGP sessions, Internet exchanges, t | — |
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |
 | 19 | [Netpicker](https://github.com/netpicker/netpicker) | Network config backup, security/compliance testing, and job automation in one platform. Uses pytest  | — |
 | 19 | [cmdo](https://github.com/hellt/cmdo) | Batch command runner for networking devices. Lets you execute commands across multiple devices in pa | — |

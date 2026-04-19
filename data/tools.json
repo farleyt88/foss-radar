@@ -10483,5 +10483,70 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 43
+  },
+  {
+    "name": "Peering Manager",
+    "url": "https://github.com/peering-manager/peering-manager",
+    "description": "BGP session management and source-of-truth platform for external BGP sessions, Internet exchanges, transit, customers, and peering. Django/PostgreSQL/Redis stack with configuration management workflows.",
+    "category": "Network Automation",
+    "stars": 566,
+    "topics": [
+      "bgp",
+      "peering",
+      "source-of-truth",
+      "configuration-management",
+      "django",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-03-20",
+    "discovered": "2026-04-19",
+    "source": "foss-radar-scan",
+    "relevance_score": 20,
+    "vendor_verified": false
+  },
+  {
+    "name": "FRR Exporter",
+    "url": "https://github.com/tynany/frr_exporter",
+    "description": "Prometheus exporter for FRRouting that collects BGP, BFD, OSPF, route, and other FRR metrics from Unix sockets or vtysh and exposes them for Grafana/Prometheus observability pipelines.",
+    "category": "Observability",
+    "stars": 127,
+    "topics": [
+      "prometheus",
+      "frrouting",
+      "bgp",
+      "ospf",
+      "bfd",
+      "network-monitoring",
+      "metrics"
+    ],
+    "vendors": [],
+    "updated": "2026-04-05",
+    "discovered": "2026-04-19",
+    "source": "foss-radar-scan",
+    "relevance_score": 41,
+    "vendor_verified": false
+  },
+  {
+    "name": "bird-lg-go",
+    "url": "https://github.com/xddxdd/bird-lg-go",
+    "description": "Go-based BIRD looking glass with web frontend and proxy. Exposes BGP peering status, route lookups, whois, traceroute, and AS-path visualization with Docker-friendly deployment.",
+    "category": "Network Operations",
+    "stars": 191,
+    "topics": [
+      "bird",
+      "bgp",
+      "looking-glass",
+      "route-lookup",
+      "traceroute",
+      "self-hosted",
+      "golang"
+    ],
+    "vendors": [],
+    "updated": "2026-02-27",
+    "discovered": "2026-04-19",
+    "source": "foss-radar-scan",
+    "relevance_score": 21,
+    "vendor_verified": false
   }
 ]
