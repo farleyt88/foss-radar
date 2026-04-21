@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**527 tools** across 40 categories.
+**530 tools** across 40 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (300)
-- **Observability** (132)
+- **Observability** (133)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -21,6 +21,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
 - **Network Operations** (3)
+- **Traffic Engineering** (3)
 - **MCP / AI Integration** (3)
 - **Data Management** (2)
 - **Infrastructure** (2)
@@ -33,7 +34,6 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Visualization** (1)
 - **Standards & Models** (1)
 - **Network Discovery** (1)
-- **Traffic Engineering** (1)
 - **Network OS / Infrastructure** (1)
 - **Documentation & Diagramming** (1)
 - **Network Analysis** (1)
@@ -512,6 +512,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard (score: 0)
 - [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) — Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path val (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
+- [bonsai](https://github.com/g-arjuna/bonsai) — Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Combines telemetry, gr (score: 0)
 - [Centreon](https://github.com/centreon/centreon) — Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphing, alerting, analyt (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)
 - [clio](https://github.com/openconfig/clio) — OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling integration between O (score: 0)
@@ -676,6 +677,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Traffic Engineering
 
+- [bgpls-ted](https://github.com/BSpendlove/bgpls-ted) — BGP-LS Traffic Engineering Database (TED). Uses ExaBGP, RabbitMQ, consumers, and MongoDB to ingest IGP topology and traf (score: 0)
+- [GoPCEP](https://github.com/vasya4k/gopcep) — Implementation of PCEP and a TE controller written in Go. Provides a lightweight Stateful Segment Routing traffic-engine (score: 0)
 - [LMTE](https://github.com/Y-debug-sys/LMTE) — LLM-driven WAN Traffic Engineering framework (INFOCOM 2026). Uses language models to reason about WAN TE problems. Combi (score: 0)
 
 ## Uncategorized

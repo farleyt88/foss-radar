@@ -10610,5 +10610,66 @@
     "relevance_score": 29,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "GoPCEP",
+    "url": "https://github.com/vasya4k/gopcep",
+    "description": "Implementation of PCEP and a TE controller written in Go. Provides a lightweight Stateful Segment Routing traffic-engineering controller that discovers topology via BGP-LS and can push LSPs using PCEP, with REST/gRPC APIs and a web UI.",
+    "category": "Traffic Engineering",
+    "stars": 23,
+    "topics": [
+      "pcep",
+      "traffic-engineering",
+      "segment-routing",
+      "bgp-ls",
+      "mpls",
+      "golang"
+    ],
+    "updated": "2024-03-08",
+    "discovered": "2026-04-21",
+    "relevance_score": 36,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "bgpls-ted",
+    "url": "https://github.com/BSpendlove/bgpls-ted",
+    "description": "BGP-LS Traffic Engineering Database (TED). Uses ExaBGP, RabbitMQ, consumers, and MongoDB to ingest IGP topology and traffic-engineering data for single-AS or multi-AS environments.",
+    "category": "Traffic Engineering",
+    "stars": 11,
+    "topics": [
+      "bgp-ls",
+      "traffic-engineering",
+      "ted",
+      "topology",
+      "exabgp",
+      "rabbitmq",
+      "mongodb"
+    ],
+    "updated": "2022-09-23",
+    "discovered": "2026-04-21",
+    "relevance_score": 14,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "bonsai",
+    "url": "https://github.com/g-arjuna/bonsai",
+    "description": "Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Combines telemetry, graph state, and self-hosted operational workflows around OSS network observability primitives.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "network-state",
+      "observability",
+      "telemetry",
+      "graph",
+      "closed-loop",
+      "self-hosted"
+    ],
+    "updated": "2026-04-21",
+    "discovered": "2026-04-21",
+    "relevance_score": 37,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

@@ -1,6 +1,6 @@
 # Observability
 
-**132 tools** — sorted by relevance score.
+**133 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -102,6 +102,7 @@
 | 37 | [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) | Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics ex | — |
 | 37 | [snmp_notifier](https://github.com/maxwo/snmp_notifier) | Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prom | — |
 | 37 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter select | — |
+| 37 | [bonsai](https://github.com/g-arjuna/bonsai) | Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Co | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash,  | — |
 | 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network da | — |
