@@ -10671,5 +10671,52 @@
     "relevance_score": 37,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Capsule",
+    "url": "https://github.com/modhari/Capsule",
+    "description": "Multivendor network telemetry and host observability system built on gRPC gNMI, OpenConfig, and incremental capability discovery. Aims to layer protocol-aware monitoring, alerting, and eventually AI-assisted analysis on top of structured network telemetry.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "gnmi",
+      "openconfig",
+      "telemetry",
+      "observability",
+      "grpc",
+      "network-monitoring"
+    ],
+    "vendors": [
+      "Nokia",
+      "Ciena"
+    ],
+    "updated": "2026-04-11",
+    "discovered": "2026-04-22",
+    "relevance_score": 63,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenSCD",
+    "url": "https://github.com/com-pas/open-scd",
+    "description": "Open Substation Communication Designer: a browser-based editor for IEC 61850 SCL files. Useful for electric utility and SEL-adjacent workflows that need to inspect, validate, and manage substation configuration descriptions without proprietary tooling.",
+    "category": "Power Utility / Substation",
+    "stars": 4,
+    "topics": [
+      "iec61850",
+      "scl",
+      "substation",
+      "utility",
+      "web",
+      "configuration"
+    ],
+    "vendors": [
+      "SEL"
+    ],
+    "updated": "2026-04-16",
+    "discovered": "2026-04-22",
+    "relevance_score": 9,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

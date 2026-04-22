@@ -1,6 +1,6 @@
 # Observability
 
-**133 tools** — sorted by relevance score.
+**134 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -29,6 +29,7 @@
 | 63 | [DANT (Drawer of Any Network Topology)](https://github.com/karneliuk-com/drawer-any-network-topology) | Python tool that collects operational data from network devices via NETCONF/YANG and auto-generates  | — |
 | 63 | [flowcus](https://github.com/consi/flowcus) | High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for | — |
 | 63 | [nProbe](https://github.com/ntop/nProbe) | Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enric | — |
+| 63 | [Capsule](https://github.com/modhari/Capsule) | Multivendor network telemetry and host observability system built on gRPC gNMI, OpenConfig, and incr | Nokia, Ciena |
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
 | 58 | [nfdump](https://github.com/phaag/nfdump) | Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports hi | — |

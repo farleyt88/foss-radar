@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**530 tools** across 40 categories.
+**532 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (300)
-- **Observability** (133)
+- **Observability** (134)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -46,6 +46,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Infrastructure Automation** (1)
 - **Utility Protocols** (1)
 - **Utility / Substation Automation** (1)
+- **Power Utility / Substation** (1)
 
 ---
 
@@ -513,6 +514,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) — Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path val (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
 - [bonsai](https://github.com/g-arjuna/bonsai) — Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Combines telemetry, gr (score: 0)
+- [Capsule](https://github.com/modhari/Capsule) — Multivendor network telemetry and host observability system built on gRPC gNMI, OpenConfig, and incremental capability d (score: 0)
 - [Centreon](https://github.com/centreon/centreon) — Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphing, alerting, analyt (score: 0)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate) — Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU, memory, disk, networ (score: 0)
 - [clio](https://github.com/openconfig/clio) — OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling integration between O (score: 0)
@@ -638,6 +640,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) — Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and Prometheus/InfluxDB  (score: 0)
 - [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) — Modern network weathermap web application showing link utilization, optical power, and link health on logical maps. Auto (score: 0)
 - [xenoeye](https://github.com/vmxdev/xenoeye) — Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and Grafana integration. (score: 0)
+
+## Power Utility / Substation
+
+- [OpenSCD](https://github.com/com-pas/open-scd) — Open Substation Communication Designer: a browser-based editor for IEC 61850 SCL files. Useful for electric utility and  (score: 0)
 
 ## Reference
 
