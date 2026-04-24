@@ -1,6 +1,6 @@
 # Network Automation
 
-**300 tools** — sorted by relevance score.
+**302 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -74,6 +74,7 @@
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |
+| 61 | [containerlab-sr-mpls-sros](https://github.com/cloud-native-everything/containerlab-sr-mpls-sros) | Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and FRR/ | Nokia ✅ |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services on n | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server t | Nokia ✅ |
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista | Nokia ✅ |
@@ -101,6 +102,7 @@
 | 51 | [NetDriver](https://github.com/OpenSecFlow/netdriver) | Network device CLI automation via HTTP RESTful API. Connects to network devices and executes CLI com | — |
 | 51 | [Bootz](https://github.com/openconfig/bootz) | OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC ser | Nokia |
 | 51 | [Aimusubi](https://github.com/aimusubi/aimusubi) | Local-first agentic NetOps framework that connects LLMs to real network devices with unified intents | — |
+| 51 | [NetBox Optical](https://github.com/telecomcraft/netbox-optical) | NetBox plugin for optical network modeling and testing. Extends self-hosted NetBox workflows with op | — |
 | 50 | [Holo](https://github.com/holo-routing/holo) | Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven netwo | — |
 | 49 | [Netmiko](https://github.com/ktbyers/netmiko) | Multi-vendor SSH library for network devices. Simplifies CLI automation over SSH. | — |
 | 49 | [pyGNMI](https://github.com/akarneliuk/pygnmi) | Python gNMI client. Interact with network devices via gRPC Network Management Interface. | nokia |

@@ -1,6 +1,6 @@
 # Observability
 
-**134 tools** — sorted by relevance score.
+**135 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -45,6 +45,7 @@
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
 | 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and  | — |
 | 55 | [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) | Kubernetes-based NetOps platform for deploying network automation, observability, and configuration  | — |
+| 55 | [networkdevice-monitor](https://github.com/robotneo/networkdevice-monitor) | Self-hosted network device monitoring stack built on Prometheus and SNMP Exporter. Practical for sta | — |
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
 | 53 | [Orb Discovery](https://github.com/netboxlabs/orb-discovery) | Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-ba | — |

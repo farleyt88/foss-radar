@@ -10718,5 +10718,67 @@
     "relevance_score": 9,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetBox Optical",
+    "url": "https://github.com/telecomcraft/netbox-optical",
+    "description": "NetBox plugin for optical network modeling and testing. Extends self-hosted NetBox workflows with optical transport inventory and automation hooks.",
+    "category": "Network Automation",
+    "stars": 17,
+    "topics": [
+      "automation",
+      "netbox",
+      "netbox-plugin",
+      "netbox-script",
+      "networking",
+      "optical"
+    ],
+    "vendors": [],
+    "updated": "2025-03-06",
+    "discovered": "2026-04-24",
+    "relevance_score": 51,
+    "vendor_verified": false
+  },
+  {
+    "name": "containerlab-sr-mpls-sros",
+    "url": "https://github.com/cloud-native-everything/containerlab-sr-mpls-sros",
+    "description": "Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and FRR/LFA workflows. Useful for prototyping SR OS behavior before touching production transport gear.",
+    "category": "Network Automation",
+    "stars": 3,
+    "topics": [
+      "containerlab",
+      "nokia",
+      "sros",
+      "sr-mpls",
+      "traffic-engineering",
+      "mpls"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-04",
+    "discovered": "2026-04-24",
+    "relevance_score": 61,
+    "vendor_verified": true
+  },
+  {
+    "name": "networkdevice-monitor",
+    "url": "https://github.com/robotneo/networkdevice-monitor",
+    "description": "Self-hosted network device monitoring stack built on Prometheus and SNMP Exporter. Practical for standing up fast observability around routers, switches, and transport infrastructure.",
+    "category": "Observability",
+    "stars": 174,
+    "topics": [
+      "prometheus",
+      "snmp",
+      "snmp-exporter",
+      "network-monitoring",
+      "self-hosted",
+      "observability"
+    ],
+    "vendors": [],
+    "updated": "2026-03-26",
+    "discovered": "2026-04-24",
+    "relevance_score": 55,
+    "vendor_verified": false
   }
 ]

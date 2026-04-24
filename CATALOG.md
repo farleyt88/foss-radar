@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**532 tools** across 41 categories.
+**535 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (300)
-- **Observability** (134)
+- **Network Automation** (302)
+- **Observability** (135)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -174,6 +174,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [cnaas-nms](https://github.com/SUNET/cnaas-nms) — Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: zero-touch provisionin (score: 0)
 - [ConfigDrift](https://github.com/cwccie/configdrift) — Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuously poll devices, diff (score: 0)
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
+- [containerlab-sr-mpls-sros](https://github.com/cloud-native-everything/containerlab-sr-mpls-sros) — Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and FRR/LFA workflows. Usefu (score: 0)
 - [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [damianoneill/net](https://github.com/damianoneill/net) — Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, and CLI transport h (score: 0)
@@ -275,6 +276,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) — NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managi (score: 0)
 - [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) — First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-onl (score: 0)
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) — Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with NetBox data via LLMs  (score: 0)
+- [NetBox Optical](https://github.com/telecomcraft/netbox-optical) — NetBox plugin for optical network modeling and testing. Extends self-hosted NetBox workflows with optical transport inve (score: 0)
 - [netbox-branching](https://github.com/netboxlabs/netbox-branching) — Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creating isolated branches  (score: 0)
 - [netbox-config-diff](https://github.com/miaow2/netbox-config-diff) — NetBox plugin that finds diffs between rendered device configurations in NetBox and the actual running configs on device (score: 0)
 - [netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) — NetBox plugin that syncs data bidirectionally between LibreNMS and NetBox. Keeps your network source of truth and monito (score: 0)
@@ -576,6 +578,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetStruct](https://github.com/IT-4-ALL/NetStruct) — Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switches, firewalls. Real-ti (score: 0)
 - [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) — Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Trac (score: 0)
 - [network-observability-lab](https://github.com/network-observability/network-observability-lab) — Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collection, Prometheus, Gra (score: 0)
+- [networkdevice-monitor](https://github.com/robotneo/networkdevice-monitor) — Self-hosted network device monitoring stack built on Prometheus and SNMP Exporter. Practical for standing up fast observ (score: 0)
 - [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) — Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses Genie parsers to va (score: 0)
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
 - [nfdump](https://github.com/phaag/nfdump) — Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports high-performance filte (score: 0)
