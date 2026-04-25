@@ -1,6 +1,6 @@
 # Network Automation
 
-**302 tools** — sorted by relevance score.
+**305 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -22,6 +22,7 @@
 | 91 | [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) | Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational  | Nokia ✅ |
 | 91 | [ciena.waveserver5](https://github.com/ciena/ciena.waveserver5) | Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF-ba | Ciena ✅ |
 | 91 | [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) | Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM  | Nokia ✅ |
+| 86 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operational  | Nokia ✅ |
 | 85 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Official Nokia Ansible collection for SR Linux device management. Provides modules for config manage | Nokia ✅ |
 | 85 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli | Nokia ✅ |
 | 85 | [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) | Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample c | Nokia ✅ |
@@ -49,6 +50,7 @@
 | 75 | [ciena.waveserverai](https://github.com/ciena/ciena.waveserverai) | Ansible Collection for Ciena Waveserver Ai optical platforms. Supports NETCONF connection for automa | Ciena ✅ |
 | 75 | [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) | Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set o | Nokia ✅ |
 | 73 | [TransportPCE](https://github.com/opendaylight/transportpce) | OpenDaylight-based open-source controller for optical transport networks. Implements path computatio | — |
+| 73 | [samtools](https://github.com/nokia/samtools) | Official Nokia Python tools for the SAM-O / NSP northbound interface. Useful for bulk CSV-driven aut | Nokia ✅ |
 | 71 | [xNMS](https://github.com/xmas-ar/xNMS) | Active eNMS fork tailored for carrier/telecom networks. Adds VPLS E2E, EVPN-VXLAN, and MPLS link ser | — |
 | 71 | [moler](https://github.com/nokia/moler) | Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command- | Nokia ✅ |
 | 71 | [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) | PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system  | Ribbon ✅ |
@@ -71,6 +73,7 @@
 | 65 | [SIMNOS](https://github.com/Route-Reflector/simnos) | Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS  | Ciena ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
+| 63 | [nctools](https://github.com/nokia/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that hel | Nokia ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |

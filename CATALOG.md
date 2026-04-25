@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**535 tools** across 41 categories.
+**538 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (302)
+- **Network Automation** (305)
 - **Observability** (135)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
@@ -266,6 +266,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ncclient](https://github.com/ncclient/ncclient) — Python library for NETCONF clients. The standard NETCONF library for Python. (score: 0)
 - [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) — Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates edit-config deltas,  (score: 0)
 - [NCM (Network Config Management)](https://github.com/lijianqiao/ncm) — Enterprise network config management - Vue 3 + FastAPI. Config backup, batch deployment, asset/topology discovery. Suppo (score: 0)
+- [nctools](https://github.com/nokia/nctools) — Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that helps troubleshoot clie (score: 0)
 - [Nephio](https://github.com/nephio-project/nephio) — Kubernetes-based automation platform for deploying and managing distributed network functions and the underlying infrast (score: 0)
 - [netaddr](https://github.com/netaddr/netaddr) — Network address manipulation library. Supernetting, subnetting, IP math. (score: 0)
 - [NetAI-MCP](https://github.com/pdudotdev/netaimcp) — Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for trouble (score: 0)
@@ -332,6 +333,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) — Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with ncclient for Nokia n (score: 0)
 - [nokia-sros-automation](https://github.com/karneliuk-com/nokia-sros-automation) — Demo collection of Python scripts showing Nokia SR OS automation via all major interfaces: pySROS (YANG data model acces (score: 0)
 - [nokia-sros-maintenance-scripts](https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts) — Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash status reporting with (score: 0)
+- [nokia/pygnmi](https://github.com/nokia/pygnmi) — Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operational data access over gNM (score: 0)
 - [NORFAB](https://github.com/norfablabs/NORFAB) — Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop or server, centrali (score: 0)
 - [Nornir](https://github.com/nornir-automation/nornir) — Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. (score: 0)
 - [nornir-srl](https://github.com/srl-labs/nornir-srl) — Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and pu (score: 0)
@@ -381,6 +383,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) — Rust network automation platform with async NETCONF client library, YANG code generation, vendor profiles, connection po (score: 0)
 - [salt-nornir](https://github.com/dmulyalin/salt-nornir) — Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. (score: 0)
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) — Salt plugin for network automation at scale without running Proxy Minions. (score: 0)
+- [samtools](https://github.com/nokia/samtools) — Official Nokia Python tools for the SAM-O / NSP northbound interface. Useful for bulk CSV-driven automation and XML API  (score: 0)
 - [Schema Enforcer](https://github.com/networktocode/schema-enforcer) — Validate structured data against schemas. Network config data validation. (score: 0)
 - [scrapli](https://github.com/carlmontanari/scrapli) — Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. (score: 0)
 - [SDC (sdctl)](https://github.com/sdcio/sdctl) — Schema Driven Configuration - cloud-native declarative config management for network devices using YANG schemas. Idempot (score: 0)

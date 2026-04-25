@@ -10780,5 +10780,75 @@
     "discovered": "2026-04-24",
     "relevance_score": 55,
     "vendor_verified": false
+  },
+  {
+    "name": "nctools",
+    "url": "https://github.com/nokia/nctools",
+    "description": "Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that helps troubleshoot client-server RPCs, notifications, framing, and auth flows when packet captures are not enough.",
+    "category": "Network Automation",
+    "stars": 3,
+    "topics": [
+      "nokia",
+      "netconf",
+      "python",
+      "troubleshooting",
+      "proxy",
+      "ssh"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-09-09",
+    "discovered": "2026-04-25",
+    "vendor_verified": true,
+    "source": "foss-radar-scan",
+    "relevance_score": 63
+  },
+  {
+    "name": "samtools",
+    "url": "https://github.com/nokia/samtools",
+    "description": "Official Nokia Python tools for the SAM-O / NSP northbound interface. Useful for bulk CSV-driven automation and XML API workflows against Nokia NSP-managed transport services and inventory.",
+    "category": "Network Automation",
+    "stars": 10,
+    "topics": [
+      "nokia",
+      "nsp",
+      "sam-o",
+      "python",
+      "transport",
+      "automation",
+      "xml-api"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-11-27",
+    "discovered": "2026-04-25",
+    "vendor_verified": true,
+    "source": "foss-radar-scan",
+    "relevance_score": 73
+  },
+  {
+    "name": "nokia/pygnmi",
+    "url": "https://github.com/nokia/pygnmi",
+    "description": "Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operational data access over gNMI, useful for SR OS / SR Linux telemetry experiments and collectors.",
+    "category": "Network Automation",
+    "stars": 28,
+    "topics": [
+      "nokia",
+      "gnmi",
+      "python",
+      "telemetry",
+      "streaming",
+      "openconfig"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2024-02-04",
+    "discovered": "2026-04-25",
+    "vendor_verified": true,
+    "source": "foss-radar-scan",
+    "relevance_score": 86
   }
 ]
