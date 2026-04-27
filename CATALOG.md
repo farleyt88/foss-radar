@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**538 tools** across 41 categories.
+**541 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (305)
+- **Network Automation** (308)
 - **Observability** (135)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
@@ -210,6 +210,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [gNXI Tools](https://github.com/google/gnxi) — Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subscribe, gnoi_cert, gno (score: 0)
 - [Go IEC61850](https://github.com/wendy512/iec61850) — Go-based IEC 61850 library for building utility and substation automation tooling. Relevant for power-network environmen (score: 0)
 - [GoBGP](https://github.com/osrg/gobgp) — Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers, looking glasses, SDN (score: 0)
+- [Goyang](https://github.com/openconfig/goyang) — OpenConfig YANG parser/compiler for Go. Useful when building custom tooling around NETCONF, gNMI, and model-driven valid (score: 0)
 - [gRIBI](https://github.com/openconfig/gribi) — gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing entries into a netw (score: 0)
 - [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
@@ -277,6 +278,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) — NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managi (score: 0)
 - [NetBox MCP RW](https://github.com/alexkiwi1/netbox-mcp-rw) — First Model Context Protocol (MCP) server with full read AND write capabilities for NetBox. Unlike the official read-onl (score: 0)
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) — Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with NetBox data via LLMs  (score: 0)
+- [NetBox NRX CLAB](https://github.com/srl-labs/netbox-nrx-clab) — Digital-twin lab showing how to pair NetBox, NetReplica, and containerlab to model and validate network topologies in a  (score: 0)
 - [NetBox Optical](https://github.com/telecomcraft/netbox-optical) — NetBox plugin for optical network modeling and testing. Extends self-hosted NetBox workflows with optical transport inve (score: 0)
 - [netbox-branching](https://github.com/netboxlabs/netbox-branching) — Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows creating isolated branches  (score: 0)
 - [netbox-config-diff](https://github.com/miaow2/netbox-config-diff) — NetBox plugin that finds diffs between rendered device configurations in NetBox and the actual running configs on device (score: 0)
@@ -398,6 +400,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
 - [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) — Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prometheus, Grafana, Lok (score: 0)
 - [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) — Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access to source .yang fil (score: 0)
+- [SR OS Docs Lab](https://github.com/nokia/sros-docs-lab) — Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows, and documenting opera (score: 0)
 - [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) — SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI/gNOI access pattern (score: 0)
 - [srlconv](https://github.com/srl-labs/srlconv) — Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG mod (score: 0)
 - [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) — Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux — mon (score: 0)

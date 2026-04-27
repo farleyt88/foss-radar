@@ -10850,5 +10850,69 @@
     "vendor_verified": true,
     "source": "foss-radar-scan",
     "relevance_score": 86
+  },
+  {
+    "name": "SR OS Docs Lab",
+    "url": "https://github.com/nokia/sros-docs-lab",
+    "description": "Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows, and documenting operational patterns before touching production transport nodes.",
+    "category": "Network Automation",
+    "stars": 10,
+    "topics": [
+      "nokia",
+      "sros",
+      "lab",
+      "network-automation",
+      "reference"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-24",
+    "discovered": "2026-04-27",
+    "relevance_score": 61,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "NetBox NRX CLAB",
+    "url": "https://github.com/srl-labs/netbox-nrx-clab",
+    "description": "Digital-twin lab showing how to pair NetBox, NetReplica, and containerlab to model and validate network topologies in a self-hosted workflow.",
+    "category": "Network Automation",
+    "stars": 59,
+    "topics": [
+      "netbox",
+      "containerlab",
+      "digital-twin",
+      "network-automation",
+      "lab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-22",
+    "discovered": "2026-04-27",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Goyang",
+    "url": "https://github.com/openconfig/goyang",
+    "description": "OpenConfig YANG parser/compiler for Go. Useful when building custom tooling around NETCONF, gNMI, and model-driven validation pipelines.",
+    "category": "Network Automation",
+    "stars": 241,
+    "topics": [
+      "yang",
+      "openconfig",
+      "golang",
+      "gnmi",
+      "netconf"
+    ],
+    "vendors": [],
+    "updated": "2026-04-21",
+    "discovered": "2026-04-27",
+    "relevance_score": 53,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

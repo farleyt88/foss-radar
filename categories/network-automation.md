@@ -1,6 +1,6 @@
 # Network Automation
 
-**305 tools** — sorted by relevance score.
+**308 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -78,6 +78,7 @@
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |
 | 61 | [containerlab-sr-mpls-sros](https://github.com/cloud-native-everything/containerlab-sr-mpls-sros) | Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and FRR/ | Nokia ✅ |
+| 61 | [SR OS Docs Lab](https://github.com/nokia/sros-docs-lab) | Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows, a | Nokia ✅ |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services on n | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server t | Nokia ✅ |
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Arista | Nokia ✅ |
@@ -97,6 +98,7 @@
 | 53 | [lighty.io](https://github.com/PANTHEONtech/lighty) | Lightweight OpenDaylight runtime library for SDN. NETCONF, RESTCONF, gNMI support. Java SE runtime w | — |
 | 53 | [Nokia VS Code Intent Manager](https://github.com/nokia/vscode-intent-manager) | Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents fr | Nokia ✅ |
 | 53 | [ygnmi](https://github.com/openconfig/ygnmi) | OpenConfig Go gNMI client library built on ygot-generated code. Supports typed telemetry queries and | Nokia, Arista, Cisco, Juniper |
+| 53 | [Goyang](https://github.com/openconfig/goyang) | OpenConfig YANG parser/compiler for Go. Useful when building custom tooling around NETCONF, gNMI, an | — |
 | 51 | [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) | Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prom | Nokia |
 | 51 | [Clixon](https://github.com/clicon/clixon) | YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendor | — |
 | 51 | [yang.ncdiff](https://github.com/CiscoTestAutomation/yang) | NETCONF/YANG test framework with config diff capabilities. Downloads, compiles, and diffs NETCONF co | — |
@@ -219,6 +221,7 @@
 | 27 | [sros](https://github.com/g0053/sros) | Small Python/Netmiko automation repo for Nokia 7750 SR OS routers. Focused on practical CLI automati | Nokia |
 | 27 | [n8n-nodes-netdevices](https://github.com/arpit-patel1/n8n-nodes-netdevices) | Custom n8n node for SSH-based network device automation. Brings Netmiko-style operations into n8n wo | — |
 | 27 | [Nautobot NetBox Importer](https://github.com/nautobot/nautobot-app-netbox-importer) | Official Nautobot plugin that simplifies migrating data from NetBox into Nautobot using DiffSync. Re | — |
+| 27 | [NetBox NRX CLAB](https://github.com/srl-labs/netbox-nrx-clab) | Digital-twin lab showing how to pair NetBox, NetReplica, and containerlab to model and validate netw | Nokia |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco A | — |
