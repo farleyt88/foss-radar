@@ -1,6 +1,6 @@
 # Network Automation
 
-**308 tools** — sorted by relevance score.
+**310 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -165,6 +165,7 @@
 | 37 | [SDC Config Server](https://github.com/sdcio/config-server) | Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, targ | — |
 | 37 | [EzSnmp](https://github.com/carlkidcrypto/ezsnmp) | Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ an | — |
 | 37 | [OpenConfig gNOI](https://github.com/openconfig/gnoi) | OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks su | — |
+| 37 | [gribigo](https://github.com/openconfig/gribigo) | OpenConfig gRIBI client and in-memory server in Go. Useful for transport and routing automation test | Nokia |
 | 36 | [Trigger](https://github.com/trigger/trigger) | Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports S | — |
 | 35 | [Icinga](https://github.com/Icinga/icinga2) | Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend predictio | — |
 | 35 | [yangson](https://github.com/CZ-NIC/yangson) | YANG data modeling language parser and validator. JSON instance validation against YANG schemas. | — |
@@ -242,6 +243,7 @@
 | 23 | [Nokia EDA](https://github.com/nokia-eda/docs) | Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driv | Nokia |
 | 23 | [nokia-eda-playground](https://github.com/nokia-eda/playground) | Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with | Nokia |
 | 23 | [iec61850_open_gateway](https://github.com/robidev/iec61850_open_gateway) | Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pa | — |
+| 23 | [KiwiSSH](https://github.com/casudo/KiwiSSH) | Open source network configuration backup and change-tracking tool positioned as a faster Oxidized-st | — |
 | 21 | [hier_config](https://github.com/netdevops/hier_config) | Hierarchical Configuration - compare running config to intended config and build remediation steps. | — |
 | 21 | [ANTA](https://github.com/aristanetworks/anta) | Arista Network Test Automation - Python framework for automated device testing. | — |
 | 21 | [pyATS](https://github.com/CiscoTestAutomation/pyats) | Cisco's Python Automation Test System. Network test automation framework. | — |

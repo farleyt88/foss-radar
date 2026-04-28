@@ -1,19 +1,19 @@
 # FOSS Radar — Tool Catalog
 
-**541 tools** across 41 categories.
+**544 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (308)
+- **Network Automation** (310)
 - **Observability** (135)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
+- **Network Testing** (6)
 - **Network Simulation** (5)
-- **Network Testing** (5)
 - **Network Observability** (5)
 - **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
@@ -212,6 +212,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [GoBGP](https://github.com/osrg/gobgp) — Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers, looking glasses, SDN (score: 0)
 - [Goyang](https://github.com/openconfig/goyang) — OpenConfig YANG parser/compiler for Go. Useful when building custom tooling around NETCONF, gNMI, and model-driven valid (score: 0)
 - [gRIBI](https://github.com/openconfig/gribi) — gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing entries into a netw (score: 0)
+- [gribigo](https://github.com/openconfig/gribigo) — OpenConfig gRIBI client and in-memory server in Go. Useful for transport and routing automation test harnesses, especial (score: 0)
 - [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
 - [Holo](https://github.com/holo-routing/holo) — Routing protocol suite in Rust with native YANG/gNMI/gRPC support. Built for automation-driven networks. Memory-safe, mo (score: 0)
@@ -231,6 +232,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Jerikan](https://github.com/jerikan-network/cmdb) — Network CMDB with Git-based config management. Template-driven network automation. (score: 0)
 - [jsnac](https://github.com/commitconfirmed/jsnac) — JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/infrastructure templates (score: 0)
 - [junos-ops](https://github.com/shigechika/junos-ops) — Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config push, and RSI/SCF colle (score: 0)
+- [KiwiSSH](https://github.com/casudo/KiwiSSH) — Open source network configuration backup and change-tracking tool positioned as a faster Oxidized-style workflow. Useful (score: 0)
 - [KNE](https://github.com/openconfig/kne) — Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, Nokia, Drivenets) as cont (score: 0)
 - [Kubenet](https://github.com/kubenet-dev/kubenet) — Nokia-backed community project using Kubernetes as a network automation engine for managing physical, virtual, or contai (score: 0)
 - [Lemming](https://github.com/openconfig/lemming) — OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use as a fake network dev (score: 0)
@@ -506,6 +508,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
 - [qtester104](https://github.com/riclolsen/qtester104) — Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating IEC 104 communicatio (score: 0)
+- [replayer](https://github.com/openconfig/replayer) — OpenConfig replay library for gNMI, gRIBI, and gNOI event logs. Handy for reproducing protocol events and testing teleme (score: 0)
 - [snappi](https://github.com/open-traffic-generator/snappi) — Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and automated performance te (score: 0)
 
 ## Network Visualization

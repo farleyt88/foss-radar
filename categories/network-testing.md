@@ -1,11 +1,12 @@
 # Network Testing
 
-**5 tools** — sorted by relevance score.
+**6 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 37 | [replayer](https://github.com/openconfig/replayer) | OpenConfig replay library for gNMI, gRIBI, and gNOI event logs. Handy for reproducing protocol event | Nokia |
 | 27 | [snappi](https://github.com/open-traffic-generator/snappi) | Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and auto | — |
 | 21 | [BNG Blaster](https://github.com/rtbrick/bngblaster) | Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscriber | — |
 | 17 | [Ixia-C](https://github.com/open-traffic-generator/ixia-c) | Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes networ | — |

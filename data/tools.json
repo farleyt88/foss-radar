@@ -10914,5 +10914,74 @@
     "relevance_score": 53,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "gribigo",
+    "url": "https://github.com/openconfig/gribigo",
+    "description": "OpenConfig gRIBI client and in-memory server in Go. Useful for transport and routing automation test harnesses, especially for validating gRIBI workflows before touching production devices.",
+    "category": "Network Automation",
+    "stars": 16,
+    "topics": [
+      "openconfig",
+      "gribi",
+      "routing",
+      "network-testing",
+      "golang",
+      "automation"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-27",
+    "discovered": "2026-04-28",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 37
+  },
+  {
+    "name": "KiwiSSH",
+    "url": "https://github.com/casudo/KiwiSSH",
+    "description": "Open source network configuration backup and change-tracking tool positioned as a faster Oxidized-style workflow. Useful for self-hosted config archival on mixed network estates.",
+    "category": "Network Automation",
+    "stars": 16,
+    "topics": [
+      "backup",
+      "network-configuration",
+      "change-tracking",
+      "self-hosted",
+      "oxidized",
+      "rancid"
+    ],
+    "vendors": [],
+    "updated": "2026-04-28",
+    "discovered": "2026-04-28",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 23
+  },
+  {
+    "name": "replayer",
+    "url": "https://github.com/openconfig/replayer",
+    "description": "OpenConfig replay library for gNMI, gRIBI, and gNOI event logs. Handy for reproducing protocol events and testing telemetry or control-plane automation workflows offline.",
+    "category": "Network Testing",
+    "stars": 2,
+    "topics": [
+      "openconfig",
+      "gnmi",
+      "gribi",
+      "gnoi",
+      "telemetry",
+      "protocol-testing"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-03-18",
+    "discovered": "2026-04-28",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 37
   }
 ]
