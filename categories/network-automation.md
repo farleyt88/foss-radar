@@ -1,6 +1,6 @@
 # Network Automation
 
-**310 tools** — sorted by relevance score.
+**311 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -129,6 +129,7 @@
 | 43 | [nautobot-app-nornir](https://github.com/nautobot/nautobot-app-nornir) | Official Nautobot app providing a Nornir ORM-based inventory and credential manager. Acts as the fou | — |
 | 43 | [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) | Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with N | — |
 | 43 | [Jalapeno](https://github.com/cisco-open/jalapeno) | Cloud-native infrastructure platform for network services built on BMP, GoBGP, Kafka, ArangoDB, and  | — |
+| 43 | [gRIBIc](https://github.com/karimra/gribic) | OpenConfig gRIBI command-line client for programming and inspecting routing information over gRPC. U | — |
 | 41 | [Sysrepo](https://github.com/sysrepo/sysrepo) | YANG-based configuration and operational state data store for Unix/Linux applications. Integrates wi | — |
 | 41 | [annet](https://github.com/annetutil/annet) | Configuration generation and deployment utility translating config diffs into command sequences. Sup | Cisco, Huawei, Juniper |
 | 41 | [Network Importer](https://github.com/networktocode/network-importer) | Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Id | — |

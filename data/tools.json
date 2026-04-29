@@ -10983,5 +10983,75 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 37
+  },
+  {
+    "name": "gRIBIc",
+    "url": "https://github.com/karimra/gribic",
+    "description": "OpenConfig gRIBI command-line client for programming and inspecting routing information over gRPC. Useful for labbing and validating model-driven routing workflows around modern transport and IP fabrics.",
+    "category": "Network Automation",
+    "stars": 13,
+    "topics": [
+      "gribi",
+      "grpc",
+      "networking",
+      "openconfig",
+      "routing"
+    ],
+    "language": "Go",
+    "license": "NOASSERTION",
+    "updated": "2026-03-31",
+    "discovered": "2026-04-29",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 43
+  },
+  {
+    "name": "Shawk",
+    "url": "https://github.com/yuuki/shawk",
+    "description": "Socket-based tracing system for discovering network service dependencies. Helpful for observability work where transport paths and service relationships need to be inferred without heavy instrumentation.",
+    "category": "Observability",
+    "stars": 56,
+    "topics": [
+      "dependency",
+      "distributed-tracing",
+      "monitoring",
+      "network-monitoring",
+      "observability",
+      "tcp",
+      "tracing",
+      "transport"
+    ],
+    "language": "Go",
+    "license": "MIT",
+    "updated": "2026-04-08",
+    "discovered": "2026-04-29",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 35
+  },
+  {
+    "name": "Theia",
+    "url": "https://github.com/antrea-io/theia",
+    "description": "Open source network observability platform for Kubernetes from the Antrea project. Relevant for self-hosted infrastructure stacks that need flow visibility, policy troubleshooting, and network analytics.",
+    "category": "Observability",
+    "stars": 45,
+    "topics": [
+      "kubernetes",
+      "network-analytics",
+      "network-observability",
+      "networking",
+      "networkpolicy",
+      "security"
+    ],
+    "language": "Go",
+    "license": "Apache-2.0",
+    "updated": "2026-03-30",
+    "discovered": "2026-04-29",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 31
   }
 ]

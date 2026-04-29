@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**544 tools** across 41 categories.
+**547 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (310)
-- **Observability** (135)
+- **Network Automation** (311)
+- **Observability** (137)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
@@ -212,6 +212,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [GoBGP](https://github.com/osrg/gobgp) — Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers, looking glasses, SDN (score: 0)
 - [Goyang](https://github.com/openconfig/goyang) — OpenConfig YANG parser/compiler for Go. Useful when building custom tooling around NETCONF, gNMI, and model-driven valid (score: 0)
 - [gRIBI](https://github.com/openconfig/gribi) — gRPC Routing Information Base Interface — OpenConfig protocol for programmatically injecting routing entries into a netw (score: 0)
+- [gRIBIc](https://github.com/karimra/gribic) — OpenConfig gRIBI command-line client for programming and inspecting routing information over gRPC. Useful for labbing an (score: 0)
 - [gribigo](https://github.com/openconfig/gribigo) — OpenConfig gRIBI client and in-memory server in Go. Useful for transport and routing automation test harnesses, especial (score: 0)
 - [h-cli](https://github.com/h-network/h-cli) — AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration. Features dual-LLM sa (score: 0)
 - [hier_config](https://github.com/netdevops/hier_config) — Hierarchical Configuration - compare running config to intended config and build remediation steps. (score: 0)
@@ -625,6 +626,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SEC](https://github.com/simple-evcorr/sec) — Simple Event Correlator - Advanced event processing for log monitoring, security, fraud detection. (score: 0)
 - [ServiceRadar](https://github.com/carverauto/serviceradar) — Zero-trust distributed network monitoring platform for infrastructure in hard-to-reach or constrained environments. Feat (score: 0)
 - [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) — Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for experimenting with stream (score: 0)
+- [Shawk](https://github.com/yuuki/shawk) — Socket-based tracing system for discovering network service dependencies. Helpful for observability work where transport (score: 0)
 - [SigNoz](https://github.com/SigNoz/signoz) — Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hos (score: 0)
 - [Sloggo](https://github.com/phare/sloggo) — Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly process with a clean (score: 0)
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter selection, protocol/servic (score: 0)
@@ -642,6 +644,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
 - [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) — Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up a (score: 0)
+- [Theia](https://github.com/antrea-io/theia) — Open source network observability platform for Kubernetes from the Antrea project. Relevant for self-hosted infrastructu (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)
 - [tsmetrics](https://github.com/sbaerlocher/tsmetrics) — Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for network observability. S (score: 0)

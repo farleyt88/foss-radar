@@ -1,6 +1,6 @@
 # Observability
 
-**135 tools** — sorted by relevance score.
+**137 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -107,6 +107,7 @@
 | 37 | [bonsai](https://github.com/g-arjuna/bonsai) | Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Co | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstash,  | — |
 | 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
+| 35 | [Shawk](https://github.com/yuuki/shawk) | Socket-based tracing system for discovering network service dependencies. Helpful for observability  | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network da | — |
 | 33 | [Steward](https://github.com/braedonsaunders/steward) | Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discovery | — |
 | 33 | [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) | eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linu | — |
@@ -116,6 +117,7 @@
 | 31 | [natlas](https://github.com/MJL85/natlas) | Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Au | — |
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |
 | 31 | [NetObserv CLI](https://github.com/netobserv/netobserv-cli) | Kubernetes/OpenShift CLI tool for network observability. Deploys the NetObserv eBPF agent, captures  | — |
+| 31 | [Theia](https://github.com/antrea-io/theia) | Open source network observability platform for Kubernetes from the Antrea project. Relevant for self | — |
 | 29 | [inet-henge](https://github.com/codeout/inet-henge) | Generate d3.js network diagrams from JSON. Interactive network topology visualization. | — |
 | 29 | [NetAlertX](https://github.com/netalertx/NetAlertX) | Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors  | — |
 | 29 | [NetObserv Operator](https://github.com/netobserv/netobserv-operator) | Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with i | — |
