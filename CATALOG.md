@@ -1,21 +1,21 @@
 # FOSS Radar — Tool Catalog
 
-**547 tools** across 41 categories.
+**550 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (311)
+- **Network Automation** (313)
 - **Observability** (137)
 - **Self-Hosted Infrastructure** (8)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
 - **Network Testing** (6)
+- **Self-Hosted** (5)
 - **Network Simulation** (5)
 - **Network Observability** (5)
-- **Self-Hosted** (4)
 - **Infrastructure as Code** (4)
 - **IPAM** (3)
 - **Network Monitoring** (3)
@@ -276,6 +276,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NetAI-MCP](https://github.com/pdudotdev/netaimcp) — Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for trouble (score: 0)
 - [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) — Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and ex (score: 0)
 - [Netbox](https://github.com/netbox-community/netbox) — Network source of truth and IPAM. Infrastructure resource modeling for network automation. (score: 0)
+- [NetBox BGP](https://github.com/netbox-community/netbox-bgp) — NetBox plugin for documenting BGP-related objects, useful for transport engineering and routing inventory inside a NetBo (score: 0)
 - [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) — NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfaces on the device de (score: 0)
 - [NetBox DeviceType Library](https://github.com/netbox-community/devicetype-library) — Community-sourced device type definitions for NetBox. 51 Ciena and 30 Nokia device types confirmed in library. Import di (score: 0)
 - [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) — NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts. Essential for managi (score: 0)
@@ -341,6 +342,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [nokia/pygnmi](https://github.com/nokia/pygnmi) — Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operational data access over gNM (score: 0)
 - [NORFAB](https://github.com/norfablabs/NORFAB) — Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop or server, centrali (score: 0)
 - [Nornir](https://github.com/nornir-automation/nornir) — Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. (score: 0)
+- [nornir-nautobot](https://github.com/nautobot/nornir-nautobot) — Nornir inventory and plugin bridge for Nautobot, letting Nautobot act as an automation inventory/source-of-truth for Nor (score: 0)
 - [nornir-srl](https://github.com/srl-labs/nornir-srl) — Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and pu (score: 0)
 - [notconf](https://github.com/notconf/notconf) — NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper JUNOS, Nokia SROS. Drop (score: 0)
 - [nrx (Netreplica Exporter)](https://github.com/netreplica/nrx) — Export NetBox topologies to Containerlab, CML, NVIDIA Air, or Graphite for network lab orchestration and visualization. (score: 0)
@@ -669,6 +671,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) — Notion alternative - docs, whiteboards, databases. Local-first, fully self-hostable, offline-first. (score: 0)
 - [Databasus](https://github.com/databasus/databasus) — Self-hosted database backup tool with S3, Google Drive, FTP targets and Slack/Discord notifications. (score: 0)
 - [NetBox Docker](https://github.com/netbox-community/netbox-docker) — Docker deployment for NetBox. Easy containerized network source of truth. (score: 0)
+- [NetBox Operator](https://github.com/netbox-community/netbox-operator) — Kubernetes operator for managing NetBox resources directly through Kubernetes, handy for self-hosted NetBox lifecycle an (score: 0)
 - [Taiga](https://github.com/kaleidos-ventures/taiga) — Project management (Jira alternative) - Kanban + Scrum. Self-hosted, unlimited users, GitLab/GitHub integration. (score: 0)
 
 ## Self-Hosted Infrastructure

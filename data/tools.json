@@ -11053,5 +11053,68 @@
     "vendor_verified": false,
     "source": "foss-radar-scan",
     "relevance_score": 31
+  },
+  {
+    "name": "nornir-nautobot",
+    "url": "https://github.com/nautobot/nornir-nautobot",
+    "description": "Nornir inventory and plugin bridge for Nautobot, letting Nautobot act as an automation inventory/source-of-truth for Nornir workflows.",
+    "category": "Network Automation",
+    "stars": 39,
+    "topics": [
+      "nautobot",
+      "nornir",
+      "inventory",
+      "network-automation",
+      "source-of-truth",
+      "python"
+    ],
+    "vendors": [],
+    "updated": "2026-04-30",
+    "discovered": "2026-04-30",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 43
+  },
+  {
+    "name": "NetBox BGP",
+    "url": "https://github.com/netbox-community/netbox-bgp",
+    "description": "NetBox plugin for documenting BGP-related objects, useful for transport engineering and routing inventory inside a NetBox source-of-truth.",
+    "category": "Network Automation",
+    "stars": 296,
+    "topics": [
+      "netbox",
+      "bgp",
+      "routing",
+      "transport",
+      "documentation",
+      "plugin"
+    ],
+    "vendors": [],
+    "updated": "2026-04-23",
+    "discovered": "2026-04-30",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 33
+  },
+  {
+    "name": "NetBox Operator",
+    "url": "https://github.com/netbox-community/netbox-operator",
+    "description": "Kubernetes operator for managing NetBox resources directly through Kubernetes, handy for self-hosted NetBox lifecycle and GitOps-style infrastructure management.",
+    "category": "Self-Hosted",
+    "stars": 137,
+    "topics": [
+      "netbox",
+      "kubernetes",
+      "operator",
+      "self-hosted",
+      "gitops",
+      "infrastructure"
+    ],
+    "vendors": [],
+    "updated": "2026-04-27",
+    "discovered": "2026-04-30",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 25
   }
 ]

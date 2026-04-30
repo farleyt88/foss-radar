@@ -1,6 +1,6 @@
 # Network Automation
 
-**311 tools** — sorted by relevance score.
+**313 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -130,6 +130,7 @@
 | 43 | [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) | Official Model Context Protocol (MCP) server for NetBox by NetBox Labs. Read-only interaction with N | — |
 | 43 | [Jalapeno](https://github.com/cisco-open/jalapeno) | Cloud-native infrastructure platform for network services built on BMP, GoBGP, Kafka, ArangoDB, and  | — |
 | 43 | [gRIBIc](https://github.com/karimra/gribic) | OpenConfig gRIBI command-line client for programming and inspecting routing information over gRPC. U | — |
+| 43 | [nornir-nautobot](https://github.com/nautobot/nornir-nautobot) | Nornir inventory and plugin bridge for Nautobot, letting Nautobot act as an automation inventory/sou | — |
 | 41 | [Sysrepo](https://github.com/sysrepo/sysrepo) | YANG-based configuration and operational state data store for Unix/Linux applications. Integrates wi | — |
 | 41 | [annet](https://github.com/annetutil/annet) | Configuration generation and deployment utility translating config diffs into command sequences. Sup | Cisco, Huawei, Juniper |
 | 41 | [Network Importer](https://github.com/networktocode/network-importer) | Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Id | — |
@@ -185,6 +186,7 @@
 | 33 | [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) | Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Noki | Nokia |
 | 33 | [Nephio](https://github.com/nephio-project/nephio) | Kubernetes-based automation platform for deploying and managing distributed network functions and th | — |
 | 33 | [bront-network](https://github.com/brontnet/bront-network) | CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a | — |
+| 33 | [NetBox BGP](https://github.com/netbox-community/netbox-bgp) | NetBox plugin for documenting BGP-related objects, useful for transport engineering and routing inve | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacen | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |
