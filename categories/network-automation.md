@@ -1,6 +1,6 @@
 # Network Automation
 
-**313 tools** — sorted by relevance score.
+**315 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -131,6 +131,8 @@
 | 43 | [Jalapeno](https://github.com/cisco-open/jalapeno) | Cloud-native infrastructure platform for network services built on BMP, GoBGP, Kafka, ArangoDB, and  | — |
 | 43 | [gRIBIc](https://github.com/karimra/gribic) | OpenConfig gRIBI command-line client for programming and inspecting routing information over gRPC. U | — |
 | 43 | [nornir-nautobot](https://github.com/nautobot/nornir-nautobot) | Nornir inventory and plugin bridge for Nautobot, letting Nautobot act as an automation inventory/sou | — |
+| 43 | [Nautobot Data Validation Engine](https://github.com/nautobot/nautobot-app-data-validation-engine) | Nautobot app for building custom data validation and compliance rules for Source of Truth data. Usef | — |
+| 43 | [Nautobot Device Lifecycle Management](https://github.com/nautobot/nautobot-app-device-lifecycle-mgmt) | Nautobot app for tracking hardware EOL, software lifecycle, and maintenance contract metadata agains | — |
 | 41 | [Sysrepo](https://github.com/sysrepo/sysrepo) | YANG-based configuration and operational state data store for Unix/Linux applications. Integrates wi | — |
 | 41 | [annet](https://github.com/annetutil/annet) | Configuration generation and deployment utility translating config diffs into command sequences. Sup | Cisco, Huawei, Juniper |
 | 41 | [Network Importer](https://github.com/networktocode/network-importer) | Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Id | — |

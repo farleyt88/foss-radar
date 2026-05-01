@@ -11116,5 +11116,66 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 25
+  },
+  {
+    "name": "Nautobot Data Validation Engine",
+    "url": "https://github.com/nautobot/nautobot-app-data-validation-engine",
+    "description": "Nautobot app for building custom data validation and compliance rules for Source of Truth data. Useful for enforcing naming, required fields, uniqueness, and audit-style compliance checks across network inventory.",
+    "category": "Network Automation",
+    "stars": 20,
+    "topics": [
+      "nautobot",
+      "source-of-truth",
+      "data-validation",
+      "compliance",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-02-18",
+    "discovered": "2026-05-01",
+    "source": "foss-radar-scan",
+    "relevance_score": 43,
+    "vendor_verified": false
+  },
+  {
+    "name": "Nautobot Device Lifecycle Management",
+    "url": "https://github.com/nautobot/nautobot-app-device-lifecycle-mgmt",
+    "description": "Nautobot app for tracking hardware EOL, software lifecycle, and maintenance contract metadata against devices, device types, and inventory items. Strong fit for transport refresh planning and standards tracking.",
+    "category": "Network Automation",
+    "stars": 54,
+    "topics": [
+      "nautobot",
+      "device-lifecycle",
+      "asset-management",
+      "source-of-truth",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-04-30",
+    "discovered": "2026-05-01",
+    "source": "foss-radar-scan",
+    "relevance_score": 43,
+    "vendor_verified": false
+  },
+  {
+    "name": "Open Traffic Generator Examples",
+    "url": "https://github.com/open-traffic-generator/otg-examples",
+    "description": "Software-only network test labs and examples for the Open Traffic Generator API using containerized or virtualized NOS images. Good reference set for repeatable traffic tests, lab validation, and containerlab-based transport test scenarios.",
+    "category": "Network Testing",
+    "stars": 42,
+    "topics": [
+      "containerlab",
+      "network-testing",
+      "traffic-generator",
+      "otg",
+      "network-automation",
+      "labs"
+    ],
+    "vendors": [],
+    "updated": "2026-04-21",
+    "discovered": "2026-05-01",
+    "source": "foss-radar-scan",
+    "relevance_score": 27,
+    "vendor_verified": false
   }
 ]

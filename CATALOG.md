@@ -1,18 +1,18 @@
 # FOSS Radar — Tool Catalog
 
-**550 tools** across 41 categories.
+**553 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (313)
+- **Network Automation** (315)
 - **Observability** (137)
 - **Self-Hosted Infrastructure** (8)
+- **Network Testing** (7)
 - **Timing & Synchronization** (7)
 - **CLI Tools** (6)
 - **Network Management** (6)
-- **Network Testing** (6)
 - **Self-Hosted** (5)
 - **Network Simulation** (5)
 - **Network Observability** (5)
@@ -258,6 +258,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) — Salt formula to simplify NAPALM installation and dependencies. (score: 0)
 - [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) — Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational data retrieval via N (score: 0)
 - [Nautobot](https://github.com/nautobot/nautobot) — Network automation platform built on NetBox. Extensible network source of truth and automation. (score: 0)
+- [Nautobot Data Validation Engine](https://github.com/nautobot/nautobot-app-data-validation-engine) — Nautobot app for building custom data validation and compliance rules for Source of Truth data. Useful for enforcing nam (score: 0)
+- [Nautobot Device Lifecycle Management](https://github.com/nautobot/nautobot-app-device-lifecycle-mgmt) — Nautobot app for tracking hardware EOL, software lifecycle, and maintenance contract metadata against devices, device ty (score: 0)
 - [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) — Golden Config app for Nautobot. Network config compliance and remediation. (score: 0)
 - [Nautobot MCP Server](https://github.com/kvncampos/nautobot_mcp) — Model Context Protocol (MCP) server for Nautobot with semantic endpoint discovery and dynamic API requests. Uses ChromaD (score: 0)
 - [Nautobot NetBox Importer](https://github.com/nautobot/nautobot-app-netbox-importer) — Official Nautobot plugin that simplifies migrating data from NetBox into Nautobot using DiffSync. Relevant for teams eva (score: 0)
@@ -510,6 +512,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP (score: 0)
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
+- [Open Traffic Generator Examples](https://github.com/open-traffic-generator/otg-examples) — Software-only network test labs and examples for the Open Traffic Generator API using containerized or virtualized NOS i (score: 0)
 - [qtester104](https://github.com/riclolsen/qtester104) — Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating IEC 104 communicatio (score: 0)
 - [replayer](https://github.com/openconfig/replayer) — OpenConfig replay library for gNMI, gRIBI, and gNOI event logs. Handy for reproducing protocol events and testing teleme (score: 0)
 - [snappi](https://github.com/open-traffic-generator/snappi) — Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and automated performance te (score: 0)
