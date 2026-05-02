@@ -1,19 +1,19 @@
 # FOSS Radar — Tool Catalog
 
-**553 tools** across 41 categories.
+**556 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (315)
-- **Observability** (137)
+- **Network Automation** (316)
+- **Observability** (138)
 - **Self-Hosted Infrastructure** (8)
 - **Network Testing** (7)
 - **Timing & Synchronization** (7)
+- **Self-Hosted** (6)
 - **CLI Tools** (6)
 - **Network Management** (6)
-- **Self-Hosted** (5)
 - **Network Simulation** (5)
 - **Network Observability** (5)
 - **Infrastructure as Code** (4)
@@ -357,6 +357,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles) — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI, BG (score: 0)
 - [OpenConfig gNMI](https://github.com/openconfig/gnmi) — gRPC Network Management Interface specification and reference implementation. The foundation for gNMI-based network auto (score: 0)
 - [OpenConfig gNOI](https://github.com/openconfig/gnoi) — OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks such as certificate ma (score: 0)
+- [OpenConfig Reference](https://github.com/openconfig/reference) — Reference implementations, specifications, and tooling for OpenConfig-based network management. Good fit for gNMI/OpenCo (score: 0)
 - [OpenKilda](https://github.com/telstra/open-kilda) — Open-source OpenFlow controller built for large, latency-sensitive networks. Focuses on flow management, path computatio (score: 0)
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) — Network topology collector and visualizer. Collects from dynamic mesh routing protocols or OpenVPN, saves daily snapshot (score: 0)
 - [Oxidized](https://github.com/ytti/oxidized) — Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. (score: 0)
@@ -641,6 +642,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [sonic-exporter](https://github.com/vinted/sonic-exporter) — Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and scraping network OS  (score: 0)
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)
 - [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) — Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates syslog ingestion and vi (score: 0)
+- [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) — Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical observability reference when (score: 0)
 - [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) — Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly from the NOS without exter (score: 0)
 - [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) — Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Includes gnmic, Prometheus, (score: 0)
 - [SRv6 FlexAlgo Telemetry Lab](https://github.com/sros-labs/srv6-flexalgo-telemetry-lab) — Containerlab demo for Nokia SR OS SRv6 + FlexAlgo with gNMIc, Prometheus, and Grafana. Useful as a transport-focused ref (score: 0)
@@ -673,6 +675,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) — Notion alternative - docs, whiteboards, databases. Local-first, fully self-hostable, offline-first. (score: 0)
 - [Databasus](https://github.com/databasus/databasus) — Self-hosted database backup tool with S3, Google Drive, FTP targets and Slack/Discord notifications. (score: 0)
+- [Nautobot Docker Compose](https://github.com/nautobot/nautobot-docker-compose) — Official Docker Compose deployment for Nautobot. Useful for quickly standing up a self-hosted network source-of-truth an (score: 0)
 - [NetBox Docker](https://github.com/netbox-community/netbox-docker) — Docker deployment for NetBox. Easy containerized network source of truth. (score: 0)
 - [NetBox Operator](https://github.com/netbox-community/netbox-operator) — Kubernetes operator for managing NetBox resources directly through Kubernetes, handy for self-hosted NetBox lifecycle an (score: 0)
 - [Taiga](https://github.com/kaleidos-ventures/taiga) — Project management (Jira alternative) - Kanban + Scrum. Self-hosted, unlimited users, GitLab/GitHub integration. (score: 0)

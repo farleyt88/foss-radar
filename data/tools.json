@@ -11177,5 +11177,69 @@
     "source": "foss-radar-scan",
     "relevance_score": 27,
     "vendor_verified": false
+  },
+  {
+    "name": "Nautobot Docker Compose",
+    "url": "https://github.com/nautobot/nautobot-docker-compose",
+    "description": "Official Docker Compose deployment for Nautobot. Useful for quickly standing up a self-hosted network source-of-truth and automation stack for labs, pilots, or internal tooling.",
+    "category": "Self-Hosted",
+    "stars": 71,
+    "topics": [
+      "nautobot",
+      "docker",
+      "docker-compose",
+      "self-hosted",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-04-09",
+    "discovered": "2026-05-02",
+    "source": "foss-radar-scan",
+    "relevance_score": 27,
+    "vendor_verified": false
+  },
+  {
+    "name": "OpenConfig Reference",
+    "url": "https://github.com/openconfig/reference",
+    "description": "Reference implementations, specifications, and tooling for OpenConfig-based network management. Good fit for gNMI/OpenConfig design patterns, validation, and multi-vendor automation workflows.",
+    "category": "Network Automation",
+    "stars": 164,
+    "topics": [
+      "openconfig",
+      "gnmi",
+      "network-management",
+      "reference",
+      "tooling",
+      "multi-vendor"
+    ],
+    "vendors": [],
+    "updated": "2026-04-28",
+    "discovered": "2026-05-02",
+    "source": "foss-radar-scan",
+    "relevance_score": 37,
+    "vendor_verified": false
+  },
+  {
+    "name": "SR Linux SNMP Framework Lab",
+    "url": "https://github.com/srl-labs/srl-snmp-framework-lab",
+    "description": "Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical observability reference when bridging legacy SNMP expectations with modern transport telemetry patterns.",
+    "category": "Observability",
+    "stars": 8,
+    "topics": [
+      "nokia",
+      "srlinux",
+      "snmp",
+      "grpc",
+      "observability",
+      "containerlab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2025-03-05",
+    "discovered": "2026-05-02",
+    "source": "foss-radar-scan",
+    "relevance_score": 89,
+    "vendor_verified": true
   }
 ]

@@ -1,6 +1,6 @@
 # Network Automation
 
-**315 tools** — sorted by relevance score.
+**316 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -170,6 +170,7 @@
 | 37 | [EzSnmp](https://github.com/carlkidcrypto/ezsnmp) | Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ an | — |
 | 37 | [OpenConfig gNOI](https://github.com/openconfig/gnoi) | OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks su | — |
 | 37 | [gribigo](https://github.com/openconfig/gribigo) | OpenConfig gRIBI client and in-memory server in Go. Useful for transport and routing automation test | Nokia |
+| 37 | [OpenConfig Reference](https://github.com/openconfig/reference) | Reference implementations, specifications, and tooling for OpenConfig-based network management. Good | — |
 | 36 | [Trigger](https://github.com/trigger/trigger) | Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports S | — |
 | 35 | [Icinga](https://github.com/Icinga/icinga2) | Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend predictio | — |
 | 35 | [yangson](https://github.com/CZ-NIC/yangson) | YANG data modeling language parser and validator. JSON instance validation against YANG schemas. | — |
