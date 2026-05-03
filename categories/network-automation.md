@@ -1,6 +1,6 @@
 # Network Automation
 
-**316 tools** — sorted by relevance score.
+**319 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -90,6 +90,7 @@
 | 57 | [HybridOps Network Automation Framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework) | Programmable network automation framework using Python, Nornir, Scrapli, and NAPALM for configuratio | — |
 | 57 | [wisp-network-automation-lab](https://github.com/Murashidzi/wisp-network-automation-lab) | Small-scale WISP design and automation lab with MikroTik provisioning, PPPoE/RADIUS workflows, VRRP  | — |
 | 57 | [libnetconf2](https://github.com/CESNET/libnetconf2) | C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS transpor | — |
+| 57 | [vscode-eda](https://github.com/eda-labs/vscode-eda) | VS Code extension for Nokia Event-Driven Automation (EDA). Lets you browse EDA namespaces and resour | Nokia ✅ |
 | 56 | [gnmi-map](https://github.com/hellt/gnmi-map) | gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightwei | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
@@ -182,6 +183,7 @@
 | 35 | [ygotsrl](https://github.com/srl-labs/ygotsrl) | Go API for Nokia SR Linux Network OS generated with ygot (YANG Go Tools). Provides type-safe Go stru | Nokia |
 | 35 | [nautobot-app-device-onboarding](https://github.com/nautobot/nautobot-app-device-onboarding) | Official Nautobot app for automated device onboarding. Uses netmiko and NAPALM to SSH into a device  | — |
 | 35 | [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) | NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfa | — |
+| 35 | [oc-pyang](https://github.com/openconfig/oc-pyang) | OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema pat | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |
@@ -250,6 +252,7 @@
 | 23 | [nokia-eda-playground](https://github.com/nokia-eda/playground) | Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with | Nokia |
 | 23 | [iec61850_open_gateway](https://github.com/robidev/iec61850_open_gateway) | Minimal Python gateway bridging IEC 61850 to IEC 60870-5-104. Useful as a lightweight integration pa | — |
 | 23 | [KiwiSSH](https://github.com/casudo/KiwiSSH) | Open source network configuration backup and change-tracking tool positioned as a faster Oxidized-st | — |
+| 22 | [gnmitest](https://github.com/openconfig/gnmitest) | OpenConfig gNMI compliance test framework. Includes a schema-aware test runner for validating gNMI i | — |
 | 21 | [hier_config](https://github.com/netdevops/hier_config) | Hierarchical Configuration - compare running config to intended config and build remediation steps. | — |
 | 21 | [ANTA](https://github.com/aristanetworks/anta) | Arista Network Test Automation - Python framework for automated device testing. | — |
 | 21 | [pyATS](https://github.com/CiscoTestAutomation/pyats) | Cisco's Python Automation Test System. Network test automation framework. | — |

@@ -11241,5 +11241,71 @@
     "source": "foss-radar-scan",
     "relevance_score": 89,
     "vendor_verified": true
+  },
+  {
+    "name": "gnmitest",
+    "url": "https://github.com/openconfig/gnmitest",
+    "description": "OpenConfig gNMI compliance test framework. Includes a schema-aware test runner for validating gNMI implementations and payloads against the gNMI spec and OpenConfig models.",
+    "category": "Network Automation",
+    "stars": 16,
+    "topics": [
+      "gnmi",
+      "openconfig",
+      "testing",
+      "compliance",
+      "schema-aware",
+      "golang"
+    ],
+    "vendors": [],
+    "updated": "2021-10-14",
+    "discovered": "2026-05-03",
+    "relevance_score": 22,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "oc-pyang",
+    "url": "https://github.com/openconfig/oc-pyang",
+    "description": "OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema path analysis for YANG modules, which is handy for model validation and automation prep.",
+    "category": "Network Automation",
+    "stars": 34,
+    "topics": [
+      "yang",
+      "pyang",
+      "openconfig",
+      "validation",
+      "schema",
+      "python"
+    ],
+    "vendors": [],
+    "updated": "2026-04-21",
+    "discovered": "2026-05-03",
+    "relevance_score": 35,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "vscode-eda",
+    "url": "https://github.com/eda-labs/vscode-eda",
+    "description": "VS Code extension for Nokia Event-Driven Automation (EDA). Lets you browse EDA namespaces and resources, stream updates over WebSockets, inspect alarms/deviations, and edit/apply resources from the editor.",
+    "category": "Network Automation",
+    "stars": 5,
+    "topics": [
+      "nokia",
+      "eda",
+      "vscode",
+      "api",
+      "websockets",
+      "kubernetes",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-10",
+    "discovered": "2026-05-03",
+    "relevance_score": 57,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

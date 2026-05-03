@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**556 tools** across 41 categories.
+**559 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (316)
+- **Network Automation** (319)
 - **Observability** (138)
 - **Self-Hosted Infrastructure** (8)
 - **Network Testing** (7)
@@ -203,6 +203,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Gerty](https://github.com/ssinyagin/gerty) — Universal framework for device management automation. RANCID replacement. (score: 0)
 - [gnmi-map](https://github.com/hellt/gnmi-map) — gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightweight helper when work (score: 0)
 - [gnmic](https://github.com/openconfig/gnmic) — gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. (score: 0)
+- [gnmitest](https://github.com/openconfig/gnmitest) — OpenConfig gNMI compliance test framework. Includes a schema-aware test runner for validating gNMI implementations and p (score: 0)
 - [gnoic](https://github.com/karimra/gnoic) — gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like cert management, file (score: 0)
 - [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) — Optical route planning library for DWDM networks. Gaussian noise model for SNR estimation, path computation engine, band (score: 0)
 - [GNS3](https://github.com/GNS3/gns3-server) — Graphical Network Simulator-3. Emulate complex networks on commodity hardware. (score: 0)
@@ -353,6 +354,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NTC Ansible](https://github.com/networktocode/ntc-ansible) — Multi-vendor Ansible modules for Network Automation by Network to Code. (score: 0)
 - [ntc-templates](https://github.com/networktocode/ntc-templates) — TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. (score: 0)
 - [NUTS](https://github.com/network-unit-testing-system/nuts) — Network Unit Testing System - Pytest plugin for writing network tests with YAML. (score: 0)
+- [oc-pyang](https://github.com/openconfig/oc-pyang) — OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema path analysis for YANG  (score: 0)
 - [Ondatra](https://github.com/openconfig/ondatra) — Open Network Device Automated Test Runner and API by OpenConfig. Write and run tests against real and containerized netw (score: 0)
 - [OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles) — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI, BG (score: 0)
 - [OpenConfig gNMI](https://github.com/openconfig/gnmi) — gRPC Network Management Interface specification and reference implementation. The foundation for gNMI-based network auto (score: 0)
@@ -432,6 +434,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Validity](https://github.com/amyasnikov/validity) — NetBox plugin for writing compliance 'auto-tests' for network devices. Define compliance tests and Validity checks devic (score: 0)
 - [vMark](https://github.com/xmas-ar/vMark) — Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployment, TWAMP benchmarking, (score: 0)
 - [vrnetlab](https://github.com/vrnetlab/vrnetlab) — Run virtual routers in Docker for labbing, development and testing. (score: 0)
+- [vscode-eda](https://github.com/eda-labs/vscode-eda) — VS Code extension for Nokia Event-Driven Automation (EDA). Lets you browse EDA namespaces and resources, stream updates  (score: 0)
 - [vscode-netconf](https://github.com/nokia/vscode-netconf) — Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operations for SR OS and SRLi (score: 0)
 - [vscode-sr](https://github.com/srl-labs/vscode-sr) — VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language server to provide syntax hig (score: 0)
 - [VyManager](https://github.com/Community-VyProjects/VyManager) — Modern web UI for centralized configuration, deployment, and monitoring of multi-site VyOS routers. Supports all active  (score: 0)
