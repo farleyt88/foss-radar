@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**559 tools** across 41 categories.
+**562 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (319)
-- **Observability** (138)
+- **Network Automation** (321)
+- **Observability** (139)
 - **Self-Hosted Infrastructure** (8)
 - **Network Testing** (7)
 - **Timing & Synchronization** (7)
@@ -166,6 +166,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [clab-api-server](https://github.com/srl-labs/clab-api-server) — RESTful API server for Containerlab. Programmatic lab management: deploy, destroy, inspect labs. Node SSH access, CLOS t (score: 0)
 - [clab-io-draw](https://github.com/srl-labs/clab-io-draw) — Bi-directional conversion between Containerlab YAML files and Draw.io diagrams. Includes clab2drawio and drawio2clab too (score: 0)
 - [clab-nokia-ip-automation](https://github.com/yusufziyaunel/clab-nokia-ip-automation) — Python tool that automates Containerlab deployment and Ansible inventory/playbook execution for Nokia 7750 SR OS lab top (score: 0)
+- [clibench](https://github.com/lykinsbd/clibench) — CLI transport benchmark for network automation that compares SSH, HTTPS, and HTTP/3 style CLI access patterns at scale.  (score: 0)
 - [clicrud](https://github.com/davidjohngee/clicrud) — Brocade specific CLI driver (MLX/VDX/ICX/CER/CES) for Telnet & SSH. (score: 0)
 - [Clixon](https://github.com/clicon/clixon) — YANG-based embedded framework for building NETCONF/RESTCONF/CLI into devices or apps. Used by vendors (Netgate, Ceragon) (score: 0)
 - [Clixon Controller](https://github.com/clicon/clixon-controller) — Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device profiles, Python API f (score: 0)
@@ -425,6 +426,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Stratum](https://github.com/stratum/stratum) — Open source silicon-independent switch operating system for software-defined networks. Exposes P4Runtime and OpenConfig/ (score: 0)
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
 - [Sysrepo](https://github.com/sysrepo/sysrepo) — YANG-based configuration and operational state data store for Unix/Linux applications. Integrates with Netopeer2 NETCONF (score: 0)
+- [terraform-provider-netbox-v1alpha1](https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1) — Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-truth data into Nokia Even (score: 0)
 - [TextFSM](https://github.com/google/textfsm) — Google's template-based state machine for parsing semi-structured CLI output. (score: 0)
 - [TransportPCE](https://github.com/opendaylight/transportpce) — OpenDaylight-based open-source controller for optical transport networks. Implements path computation (PCE), topology ma (score: 0)
 - [Trigger](https://github.com/trigger/trigger) — Robust network automation toolkit in Python, originally from AOL's Network Security team. Supports SSH/Telnet/JunOS XML  (score: 0)
@@ -654,6 +656,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [suzieq](https://github.com/netenglabs/suzieq) — Software for network observability and understanding. Agentless, multi-vendor network observability platform that collec (score: 0)
 - [Telegraf](https://github.com/influxdata/telegraf) — Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. (score: 0)
 - [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) — Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, and Grafana to stand up a (score: 0)
+- [terraform-provider-snmp-v1alpha1](https://github.com/nokia-eda/terraform-provider-snmp-v1alpha1) — Official Nokia EDA Terraform provider for SNMP resources. Relevant for codifying legacy-friendly observability and monit (score: 0)
 - [Theia](https://github.com/antrea-io/theia) — Open source network observability platform for Kubernetes from the Antrea project. Relevant for self-hosted infrastructu (score: 0)
 - [Topolograph](https://github.com/Vadims06/topolograph) — Python web tool for OSPF/ISIS topology visualization and outage prediction. (score: 0)
 - [Triglav](https://github.com/brevius/Triglav) — gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Telegraf for gNMI collec (score: 0)

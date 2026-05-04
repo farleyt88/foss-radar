@@ -11307,5 +11307,78 @@
     "relevance_score": 57,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "clibench",
+    "url": "https://github.com/lykinsbd/clibench",
+    "description": "CLI transport benchmark for network automation that compares SSH, HTTPS, and HTTP/3 style CLI access patterns at scale. Useful for evaluating future management-plane transport choices and automation performance tradeoffs.",
+    "category": "Network Automation",
+    "stars": 3,
+    "topics": [
+      "cli",
+      "ssh",
+      "https",
+      "http3",
+      "benchmark",
+      "network-automation"
+    ],
+    "language": "Go",
+    "license": "NOASSERTION",
+    "updated": "2026-05-04",
+    "discovered": "2026-05-04",
+    "vendors": [],
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 33
+  },
+  {
+    "name": "terraform-provider-snmp-v1alpha1",
+    "url": "https://github.com/nokia-eda/terraform-provider-snmp-v1alpha1",
+    "description": "Official Nokia EDA Terraform provider for SNMP resources. Relevant for codifying legacy-friendly observability and monitoring integration inside Nokia Event-Driven Automation workflows.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "terraform-provider",
+      "nokia",
+      "eda",
+      "snmp",
+      "observability",
+      "terraform"
+    ],
+    "language": "Go",
+    "license": "NOASSERTION",
+    "updated": "2026-04-30",
+    "discovered": "2026-05-04",
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "source": "foss-radar-scan",
+    "relevance_score": 75
+  },
+  {
+    "name": "terraform-provider-netbox-v1alpha1",
+    "url": "https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1",
+    "description": "Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-truth data into Nokia Event-Driven Automation pipelines and transport network workflows.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "terraform-provider",
+      "nokia",
+      "eda",
+      "netbox",
+      "source-of-truth",
+      "terraform"
+    ],
+    "language": "Go",
+    "license": "NOASSERTION",
+    "updated": "2026-04-30",
+    "discovered": "2026-05-04",
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "source": "foss-radar-scan",
+    "relevance_score": 77
   }
 ]

@@ -1,6 +1,6 @@
 # Network Automation
 
-**319 tools** — sorted by relevance score.
+**321 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -44,6 +44,7 @@
 | 77 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interfac | Nokia ✅ |
 | 77 | [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) | Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for SA | Ciena ✅ |
 | 77 | [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) | Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and NV | Nokia, NVIDIA ✅ |
+| 77 | [terraform-provider-netbox-v1alpha1](https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1) | Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-truth  | Nokia ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operation | Nokia ✅ |
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7 | Nokia ✅ |
@@ -192,6 +193,7 @@
 | 33 | [Nephio](https://github.com/nephio-project/nephio) | Kubernetes-based automation platform for deploying and managing distributed network functions and th | — |
 | 33 | [bront-network](https://github.com/brontnet/bront-network) | CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a | — |
 | 33 | [NetBox BGP](https://github.com/netbox-community/netbox-bgp) | NetBox plugin for documenting BGP-related objects, useful for transport engineering and routing inve | — |
+| 33 | [clibench](https://github.com/lykinsbd/clibench) | CLI transport benchmark for network automation that compares SSH, HTTPS, and HTTP/3 style CLI access | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documentat | — |
 | 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adjacen | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Ju | Nokia |

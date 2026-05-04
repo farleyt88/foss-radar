@@ -1,6 +1,6 @@
 # Observability
 
-**138 tools** — sorted by relevance score.
+**139 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -21,6 +21,7 @@
 | 79 | [OpenNTI](https://github.com/Juniper/open-nti) | Containerized open network telemetry collector and visualization stack. Collects data from devices v | — |
 | 79 | [Netdata](https://github.com/netdata/netdata) | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, tho | — |
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP interf | — |
+| 75 | [terraform-provider-snmp-v1alpha1](https://github.com/nokia-eda/terraform-provider-snmp-v1alpha1) | Official Nokia EDA Terraform provider for SNMP resources. Relevant for codifying legacy-friendly obs | Nokia ✅ |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
 | 73 | [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) | Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validatio | Nokia ✅ |
 | 69 | [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) | Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates sys | Nokia ✅ |
