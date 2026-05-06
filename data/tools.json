@@ -11380,5 +11380,131 @@
     "vendor_verified": true,
     "source": "foss-radar-scan",
     "relevance_score": 77
+  },
+  {
+    "name": "pyNMS",
+    "url": "https://github.com/afourmy/pyNMS",
+    "description": "Vendor-agnostic NMS for carrier-grade network simulation, visualization, and automation. Supports GIS/topology views, NAPALM integration, Netmiko/Jinja2 pushes, and multi-vendor network modeling.",
+    "category": "Network Automation",
+    "stars": 85,
+    "topics": [
+      "network-automation",
+      "network-visualization",
+      "napalm",
+      "netmiko",
+      "jinja2",
+      "network-engineering",
+      "yaml"
+    ],
+    "updated": "2025-11-17",
+    "discovered": "2026-05-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 39
+  },
+  {
+    "name": "LibreQoS",
+    "url": "https://github.com/LibreQoE/LibreQoS",
+    "description": "Self-hosted traffic management and network operations platform for ISPs. Uses CAKE and fq_codel to reduce bufferbloat, enforce bandwidth plans, and troubleshoot congestion with topology-aware subscriber visibility.",
+    "category": "Network Management",
+    "stars": 695,
+    "topics": [
+      "qos",
+      "traffic-shaping",
+      "bufferbloat",
+      "isp",
+      "cake",
+      "fq-codel",
+      "bandwidth-limiting"
+    ],
+    "updated": "2026-04-30",
+    "discovered": "2026-05-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 32
+  },
+  {
+    "name": "Parca",
+    "url": "https://github.com/parca-dev/parca",
+    "description": "Open source continuous profiling platform for self-hosted observability. Pairs well with Prometheus/Kubernetes stacks to analyze CPU and memory behavior over time and improve reliability.",
+    "category": "Observability",
+    "stars": 4854,
+    "topics": [
+      "observability",
+      "continuous-profiling",
+      "prometheus",
+      "ebpf",
+      "kubernetes",
+      "performance",
+      "self-hosted"
+    ],
+    "updated": "2026-05-04",
+    "discovered": "2026-05-05",
+    "vendor_verified": false,
+    "source": "foss-radar-scan",
+    "relevance_score": 31
+  },
+  {
+    "name": "Pathvector",
+    "url": "https://github.com/natesales/pathvector",
+    "description": "Declarative edge routing platform that automates BGP route optimization and control-plane configuration. Supports secure, repeatable routing policy with RPKI/IRR filtering, PeeringDB-derived config, and latency/loss-aware path selection.",
+    "category": "Network Automation",
+    "stars": 261,
+    "topics": [
+      "bgp",
+      "routing-policy",
+      "edge-routing",
+      "rpki",
+      "irr",
+      "automation"
+    ],
+    "vendors": [],
+    "updated": "2025-04-29",
+    "discovered": "2026-05-06",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 17
+  },
+  {
+    "name": "FastNetMon",
+    "url": "https://github.com/pavel-odintsov/fastnetmon",
+    "description": "High-performance open source DDoS detector/sensor for NetFlow, IPFIX, sFlow, and SPAN traffic. Useful for transport-network traffic visibility, anomaly detection, and automated mitigation hooks including BGP actions.",
+    "category": "Observability",
+    "stars": 3662,
+    "topics": [
+      "ddos",
+      "netflow",
+      "ipfix",
+      "sflow",
+      "traffic-analysis",
+      "network-monitoring"
+    ],
+    "vendors": [],
+    "updated": "2026-04-25",
+    "discovered": "2026-05-06",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 69
+  },
+  {
+    "name": "bgpq3",
+    "url": "https://github.com/snar/bgpq3",
+    "description": "BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IRR/RADB data. Handy for routing policy hygiene and repeatable edge/peering configurations.",
+    "category": "Network Automation",
+    "stars": 377,
+    "topics": [
+      "bgp",
+      "irr",
+      "radb",
+      "prefix-lists",
+      "routing-policy",
+      "cli"
+    ],
+    "vendors": [],
+    "updated": "2025-05-11",
+    "discovered": "2026-05-06",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 25
   }
 ]

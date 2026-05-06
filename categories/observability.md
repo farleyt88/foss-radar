@@ -1,6 +1,6 @@
 # Observability
 
-**139 tools** — sorted by relevance score.
+**141 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -25,6 +25,7 @@
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP | — |
 | 73 | [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) | Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validatio | Nokia ✅ |
 | 69 | [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) | Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates sys | Nokia ✅ |
+| 69 | [FastNetMon](https://github.com/pavel-odintsov/fastnetmon) | High-performance open source DDoS detector/sensor for NetFlow, IPFIX, sFlow, and SPAN traffic. Usefu | — |
 | 67 | [panoptes-stream](https://github.com/yahoo/panoptes-stream) | Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT su | — |
 | 65 | [gNMIc Operator](https://github.com/gnmic/operator) | Kubernetes operator for deploying and managing gNMIc telemetry collectors at scale. Define telemetry | — |
 | 65 | [sFlow-RT Containerlab](https://github.com/sflow-rt/containerlab) | Containerlab-based real-time telemetry and analytics lab from the sFlow-RT project. Useful for exper | — |
@@ -120,6 +121,7 @@
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |
 | 31 | [NetObserv CLI](https://github.com/netobserv/netobserv-cli) | Kubernetes/OpenShift CLI tool for network observability. Deploys the NetObserv eBPF agent, captures  | — |
 | 31 | [Theia](https://github.com/antrea-io/theia) | Open source network observability platform for Kubernetes from the Antrea project. Relevant for self | — |
+| 31 | [Parca](https://github.com/parca-dev/parca) | Open source continuous profiling platform for self-hosted observability. Pairs well with Prometheus/ | — |
 | 29 | [inet-henge](https://github.com/codeout/inet-henge) | Generate d3.js network diagrams from JSON. Interactive network topology visualization. | — |
 | 29 | [NetAlertX](https://github.com/netalertx/NetAlertX) | Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monitors  | — |
 | 29 | [NetObserv Operator](https://github.com/netobserv/netobserv-operator) | Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection with i | — |

@@ -1,6 +1,6 @@
 # Network Automation
 
-**321 tools** — sorted by relevance score.
+**324 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -157,6 +157,7 @@
 | 39 | [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) | Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers te | — |
 | 39 | [ExaBGP](https://github.com/Exa-Networks/exabgp) | Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route anno | — |
 | 39 | [junos-ops](https://github.com/shigechika/junos-ops) | Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config pus | Juniper |
+| 39 | [pyNMS](https://github.com/afourmy/pyNMS) | Vendor-agnostic NMS for carrier-grade network simulation, visualization, and automation. Supports GI | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
@@ -242,6 +243,7 @@
 | 25 | [MCPyATS](https://github.com/automateyournetwork/MCPyATS) | VibeOps framework combining MCP (Model Context Protocol), Google A2A (Agent-to-Agent), LangGraph, an | — |
 | 25 | [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) | NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts.  | — |
 | 25 | [network-mcp-docker-suite](https://github.com/pamosima/network-mcp-docker-suite) | Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHou | — |
+| 25 | [bgpq3](https://github.com/snar/bgpq3) | BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IR | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 24 | [Gantry](https://github.com/NLnetLabs/gantry) | Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation an | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
@@ -286,6 +288,7 @@
 | 17 | [mcp-server-sros](https://github.com/mohamedhafez87/mcp-server-sros) | MCP (Model Context Protocol) server for Nokia SR OS devices. Provides AI-accessible tools for viewin | — |
 | 17 | [rdb-tool](https://github.com/danyill/rdb-tool) | Python tool for manipulating Schweitzer Engineering Laboratories (SEL) relay database files (.RDB).  | SEL ✅ |
 | 17 | [pyATS MCP Server](https://github.com/automateyournetwork/pyATS_MCP) | Model Context Protocol (MCP) server wrapping Cisco pyATS and Genie for structured network device int | — |
+| 17 | [Pathvector](https://github.com/natesales/pathvector) | Declarative edge routing platform that automates BGP route optimization and control-plane configurat | — |
 | 16 | [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) | SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux dev | Nokia |
 | 16 | [SEL_RDB](https://github.com/AoufNihed/SEL_RDB) | Python toolkit for working with SEL (Schweitzer Engineering Laboratories) .rdb relay database files. | SEL ✅ |
 | 15 | [Pola PCE](https://github.com/nttcom/pola) | Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and  | — |

@@ -1,19 +1,19 @@
 # FOSS Radar — Tool Catalog
 
-**562 tools** across 41 categories.
+**568 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (321)
-- **Observability** (139)
+- **Network Automation** (324)
+- **Observability** (141)
 - **Self-Hosted Infrastructure** (8)
+- **Network Management** (7)
 - **Network Testing** (7)
 - **Timing & Synchronization** (7)
 - **Self-Hosted** (6)
 - **CLI Tools** (6)
-- **Network Management** (6)
 - **Network Simulation** (5)
 - **Network Observability** (5)
 - **Infrastructure as Code** (4)
@@ -146,6 +146,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ARouteServer](https://github.com/pierky/arouteserver) — Python tool to automatically build feature-rich, policy-driven configurations for BGP route servers (BIRD v1/v2, OpenBGP (score: 0)
 - [batfish](https://github.com/batfish/batfish) — Network configuration analysis. Validate configs, test changes, find bugs before deployment. (score: 0)
 - [BGPalerter](https://github.com/nttgin/BGPalerter) — Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invalid announcements, ROA (score: 0)
+- [bgpq3](https://github.com/snar/bgpq3) — BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IRR/RADB data. Handy f (score: 0)
 - [bond](https://github.com/srl-labs/bond) — A Go package to simplify Nokia SR Linux NDK (NetOps Development Kit) app development. Provides abstractions for building (score: 0)
 - [Bootz](https://github.com/openconfig/bootz) — OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC service for taking devi (score: 0)
 - [bront-network](https://github.com/brontnet/bront-network) — CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a lightweight option  (score: 0)
@@ -367,6 +368,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) — Ansible modules for Palo Alto Networks PAN-OS. (score: 0)
 - [pan-python](https://github.com/kevinsteves/pan-python) — Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus. (score: 0)
 - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) — Device framework for interacting with Palo Alto Networks devices. (score: 0)
+- [Pathvector](https://github.com/natesales/pathvector) — Declarative edge routing platform that automates BGP route optimization and control-plane configuration. Supports secure (score: 0)
 - [Peering Manager](https://github.com/peering-manager/peering-manager) — BGP session management and source-of-truth platform for external BGP sessions, Internet exchanges, transit, customers, a (score: 0)
 - [Pola PCE](https://github.com/nttcom/pola) — Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and SRv6 (full-SID/uSID) (score: 0)
 - [Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) — PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for querying state, creating/up (score: 0)
@@ -381,6 +383,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [pyfg](https://github.com/spotify/pyfg) — Python library for Fortinet FortiGate. (score: 0)
 - [pyGNMI](https://github.com/akarneliuk/pygnmi) — Python gNMI client. Interact with network devices via gRPC Network Management Interface. (score: 0)
 - [pyiosxr](https://github.com/fooelisa/pyiosxr) — Python library for Cisco IOS-XR automation. (score: 0)
+- [pyNMS](https://github.com/afourmy/pyNMS) — Vendor-agnostic NMS for carrier-grade network simulation, visualization, and automation. Supports GIS/topology views, NA (score: 0)
 - [pyntc](https://github.com/networktocode/pyntc) — Python library for device-level and OS management tasks. (score: 0)
 - [pyribbon](https://github.com/consentfactory/pyribbon) — Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots, and do configuration  (score: 0)
 - [pySROS](https://github.com/nokia/pysros) — Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF management API for Nokia router (score: 0)
@@ -474,6 +477,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 ## Network Management
 
+- [LibreQoS](https://github.com/LibreQoE/LibreQoS) — Self-hosted traffic management and network operations platform for ISPs. Uses CAKE and fq_codel to reduce bufferbloat, e (score: 0)
 - [Netipam](https://github.com/nodeplex/Netipam) — Self-hosted IP address management (IPAM) and network visibility tool. Docker-based, easy to deploy, designed for network (score: 0)
 - [NOC Project](https://github.com/nocproject/noc) — Open-source Operation Support System (OSS) designed for telecom companies, ISPs, and enterprise NOCs. Features fault man (score: 0)
 - [OpenNetworkDiagram](https://github.com/jcreek/OpenNetworkDiagram) — Declarative, self-hosted containerized tool for visualizing and managing network architecture diagrams. Stores topology  (score: 0)
@@ -552,6 +556,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) — Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. (score: 0)
 - [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) — Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics. Deploys a full Contain (score: 0)
 - [Edgeshark](https://github.com/siemens/edgeshark) — Discover and capture container network traffic from desktop Wireshark with a single click. Containerized service with Wi (score: 0)
+- [FastNetMon](https://github.com/pavel-odintsov/fastnetmon) — High-performance open source DDoS detector/sensor for NetFlow, IPFIX, sFlow, and SPAN traffic. Useful for transport-netw (score: 0)
 - [flowcus](https://github.com/consi/flowcus) — High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for self-hosted traffic (score: 0)
 - [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) — Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, and exports to Loki an (score: 0)
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
@@ -622,6 +627,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Orb Discovery](https://github.com/netboxlabs/orb-discovery) — Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-based network discover (score: 0)
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) — Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. (score: 0)
 - [panoptes-stream](https://github.com/yahoo/panoptes-stream) — Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT support. Good fit for  (score: 0)
+- [Parca](https://github.com/parca-dev/parca) — Open source continuous profiling platform for self-hosted observability. Pairs well with Prometheus/Kubernetes stacks to (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
 - [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
