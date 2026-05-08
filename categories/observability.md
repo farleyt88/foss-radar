@@ -1,6 +1,6 @@
 # Observability
 
-**141 tools** — sorted by relevance score.
+**143 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -76,6 +76,7 @@
 | 45 | [NMIS 9](https://github.com/Opmantek/nmis9) | Flexible open-source Network Management System with distributed SNMP polling, performance and availa | — |
 | 45 | [gnp-stack](https://github.com/gnp-stack/gnp-stack) | gNMIc-NATS-Prometheus Stack for network telemetry. Open proof-of-concept stack focused on making str | Nokia |
 | 45 | [TWSNMP FC](https://github.com/twsnmp/twsnmpfc) | Self-hosted SNMP-focused monitoring platform packaged for containers. Relevant for lightweight netwo | — |
+| 45 | [perspectiv](https://github.com/perspectiv-net/perspectiv) | Self-hosted network monitoring platform for small and mid-market IT teams. Combines SNMP, NetFlow, s | — |
 | 43 | [Parseable](https://github.com/parseablehq/parseable) | Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Spl | — |
 | 43 | [Perses](https://github.com/perses/perses) | CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prome | — |
 | 43 | [snmpsim](https://github.com/etingof/snmpsim) | SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, aler | — |
@@ -99,6 +100,7 @@
 | 39 | [NetXMS](https://github.com/netxms/netxms) | Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance | — |
 | 39 | [Weathermap-NG](https://github.com/utahsaint-org/weathermap-ng) | Modern network weathermap web application showing link utilization, optical power, and link health o | — |
 | 39 | [Retina](https://github.com/microsoft/retina) | eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow visib | — |
+| 39 | [snmpcollector](https://github.com/toni-moreno/snmpcollector) | Generic SNMP collector with web administration for InfluxDB-backed monitoring. Supports discovery an | — |
 | 37 | [LibreNMS](https://github.com/librenms/librenms) | Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. | — |
 | 37 | [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) | NetBox plugin for network topology visualization. D3.js based diagrams. | — |
 | 37 | [napalm-logs](https://github.com/napalm-automation/napalm-logs) | Cross-vendor normalisation for network syslog messages. OpenConfig/IETF YANG models. | — |

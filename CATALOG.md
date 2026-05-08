@@ -1,16 +1,16 @@
 # FOSS Radar — Tool Catalog
 
-**568 tools** across 41 categories.
+**571 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (324)
-- **Observability** (141)
+- **Observability** (143)
+- **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Network Management** (7)
-- **Network Testing** (7)
 - **Timing & Synchronization** (7)
 - **Self-Hosted** (6)
 - **CLI Tools** (6)
@@ -521,6 +521,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [BNG Blaster](https://github.com/rtbrick/bngblaster) — Open-source network tester for routing and access protocols. Simulates massive PPPoE/IPoE subscribers with IPTV and L2TP (score: 0)
 - [Etherate](https://github.com/jwbensley/Etherate) — Linux CLI tool for testing layer 2 Ethernet and MPLS connectivity. Generates various Ethernet and MPLS frames for testin (score: 0)
+- [gtrace](https://github.com/hervehildenbrand/gtrace) — Advanced network path analysis tool with MPLS label parsing, ECMP detection, GlobalPing integration, and MTR-style workf (score: 0)
 - [Ixia-C](https://github.com/open-traffic-generator/ixia-c) — Open-source traffic generator based on the Open Traffic Generator API. Generates and analyzes network traffic for testin (score: 0)
 - [Open Traffic Generator Examples](https://github.com/open-traffic-generator/otg-examples) — Software-only network test labs and examples for the Open Traffic Generator API using containerized or virtualized NOS i (score: 0)
 - [qtester104](https://github.com/riclolsen/qtester104) — Cross-platform IEC 60870-5-104 protocol tester for SCADA/utility environments. Handy for validating IEC 104 communicatio (score: 0)
@@ -630,6 +631,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Parca](https://github.com/parca-dev/parca) — Open source continuous profiling platform for self-hosted observability. Pairs well with Prometheus/Kubernetes stacks to (score: 0)
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
+- [perspectiv](https://github.com/perspectiv-net/perspectiv) — Self-hosted network monitoring platform for small and mid-market IT teams. Combines SNMP, NetFlow, syslog, and Windows/L (score: 0)
 - [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
 - [pktvisor](https://github.com/netboxlabs/pktvisor) — Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus, and other metrics. (score: 0)
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
@@ -649,6 +651,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter selection, protocol/servic (score: 0)
 - [snmp-to-otel](https://github.com/avozda/snmp-to-otel) — SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and forwards metrics vi (score: 0)
 - [snmp_notifier](https://github.com/maxwo/snmp_notifier) — Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern Prometheus-based monitor (score: 0)
+- [snmpcollector](https://github.com/toni-moreno/snmpcollector) — Generic SNMP collector with web administration for InfluxDB-backed monitoring. Supports discovery and performance pollin (score: 0)
 - [snmpsim](https://github.com/etingof/snmpsim) — SNMP simulator for recording and replaying SNMP agents. Handy for testing observability stacks, alert rules, and SNMP po (score: 0)
 - [sonic-exporter](https://github.com/vinted/sonic-exporter) — Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines and scraping network OS  (score: 0)
 - [Sparrow](https://github.com/telekom/sparrow) — Infrastructure and network information monitoring tool from Deutsche Telekom. Focused on gathering infrastructure networ (score: 0)

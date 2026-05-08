@@ -11506,5 +11506,74 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 25
+  },
+  {
+    "name": "perspectiv",
+    "url": "https://github.com/perspectiv-net/perspectiv",
+    "description": "Self-hosted network monitoring platform for small and mid-market IT teams. Combines SNMP, NetFlow, syslog, and Windows/Linux agents in one stack as an alternative to legacy enterprise monitoring suites.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "snmp",
+      "netflow",
+      "syslog",
+      "network-monitoring",
+      "self-hosted",
+      "infrastructure"
+    ],
+    "updated": "2026-05-08",
+    "discovered": "2026-05-08",
+    "relevance_score": 45,
+    "vendor_verified": false,
+    "vendors": [],
+    "license": "Apache-2.0",
+    "language": "Shell",
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "gtrace",
+    "url": "https://github.com/hervehildenbrand/gtrace",
+    "description": "Advanced network path analysis tool with MPLS label parsing, ECMP detection, GlobalPing integration, and MTR-style workflows. Useful for troubleshooting transport paths and validating routing behavior.",
+    "category": "Network Testing",
+    "stars": 34,
+    "topics": [
+      "traceroute",
+      "mpls",
+      "ecmp",
+      "path-analysis",
+      "network-troubleshooting",
+      "golang"
+    ],
+    "updated": "2026-05-08",
+    "discovered": "2026-05-08",
+    "relevance_score": 27,
+    "vendor_verified": false,
+    "vendors": [],
+    "license": "MIT",
+    "language": "Go",
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "snmpcollector",
+    "url": "https://github.com/toni-moreno/snmpcollector",
+    "description": "Generic SNMP collector with web administration for InfluxDB-backed monitoring. Supports discovery and performance polling, making it a practical bridge between classic SNMP estates and modern time-series dashboards.",
+    "category": "Observability",
+    "stars": 304,
+    "topics": [
+      "snmp",
+      "influxdb",
+      "discovery",
+      "monitoring",
+      "performance",
+      "networking"
+    ],
+    "updated": "2026-04-17",
+    "discovered": "2026-05-08",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "vendors": [],
+    "license": "MIT",
+    "language": "Go",
+    "source": "foss-radar-scan"
   }
 ]
