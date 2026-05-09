@@ -1,18 +1,18 @@
 # FOSS Radar — Tool Catalog
 
-**571 tools** across 41 categories.
+**574 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (324)
+- **Network Automation** (326)
 - **Observability** (143)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
+- **Self-Hosted** (7)
 - **Network Management** (7)
 - **Timing & Synchronization** (7)
-- **Self-Hosted** (6)
 - **CLI Tools** (6)
 - **Network Simulation** (5)
 - **Network Observability** (5)
@@ -329,6 +329,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) — Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting S (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
+- [Nokia NSP Ansible Collection](https://github.com/nokia/nsp-playbooks-for-Ansible) — Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, including authentication h (score: 0)
 - [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
 - [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) — Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and module (score: 0)
 - [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, (score: 0)
@@ -337,6 +338,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) — Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized Nokia SR Linux and  (score: 0)
 - [Nokia VS Code Intent Manager](https://github.com/nokia/vscode-intent-manager) — Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents from the editor, which (score: 0)
 - [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) — HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG paths. Archived but (score: 0)
+- [Nokia YangModels](https://github.com/nokia/YangModels) — Official Nokia repository of YANG models for configuration and management across Nokia products, using git submodules fo (score: 0)
 - [nokia-basic-dci-lab](https://github.com/srl-labs/nokia-basic-dci-lab) — Containerlab-based DCI lab with SR Linux leaf/spine and Nokia 7750 SR OS DC gateway and P routers. Demonstrates VXLAN/EV (score: 0)
 - [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) — Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts interface/port/connected-dev (score: 0)
 - [nokia-eda-playground](https://github.com/nokia-eda/playground) — Official Nokia EDA (Event Driven Automation) playground environment — Makefile-driven lab setup with example topologies, (score: 0)
@@ -689,6 +691,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 ## Self-Hosted
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) — Notion alternative - docs, whiteboards, databases. Local-first, fully self-hostable, offline-first. (score: 0)
+- [DANM](https://github.com/nokia/danm) — Telco-grade network management for Kubernetes clusters. Provides CNI/meta-plugin components for advanced multihoming and (score: 0)
 - [Databasus](https://github.com/databasus/databasus) — Self-hosted database backup tool with S3, Google Drive, FTP targets and Slack/Discord notifications. (score: 0)
 - [Nautobot Docker Compose](https://github.com/nautobot/nautobot-docker-compose) — Official Docker Compose deployment for Nautobot. Useful for quickly standing up a self-hosted network source-of-truth an (score: 0)
 - [NetBox Docker](https://github.com/netbox-community/netbox-docker) — Docker deployment for NetBox. Easy containerized network source of truth. (score: 0)

@@ -11575,5 +11575,71 @@
     "license": "MIT",
     "language": "Go",
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia NSP Ansible Collection",
+    "url": "https://github.com/nokia/nsp-playbooks-for-Ansible",
+    "description": "Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, including authentication handling and API-driven playbooks.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ansible",
+      "nokia",
+      "nsp",
+      "http-api",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-05-07",
+    "discovered": "2026-05-09",
+    "relevance_score": 65,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Nokia YangModels",
+    "url": "https://github.com/nokia/YangModels",
+    "description": "Official Nokia repository of YANG models for configuration and management across Nokia products, using git submodules for multiple equipment families.",
+    "category": "Network Automation",
+    "stars": 18,
+    "topics": [
+      "yang",
+      "nokia",
+      "netconf",
+      "models",
+      "network-automation"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-04-23",
+    "discovered": "2026-05-09",
+    "relevance_score": 79,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "DANM",
+    "url": "https://github.com/nokia/danm",
+    "description": "Telco-grade network management for Kubernetes clusters. Provides CNI/meta-plugin components for advanced multihoming and network management in self-hosted telco infrastructure.",
+    "category": "Self-Hosted",
+    "stars": 393,
+    "topics": [
+      "kubernetes",
+      "cni",
+      "telco",
+      "self-hosted",
+      "network-management"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2022-09-19",
+    "discovered": "2026-05-09",
+    "relevance_score": 56,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
   }
 ]

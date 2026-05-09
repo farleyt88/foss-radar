@@ -1,6 +1,6 @@
 # Network Automation
 
-**324 tools** — sorted by relevance score.
+**326 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -37,6 +37,7 @@
 | 81 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos with  | Nokia ✅ |
 | 79 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access | Nokia ✅ |
 | 79 | [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) | Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platfor | Nokia ✅ |
+| 79 | [Nokia YangModels](https://github.com/nokia/YangModels) | Official Nokia repository of YANG models for configuration and management across Nokia products, usi | Nokia ✅ |
 | 78 | [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) | SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI | Nokia ✅ |
 | 77 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run native | Nokia ✅ |
 | 77 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classi | Ciena ✅ |
@@ -72,6 +73,7 @@
 | 65 | [damianoneill/net](https://github.com/damianoneill/net) | Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, | — |
 | 65 | [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) | Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point | Nokia ✅ |
 | 65 | [SIMNOS](https://github.com/Route-Reflector/simnos) | Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS  | Ciena ✅ |
+| 65 | [Nokia NSP Ansible Collection](https://github.com/nokia/nsp-playbooks-for-Ansible) | Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, includ | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 63 | [nctools](https://github.com/nokia/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that hel | Nokia ✅ |

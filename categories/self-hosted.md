@@ -1,11 +1,12 @@
 # Self-Hosted
 
-**6 tools** — sorted by relevance score.
+**7 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 56 | [DANM](https://github.com/nokia/danm) | Telco-grade network management for Kubernetes clusters. Provides CNI/meta-plugin components for adva | Nokia ✅ |
 | 35 | [NetBox Docker](https://github.com/netbox-community/netbox-docker) | Docker deployment for NetBox. Easy containerized network source of truth. | — |
 | 33 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Notion alternative - docs, whiteboards, databases. Local-first, fully self-hostable, offline-first. | — |
 | 27 | [Nautobot Docker Compose](https://github.com/nautobot/nautobot-docker-compose) | Official Docker Compose deployment for Nautobot. Useful for quickly standing up a self-hosted networ | — |
