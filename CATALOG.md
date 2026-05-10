@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**574 tools** across 41 categories.
+**577 tools** across 41 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (326)
-- **Observability** (143)
+- **Network Automation** (328)
+- **Observability** (144)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -147,6 +147,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [batfish](https://github.com/batfish/batfish) — Network configuration analysis. Validate configs, test changes, find bugs before deployment. (score: 0)
 - [BGPalerter](https://github.com/nttgin/BGPalerter) — Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invalid announcements, ROA (score: 0)
 - [bgpq3](https://github.com/snar/bgpq3) — BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IRR/RADB data. Handy f (score: 0)
+- [BIRD](https://github.com/CZ-NIC/bird) — Open source internet routing daemon supporting BGP, OSPF, RIP, Babel, static routes, and RPKI. Useful for route reflecto (score: 0)
 - [bond](https://github.com/srl-labs/bond) — A Go package to simplify Nokia SR Linux NDK (NetOps Development Kit) app development. Provides abstractions for building (score: 0)
 - [Bootz](https://github.com/openconfig/bootz) — OpenConfig network device bootstrap APIs and services. Defines a structured data format and gRPC service for taking devi (score: 0)
 - [bront-network](https://github.com/brontnet/bront-network) — CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting as a lightweight option  (score: 0)
@@ -397,6 +398,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) — PowerShell module for controlling Ribbon SBC Edge via REST API. Query transformation tables, system info, create/modify/ (score: 0)
 - [rneter](https://github.com/demohiiiii/rneter) — High-performance Rust library for network automation SSH with intelligent connection pooling, automatic prompt detection (score: 0)
 - [Rousette](https://github.com/CESNET/rousette) — Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encoding, YANG module librar (score: 0)
+- [RTRlib](https://github.com/rtrlib/rtrlib) — Open-source RPKI-to-Router client library and tools for validating BGP route origins. Handy for routing security validat (score: 0)
 - [rustbgpd](https://github.com/lance0/rustbgpd) — API-first BGP daemon written in Rust with gRPC as the primary control interface. Supports dual-stack MP-BGP, Add-Path, G (score: 0)
 - [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) — Rust network automation platform with async NETCONF client library, YANG code generation, vendor profiles, connection po (score: 0)
 - [salt-nornir](https://github.com/dmulyalin/salt-nornir) — Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. (score: 0)
@@ -543,6 +545,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard (score: 0)
 - [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) — Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path val (score: 0)
 - [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) — OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receivers/processors. Bridg (score: 0)
+- [Birdwatcher](https://github.com/alice-lg/birdwatcher) — JSON API for BIRD that exposes routing and protocol state to looking-glass frontends, monitoring, and automation systems (score: 0)
 - [bonsai](https://github.com/g-arjuna/bonsai) — Streaming-first, graph-native network state engine for closed-loop autonomous network operations. Combines telemetry, gr (score: 0)
 - [Capsule](https://github.com/modhari/Capsule) — Multivendor network telemetry and host observability system built on gRPC gNMI, OpenConfig, and incremental capability d (score: 0)
 - [Centreon](https://github.com/centreon/centreon) — Open source monitoring platform for networks, systems, and applications. Includes dashboards, graphing, alerting, analyt (score: 0)

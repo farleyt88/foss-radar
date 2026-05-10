@@ -11641,5 +11641,71 @@
     "relevance_score": 56,
     "vendor_verified": true,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "BIRD",
+    "url": "https://github.com/CZ-NIC/bird",
+    "description": "Open source internet routing daemon supporting BGP, OSPF, RIP, Babel, static routes, and RPKI. Useful for route reflectors, transport labs, and control-plane testing in self-hosted environments.",
+    "category": "Network Automation",
+    "stars": 184,
+    "topics": [
+      "babel",
+      "bgp",
+      "netlink",
+      "ospf",
+      "rip",
+      "routing",
+      "rpki"
+    ],
+    "vendors": [],
+    "updated": "2026-05-08",
+    "discovered": "2026-05-10",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "language": "C",
+    "license": null,
+    "relevance_score": 25
+  },
+  {
+    "name": "Birdwatcher",
+    "url": "https://github.com/alice-lg/birdwatcher",
+    "description": "JSON API for BIRD that exposes routing and protocol state to looking-glass frontends, monitoring, and automation systems.",
+    "category": "Observability",
+    "stars": 80,
+    "topics": [],
+    "vendors": [],
+    "updated": "2026-04-26",
+    "discovered": "2026-05-10",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "language": "Go",
+    "license": "BSD-3-Clause",
+    "relevance_score": 23
+  },
+  {
+    "name": "RTRlib",
+    "url": "https://github.com/rtrlib/rtrlib",
+    "description": "Open-source RPKI-to-Router client library and tools for validating BGP route origins. Handy for routing security validation in transport and backbone environments.",
+    "category": "Network Automation",
+    "stars": 76,
+    "topics": [
+      "bgp",
+      "c",
+      "routing",
+      "rpki",
+      "rtr",
+      "rtr-client",
+      "rtr-server",
+      "rtrlib",
+      "security"
+    ],
+    "vendors": [],
+    "updated": "2026-04-14",
+    "discovered": "2026-05-10",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "language": "C",
+    "license": "MIT",
+    "relevance_score": 19
   }
 ]

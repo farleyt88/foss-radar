@@ -1,6 +1,6 @@
 # Network Automation
 
-**326 tools** — sorted by relevance score.
+**328 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -246,6 +246,7 @@
 | 25 | [NetBox Lifecycle](https://github.com/DanSheps/netbox-lifecycle) | NetBox plugin for tracking hardware End-of-Life (EOL), End-of-Support (EOS), and support contracts.  | — |
 | 25 | [network-mcp-docker-suite](https://github.com/pamosima/network-mcp-docker-suite) | Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHou | — |
 | 25 | [bgpq3](https://github.com/snar/bgpq3) | BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IR | — |
+| 25 | [BIRD](https://github.com/CZ-NIC/bird) | Open source internet routing daemon supporting BGP, OSPF, RIP, Babel, static routes, and RPKI. Usefu | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 24 | [Gantry](https://github.com/NLnetLabs/gantry) | Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation an | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
@@ -281,6 +282,7 @@
 | 19 | [prefixopt](https://github.com/ReuxM13/prefixopt) | High-performance Python CLI for IP prefix list optimization. Aggregates subnets, removes duplicates/ | — |
 | 19 | [Netpicker](https://github.com/netpicker/netpicker) | Network config backup, security/compliance testing, and job automation in one platform. Uses pytest  | — |
 | 19 | [cmdo](https://github.com/hellt/cmdo) | Batch command runner for networking devices. Lets you execute commands across multiple devices in pa | — |
+| 19 | [RTRlib](https://github.com/rtrlib/rtrlib) | Open-source RPKI-to-Router client library and tools for validating BGP route origins. Handy for rout | — |
 | 17 | [Netshot](https://github.com/netfishers-onl/Netshot) | Network configuration and compliance management. Backup, audit, and report. | — |
 | 17 | [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) | Ansible modules for Palo Alto Networks PAN-OS. | — |
 | 17 | [Rconfig](https://github.com/rconfig/rconfig) | Free, open source network device configuration management. Customizable to your needs. | — |
