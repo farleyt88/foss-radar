@@ -11707,5 +11707,66 @@
     "language": "C",
     "license": "MIT",
     "relevance_score": 19
+  },
+  {
+    "name": "openconfig-streaming-telemetry-exporter",
+    "url": "https://github.com/exaring/openconfig-streaming-telemetry-exporter",
+    "description": "OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-friendly metrics. Lightweight bridge for gNMI/OpenConfig pipelines when you want to land network telemetry in existing Grafana/Prometheus stacks.",
+    "category": "Observability",
+    "stars": 44,
+    "topics": [
+      "openconfig",
+      "streaming-telemetry",
+      "gnmi",
+      "prometheus",
+      "telemetry",
+      "observability"
+    ],
+    "vendors": [],
+    "updated": "2021-07-12",
+    "discovered": "2026-05-11",
+    "relevance_score": 62,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "pingraph",
+    "url": "https://github.com/vdw/pingraph",
+    "description": "Modern self-hosted network latency monitor for homelabs and small infrastructure estates. Useful as a lightweight way to watch path latency and jitter where a full NMS stack would be overkill.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "network-monitoring",
+      "latency",
+      "observability",
+      "ping",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-29",
+    "discovered": "2026-05-11",
+    "relevance_score": 33,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "ptp_message_count",
+    "url": "https://github.com/nick-prater/ptp_message_count",
+    "description": "Go CLI that monitors and summarizes PTP traffic on an IP network. Small project, but directly relevant for transport timing visibility where PTP health matters and you want a simple packet-level check instead of a full platform.",
+    "category": "Transport Engineering",
+    "stars": 0,
+    "topics": [
+      "ptp",
+      "timing",
+      "network-monitoring",
+      "go",
+      "transport"
+    ],
+    "vendors": [],
+    "updated": "2025-11-02",
+    "discovered": "2026-05-11",
+    "relevance_score": 29,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

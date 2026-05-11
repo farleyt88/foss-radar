@@ -1,6 +1,6 @@
 # Observability
 
-**144 tools** — sorted by relevance score.
+**146 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -34,6 +34,7 @@
 | 63 | [nProbe](https://github.com/ntop/nProbe) | Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enric | — |
 | 63 | [Capsule](https://github.com/modhari/Capsule) | Multivendor network telemetry and host observability system built on gRPC gNMI, OpenConfig, and incr | Nokia, Ciena |
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
+| 62 | [openconfig-streaming-telemetry-exporter](https://github.com/exaring/openconfig-streaming-telemetry-exporter) | OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-fri | — |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
 | 58 | [nfdump](https://github.com/phaag/nfdump) | Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports hi | — |
 | 57 | [network-observability-lab](https://github.com/network-observability/network-observability-lab) | Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collect | — |
@@ -118,6 +119,7 @@
 | 33 | [NetObserv eBPF Agent](https://github.com/netobserv/netobserv-ebpf-agent) | eBPF-based network observability agent that captures and aggregates ingress and egress flows on Linu | — |
 | 33 | [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) | Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses | — |
 | 33 | [Lagident](https://github.com/nook24/lagident) | Lightweight latency and packet-loss monitor that continuously pings targets and helps surface anomal | — |
+| 33 | [pingraph](https://github.com/vdw/pingraph) | Modern self-hosted network latency monitor for homelabs and small infrastructure estates. Useful as  | — |
 | 32 | [suzieq](https://github.com/netenglabs/suzieq) | Software for network observability and understanding. Agentless, multi-vendor network observability  | Nokia |
 | 31 | [natlas](https://github.com/MJL85/natlas) | Network Atlas - automated network discovery and SVG diagram generation using SNMP, CDP, and LLDP. Au | — |
 | 31 | [snmp-to-otel](https://github.com/avozda/snmp-to-otel) | SNMP gauge metric exporter for OpenTelemetry in C++. Polls SNMP agents at configurable intervals and | — |

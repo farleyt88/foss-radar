@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**577 tools** across 41 categories.
+**580 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (328)
-- **Observability** (144)
+- **Observability** (146)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -47,6 +47,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Utility Protocols** (1)
 - **Utility / Substation Automation** (1)
 - **Power Utility / Substation** (1)
+- **Transport Engineering** (1)
 
 ---
 
@@ -619,6 +620,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [nProbe](https://github.com/ntop/nProbe) — Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enrichment, and export in (score: 0)
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pag (score: 0)
 - [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) — BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale r (score: 0)
+- [openconfig-streaming-telemetry-exporter](https://github.com/exaring/openconfig-streaming-telemetry-exporter) — OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-friendly metrics. Light (score: 0)
 - [openGemini](https://github.com/openGemini/openGemini) — CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency, high performance,  (score: 0)
 - [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) — Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1 and v2 REST endpoint (score: 0)
 - [OpenNTI](https://github.com/Juniper/open-nti) — Containerized open network telemetry collector and visualization stack. Collects data from devices via CLI/Netconf, JTI  (score: 0)
@@ -637,6 +639,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Parseable](https://github.com/parseablehq/parseable) — Observability datalake built in Rust, designed as a lightweight alternative to Elasticsearch and Splunk for log ingestio (score: 0)
 - [Perses](https://github.com/perses/perses) — CNCF sandbox project for observability dashboards. Open-spec alternative to Grafana supporting Prometheus, Tempo, Loki,  (score: 0)
 - [perspectiv](https://github.com/perspectiv-net/perspectiv) — Self-hosted network monitoring platform for small and mid-market IT teams. Combines SNMP, NetFlow, syslog, and Windows/L (score: 0)
+- [pingraph](https://github.com/vdw/pingraph) — Modern self-hosted network latency monitor for homelabs and small infrastructure estates. Useful as a lightweight way to (score: 0)
 - [Pint](https://github.com/cloudflare/pint) — Prometheus rule linter and validator from Cloudflare. Useful for hardening alert rules and dashboard backends in self-ho (score: 0)
 - [pktvisor](https://github.com/netboxlabs/pktvisor) — Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometheus, and other metrics. (score: 0)
 - [pmacct](https://github.com/pmacct/pmacct) — Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, BMP, RPKI, IGP, and Str (score: 0)
@@ -731,6 +734,10 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [bgpls-ted](https://github.com/BSpendlove/bgpls-ted) — BGP-LS Traffic Engineering Database (TED). Uses ExaBGP, RabbitMQ, consumers, and MongoDB to ingest IGP topology and traf (score: 0)
 - [GoPCEP](https://github.com/vasya4k/gopcep) — Implementation of PCEP and a TE controller written in Go. Provides a lightweight Stateful Segment Routing traffic-engine (score: 0)
 - [LMTE](https://github.com/Y-debug-sys/LMTE) — LLM-driven WAN Traffic Engineering framework (INFOCOM 2026). Uses language models to reason about WAN TE problems. Combi (score: 0)
+
+## Transport Engineering
+
+- [ptp_message_count](https://github.com/nick-prater/ptp_message_count) — Go CLI that monitors and summarizes PTP traffic on an IP network. Small project, but directly relevant for transport tim (score: 0)
 
 ## Uncategorized
 
