@@ -11768,5 +11768,68 @@
     "relevance_score": 29,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Octopus",
+    "url": "https://github.com/cloudflare/octopus",
+    "description": "Cloudflare's topology aggregation service for network automation. Merges authoritative data sources into an enriched graph of devices, cables, circuits, and transports, then exposes gRPC queries plus Prometheus metrics for downstream systems.",
+    "category": "Network Automation",
+    "stars": 38,
+    "topics": [
+      "topology",
+      "network-automation",
+      "inventory",
+      "circuits",
+      "prometheus",
+      "grpc",
+      "golang"
+    ],
+    "vendors": [],
+    "updated": "2026-02-07",
+    "discovered": "2026-05-12",
+    "relevance_score": 69,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "sysrepo-gnxi",
+    "url": "https://github.com/YohanPipereau/sysrepo-gnxi",
+    "description": "gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful for labbing vendor-neutral model-driven management stacks around sysrepo and OpenConfig-style interfaces.",
+    "category": "Network Automation",
+    "stars": 14,
+    "topics": [
+      "gnmi",
+      "gnoi",
+      "gnxi",
+      "sysrepo",
+      "yang"
+    ],
+    "vendors": [],
+    "updated": "2026-03-29",
+    "discovered": "2026-05-12",
+    "relevance_score": 45,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "libptpmgmt",
+    "url": "https://github.com/erezgeva/libptpmgmt",
+    "description": "Library and tools for communicating with linuxptp using IEEE 1588 management messages. Handy for transport and timing engineering workflows that need programmatic visibility or control of PTP state beyond the standard pmc utility.",
+    "category": "Observability",
+    "stars": 25,
+    "topics": [
+      "ptp",
+      "ieee-1588",
+      "timing",
+      "transport",
+      "network-management",
+      "c++"
+    ],
+    "vendors": [],
+    "updated": "2026-04-30",
+    "discovered": "2026-05-12",
+    "relevance_score": 19,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

@@ -1,6 +1,6 @@
 # Observability
 
-**146 tools** — sorted by relevance score.
+**147 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -143,6 +143,7 @@
 | 21 | [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) | Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enable | — |
 | 21 | [Sloggo](https://github.com/phare/sloggo) | Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly  | — |
 | 20 | [Upright](https://github.com/basecamp/upright) | Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HT | — |
+| 19 | [libptpmgmt](https://github.com/erezgeva/libptpmgmt) | Library and tools for communicating with linuxptp using IEEE 1588 management messages. Handy for tra | — |
 | 17 | [N2G (Need To Graph)](https://github.com/dmulyalin/N2G) | Generate network diagrams in GraphML, draw.io or JSON from structured data or CLI output. | — |
 | 17 | [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) | Tracks IS-IS topology changes via GRE tunnel with network devices. History diagrams. | — |
 | 17 | [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) | Tracks OSPF topology changes via GRE tunnel with network devices. History diagrams. | — |

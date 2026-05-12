@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**580 tools** across 42 categories.
+**583 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (328)
-- **Observability** (146)
+- **Network Automation** (330)
+- **Observability** (147)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -361,6 +361,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ntc-templates](https://github.com/networktocode/ntc-templates) — TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. (score: 0)
 - [NUTS](https://github.com/network-unit-testing-system/nuts) — Network Unit Testing System - Pytest plugin for writing network tests with YAML. (score: 0)
 - [oc-pyang](https://github.com/openconfig/oc-pyang) — OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema path analysis for YANG  (score: 0)
+- [Octopus](https://github.com/cloudflare/octopus) — Cloudflare's topology aggregation service for network automation. Merges authoritative data sources into an enriched gra (score: 0)
 - [Ondatra](https://github.com/openconfig/ondatra) — Open Network Device Automated Test Runner and API by OpenConfig. Write and run tests against real and containerized netw (score: 0)
 - [OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles) — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI, BG (score: 0)
 - [OpenConfig gNMI](https://github.com/openconfig/gnmi) — gRPC Network Management Interface specification and reference implementation. The foundation for gNMI-based network auto (score: 0)
@@ -434,6 +435,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Stratum](https://github.com/stratum/stratum) — Open source silicon-independent switch operating system for software-defined networks. Exposes P4Runtime and OpenConfig/ (score: 0)
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
 - [Sysrepo](https://github.com/sysrepo/sysrepo) — YANG-based configuration and operational state data store for Unix/Linux applications. Integrates with Netopeer2 NETCONF (score: 0)
+- [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) — gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful for labbing vendor-neu (score: 0)
 - [terraform-provider-netbox-v1alpha1](https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1) — Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-truth data into Nokia Even (score: 0)
 - [TextFSM](https://github.com/google/textfsm) — Google's template-based state machine for parsing semi-structured CLI output. (score: 0)
 - [TransportPCE](https://github.com/opendaylight/transportpce) — OpenDaylight-based open-source controller for optical transport networks. Implements path computation (PCE), topology ma (score: 0)
@@ -587,6 +589,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Kubeshark](https://github.com/kubeshark/kubeshark) — Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, Redis, Kafka, DNS)  (score: 0)
 - [Kula](https://github.com/c0m4r/kula) — Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero dependencies — includes  (score: 0)
 - [Lagident](https://github.com/nook24/lagident) — Lightweight latency and packet-loss monitor that continuously pings targets and helps surface anomalies across a network (score: 0)
+- [libptpmgmt](https://github.com/erezgeva/libptpmgmt) — Library and tools for communicating with linuxptp using IEEE 1588 management messages. Handy for transport and timing en (score: 0)
 - [LibreNMS](https://github.com/librenms/librenms) — Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. (score: 0)
 - [LogTide](https://github.com/logtide-dev/logtide) — Open-source, self-hosted log management platform. Privacy-first alternative to Datadog and ELK. Lightweight, easy to dep (score: 0)
 - [mapgl](https://github.com/vaduga/mapgl) — Grafana panel plugin that renders an interactive network node graph and geomap. Visualize network topology — nodes, link (score: 0)

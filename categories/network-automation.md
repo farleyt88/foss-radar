@@ -1,6 +1,6 @@
 # Network Automation
 
-**328 tools** — sorted by relevance score.
+**330 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -60,6 +60,7 @@
 | 71 | [NetOps Stack](https://github.com/pamosima/netops-stack) | Composable Docker-based NetOps observability and orchestration stack combining gNMIc, Prometheus, Cl | — |
 | 69 | [Nornir](https://github.com/nornir-automation/nornir) | Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. | — |
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no | Nokia ✅ |
+| 69 | [Octopus](https://github.com/cloudflare/octopus) | Cloudflare's topology aggregation service for network automation. Merges authoritative data sources  | — |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
 | 67 | [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) | Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (NDT | — |
 | 67 | [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) | Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR L | Nokia ✅ |
@@ -128,6 +129,7 @@
 | 45 | [KNE](https://github.com/openconfig/kne) | Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, Nokia | Nokia |
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4Run | — |
 | 45 | [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor pro | — |
+| 45 | [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) | gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful fo | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSON/g | Nokia, Arista, Cisco, Juniper |
 | 43 | [nautobot-app-circuit-maintenance](https://github.com/nautobot/nautobot-app-circuit-maintenance) | Nautobot plugin for tracking circuit maintenance windows from ISP/carrier notification emails (Zayo, | — |
 | 43 | [nautobot-app-nornir](https://github.com/nautobot/nautobot-app-nornir) | Official Nautobot app providing a Nornir ORM-based inventory and credential manager. Acts as the fou | — |
