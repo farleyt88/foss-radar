@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**583 tools** across 42 categories.
+**586 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (330)
-- **Observability** (147)
+- **Network Automation** (332)
+- **Observability** (148)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -229,6 +229,8 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) — Go wrapper for Infoblox REST API. (score: 0)
 - [Infoblox Python Client](https://github.com/infobloxopen/infoblox-client) — Python wrapper for Infoblox REST API. (score: 0)
 - [Infrahub](https://github.com/opsmill/infrahub) — New approach to Infrastructure Management. Version-controlled infrastructure data. (score: 0)
+- [Infrahub Ansible Collection](https://github.com/opsmill/infrahub-ansible) — Ansible collection for managing Infrahub, useful for tying source-of-truth workflows into network automation, DCIM, and  (score: 0)
+- [Infrahub Python SDK](https://github.com/opsmill/infrahub-sdk-python) — Python SDK for interacting with Infrahub programmatically, handy for custom source-of-truth integrations and automation  (score: 0)
 - [Inmanta](https://github.com/inmanta/inmanta-core) — Infrastructure orchestration and automation tool with intent-based desired-state model. Built for network service orches (score: 0)
 - [Intent-Based Ansible Lab](https://github.com/srl-labs/intent-based-ansible-lab) — Containerlab-based lab demonstrating intent-based network automation with Ansible and Nokia SR Linux. Shows how to use A (score: 0)
 - [Itential MCP Server](https://github.com/itential/itential-mcp) — MCP (Model Context Protocol) server providing 56+ tools for connecting LLMs to network automation workflows. Supports de (score: 0)
@@ -621,6 +623,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NMIS 9](https://github.com/Opmantek/nmis9) — Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, e (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)
 - [nProbe](https://github.com/ntop/nProbe) — Open-source components and extensions for nProbe, focused on NetFlow/IPFIX traffic collection, enrichment, and export in (score: 0)
+- [NTC NetBox Plugin Metrics Extension](https://github.com/networktocode/ntc-netbox-plugin-metrics-ext) — NetBox plugin that improves NetBox instrumentation and exposes additional metrics, including application metrics and RQ  (score: 0)
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pag (score: 0)
 - [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) — BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and supports large-scale r (score: 0)
 - [openconfig-streaming-telemetry-exporter](https://github.com/exaring/openconfig-streaming-telemetry-exporter) — OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-friendly metrics. Light (score: 0)

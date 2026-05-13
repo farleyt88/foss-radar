@@ -1,6 +1,6 @@
 # Network Automation
 
-**330 tools** — sorted by relevance score.
+**332 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -123,6 +123,7 @@
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuousl | — |
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates  | — |
 | 47 | [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) | AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for  | — |
+| 47 | [Infrahub Ansible Collection](https://github.com/opsmill/infrahub-ansible) | Ansible collection for managing Infrahub, useful for tying source-of-truth workflows into network au | — |
 | 45 | [netpalm](https://github.com/tbotnz/netpalm) | REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation. | — |
 | 45 | [SDC (sdctl)](https://github.com/sdcio/sdctl) | Schema Driven Configuration - cloud-native declarative config management for network devices using Y | — |
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like c | Nokia |
@@ -300,6 +301,7 @@
 | 15 | [Pola PCE](https://github.com/nttcom/pola) | Stateful Path Computation Element (PCE) implementation and PCEP library in Go. Supports SR-MPLS and  | — |
 | 15 | [Schema Enforcer](https://github.com/networktocode/schema-enforcer) | Validate structured data against schemas. Network config data validation. | — |
 | 15 | [prefixd](https://github.com/lance0/prefixd) | BGP FlowSpec policy daemon for automated DDoS mitigation. Works with GoBGP and FastNetMon. Written i | — |
+| 15 | [Infrahub Python SDK](https://github.com/opsmill/infrahub-sdk-python) | Python SDK for interacting with Infrahub programmatically, handy for custom source-of-truth integrat | — |
 | 13 | [Aerleon](https://github.com/aerleon/aerleon) | Multi-platform ACL generation system. Generate Juniper/IOS/etc ACLs from single policy. | — |
 | 13 | [fetchconfig](https://github.com/udhos/fetchconfig) | Perl script for retrieving configuration of multiple network devices. | — |
 | 13 | [Jazigo](https://github.com/udhos/jazigo) | Go-based tool for retrieving network device configurations. Similar to RANCID, Oxidized. | — |

@@ -11831,5 +11831,62 @@
     "relevance_score": 19,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "NTC NetBox Plugin Metrics Extension",
+    "url": "https://github.com/networktocode/ntc-netbox-plugin-metrics-ext",
+    "description": "NetBox plugin that improves NetBox instrumentation and exposes additional metrics, including application metrics and RQ worker metrics, for better self-hosted observability.",
+    "category": "Observability",
+    "stars": 41,
+    "topics": [
+      "netbox",
+      "netbox-plugin",
+      "observability",
+      "metrics"
+    ],
+    "updated": "2023-09-12",
+    "discovered": "2026-05-13",
+    "relevance_score": 22,
+    "vendor_verified": false
+  },
+  {
+    "name": "Infrahub Ansible Collection",
+    "url": "https://github.com/opsmill/infrahub-ansible",
+    "description": "Ansible collection for managing Infrahub, useful for tying source-of-truth workflows into network automation, DCIM, and IPAM pipelines.",
+    "category": "Network Automation",
+    "stars": 16,
+    "topics": [
+      "ansible",
+      "ansible-modules",
+      "datacenter",
+      "dcim",
+      "infrahub",
+      "ipam",
+      "networking",
+      "nornir",
+      "sot"
+    ],
+    "updated": "2026-05-11",
+    "discovered": "2026-05-13",
+    "relevance_score": 47,
+    "vendor_verified": false
+  },
+  {
+    "name": "Infrahub Python SDK",
+    "url": "https://github.com/opsmill/infrahub-sdk-python",
+    "description": "Python SDK for interacting with Infrahub programmatically, handy for custom source-of-truth integrations and automation scripts.",
+    "category": "Network Automation",
+    "stars": 17,
+    "topics": [
+      "infrahub",
+      "python",
+      "sdk",
+      "automation",
+      "sot"
+    ],
+    "updated": "2026-05-13",
+    "discovered": "2026-05-13",
+    "relevance_score": 15,
+    "vendor_verified": false
   }
 ]

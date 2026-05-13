@@ -1,6 +1,6 @@
 # Observability
 
-**147 tools** — sorted by relevance score.
+**148 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -139,6 +139,7 @@
 | 25 | [VoIPmonitor sniffer](https://github.com/voipmonitor/sniffer) | Open-source VoIP/SIP traffic sniffer and monitoring engine. Relevant for Ribbon/Sonus-adjacent SBC e | Ribbon |
 | 23 | [Nerdlog](https://github.com/dimonomid/nerdlog) | Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server. SSH-bas | — |
 | 23 | [Birdwatcher](https://github.com/alice-lg/birdwatcher) | JSON API for BIRD that exposes routing and protocol state to looking-glass frontends, monitoring, an | — |
+| 22 | [NTC NetBox Plugin Metrics Extension](https://github.com/networktocode/ntc-netbox-plugin-metrics-ext) | NetBox plugin that improves NetBox instrumentation and exposes additional metrics, including applica | — |
 | 21 | [drawthe.net](https://github.com/cidrblock/drawthe.net) | Draw network diagrams from YAML. Automated network diagram generation. | — |
 | 21 | [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) | Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enable | — |
 | 21 | [Sloggo](https://github.com/phare/sloggo) | Minimal RFC 5424 syslog collector and viewer powered by DuckDB. Runs as a single, resource-friendly  | — |
