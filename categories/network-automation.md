@@ -1,6 +1,6 @@
 # Network Automation
 
-**332 tools** — sorted by relevance score.
+**335 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -61,6 +61,7 @@
 | 69 | [Nornir](https://github.com/nornir-automation/nornir) | Python automation framework for network devices. Pluggable, multi-threaded, inventory-driven. | — |
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases, no | Nokia ✅ |
 | 69 | [Octopus](https://github.com/cloudflare/octopus) | Cloudflare's topology aggregation service for network automation. Merges authoritative data sources  | — |
+| 69 | [Cisco YANG Suite](https://github.com/CiscoDevNet/yangsuite) | Cisco's YANG tooling workbench for learning, testing, and adopting YANG-based programmable interface | — |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for | Nokia ✅ |
 | 67 | [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) | Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (NDT | — |
 | 67 | [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) | Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR L | Nokia ✅ |
@@ -147,6 +148,7 @@
 | 41 | [cnaas-nms](https://github.com/SUNET/cnaas-nms) | Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: ze | — |
 | 41 | [NetAuto Studio](https://github.com/eddiespaghettini/netauto-studio) | Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, t | — |
 | 41 | [Y.1731 Test Automation](https://github.com/SilvaDDev/Y_1731_Test_Automation) | Python-based automation for creating Y.1731 performance tests on Ciena devices. Useful for transport | Ciena |
+| 41 | [Network Automation Toolkit](https://github.com/network-automation/toolkit) | Ansible content collection for common network functions like dynamic documentation. Handy for reusab | — |
 | 40 | [Lemming](https://github.com/openconfig/lemming) | OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Use a | Nokia |
 | 40 | [BGPalerter](https://github.com/nttgin/BGPalerter) | Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI invali | — |
 | 39 | [jsnac](https://github.com/commitconfirmed/jsnac) | JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/infr | — |
@@ -191,6 +193,7 @@
 | 35 | [nautobot-app-device-onboarding](https://github.com/nautobot/nautobot-app-device-onboarding) | Official Nautobot app for automated device onboarding. Uses netmiko and NAPALM to SSH into a device  | — |
 | 35 | [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) | NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfa | — |
 | 35 | [oc-pyang](https://github.com/openconfig/oc-pyang) | OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema pat | — |
+| 35 | [FaucetAgent](https://github.com/faucetsdn/faucetagent) | gNMI agent for Faucet configuration. Useful as a lightweight reference for model-driven config workf | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |

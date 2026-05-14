@@ -11888,5 +11888,66 @@
     "discovered": "2026-05-13",
     "relevance_score": 15,
     "vendor_verified": false
+  },
+  {
+    "name": "Cisco YANG Suite",
+    "url": "https://github.com/CiscoDevNet/yangsuite",
+    "description": "Cisco's YANG tooling workbench for learning, testing, and adopting YANG-based programmable interfaces including NETCONF, RESTCONF, gNMI, and telemetry workflows.",
+    "category": "Network Automation",
+    "stars": 318,
+    "topics": [
+      "yang",
+      "netconf",
+      "restconf",
+      "gnmi",
+      "telemetry",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-01-27",
+    "discovered": "2026-05-14",
+    "source": "foss-radar-scan",
+    "relevance_score": 69,
+    "vendor_verified": false
+  },
+  {
+    "name": "FaucetAgent",
+    "url": "https://github.com/faucetsdn/faucetagent",
+    "description": "gNMI agent for Faucet configuration. Useful as a lightweight reference for model-driven config workflows and gNMI-based network control patterns.",
+    "category": "Network Automation",
+    "stars": 6,
+    "topics": [
+      "gnmi",
+      "network-automation",
+      "configuration",
+      "telemetry",
+      "golang"
+    ],
+    "vendors": [],
+    "updated": "2026-05-13",
+    "discovered": "2026-05-14",
+    "source": "foss-radar-scan",
+    "relevance_score": 35,
+    "vendor_verified": false
+  },
+  {
+    "name": "Network Automation Toolkit",
+    "url": "https://github.com/network-automation/toolkit",
+    "description": "Ansible content collection for common network functions like dynamic documentation. Handy for reusable automation building blocks and documentation generation in self-hosted NetDevOps workflows.",
+    "category": "Network Automation",
+    "stars": 125,
+    "topics": [
+      "ansible",
+      "network-automation",
+      "documentation",
+      "automation",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-12",
+    "discovered": "2026-05-14",
+    "source": "foss-radar-scan",
+    "relevance_score": 41,
+    "vendor_verified": false
   }
 ]

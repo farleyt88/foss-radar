@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**586 tools** across 42 categories.
+**589 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (332)
+- **Network Automation** (335)
 - **Observability** (148)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -165,6 +165,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [ciena.waveserverai](https://github.com/ciena/ciena.waveserverai) — Ansible Collection for Ciena Waveserver Ai optical platforms. Supports NETCONF connection for automated management of Wa (score: 0)
 - [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) — Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying classifiers, forwarding do (score: 0)
 - [circuit-maintenance-parser](https://github.com/networktocode/circuit-maintenance-parser) — Parses circuit maintenance notification emails from ISP/carrier NOC teams (Zayo, Verizon, Lumen, Cogent, etc.). No suppo (score: 0)
+- [Cisco YANG Suite](https://github.com/CiscoDevNet/yangsuite) — Cisco's YANG tooling workbench for learning, testing, and adopting YANG-based programmable interfaces including NETCONF, (score: 0)
 - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) — Parse, audit, query, build, and modify Cisco IOS-style configurations. (score: 0)
 - [clab-api-server](https://github.com/srl-labs/clab-api-server) — RESTful API server for Containerlab. Programmatic lab management: deploy, destroy, inspect labs. Node SSH access, CLOS t (score: 0)
 - [clab-io-draw](https://github.com/srl-labs/clab-io-draw) — Bi-directional conversion between Containerlab YAML files and Draw.io diagrams. Includes clab2drawio and drawio2clab too (score: 0)
@@ -197,6 +198,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [EzSnmp](https://github.com/carlkidcrypto/ezsnmp) — Actively maintained fork of Easy SNMP for modern Python versions. Wraps Net-SNMP for Python 3.10+ and helps keep SNMP po (score: 0)
 - [f5-common-python](https://github.com/F5Networks/f5-common-python) — Python SDK for F5 BIG-IP configuration and monitoring via iControl REST API. (score: 0)
 - [FakeNOS](https://github.com/fakenos/fakenos) — Simulate network operating systems programmatically. Great for testing automation. (score: 0)
+- [FaucetAgent](https://github.com/faucetsdn/faucetagent) — gNMI agent for Faucet configuration. Useful as a lightweight reference for model-driven config workflows and gNMI-based  (score: 0)
 - [fetchconfig](https://github.com/udhos/fetchconfig) — Perl script for retrieving configuration of multiple network devices. (score: 0)
 - [freeRtr](https://github.com/mc36/freeRtr) — Free open-source router OS process written in Java. Speaks a comprehensive set of routing protocols (OSPF, IS-IS, BGP, E (score: 0)
 - [FreeZTP](https://github.com/PackeTsar/freeztp) — Zero-Touch Provisioning for Cisco IOS campus switches and routers. (score: 0)
@@ -319,6 +321,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Netreplica Graphite](https://github.com/netreplica/graphite) — Interactive network topology visualization for NetBox, Containerlab, and Netlab. Browser-based with WebSSH access to lab (score: 0)
 - [Netshot](https://github.com/netfishers-onl/Netshot) — Network configuration and compliance management. Backup, audit, and report. (score: 0)
 - [Netutils](https://github.com/networktocode/netutils) — Network automation utility functions. IP math, config parsing, bandwidth conversions. (score: 0)
+- [Network Automation Toolkit](https://github.com/network-automation/toolkit) — Ansible content collection for common network functions like dynamic documentation. Handy for reusable automation buildi (score: 0)
 - [Network Importer](https://github.com/networktocode/network-importer) — Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Idempotent by default, (score: 0)
 - [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) — Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and NVIDIA Cumulus Linux i (score: 0)
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) — Artificially limit bandwidth, delay and loss rate on selected interfaces. (score: 0)
