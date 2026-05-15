@@ -11949,5 +11949,77 @@
     "source": "foss-radar-scan",
     "relevance_score": 41,
     "vendor_verified": false
+  },
+  {
+    "name": "schema-server",
+    "url": "https://github.com/sdcio/schema-server",
+    "description": "Schema Driven Configuration (SDC) schema server for cloud-native network automation. Provides shared schema services for model-driven configuration workflows around network devices.",
+    "category": "Network Automation",
+    "stars": 6,
+    "topics": [
+      "cloud-native",
+      "configuration-management",
+      "netconf",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-05-15",
+    "discovered": "2026-05-15",
+    "relevance_score": 35,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "data-server",
+    "url": "https://github.com/sdcio/data-server",
+    "description": "Schema Driven Configuration (SDC) data server component for cloud-native network automation. Useful for model-driven device data handling alongside NETCONF-based workflows.",
+    "category": "Network Automation",
+    "stars": 10,
+    "topics": [
+      "cloud-native",
+      "configuration-management",
+      "netconf",
+      "network-automation"
+    ],
+    "vendors": [],
+    "updated": "2026-05-15",
+    "discovered": "2026-05-15",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "spatiumddi",
+    "url": "https://github.com/spatiumddi/spatiumddi",
+    "description": "Self-hosted open-source DDI/IPAM platform with BIND9, PowerDNS, and Kea service containers plus a FastAPI control plane and React UI. Relevant for network inventory, addressing, and supporting automation workflows.",
+    "category": "Data Management",
+    "stars": 17,
+    "topics": [
+      "bgp",
+      "bind9",
+      "ddi",
+      "dhcp",
+      "dns",
+      "dns-management",
+      "docker",
+      "fastapi",
+      "infrastructure",
+      "ip-address-management",
+      "ipam",
+      "kea",
+      "kubernetes",
+      "netops",
+      "network-automation",
+      "open-source",
+      "powerdns",
+      "react",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-15",
+    "discovered": "2026-05-15",
+    "relevance_score": 35,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

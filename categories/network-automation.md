@@ -1,6 +1,6 @@
 # Network Automation
 
-**335 tools** — sorted by relevance score.
+**337 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -165,6 +165,7 @@
 | 39 | [ExaBGP](https://github.com/Exa-Networks/exabgp) | Well-known BGP automation toolkit and route injector for building BGP/FlowSpec workflows, route anno | — |
 | 39 | [junos-ops](https://github.com/shigechika/junos-ops) | Python CLI for Junos operations over NETCONF with model-aware upgrades, rollback, reboot, config pus | Juniper |
 | 39 | [pyNMS](https://github.com/afourmy/pyNMS) | Vendor-agnostic NMS for carrier-grade network simulation, visualization, and automation. Supports GI | — |
+| 39 | [data-server](https://github.com/sdcio/data-server) | Schema Driven Configuration (SDC) data server component for cloud-native network automation. Useful  | — |
 | 37 | [libyang](https://github.com/CESNET/libyang) | YANG data modeling language parser and toolkit in C. Foundation library used by sysrepo, Netopeer2,  | — |
 | 37 | [Nautobot Golden Config](https://github.com/nautobot/nautobot-app-golden-config) | Golden Config app for Nautobot. Network config compliance and remediation. | — |
 | 37 | [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) | Ansible modules using NAPALM for multi-vendor network automation. | — |
@@ -194,6 +195,7 @@
 | 35 | [NetBox Device View](https://github.com/peterbaumert/netbox-device-view) | NetBox plugin that renders a visual CSS grid representation of a device's physical ports and interfa | — |
 | 35 | [oc-pyang](https://github.com/openconfig/oc-pyang) | OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema pat | — |
 | 35 | [FaucetAgent](https://github.com/faucetsdn/faucetagent) | gNMI agent for Faucet configuration. Useful as a lightweight reference for model-driven config workf | — |
+| 35 | [schema-server](https://github.com/sdcio/schema-server) | Schema Driven Configuration (SDC) schema server for cloud-native network automation. Provides shared | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |

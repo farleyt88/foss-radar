@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**589 tools** across 42 categories.
+**592 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (335)
+- **Network Automation** (337)
 - **Observability** (148)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -17,13 +17,13 @@ Auto-generated from scan data. See [README](README.md) for details.
 - **Network Simulation** (5)
 - **Network Observability** (5)
 - **Infrastructure as Code** (4)
+- **Data Management** (3)
 - **IPAM** (3)
 - **Network Monitoring** (3)
 - **Network Diagnostics** (3)
 - **Network Operations** (3)
 - **Traffic Engineering** (3)
 - **MCP / AI Integration** (3)
-- **Data Management** (2)
 - **Infrastructure** (2)
 - **Network Lab** (2)
 - **Lab / Testing** (2)
@@ -68,6 +68,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 
 - [Airbyte](https://github.com/airbytehq/airbyte) — Open-source ELT platform with 300+ connectors. Self-hosted data integration. (score: 0)
 - [Dremio](https://github.com/dremio/dremio-oss) — Data lakehouse query engine. SQL on data lakes without data movement, virtual datasets. (score: 0)
+- [spatiumddi](https://github.com/spatiumddi/spatiumddi) — Self-hosted open-source DDI/IPAM platform with BIND9, PowerDNS, and Kea service containers plus a FastAPI control plane  (score: 0)
 
 ## Documentation
 
@@ -183,6 +184,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
 - [damianoneill/net](https://github.com/damianoneill/net) — Go library implementing network management protocols including NETCONF, NETCONF notifications, SNMP, and CLI transport h (score: 0)
+- [data-server](https://github.com/sdcio/data-server) — Schema Driven Configuration (SDC) data server component for cloud-native network automation. Useful for model-driven dev (score: 0)
 - [diffsync](https://github.com/networktocode/diffsync) — Library for synchronizing data between sources. Network data reconciliation. (score: 0)
 - [DigSiNet](https://github.com/srieger1/digsinet) — Network Digital Twin (NDT) framework that creates multiple 'sibling' emulations of a real network topology using contain (score: 0)
 - [Diode](https://github.com/netboxlabs/diode) — Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and reconciliation engine that a (score: 0)
@@ -412,6 +414,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) — Salt plugin for network automation at scale without running Proxy Minions. (score: 0)
 - [samtools](https://github.com/nokia/samtools) — Official Nokia Python tools for the SAM-O / NSP northbound interface. Useful for bulk CSV-driven automation and XML API  (score: 0)
 - [Schema Enforcer](https://github.com/networktocode/schema-enforcer) — Validate structured data against schemas. Network config data validation. (score: 0)
+- [schema-server](https://github.com/sdcio/schema-server) — Schema Driven Configuration (SDC) schema server for cloud-native network automation. Provides shared schema services for (score: 0)
 - [scrapli](https://github.com/carlmontanari/scrapli) — Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. (score: 0)
 - [SDC (sdctl)](https://github.com/sdcio/sdctl) — Schema Driven Configuration - cloud-native declarative config management for network devices using YANG schemas. Idempot (score: 0)
 - [SDC Config Server](https://github.com/sdcio/config-server) — Kubernetes-based Schema Driven Configuration (SDC) config server and operator. Manages schemas, target discovery, and co (score: 0)
