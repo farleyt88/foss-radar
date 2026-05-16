@@ -1,6 +1,6 @@
 # Observability
 
-**148 tools** — sorted by relevance score.
+**151 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -43,8 +43,11 @@
 | 57 | [Beszel](https://github.com/henrygd/beszel) | Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, mu | — |
 | 57 | [Grafana Alloy](https://github.com/grafana/alloy) | Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipeline | — |
 | 57 | [gnmic-cluster-chart](https://github.com/workfloworchestrator/gnmic-cluster-chart) | Helm chart for deploying a scalable gNMIc collection cluster on Kubernetes. Good fit for self-hosted | — |
+| 57 | [Grafana Loki](https://github.com/grafana/loki) | Self-hosted log aggregation system designed to pair with Grafana and Prometheus-style workflows. Str | — |
+| 57 | [Vector](https://github.com/vectordotdev/vector) | High-performance observability data pipeline for collecting, transforming, and routing logs, metrics | — |
 | 56 | [Keep](https://github.com/keephq/keep) | Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts with | — |
 | 56 | [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) | Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dash | — |
+| 56 | [Fluent Bit](https://github.com/fluent/fluent-bit) | Lightweight log, metric, and trace processor that fits well as an edge collector for network device  | — |
 | 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pager | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and infr | — |
 | 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, and  | — |

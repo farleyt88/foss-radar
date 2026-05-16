@@ -12021,5 +12021,70 @@
     "relevance_score": 35,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "Grafana Loki",
+    "url": "https://github.com/grafana/loki",
+    "description": "Self-hosted log aggregation system designed to pair with Grafana and Prometheus-style workflows. Strong fit for centralized network device syslog and transport operations observability.",
+    "category": "Observability",
+    "stars": 28194,
+    "topics": [
+      "grafana",
+      "logging",
+      "loki",
+      "prometheus",
+      "observability",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-16",
+    "discovered": "2026-05-16",
+    "relevance_score": 57,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Vector",
+    "url": "https://github.com/vectordotdev/vector",
+    "description": "High-performance observability data pipeline for collecting, transforming, and routing logs, metrics, and traces. Useful glue between network telemetry sources and self-hosted observability backends.",
+    "category": "Observability",
+    "stars": 21844,
+    "topics": [
+      "logs",
+      "metrics",
+      "traces",
+      "telemetry",
+      "observability",
+      "pipelines",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-16",
+    "discovered": "2026-05-16",
+    "relevance_score": 57,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Fluent Bit",
+    "url": "https://github.com/fluent/fluent-bit",
+    "description": "Lightweight log, metric, and trace processor that fits well as an edge collector for network device syslog, telemetry, and transport observability pipelines.",
+    "category": "Observability",
+    "stars": 7846,
+    "topics": [
+      "logs",
+      "metrics",
+      "traces",
+      "telemetry",
+      "observability",
+      "syslog",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-16",
+    "discovered": "2026-05-16",
+    "relevance_score": 56,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

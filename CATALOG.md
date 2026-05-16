@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**592 tools** across 42 categories.
+**595 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (337)
-- **Observability** (148)
+- **Observability** (151)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -576,6 +576,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [FastNetMon](https://github.com/pavel-odintsov/fastnetmon) — High-performance open source DDoS detector/sensor for NetFlow, IPFIX, sFlow, and SPAN traffic. Useful for transport-netw (score: 0)
 - [flowcus](https://github.com/consi/flowcus) — High-performance NetFlow/IPFIX collector with an embedded database and query interface. Good fit for self-hosted traffic (score: 0)
 - [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) — Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them, and exports to Loki an (score: 0)
+- [Fluent Bit](https://github.com/fluent/fluent-bit) — Lightweight log, metric, and trace processor that fits well as an edge collector for network device syslog, telemetry, a (score: 0)
 - [Fluere](https://github.com/SkuldNorniern/fluere) — Cross-platform Rust tool that captures network packets in pcap format and converts them to NetFlow v5 data. Supports liv (score: 0)
 - [FRR Exporter](https://github.com/tynany/frr_exporter) — Prometheus exporter for FRRouting that collects BGP, BFD, OSPF, route, and other FRR metrics from Unix sockets or vtysh  (score: 0)
 - [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) — Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI targets, exports to othe (score: 0)
@@ -585,6 +586,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [gNPSI](https://github.com/openconfig/gnpsi) — gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-based streaming packet (score: 0)
 - [GoFlow2](https://github.com/netsampler/goflow2) — High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's original GoFlow. In (score: 0)
 - [Grafana Alloy](https://github.com/grafana/alloy) — Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipelines. Unified agent for (score: 0)
+- [Grafana Loki](https://github.com/grafana/loki) — Self-hosted log aggregation system designed to pair with Grafana and Prometheus-style workflows. Strong fit for centrali (score: 0)
 - [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) — Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dashboards where link ut (score: 0)
 - [GtExporter](https://github.com/automixer/gtexporter) — YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-compliant devices and e (score: 0)
 - [Hubble](https://github.com/cilium/hubble) — Network, service, and security observability for Kubernetes using eBPF. Strong fit for self-hosted infrastructure visibi (score: 0)
@@ -692,6 +694,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [tsmetrics](https://github.com/sbaerlocher/tsmetrics) — Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for network observability. S (score: 0)
 - [TWSNMP FC](https://github.com/twsnmp/twsnmpfc) — Self-hosted SNMP-focused monitoring platform packaged for containers. Relevant for lightweight network observability lab (score: 0)
 - [Upright](https://github.com/basecamp/upright) — Self-hosted synthetic monitoring system from 37signals (Basecamp/HEY). Playwright browser probes, HTTP checks, SMTP veri (score: 0)
+- [Vector](https://github.com/vectordotdev/vector) — High-performance observability data pipeline for collecting, transforming, and routing logs, metrics, and traces. Useful (score: 0)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compatible (drop-in replacem (score: 0)
 - [VoIPmonitor sniffer](https://github.com/voipmonitor/sniffer) — Open-source VoIP/SIP traffic sniffer and monitoring engine. Relevant for Ribbon/Sonus-adjacent SBC environments where ca (score: 0)
 - [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) — Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and Prometheus/InfluxDB  (score: 0)
