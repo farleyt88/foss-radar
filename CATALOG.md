@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**595 tools** across 42 categories.
+**598 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (337)
+- **Network Automation** (340)
 - **Observability** (151)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -303,6 +303,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [netcfgbu](https://github.com/jeremyschulman/netcfgbu) — Async network configuration backup tool using SSH. Multi-vendor support for any NOS with monolithic config (show running (score: 0)
 - [NetClaw](https://github.com/automateyournetwork/netclaw) — CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backends. Covers Cisco, Junip (score: 0)
 - [netconan](https://github.com/intentionet/netconan) — Network Configuration Anonymizer - sanitize configs for sharing. (score: 0)
+- [netconf-ciena](https://github.com/georgesnow/netconf-ciena) — Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pushes initial configurat (score: 0)
 - [netconf-go](https://github.com/nights99/netconf-go) — NETCONF CLI with tab completion and dynamic YANG module download. Can compile to WebAssembly for browser-based network m (score: 0)
 - [netconf-rs](https://github.com/jiegec/netconf-rs) — Rust library for NETCONF (RFC 6241). Multiple SSH backends (ssh2/russh), flexible XML parsing. Device configuration auto (score: 0)
 - [NetConfigArk](https://github.com/kDolphin/NetConfigArk) — Cross-platform Python CLI for batch backup of network device configurations via SSH/Telnet. Supports Cisco IOS/IOS-XE/NX (score: 0)
@@ -375,6 +376,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenConfig gNOI](https://github.com/openconfig/gnoi) — OpenConfig gRPC Network Operations Interface implementation and definitions for operational tasks such as certificate ma (score: 0)
 - [OpenConfig Reference](https://github.com/openconfig/reference) — Reference implementations, specifications, and tooling for OpenConfig-based network management. Good fit for gNMI/OpenCo (score: 0)
 - [OpenKilda](https://github.com/telstra/open-kilda) — Open-source OpenFlow controller built for large, latency-sensitive networks. Focuses on flow management, path computatio (score: 0)
+- [OpenWISP Controller](https://github.com/openwisp/openwisp-controller) — Open-source network and Wi-Fi controller for provisioning, configuration management, firmware updates, and PKI-backed de (score: 0)
 - [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) — Network topology collector and visualizer. Collects from dynamic mesh routing protocols or OpenVPN, saves daily snapshot (score: 0)
 - [Oxidized](https://github.com/ytti/oxidized) — Network device configuration backup tool. Supports 130+ vendors via SSH/Telnet. (score: 0)
 - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) — Ansible modules for Palo Alto Networks PAN-OS. (score: 0)
@@ -440,6 +442,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) — Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful for bootstrapping autom (score: 0)
 - [sros-peering](https://github.com/sajusal/sros-peering) — Practical Nokia SR OS peering configuration guide and lab repo with MD-CLI examples for 7750 routers, useful for buildin (score: 0)
 - [srpls](https://github.com/srl-labs/srpls) — Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Provides IDE-level autoc (score: 0)
+- [StayRTR](https://github.com/bgp/stayrtr) — RPKI-to-Router server in Go for delivering validated route origin data to routers. Useful for routing hygiene, transport (score: 0)
 - [Stratum](https://github.com/stratum/stratum) — Open source silicon-independent switch operating system for software-defined networks. Exposes P4Runtime and OpenConfig/ (score: 0)
 - [Sweet](https://github.com/AppliedTrust/sweet) — Network device configuration backups and change alerts for the 21st century. (score: 0)
 - [Sysrepo](https://github.com/sysrepo/sysrepo) — YANG-based configuration and operational state data store for Unix/Linux applications. Integrates with Netopeer2 NETCONF (score: 0)

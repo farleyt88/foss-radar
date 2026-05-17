@@ -12086,5 +12086,68 @@
     "relevance_score": 56,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenWISP Controller",
+    "url": "https://github.com/openwisp/openwisp-controller",
+    "description": "Open-source network and Wi-Fi controller for provisioning, configuration management, firmware updates, and PKI-backed device management. Strong fit for self-hosted network automation patterns and fleet operations.",
+    "category": "Network Automation",
+    "stars": 750,
+    "topics": [
+      "configuration-management",
+      "networking",
+      "openwrt",
+      "python",
+      "wifi",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-16",
+    "discovered": "2026-05-17",
+    "source": "foss-radar-scan",
+    "relevance_score": 48,
+    "vendor_verified": false
+  },
+  {
+    "name": "StayRTR",
+    "url": "https://github.com/bgp/stayrtr",
+    "description": "RPKI-to-Router server in Go for delivering validated route origin data to routers. Useful for routing hygiene, transport edge security, and self-hosted BGP operations.",
+    "category": "Network Automation",
+    "stars": 150,
+    "topics": [
+      "bgp",
+      "rpki",
+      "routing",
+      "go",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-04-13",
+    "discovered": "2026-05-17",
+    "source": "foss-radar-scan",
+    "relevance_score": 25,
+    "vendor_verified": false
+  },
+  {
+    "name": "netconf-ciena",
+    "url": "https://github.com/georgesnow/netconf-ciena",
+    "description": "Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pushes initial configuration. Niche, but directly aligned with legacy Ciena automation work.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ciena",
+      "netconf",
+      "dhcp",
+      "bootstrap",
+      "automation"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "updated": "2025-11-10",
+    "discovered": "2026-05-17",
+    "source": "foss-radar-scan",
+    "relevance_score": 63,
+    "vendor_verified": true
   }
 ]

@@ -1,6 +1,6 @@
 # Network Automation
 
-**337 tools** — sorted by relevance score.
+**340 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -79,6 +79,7 @@
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 63 | [nctools](https://github.com/nokia/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that hel | Nokia ✅ |
+| 63 | [netconf-ciena](https://github.com/georgesnow/netconf-ciena) | Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pushe | Ciena ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engin | Nokia ✅ |
@@ -120,6 +121,7 @@
 | 49 | [Clixon Controller](https://github.com/clicon/clixon-controller) | Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device pr | — |
 | 49 | [srpls](https://github.com/srl-labs/srpls) | Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. Prov | Nokia ✅ |
 | 49 | [h-cli](https://github.com/h-network/h-cli) | AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integration.  | — |
+| 48 | [OpenWISP Controller](https://github.com/openwisp/openwisp-controller) | Open-source network and Wi-Fi controller for provisioning, configuration management, firmware update | — |
 | 47 | [gNXI Tools](https://github.com/google/gnxi) | Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_subsc | — |
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuousl | — |
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates  | — |
@@ -255,6 +257,7 @@
 | 25 | [network-mcp-docker-suite](https://github.com/pamosima/network-mcp-docker-suite) | Docker-based MCP server suite for AI-driven network operations. Bundles NetBox, Prometheus, ClickHou | — |
 | 25 | [bgpq3](https://github.com/snar/bgpq3) | BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IR | — |
 | 25 | [BIRD](https://github.com/CZ-NIC/bird) | Open source internet routing daemon supporting BGP, OSPF, RIP, Babel, static routes, and RPKI. Usefu | — |
+| 25 | [StayRTR](https://github.com/bgp/stayrtr) | RPKI-to-Router server in Go for delivering validated route origin data to routers. Useful for routin | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 24 | [Gantry](https://github.com/NLnetLabs/gantry) | Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation an | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
