@@ -12149,5 +12149,48 @@
     "source": "foss-radar-scan",
     "relevance_score": 63,
     "vendor_verified": true
+  },
+  {
+    "name": "Nokia Network as Code SDKs",
+    "url": "https://github.com/nokia/network-as-code-sdks",
+    "description": "Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs for capabilities like QoS, location services, and analytics from code.",
+    "category": "Network Automation",
+    "stars": 6,
+    "topics": [
+      "nokia",
+      "sdk",
+      "api",
+      "network-automation",
+      "qos",
+      "analytics"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2026-05-15",
+    "discovered": "2026-05-18",
+    "relevance_score": 57,
+    "vendor_verified": true,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "srl-labs ansible-core",
+    "url": "https://github.com/srl-labs/ansible-core",
+    "description": "Containerized ansible-core image from srl-labs for running playbooks in repeatable lab and automation workflows. Built for amd64/arm64 and useful as a base image for network automation jobs.",
+    "category": "Network Automation",
+    "stars": 12,
+    "topics": [
+      "ansible",
+      "container",
+      "automation",
+      "network-labs",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2025-12-22",
+    "discovered": "2026-05-18",
+    "relevance_score": 35,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

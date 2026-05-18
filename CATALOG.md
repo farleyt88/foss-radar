@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**598 tools** across 42 categories.
+**600 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (340)
+- **Network Automation** (342)
 - **Observability** (151)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -339,6 +339,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [Nokia EDA](https://github.com/nokia-eda/docs) — Nokia Event Driven Automation (EDA) documentation and examples. EDA enables intent-based, event-driven network automatio (score: 0)
 - [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) — Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/set operations, letting S (score: 0)
 - [Nokia Network as Code (Python SDK)](https://github.com/nokia/network-as-code-py) — Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities inclu (score: 0)
+- [Nokia Network as Code SDKs](https://github.com/nokia/network-as-code-sdks) — Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs for capabilities like Qo (score: 0)
 - [Nokia NSP Ansible Collection](https://github.com/nokia/nsp-playbooks-for-Ansible) — Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, including authentication h (score: 0)
 - [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) — Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libra (score: 0)
 - [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) — Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and module (score: 0)
@@ -432,6 +433,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) — Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and access to source .yang fil (score: 0)
 - [SR OS Docs Lab](https://github.com/nokia/sros-docs-lab) — Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows, and documenting opera (score: 0)
 - [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) — SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for gNMI/gNOI access pattern (score: 0)
+- [srl-labs ansible-core](https://github.com/srl-labs/ansible-core) — Containerized ansible-core image from srl-labs for running playbooks in repeatable lab and automation workflows. Built f (score: 0)
 - [srlconv](https://github.com/srl-labs/srlconv) — Convert Nokia SR Linux configuration between major software releases and compute diffs. Helps identify breaking YANG mod (score: 0)
 - [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) — Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux — mon (score: 0)
 - [srlinux-scrapli](https://github.com/srl-labs/srlinux-scrapli) — SR Linux convenience functions for Scrapligo. Provides Go bindings for automating Nokia SR Linux devices via the Scrapli (score: 0)

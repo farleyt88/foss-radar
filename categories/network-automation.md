@@ -1,6 +1,6 @@
 # Network Automation
 
-**340 tools** — sorted by relevance score.
+**342 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -97,6 +97,7 @@
 | 57 | [wisp-network-automation-lab](https://github.com/Murashidzi/wisp-network-automation-lab) | Small-scale WISP design and automation lab with MikroTik provisioning, PPPoE/RADIUS workflows, VRRP  | — |
 | 57 | [libnetconf2](https://github.com/CESNET/libnetconf2) | C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS transpor | — |
 | 57 | [vscode-eda](https://github.com/eda-labs/vscode-eda) | VS Code extension for Nokia Event-Driven Automation (EDA). Lets you browse EDA namespaces and resour | Nokia ✅ |
+| 57 | [Nokia Network as Code SDKs](https://github.com/nokia/network-as-code-sdks) | Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs for  | Nokia ✅ |
 | 56 | [gnmi-map](https://github.com/hellt/gnmi-map) | gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a lightwei | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on laptop | — |
@@ -198,6 +199,7 @@
 | 35 | [oc-pyang](https://github.com/openconfig/oc-pyang) | OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema pat | — |
 | 35 | [FaucetAgent](https://github.com/faucetsdn/faucetagent) | gNMI agent for Faucet configuration. Useful as a lightweight reference for model-driven config workf | — |
 | 35 | [schema-server](https://github.com/sdcio/schema-server) | Schema Driven Configuration (SDC) schema server for cloud-native network automation. Provides shared | — |
+| 35 | [srl-labs ansible-core](https://github.com/srl-labs/ansible-core) | Containerized ansible-core image from srl-labs for running playbooks in repeatable lab and automatio | — |
 | 34 | [Netdisco](https://github.com/netdisco/netdisco) | Web-based network management tool. Device/port discovery, MAC tracking, VLAN management. | — |
 | 33 | [FreeZTP](https://github.com/PackeTsar/freeztp) | Zero-Touch Provisioning for Cisco IOS campus switches and routers. | — |
 | 33 | [GoBGP](https://github.com/osrg/gobgp) | Full BGP implementation in Go. Library and CLI for building BGP-based applications — route servers,  | — |
