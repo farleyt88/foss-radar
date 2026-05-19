@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**602 tools** across 42 categories.
+**603 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (342)
-- **Observability** (153)
+- **Observability** (154)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -648,6 +648,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
 - [openPDC](https://github.com/GridProtectionAlliance/openPDC) — Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, supports IEC 61850  (score: 0)
 - [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) — Vendor-neutral telemetry pipeline for collecting, processing, and exporting logs, metrics, and traces. Strong fit for se (score: 0)
+- [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) — Extended OpenTelemetry Collector distribution with a large receiver/exporter ecosystem. Especially useful when building  (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
 - [OpenTelemetry Infinity](https://github.com/netboxlabs/opentelemetry-infinity) — Wrapper/orchestrator for spinning up ephemeral otelcol-contrib instances via REST policies. Interesting for lightweight, (score: 0)
 - [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) — Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visu (score: 0)

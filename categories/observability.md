@@ -1,6 +1,6 @@
 # Observability
 
-**153 tools** — sorted by relevance score.
+**154 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -57,6 +57,7 @@
 | 54 | [Bindplane OTel Collector](https://github.com/observIQ/bindplane-otel-collector) | OpenTelemetry Collector distribution with built-in SNMP receiver, OpAMP management, and 100+ receive | — |
 | 53 | [Orb Agent (NetBox Labs)](https://github.com/netboxlabs/orb-agent) | Lightweight network observability and discovery agent from NetBox Labs, part of the NetBox Discovery | — |
 | 53 | [Orb Discovery](https://github.com/netboxlabs/orb-discovery) | Network discovery backends for NetBox Labs Orb Agent. Bundles NAPALM-based device discovery, Nmap-ba | — |
+| 53 | [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Extended OpenTelemetry Collector distribution with a large receiver/exporter ecosystem. Especially u | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enabling i | Nokia, Ciena |
 | 52 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, and  | — |
 | 51 | [Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. | — |

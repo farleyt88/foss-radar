@@ -12234,5 +12234,26 @@
     "relevance_score": 51,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenTelemetry Collector Contrib",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "description": "Extended OpenTelemetry Collector distribution with a large receiver/exporter ecosystem. Especially useful when building self-hosted pipelines that need SNMP, syslog, Prometheus, and other network-friendly telemetry integrations.",
+    "category": "Observability",
+    "stars": 4661,
+    "topics": [
+      "observability",
+      "telemetry",
+      "opentelemetry",
+      "collector",
+      "self-hosted",
+      "integrations"
+    ],
+    "vendors": [],
+    "updated": "2026-05-19",
+    "discovered": "2026-05-19",
+    "relevance_score": 53,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]
