@@ -1,6 +1,6 @@
 # Observability
 
-**151 tools** — sorted by relevance score.
+**153 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -36,6 +36,7 @@
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Include | Nokia |
 | 62 | [openconfig-streaming-telemetry-exporter](https://github.com/exaring/openconfig-streaming-telemetry-exporter) | OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-fri | — |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, and  | — |
+| 60 | [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) | Vendor-neutral telemetry pipeline for collecting, processing, and exporting logs, metrics, and trace | — |
 | 58 | [nfdump](https://github.com/phaag/nfdump) | Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports hi | — |
 | 57 | [network-observability-lab](https://github.com/network-observability/network-observability-lab) | Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP collect | — |
 | 57 | [privacynet](https://github.com/cwccie/privacynet) | Privacy-preserving network telemetry toolkit — IP anonymization (prefix-preserving, truncation, rand | — |
@@ -63,6 +64,7 @@
 | 51 | [Checkmate](https://github.com/bluewave-labs/Checkmate) | Self-hosted open-source uptime and infrastructure monitoring platform. Tracks server hardware (CPU,  | — |
 | 51 | [Kubeshark](https://github.com/kubeshark/kubeshark) | Cluster-wide network observability for Kubernetes. Captures L4 packets and L7 API calls (HTTP, gRPC, | — |
 | 51 | [Streaming Telemetry Lab](https://github.com/indigo423/streaming-telemetry-lab) | Containerlab environment for gNMI streaming telemetry with Nokia SR Linux. Useful as a practical lab | Nokia |
+| 51 | [Grafana Beyla](https://github.com/grafana/beyla) | eBPF-based auto-instrumentation for application and network metrics. Interesting for lightweight sel | — |
 | 49 | [openGemini](https://github.com/openGemini/openGemini) | CNCF sandbox project — cloud-native distributed time-series database written in Go. High concurrency | — |
 | 49 | [Triglav](https://github.com/brevius/Triglav) | gNMI/JTI-based streaming telemetry collector for Juniper transport routers (ACX, MX, PTX). Uses Tele | — |
 | 49 | [IPFIXcol2](https://github.com/CESNET/ipfixcol2) | High-performance, modular NetFlow v5/v9 and IPFIX collector from CESNET. Plugin-based architecture w | — |

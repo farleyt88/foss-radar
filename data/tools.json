@@ -12192,5 +12192,47 @@
     "relevance_score": 35,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "OpenTelemetry Collector",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector",
+    "description": "Vendor-neutral telemetry pipeline for collecting, processing, and exporting logs, metrics, and traces. Strong fit for self-hosted observability pipelines that need to normalize network and infrastructure telemetry.",
+    "category": "Observability",
+    "stars": 7031,
+    "topics": [
+      "observability",
+      "telemetry",
+      "metrics",
+      "monitoring",
+      "open-telemetry",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-19",
+    "discovered": "2026-05-19",
+    "relevance_score": 60,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
+  },
+  {
+    "name": "Grafana Beyla",
+    "url": "https://github.com/grafana/beyla",
+    "description": "eBPF-based auto-instrumentation for application and network metrics. Interesting for lightweight self-hosted observability when you want network-level insight without manual code instrumentation.",
+    "category": "Observability",
+    "stars": 1991,
+    "topics": [
+      "ebpf",
+      "observability",
+      "network-metrics",
+      "telemetry",
+      "grafana",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-19",
+    "discovered": "2026-05-19",
+    "relevance_score": 51,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   }
 ]

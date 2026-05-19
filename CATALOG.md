@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**600 tools** across 42 categories.
+**602 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
 - **Network Automation** (342)
-- **Observability** (151)
+- **Observability** (153)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -591,6 +591,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [gNPSI](https://github.com/openconfig/gnpsi) — gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC-based streaming packet (score: 0)
 - [GoFlow2](https://github.com/netsampler/goflow2) — High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflare's original GoFlow. In (score: 0)
 - [Grafana Alloy](https://github.com/grafana/alloy) — Open-source OpenTelemetry Collector distribution from Grafana Labs with built-in Prometheus pipelines. Unified agent for (score: 0)
+- [Grafana Beyla](https://github.com/grafana/beyla) — eBPF-based auto-instrumentation for application and network metrics. Interesting for lightweight self-hosted observabili (score: 0)
 - [Grafana Loki](https://github.com/grafana/loki) — Self-hosted log aggregation system designed to pair with Grafana and Prometheus-style workflows. Strong fit for centrali (score: 0)
 - [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) — Grafana plugin for building customizable network weathermaps. Useful for transport and backbone dashboards where link ut (score: 0)
 - [GtExporter](https://github.com/automixer/gtexporter) — YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-compliant devices and e (score: 0)
@@ -646,6 +647,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [OpenObserve](https://github.com/openobserve/openobserve) — Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs v (score: 0)
 - [OpenOTDR](https://github.com/BaldrAI/OpenOTDR) — Open source OTDR reporting tool for fiber test results. Integrates OTDR traces with GIS data, enables trace viewing/labe (score: 0)
 - [openPDC](https://github.com/GridProtectionAlliance/openPDC) — Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU streams, supports IEC 61850  (score: 0)
+- [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) — Vendor-neutral telemetry pipeline for collecting, processing, and exporting logs, metrics, and traces. Strong fit for se (score: 0)
 - [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) — eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network data from Linux kernel (score: 0)
 - [OpenTelemetry Infinity](https://github.com/netboxlabs/opentelemetry-infinity) — Wrapper/orchestrator for spinning up ephemeral otelcol-contrib instances via REST policies. Interesting for lightweight, (score: 0)
 - [OpenWISP Monitoring](https://github.com/openwisp/openwisp-monitoring) — Extensible network monitoring system built with Python and Django. Automates checks, alerts, metric collection, and visu (score: 0)
