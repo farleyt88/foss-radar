@@ -12255,5 +12255,63 @@
     "relevance_score": 53,
     "vendor_verified": false,
     "source": "foss-radar-scan"
+  },
+  {
+    "name": "containerlab-app",
+    "url": "https://github.com/srl-labs/containerlab-app",
+    "description": "Graphical containerlab application delivered as a containerized web app or Electron desktop app. Connects to clab-api-server to authenticate, list topologies, deploy/destroy labs, stream events, and open interactive sessions.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "containerlab",
+      "network-labs",
+      "topology",
+      "web-ui",
+      "desktop-app",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-05-18",
+    "discovered": "2026-05-20",
+    "relevance_score": 25,
+    "vendor_verified": false
+  },
+  {
+    "name": "NetXMS Grafana Datasource",
+    "url": "https://github.com/netxms/grafana-datasource",
+    "description": "Grafana data source plugin for NetXMS, useful for pulling network and infrastructure monitoring data into Grafana dashboards.",
+    "category": "Observability",
+    "stars": 1,
+    "topics": [
+      "grafana",
+      "datasource",
+      "monitoring",
+      "network-observability",
+      "self-hosted"
+    ],
+    "vendors": [],
+    "updated": "2026-03-31",
+    "discovered": "2026-05-20",
+    "relevance_score": 53,
+    "vendor_verified": false
+  },
+  {
+    "name": "netxms-python",
+    "url": "https://github.com/netxms/netxms-python",
+    "description": "Pure-Python NetXMS NXCP client library implementing message marshaling, compression, and encryption for programmatic monitoring and automation workflows.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "python",
+      "netxms",
+      "monitoring",
+      "automation",
+      "nxcp"
+    ],
+    "vendors": [],
+    "updated": "2026-02-24",
+    "discovered": "2026-05-20",
+    "relevance_score": 25,
+    "vendor_verified": false
   }
 ]

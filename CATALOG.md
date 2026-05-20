@@ -1,13 +1,13 @@
 # FOSS Radar — Tool Catalog
 
-**603 tools** across 42 categories.
+**606 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (342)
-- **Observability** (154)
+- **Network Automation** (344)
+- **Observability** (155)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
 - **Self-Hosted** (7)
@@ -180,6 +180,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [cnaas-nms](https://github.com/SUNET/cnaas-nms) — Campus Network-as-a-Service NMS by SUNET. Open source software to automate campus LAN management: zero-touch provisionin (score: 0)
 - [ConfigDrift](https://github.com/cwccie/configdrift) — Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuously poll devices, diff (score: 0)
 - [containerlab](https://github.com/srl-labs/containerlab) — Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS, Juniper, and more in D (score: 0)
+- [containerlab-app](https://github.com/srl-labs/containerlab-app) — Graphical containerlab application delivered as a containerized web app or Electron desktop app. Connects to clab-api-se (score: 0)
 - [containerlab-sr-mpls-sros](https://github.com/cloud-native-everything/containerlab-sr-mpls-sros) — Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and FRR/LFA workflows. Usefu (score: 0)
 - [Containerz (gNOI)](https://github.com/openconfig/containerz) — OpenConfig reference implementation for the gNOI Containerz service — enables deploying, starting, stopping, listing, an (score: 0)
 - [cvprac](https://github.com/aristanetworks/cvprac) — Python library for Arista CloudVision Portal (CVP). (score: 0)
@@ -333,6 +334,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [network.backup](https://github.com/redhat-cop/network.backup) — Ansible Validated Content for network config backup and restore. Platform-agnostic roles for backup, compare, tag, and r (score: 0)
 - [network.telemetry (Red Hat CoP)](https://github.com/redhat-cop/network.telemetry) — Ansible Validated Content collection for managing streaming telemetry on network devices. Gathers telemetry facts, manag (score: 0)
 - [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infrast (score: 0)
+- [netxms-python](https://github.com/netxms/netxms-python) — Pure-Python NetXMS NXCP client library implementing message marshaling, compression, and encryption for programmatic mon (score: 0)
 - [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) — Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platforms. Useful for build (score: 0)
 - [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) — Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, V (score: 0)
 - [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) — Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF workflows plus gRPC (score: 0)
@@ -633,6 +635,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [networkdevice-monitor](https://github.com/robotneo/networkdevice-monitor) — Self-hosted network device monitoring stack built on Prometheus and SNMP Exporter. Practical for standing up fast observ (score: 0)
 - [networkmonitoring](https://github.com/yzmar4real/networkmonitoring) — Python/PYATS-based network monitoring repo focused on observability, assurance, and automation. Uses Genie parsers to va (score: 0)
 - [NetXMS](https://github.com/netxms/netxms) — Enterprise-grade open source network and infrastructure monitoring. Unified platform for performance/availability monito (score: 0)
+- [NetXMS Grafana Datasource](https://github.com/netxms/grafana-datasource) — Grafana data source plugin for NetXMS, useful for pulling network and infrastructure monitoring data into Grafana dashbo (score: 0)
 - [nfdump](https://github.com/phaag/nfdump) — Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports high-performance filte (score: 0)
 - [NMIS 9](https://github.com/Opmantek/nmis9) — Flexible open-source Network Management System with distributed SNMP polling, performance and availability monitoring, e (score: 0)
 - [Nokia OSSMediator](https://github.com/nokia/OSSMediator) — Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC ( (score: 0)

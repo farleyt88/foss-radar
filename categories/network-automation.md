@@ -1,6 +1,6 @@
 # Network Automation
 
-**342 tools** — sorted by relevance score.
+**344 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -260,6 +260,8 @@
 | 25 | [bgpq3](https://github.com/snar/bgpq3) | BGP filtering automation tool that generates prefix-lists, as-path filters, and policy terms from IR | — |
 | 25 | [BIRD](https://github.com/CZ-NIC/bird) | Open source internet routing daemon supporting BGP, OSPF, RIP, Babel, static routes, and RPKI. Usefu | — |
 | 25 | [StayRTR](https://github.com/bgp/stayrtr) | RPKI-to-Router server in Go for delivering validated route origin data to routers. Useful for routin | — |
+| 25 | [containerlab-app](https://github.com/srl-labs/containerlab-app) | Graphical containerlab application delivered as a containerized web app or Electron desktop app. Con | — |
+| 25 | [netxms-python](https://github.com/netxms/netxms-python) | Pure-Python NetXMS NXCP client library implementing message marshaling, compression, and encryption  | — |
 | 24 | [TextFSM](https://github.com/google/textfsm) | Google's template-based state machine for parsing semi-structured CLI output. | — |
 | 24 | [Gantry](https://github.com/NLnetLabs/gantry) | Tool for deploying and testing network routers in the cloud. Useful for repeatable lab validation an | — |
 | 23 | [ntc-templates](https://github.com/networktocode/ntc-templates) | TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. | ciena |
