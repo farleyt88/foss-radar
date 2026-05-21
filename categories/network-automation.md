@@ -1,6 +1,6 @@
 # Network Automation
 
-**345 tools** — sorted by relevance score.
+**346 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -76,6 +76,7 @@
 | 65 | [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) | Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting point | Nokia ✅ |
 | 65 | [SIMNOS](https://github.com/Route-Reflector/simnos) | Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS  | Ciena ✅ |
 | 65 | [Nokia NSP Ansible Collection](https://github.com/nokia/nsp-playbooks-for-Ansible) | Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, includ | Nokia ✅ |
+| 64 | [SR Linux JSON-RPC Ansible Examples](https://github.com/srl-labs/jsonrpc-ansible) | Nokia SR Linux automation examples showing how to use Ansible with the SR Linux JSON-RPC API for sta | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port state | Nokia ✅ |
 | 63 | [nctools](https://github.com/nokia/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that hel | Nokia ✅ |

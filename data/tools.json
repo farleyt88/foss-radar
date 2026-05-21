@@ -12335,5 +12335,28 @@
     "source": "foss-radar-scan",
     "vendor_verified": false,
     "relevance_score": 44
+  },
+  {
+    "name": "SR Linux JSON-RPC Ansible Examples",
+    "url": "https://github.com/srl-labs/jsonrpc-ansible",
+    "description": "Nokia SR Linux automation examples showing how to use Ansible with the SR Linux JSON-RPC API for state collection, backups, config changes, and show-command capture.",
+    "category": "Network Automation",
+    "stars": 5,
+    "topics": [
+      "ansible",
+      "nokia",
+      "sr-linux",
+      "json-rpc",
+      "network-automation",
+      "configuration-management"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "updated": "2024-02-25",
+    "discovered": "2026-05-21",
+    "source": "foss-radar-scan",
+    "vendor_verified": true,
+    "relevance_score": 64
   }
 ]

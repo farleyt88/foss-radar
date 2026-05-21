@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**607 tools** across 42 categories.
+**608 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (345)
+- **Network Automation** (346)
 - **Observability** (155)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -430,6 +430,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [shconfparser](https://github.com/network-tools/shconfparser) — Network configuration parser that translates show command outputs from Cisco and other vendors into structured tree, tab (score: 0)
 - [SIMNOS](https://github.com/Route-Reflector/simnos) — Simulated Network Operating System SSH server for network automation testing. Supports multiple NOS personas including C (score: 0)
 - [SR Linux Controller](https://github.com/srl-labs/srl-controller) — Kubernetes controller for managing Nokia SR Linux nodes in KNE (Kubernetes Network Emulation) topologies. Native k8s int (score: 0)
+- [SR Linux JSON-RPC Ansible Examples](https://github.com/srl-labs/jsonrpc-ansible) — Nokia SR Linux automation examples showing how to use Ansible with the SR Linux JSON-RPC API for state collection, backu (score: 0)
 - [SR Linux NDK Go](https://github.com/nokia/srlinux-ndk-go) — Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR Linux agents and inte (score: 0)
 - [SR Linux NDK Protobufs](https://github.com/nokia/srlinux-ndk-protobufs) — Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom age (score: 0)
 - [SR Linux Telemetry Lab](https://github.com/srl-labs/srl-telemetry-lab) — Interactive Streaming Telemetry lab with Nokia SR Linux nodes in Clos topology. Includes gnmic, Prometheus, Grafana, Lok (score: 0)
