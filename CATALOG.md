@@ -1,12 +1,12 @@
 # FOSS Radar — Tool Catalog
 
-**606 tools** across 42 categories.
+**607 tools** across 42 categories.
 
 Auto-generated from scan data. See [README](README.md) for details.
 
 ## Categories
 
-- **Network Automation** (344)
+- **Network Automation** (345)
 - **Observability** (155)
 - **Network Testing** (8)
 - **Self-Hosted Infrastructure** (8)
@@ -369,6 +369,7 @@ Auto-generated from scan data. See [README](README.md) for details.
 - [NSoT](https://github.com/dropbox/nsot) — Network Source of Truth database by Dropbox. Track inventory and metadata of network entities. (score: 0)
 - [NSQuattro](https://github.com/anton-tvrz/project-network-synapse-quattro) — Intent-based network automation platform with full business-to-device lineage. Uses Infrahub as graph-native Source of T (score: 0)
 - [NTC Ansible](https://github.com/networktocode/ntc-ansible) — Multi-vendor Ansible modules for Network Automation by Network to Code. (score: 0)
+- [NTC Rosetta](https://github.com/networktocode/ntc-rosetta) — Python bridge between traditional network CLI/state and YANG data models. Useful for translating legacy device outputs i (score: 0)
 - [ntc-templates](https://github.com/networktocode/ntc-templates) — TextFSM templates for parsing network device CLI output. 1000+ templates for various vendors. (score: 0)
 - [NUTS](https://github.com/network-unit-testing-system/nuts) — Network Unit Testing System - Pytest plugin for writing network tests with YAML. (score: 0)
 - [oc-pyang](https://github.com/openconfig/oc-pyang) — OpenConfig plugins for the pyang YANG parser/validator. Adds OpenConfig style checks plus schema path analysis for YANG  (score: 0)

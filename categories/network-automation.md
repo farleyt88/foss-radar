@@ -1,6 +1,6 @@
 # Network Automation
 
-**344 tools** — sorted by relevance score.
+**345 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -135,6 +135,7 @@
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4Run | — |
 | 45 | [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor pro | — |
 | 45 | [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) | gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful fo | — |
+| 44 | [NTC Rosetta](https://github.com/networktocode/ntc-rosetta) | Python bridge between traditional network CLI/state and YANG data models. Useful for translating leg | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSON/g | Nokia, Arista, Cisco, Juniper |
 | 43 | [nautobot-app-circuit-maintenance](https://github.com/nautobot/nautobot-app-circuit-maintenance) | Nautobot plugin for tracking circuit maintenance windows from ISP/carrier notification emails (Zayo, | — |
 | 43 | [nautobot-app-nornir](https://github.com/nautobot/nautobot-app-nornir) | Official Nautobot app providing a Nornir ORM-based inventory and credential manager. Acts as the fou | — |

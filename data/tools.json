@@ -12313,5 +12313,27 @@
     "discovered": "2026-05-20",
     "relevance_score": 25,
     "vendor_verified": false
+  },
+  {
+    "name": "NTC Rosetta",
+    "url": "https://github.com/networktocode/ntc-rosetta",
+    "description": "Python bridge between traditional network CLI/state and YANG data models. Useful for translating legacy device outputs into model-driven automation workflows and back again.",
+    "category": "Network Automation",
+    "stars": 104,
+    "topics": [
+      "python",
+      "yang",
+      "cli",
+      "network-automation",
+      "translation",
+      "model-driven",
+      "netconf"
+    ],
+    "vendors": [],
+    "updated": "2023-08-30",
+    "discovered": "2026-05-21",
+    "source": "foss-radar-scan",
+    "vendor_verified": false,
+    "relevance_score": 44
   }
 ]
