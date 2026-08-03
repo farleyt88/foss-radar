@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 37 | [Network Sketcher](https://github.com/cisco-open/network-sketcher) | AI-powered network diagram generator by Cisco Open. Generates network configuration diagrams in Powe | — |
+| 37 | [Network Sketcher](https://github.com/cisco-open/network-sketcher) | AI-powered network diagram generator by Cisco Open. Generates network configuration diagrams in P... | — |

@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 25 | [Flowpipe](https://github.com/turbot/flowpipe) | Cloud scripting engine for automation and workflow orchestration. Pipelines are defined as HCL code  | — |
+| 25 | [Flowpipe](https://github.com/turbot/flowpipe) | Cloud scripting engine for automation and workflow orchestration. Pipelines are defined as HCL co... | — |

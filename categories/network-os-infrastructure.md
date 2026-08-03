@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 51 | [Infix](https://github.com/kernelkit/infix) | Immutable, YANG-native Linux NOS that turns any ARM or x86 device (Raspberry Pi to enterprise switch | — |
+| 51 | [Infix](https://github.com/kernelkit/infix) | Immutable, YANG-native Linux NOS that turns any ARM or x86 device (Raspberry Pi to enterprise swi... | — |

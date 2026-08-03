@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 65 | [OpenROADM MSA](https://github.com/OpenROADM/OpenROADM_MSA_Public) | Open ROADM Multi-Source Agreement YANG models and specifications for disaggregated optical transport | — |
+| 65 | [OpenROADM MSA](https://github.com/OpenROADM/OpenROADM_MSA_Public) | Open ROADM Multi-Source Agreement YANG models and specifications for disaggregated optical transp... | — |

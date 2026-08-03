@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 37 | [L0p4Map](https://github.com/HaxL0p4/L0p4Map) | Network monitoring and visualization tool combining high-speed ARP discovery with nmap integration a | — |
+| 37 | [L0p4Map](https://github.com/HaxL0p4/L0p4Map) | Network monitoring and visualization tool combining high-speed ARP discovery with nmap integratio... | — |

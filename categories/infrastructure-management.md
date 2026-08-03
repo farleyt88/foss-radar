@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 71 | [RackPeek](https://github.com/Timmoth/RackPeek) | CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-discove | — |
+| 71 | [RackPeek](https://github.com/Timmoth/RackPeek) | CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-disc... | — |

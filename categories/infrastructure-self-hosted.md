@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 23 | [Eneru](https://github.com/m4r1k/Eneru) | Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdow | — |
+| 23 | [Eneru](https://github.com/m4r1k/Eneru) | Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shut... | — |

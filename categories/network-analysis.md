@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 63 | [nDPI](https://github.com/ntop/nDPI) | Open Deep Packet Inspection library from ntop, used under the hood in ntopng, Wireshark, and dozens  | — |
+| 63 | [nDPI](https://github.com/ntop/nDPI) | Open Deep Packet Inspection library from ntop, used under the hood in ntopng, Wireshark, and doze... | — |

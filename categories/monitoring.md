@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 29 | [NMS_Tools](https://github.com/Linktech-Engineering-LLC/NMS_Tools) | Collection of deterministic, audit-transparent network monitoring and infrastructure validation tool | — |
+| 29 | [NMS_Tools](https://github.com/Linktech-Engineering-LLC/NMS_Tools) | Collection of deterministic, audit-transparent network monitoring and infrastructure validation t... | — |

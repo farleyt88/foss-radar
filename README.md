@@ -1,13 +1,11 @@
 # 📡 FOSS Radar
 
-**A curated, scored database of 356+ Free and Open Source tools for network automation, observability, and transport network modernization.**
+**A curated, scored database of 600+ Free and Open Source tools for network automation, observability, and transport network modernization.**
 
 Built for network engineers working with **Ciena, Nokia, Ribbon, Aviat, and SEL ICON** equipment — but useful for anyone in telecom/transport networking.
 
 [![Tools Tracked](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffarleyt88%2Ffoss-radar%2Fmain%2Fdata%2Ftools.json&query=%24.length&label=Tools%20Tracked&color=blue)]()
-[![Vendor Verified](https://img.shields.io/badge/Vendor_Verified-45-green)]()
-[![Categories](https://img.shields.io/badge/Categories-29-orange)]()
-[![Last Scan](https://img.shields.io/badge/Last_Scan-03--16--2026-brightgreen)]()
+[![Weekly Scan](https://img.shields.io/badge/Scan-Weekly-brightgreen)]()
 
 ---
 
@@ -250,6 +248,14 @@ The [`foss-radar-scan.py`](foss-radar-scan.py) script:
 2. **Recalculates** all relevance scores using the scoring engine above
 3. **Regenerates** a formatted markdown catalog
 4. **Logs** scan history to `data/scan-history.json`
+
+The deterministic scanner does not invent or auto-approve repositories. A
+separate source-grounded Hermes curation job runs **Mondays at 1:00 PM Eastern**
+to search current GitHub/project sources, reject duplicates and weak matches,
+verify licensing and canonical URLs, and add at most a few high-confidence
+tools. It then runs this scanner, validates the generated artifacts, and
+publishes the update. Runs with no suitable discoveries are recorded without
+forcing additions.
 
 ```bash
 python3 foss-radar-scan.py

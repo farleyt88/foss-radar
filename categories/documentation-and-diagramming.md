@@ -6,4 +6,4 @@
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
-| 54 | [FossFLOW](https://github.com/stan-smith/FossFLOW) | Open-source isometric infrastructure diagramming tool for creating beautiful, hand-crafted infrastru | — |
+| 54 | [FossFLOW](https://github.com/stan-smith/FossFLOW) | Open-source isometric infrastructure diagramming tool for creating beautiful, hand-crafted infras... | — |
