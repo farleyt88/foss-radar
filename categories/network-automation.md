@@ -1,6 +1,6 @@
 # Network Automation
 
-**346 tools** — sorted by relevance score.
+**347 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -22,6 +22,7 @@
 | 91 | [NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros) | Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operation... | Nokia ✅ |
 | 91 | [ciena.waveserver5](https://github.com/ciena/ciena.waveserver5) | Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF... | Ciena ✅ |
 | 91 | [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) | Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPA... | Nokia ✅ |
+| 87 | [nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills) | Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/ver... | Nokia ✅ |
 | 86 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operation... | Nokia ✅ |
 | 85 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Official Nokia Ansible collection for SR Linux device management. Provides modules for config man... | Nokia ✅ |
 | 85 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/... | Nokia ✅ |

@@ -12358,5 +12358,76 @@
     "source": "foss-radar-scan",
     "vendor_verified": true,
     "relevance_score": 64
+  },
+  {
+    "name": "Splice",
+    "url": "https://github.com/Open-Ireland-Testbed/splice",
+    "description": "Vendor-agnostic bridge that discovers NETCONF/YANG devices and exposes their telemetry through a gNMI server, with optical-network simulation and generated Grafana dashboards.",
+    "category": "Network Observability",
+    "stars": 1,
+    "topics": [
+      "gnmi",
+      "grpc",
+      "netconf",
+      "yang",
+      "openconfig",
+      "optical-networking",
+      "network-telemetry",
+      "observability",
+      "grafana"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-06-30",
+    "discovered": "2026-08-03",
+    "relevance_score": 99
+  },
+  {
+    "name": "nokia-sr-skills",
+    "url": "https://github.com/antoinekh/nokia-sr-skills",
+    "description": "Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/version detection, on-demand YANG models, configuration formats, NETCONF, and gNMI guidance.",
+    "category": "Network Automation",
+    "stars": 8,
+    "topics": [
+      "claude-code",
+      "network-automation",
+      "nokia",
+      "sros",
+      "sr-linux",
+      "yang",
+      "netconf",
+      "gnmi"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-06-09",
+    "discovered": "2026-08-03",
+    "relevance_score": 87
+  },
+  {
+    "name": "ARIEC61850",
+    "url": "https://github.com/masarray/ARIEC61850",
+    "description": "Native .NET 8 IEC 61850 engineering toolkit for MMS discovery and guarded IED control, reporting, GOOSE, Sampled Values, SCL, PCAP analysis, simulation, and commissioning evidence.",
+    "category": "Utility / Substation Automation",
+    "stars": 4,
+    "topics": [
+      "iec-61850",
+      "mms",
+      "goose",
+      "sampled-values",
+      "scl",
+      "pcap",
+      "dotnet",
+      "scada",
+      "substation-automation",
+      "commissioning"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-03",
+    "discovered": "2026-08-03",
+    "relevance_score": 17
   }
 ]
