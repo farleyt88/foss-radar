@@ -12429,5 +12429,83 @@
     "updated": "2026-08-03",
     "discovered": "2026-08-03",
     "relevance_score": 17
+  },
+  {
+    "name": "nl6",
+    "url": "https://github.com/labmonkeys-space/nl6",
+    "description": "Scalable network simulator for SNMP, SSH, REST, NetFlow v5/v9, IPFIX, sFlow, syslog, and gNMI, including Ciena Waveserver 5 device profiles and large-fleet NMS testing.",
+    "category": "Network Simulation",
+    "stars": 3,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "topics": [
+      "network-simulation",
+      "snmp",
+      "netflow",
+      "ipfix",
+      "sflow",
+      "syslog",
+      "gnmi",
+      "openconfig",
+      "network-testing",
+      "ciena"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-08-09",
+    "discovered": "2026-08-10",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 113
+  },
+  {
+    "name": "gnmi-exporter",
+    "url": "https://github.com/cobaltcore-dev/gnmi-exporter",
+    "description": "Kubernetes operator for automating monitoring of network devices managed through ironcore network-operator in cloud-native environments.",
+    "category": "Network Observability",
+    "stars": 3,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "topics": [
+      "gnmi",
+      "gnmic",
+      "prometheus",
+      "network-monitoring",
+      "network-telemetry",
+      "observability",
+      "kubernetes",
+      "automation"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-07",
+    "discovered": "2026-08-10",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 47
+  },
+  {
+    "name": "Finsy",
+    "url": "https://github.com/byllyfish/finsy",
+    "description": "Async Python P4Runtime controller library with integrated gNMI support for managing programmable switches and reacting to switch events.",
+    "category": "Network Automation",
+    "stars": 13,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "topics": [
+      "p4runtime",
+      "p4",
+      "gnmi",
+      "sdn-controller",
+      "network-automation",
+      "asyncio",
+      "python"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-10",
+    "discovered": "2026-08-10",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 29
   }
 ]

@@ -1,11 +1,12 @@
 # Network Simulation
 
-**5 tools** — sorted by relevance score.
+**6 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 113 | [nl6](https://github.com/labmonkeys-space/nl6) | Scalable network simulator for SNMP, SSH, REST, NetFlow v5/v9, IPFIX, sFlow, syslog, and gNMI, in... | Ciena ✅ |
 | 81 | [small-isp-lab](https://github.com/abelperezr/small-isp-lab) | Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP tra... | Nokia ✅ |
 | 33 | [TopoViewer](https://github.com/asadarafat/topoViewer) | Network topology visualization tool that converts Containerlab topology data into interactive Cyt... | Nokia |
 | 21 | [vscode-containerlab](https://github.com/srl-labs/vscode-containerlab) | VS Code extension for containerlab. Auto-discovers .clab.yml topologies, tree view with color-cod... | Nokia |

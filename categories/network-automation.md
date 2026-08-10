@@ -1,6 +1,6 @@
 # Network Automation
 
-**347 tools** — sorted by relevance score.
+**348 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -239,6 +239,7 @@
 | 29 | [netbox-branching](https://github.com/netboxlabs/netbox-branching) | Official NetBox Labs plugin implementing git-like branching functionality for NetBox. Allows crea... | — |
 | 29 | [Ansible WebUI](https://github.com/O-X-L/ansible-webui) | Lightweight, self-hosted web UI for running Ansible playbooks locally. Install via pip or Docker ... | — |
 | 29 | [vMark](https://github.com/xmas-ar/vMark) | Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployme... | — |
+| 29 | [Finsy](https://github.com/byllyfish/finsy) | Async Python P4Runtime controller library with integrated gNMI support for managing programmable ... | — |
 | 28 | [eNMS](https://github.com/eNMS-automation/eNMS) | Vendor-agnostic NMS for carrier-grade network visualization and automation. | — |
 | 28 | [pyribbon](https://github.com/consentfactory/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots... | Ribbon |
 | 28 | [libiec61850](https://github.com/mz-automation/libiec61850) | Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, G... | SEL |
