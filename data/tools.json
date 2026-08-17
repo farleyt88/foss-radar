@@ -12507,5 +12507,88 @@
     "discovered": "2026-08-10",
     "source": "weekly-primary-source-scan",
     "relevance_score": 29
+  },
+  {
+    "name": "saos-labs",
+    "url": "https://github.com/ciena/saos-labs",
+    "description": "Official Ciena SAOS 10 containerlab curriculum with hands-on labs for IS-IS, SR-MPLS, BGP, LDP, L3VPN, and EVPN-VPWS.",
+    "category": "Network Lab",
+    "stars": 0,
+    "language": "CSS",
+    "license": "Apache-2.0",
+    "topics": [
+      "ciena",
+      "saos-10",
+      "containerlab",
+      "network-lab",
+      "isis",
+      "sr-mpls",
+      "bgp",
+      "ldp",
+      "l3vpn",
+      "evpn"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-08-17",
+    "discovered": "2026-08-17",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 57
+  },
+  {
+    "name": "Shumoku",
+    "url": "https://github.com/konoe-akitoshi/shumoku",
+    "description": "Network topology generation and monitoring platform that builds diagrams from YAML, NetBox, LLDP, and SNMP, with live traffic and alert overlays from Prometheus, Grafana, and Zabbix.",
+    "category": "Network Observability",
+    "stars": 149,
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "topics": [
+      "network-topology",
+      "network-visualization",
+      "diagrams-as-code",
+      "netbox",
+      "snmp",
+      "lldp",
+      "prometheus",
+      "grafana",
+      "zabbix",
+      "network-monitoring"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-17",
+    "discovered": "2026-08-17",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 63
+  },
+  {
+    "name": "EMS Simulate",
+    "url": "https://github.com/600888/ems_simulate",
+    "description": "Utility and substation protocol simulator with client/server support for IEC 61850 MMS, GOOSE, reports and files, IEC 60870-5-104, Modbus, and DL/T 645.",
+    "category": "Utility / Substation Automation",
+    "stars": 30,
+    "language": "Python",
+    "license": "GPL-3.0",
+    "topics": [
+      "iec61850",
+      "mms",
+      "goose",
+      "iec104",
+      "modbus",
+      "dlt645",
+      "substation-automation",
+      "protocol-simulator",
+      "network-testing",
+      "python"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-17",
+    "discovered": "2026-08-17",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 23
   }
 ]
