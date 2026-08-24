@@ -12590,5 +12590,86 @@
     "discovered": "2026-08-17",
     "source": "weekly-primary-source-scan",
     "relevance_score": 23
+  },
+  {
+    "name": "netbox-wdm",
+    "url": "https://github.com/jsenecal/netbox-wdm",
+    "description": "NetBox plugin for ITU DWDM/CWDM channel plans, ROADM editing, modular WDM chassis, wavelength services, and end-to-end optical path tracing.",
+    "category": "Network Inventory",
+    "stars": 12,
+    "language": "Python",
+    "license": "AGPL-3.0-or-later",
+    "topics": [
+      "netbox",
+      "wdm",
+      "dwdm",
+      "cwdm",
+      "roadm",
+      "optical",
+      "wavelength",
+      "network-inventory",
+      "circuit-tracing",
+      "fiber"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-23",
+    "discovered": "2026-08-24",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 59
+  },
+  {
+    "name": "network-secret",
+    "url": "https://github.com/antoinekh/network-secret",
+    "description": "CLI, Python package, and client-side web utility to encode, decode, hash, and verify Juniper/HPE Junos, Nokia SR OS, and Cisco IOS device-secret formats.",
+    "category": "CLI Tools",
+    "stars": 1,
+    "license": "MIT",
+    "topics": [
+      "network-automation",
+      "cli",
+      "network-secrets",
+      "nokia",
+      "sros",
+      "junos",
+      "cisco-ios",
+      "cryptography",
+      "password-hashing",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-08-20",
+    "discovered": "2026-08-24",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 61
+  },
+  {
+    "name": "Riptide",
+    "url": "https://github.com/Riptide-Labs/riptide",
+    "description": "Network traffic analysis platform for NetFlow v5/v9, IPFIX, and sFlow backed by ClickHouse and Grafana, with sampling-aware volume correction.",
+    "category": "Network Observability",
+    "stars": 4,
+    "language": "Java",
+    "license": "GPL-3.0-or-later",
+    "topics": [
+      "netflow",
+      "ipfix",
+      "sflow",
+      "network-observability",
+      "traffic-analysis",
+      "clickhouse",
+      "grafana",
+      "sampling",
+      "telemetry"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-24",
+    "discovered": "2026-08-24",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 67
   }
 ]

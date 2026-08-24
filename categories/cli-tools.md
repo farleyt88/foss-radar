@@ -1,11 +1,12 @@
 # CLI Tools
 
-**6 tools** — sorted by relevance score.
+**7 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 61 | [network-secret](https://github.com/antoinekh/network-secret) | CLI, Python package, and client-side web utility to encode, decode, hash, and verify Juniper/HPE ... | Nokia ✅ |
 | 43 | [netconf-cli](https://github.com/CESNET/netconf-cli) | Interactive console for working with YANG data. Connects to NETCONF servers, standalone YANG edit... | nokia |
 | 29 | [Atuin](https://github.com/atuinsh/atuin) | Shell history sync and search. Encrypted sync across machines, SQLite backend, fuzzy search. | — |
 | 29 | [Zellij](https://github.com/zellij-org/zellij) | Terminal multiplexer (tmux alternative) with better defaults, modern UI, plugin system, floating ... | — |

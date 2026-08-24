@@ -3,16 +3,16 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "08-17-2026"
+updated: "08-24-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 08-17-2026 13:10
-**Total Tools Tracked:** 617
-**Categories:** Network Automation (348), Observability (155), Network Testing (8), Network Observability (8), Self-Hosted Infrastructure (8), Self-Hosted (7), Network Management (7), Timing & Synchronization (7)
+**Last Scan:** 08-24-2026 13:12
+**Total Tools Tracked:** 620
+**Categories:** Network Automation (348), Observability (155), Network Observability (9), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
 > for target vendors (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
@@ -604,10 +604,11 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[InfluxDB](https://github.com/influxdata/influxdb)** — Time-series database for metrics, events, and real-time analytics.
 - **[D2](https://github.com/terrastruct/d2)** — Create beautiful diagrams in minutes. Simple syntax, endlessly customizable.
 
-### Network Observability (8 tools)
+### Network Observability (9 tools)
 
 - **[Splice](https://github.com/Open-Ireland-Testbed/splice)** — Vendor-agnostic bridge that discovers NETCONF/YANG devices and exposes their telemetry through a gNMI server, with op...
 - **[ktranslate](https://github.com/kentik/ktranslate)** — Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IPFIX), and streaming ...
+- **[Riptide](https://github.com/Riptide-Labs/riptide)** — Network traffic analysis platform for NetFlow v5/v9, IPFIX, and sFlow backed by ClickHouse and Grafana, with sampling...
 - **[Shumoku](https://github.com/konoe-akitoshi/shumoku)** — Network topology generation and monitoring platform that builds diagrams from YAML, NetBox, LLDP, and SNMP, with live...
 - **[gnmi-exporter](https://github.com/cobaltcore-dev/gnmi-exporter)** — Kubernetes operator for automating monitoring of network devices managed through ironcore network-operator in cloud-n...
 - **[OpenBMP](https://github.com/SNAS/openbmp)** — OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing/control-plane data ...
@@ -647,6 +648,16 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[LibreQoS](https://github.com/LibreQoE/LibreQoS)** — Self-hosted traffic management and network operations platform for ISPs. Uses CAKE and fq_codel to reduce bufferbloat...
 - **[Rackula](https://github.com/RackulaLives/Rackula)** — Open-source drag-and-drop rack layout designer that runs entirely in the browser. Supports real device images, drag-a...
 
+### CLI Tools (7 tools)
+
+- **[network-secret](https://github.com/antoinekh/network-secret)** `Nokia` ✓ — CLI, Python package, and client-side web utility to encode, decode, hash, and verify Juniper/HPE Junos, Nokia SR OS, ...
+- **[netconf-cli](https://github.com/CESNET/netconf-cli)** `nokia` (?) — Interactive console for working with YANG data. Connects to NETCONF servers, standalone YANG editor, or sysrepo.
+- **[Atuin](https://github.com/atuinsh/atuin)** — Shell history sync and search. Encrypted sync across machines, SQLite backend, fuzzy search.
+- **[Zellij](https://github.com/zellij-org/zellij)** — Terminal multiplexer (tmux alternative) with better defaults, modern UI, plugin system, floating panes.
+- **[NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel)** — Collection of useful network automation functions for the CLI.
+- **[Networking Toolbox](https://github.com/Lissy93/networking-toolbox)** — Self-hosted collection of 100+ offline-first networking tools and utilities. Includes DNS lookup, WHOIS, port scanner...
+- **[sig](https://github.com/ynqa/sig)** — Interactive grep for streaming data. Real-time search through live data streams with TUI, command re-execution for mi...
+
 ### Self-Hosted (7 tools)
 
 - **[DANM](https://github.com/nokia/danm)** `Nokia` ✓ — Telco-grade network management for Kubernetes clusters. Provides CNI/meta-plugin components for advanced multihoming ...
@@ -675,15 +686,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[vscode-containerlab](https://github.com/srl-labs/vscode-containerlab)** `Nokia` (?) — VS Code extension for containerlab. Auto-discovers .clab.yml topologies, tree view with color-coded lab states, conte...
 - **[clab_mpls_frr](https://github.com/martimy/clab_mpls_frr)** — MPLS network lab implementations using FRRouting and Containerlab. Covers manual MPLS, LDP label distribution, and L3...
 - **[Clabernetes](https://github.com/srl-labs/clabernetes)** `Nokia` (?) — Containerlab but in Kubernetes. Deploys containerlab network topologies on K8s clusters, enabling scalable multi-node...
-
-### CLI Tools (6 tools)
-
-- **[netconf-cli](https://github.com/CESNET/netconf-cli)** `nokia` (?) — Interactive console for working with YANG data. Connects to NETCONF servers, standalone YANG editor, or sysrepo.
-- **[Atuin](https://github.com/atuinsh/atuin)** — Shell history sync and search. Encrypted sync across machines, SQLite backend, fuzzy search.
-- **[Zellij](https://github.com/zellij-org/zellij)** — Terminal multiplexer (tmux alternative) with better defaults, modern UI, plugin system, floating panes.
-- **[NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel)** — Collection of useful network automation functions for the CLI.
-- **[Networking Toolbox](https://github.com/Lissy93/networking-toolbox)** — Self-hosted collection of 100+ offline-first networking tools and utilities. Includes DNS lookup, WHOIS, port scanner...
-- **[sig](https://github.com/ynqa/sig)** — Interactive grep for streaming data. Real-time search through live data streams with TUI, command re-execution for mi...
 
 ### Infrastructure as Code (4 tools)
 
@@ -756,6 +758,11 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[multivendor-evpn-lab](https://github.com/srl-labs/multivendor-evpn-lab)** `Nokia` ✓ — Containerlab-based multivendor EVPN lab topology. Spins up Nokia SROS (route reflectors), Nokia SR Linux (leaf), Aris...
 - **[Nokia Segment Routing Lab](https://github.com/srl-labs/nokia-segment-routing-lab)** `Nokia` ✓ — Containerlab-based Nokia lab demonstrating Segment Routing Flex-Algo use cases. Useful for testing transport path eng...
 
+### Network Inventory (2 tools)
+
+- **[netbox-wdm](https://github.com/jsenecal/netbox-wdm)** — NetBox plugin for ITU DWDM/CWDM channel plans, ROADM editing, modular WDM chassis, wavelength services, and end-to-en...
+- **[Kuwaiba](https://sourceforge.net/projects/kuwaiba/)** — Enterprise-grade open source network inventory and CMDB specifically designed for telecom and IT infrastructure. Supp...
+
 ### Infrastructure (2 tools)
 
 - **[certctl](https://github.com/shankar0123/certctl)** — Self-hosted certificate lifecycle automation platform. Any CA, any server, zero human intervention. Full REST API, we...
@@ -789,10 +796,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 ### Infrastructure Automation (1 tools)
 
 - **[HybridOps Core](https://github.com/hybridops-tech/hybridops-core)** — Contract-driven automation platform for hybrid infrastructure across Proxmox, Hetzner, GCP, AWS, Azure and local. 68 ...
-
-### Network Inventory (1 tools)
-
-- **[Kuwaiba](https://sourceforge.net/projects/kuwaiba/)** — Enterprise-grade open source network inventory and CMDB specifically designed for telecom and IT infrastructure. Supp...
 
 ### Documentation (1 tools)
 
