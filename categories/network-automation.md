@@ -1,6 +1,6 @@
 # Network Automation
 
-**348 tools** — sorted by relevance score.
+**350 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -212,6 +212,7 @@
 | 33 | [bront-network](https://github.com/brontnet/bront-network) | CLI-native network automation tool focused on concise, operator-friendly workflows. Interesting a... | — |
 | 33 | [NetBox BGP](https://github.com/netbox-community/netbox-bgp) | NetBox plugin for documenting BGP-related objects, useful for transport engineering and routing i... | — |
 | 33 | [clibench](https://github.com/lykinsbd/clibench) | CLI transport benchmark for network automation that compares SSH, HTTPS, and HTTP/3 style CLI acc... | — |
+| 33 | [NetBox Config Backup](https://github.com/Kinet-s-r-o/netbox-plugin-backup) | NetBox 4.6 plugin for scheduled, auditable network-device configuration backups using read-only d... | — |
 | 32 | [ansible-navigator](https://github.com/ansible/ansible-navigator) | Text-based TUI (terminal UI) for Ansible. Browse playbooks, collections, inventories, and documen... | — |
 | 32 | [lib60870](https://github.com/mz-automation/lib60870) | Open-source IEC 60870-5-101/104 protocol library in C. Useful for utility/substation and SEL-adja... | SEL |
 | 31 | [containerlab](https://github.com/srl-labs/containerlab) | Container-based networking lab tool. Spin up network topologies with Nokia SR Linux, Arista cEOS,... | Nokia |
@@ -252,6 +253,7 @@
 | 27 | [n8n-nodes-netdevices](https://github.com/arpit-patel1/n8n-nodes-netdevices) | Custom n8n node for SSH-based network device automation. Brings Netmiko-style operations into n8n... | — |
 | 27 | [Nautobot NetBox Importer](https://github.com/nautobot/nautobot-app-netbox-importer) | Official Nautobot plugin that simplifies migrating data from NetBox into Nautobot using DiffSync.... | — |
 | 27 | [NetBox NRX CLAB](https://github.com/srl-labs/netbox-nrx-clab) | Digital-twin lab showing how to pair NetBox, NetReplica, and containerlab to model and validate n... | Nokia |
+| 27 | [sysrepo-cpp](https://github.com/sysrepo/sysrepo-cpp) | C++23 RAII bindings for sysrepo's YANG-based datastore, covering data edits and retrieval, change... | — |
 | 25 | [scrapli](https://github.com/carlmontanari/scrapli) | Fast, flexible screen scraping for network devices. SSH/Telnet automation with async support. | — |
 | 25 | [salt-nornir](https://github.com/dmulyalin/salt-nornir) | Salt proxy minion for network management using Nornir, Netmiko, NAPALM, Scrapli, etc. | — |
 | 25 | [NetOpsForge](https://github.com/JT-BFS/NetOpsForge) | AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisc... | — |

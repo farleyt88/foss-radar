@@ -12671,5 +12671,82 @@
     "discovered": "2026-08-24",
     "source": "weekly-primary-source-scan",
     "relevance_score": 67
+  },
+  {
+    "name": "sysrepo-cpp",
+    "url": "https://github.com/sysrepo/sysrepo-cpp",
+    "description": "C++23 RAII bindings for sysrepo's YANG-based datastore, covering data edits and retrieval, change/RPC/action subscriptions, and YANG-Push on-change resynchronization.",
+    "category": "Network Automation",
+    "stars": 10,
+    "language": "C++",
+    "license": "BSD-3-Clause",
+    "topics": [
+      "yang",
+      "sysrepo",
+      "datastore",
+      "configuration-management",
+      "c-plus-plus",
+      "sdn",
+      "yang-push"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-31",
+    "discovered": "2026-08-31",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 27
+  },
+  {
+    "name": "yangmap",
+    "url": "https://github.com/FODYZ/yangmap",
+    "description": "Offline CLI and MCP server that fetches vendor YANG bundles and searches or validates version-aware gNMI paths for Nokia SR OS, Cisco IOS XE, and Arista EOS.",
+    "category": "MCP / AI Integration",
+    "stars": 0,
+    "language": "Python",
+    "license": "MIT",
+    "topics": [
+      "yang",
+      "gnmi",
+      "mcp",
+      "network-automation",
+      "nokia",
+      "sros",
+      "cisco-ios-xe",
+      "arista-eos",
+      "offline-search"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-08-29",
+    "discovered": "2026-08-31",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 77
+  },
+  {
+    "name": "NetBox Config Backup",
+    "url": "https://github.com/Kinet-s-r-o/netbox-plugin-backup",
+    "description": "NetBox 4.6 plugin for scheduled, auditable network-device configuration backups using read-only drivers, encrypted credential handling, revision diffs, retention, replication, and Prometheus health metrics.",
+    "category": "Network Automation",
+    "stars": 0,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "topics": [
+      "netbox",
+      "network-automation",
+      "configuration-backup",
+      "netmiko",
+      "ssh",
+      "network-inventory",
+      "prometheus",
+      "disaster-recovery"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-08-31",
+    "discovered": "2026-08-31",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 33
   }
 ]
