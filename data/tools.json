@@ -2973,27 +2973,29 @@
     "vendor_verified": false
   },
   {
-    "name": "nornir-srl",
-    "url": "https://github.com/srl-labs/nornir-srl",
-    "description": "Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and push configs. Provides built-in tasks for common operations (BGP peers, MAC table, subinterfaces) and a CLI that runs show commands across an entire SR Linux fabric from one terminal. Abstracts away YANG model changes between SR Linux releases.",
+    "name": "fcli",
+    "url": "https://github.com/srl-labs/fcli",
+    "description": "Fabric observability tool for Nokia SR Linux that uses gNMI to provide a live web UI, topology and operational reports, CLI output in table/JSON/YAML/CSV formats, snapshots and diffs, and an MCP server for AI-assisted troubleshooting.",
     "category": "Network Automation",
-    "stars": 17,
+    "stars": 19,
     "topics": [
       "nokia",
       "sr-linux",
       "nornir",
       "gnmi",
       "network-automation",
+      "network-observability",
+      "topology",
       "python",
       "cli",
-      "fabric-wide"
+      "mcp"
     ],
     "vendors": [
       "Nokia"
     ],
-    "updated": "2026-03-17",
+    "updated": "2026-09-04",
     "discovered": "2026-03-18",
-    "relevance_score": 95,
+    "relevance_score": 97,
     "vendor_verified": true,
     "source": "foss-radar-scan"
   },
@@ -12748,5 +12750,78 @@
     "discovered": "2026-08-31",
     "source": "weekly-primary-source-scan",
     "relevance_score": 33
+  },
+  {
+    "name": "OpenConfig Public Models",
+    "url": "https://github.com/openconfig/public",
+    "description": "Official vendor-neutral YANG model and documentation repository developed by network operators for programmatic network management, with published compatibility checks for pyang, ygot, ygnmi, and yanglint.",
+    "category": "Standards & Models",
+    "stars": 992,
+    "license": "Apache-2.0",
+    "topics": [
+      "openconfig",
+      "yang",
+      "data-models",
+      "model-driven-management",
+      "network-automation",
+      "vendor-neutral"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-03",
+    "discovered": "2026-09-07",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 54
+  },
+  {
+    "name": "pcaptoparquet",
+    "url": "https://github.com/nokia/pcaptoparquet",
+    "description": "CLI and Python package that converts PCAP captures to Parquet, CSV, or JSON for analysis, with GTP-U and VXLAN decoding plus experimental L2TP and GRE tunnel unwrapping.",
+    "category": "Network Analysis",
+    "stars": 7,
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "topics": [
+      "pcap",
+      "parquet",
+      "packet-analysis",
+      "gtp-u",
+      "vxlan",
+      "l2tp",
+      "gre",
+      "cli",
+      "python"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-07",
+    "discovered": "2026-09-07",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 13
+  },
+  {
+    "name": "Cambium",
+    "url": "https://github.com/signalbreak-labs/cambium",
+    "description": "Order-correct YANG toolkit and Go SDK with a cgo-free schema IR, typed-struct code generation, JSON_IETF/XML processing, and an optional libyang data backend; its pure-Go data tree remains experimental.",
+    "category": "Network Automation",
+    "stars": 0,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "topics": [
+      "yang",
+      "yang-parser",
+      "network-automation",
+      "code-generation",
+      "json-ietf",
+      "netconf",
+      "gnmi",
+      "golang"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-07",
+    "discovered": "2026-09-07",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 47
   }
 ]

@@ -3,16 +3,16 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "08-31-2026"
+updated: "09-07-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 08-31-2026 13:08
-**Total Tools Tracked:** 623
-**Categories:** Network Automation (350), Observability (155), Network Observability (9), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
+**Last Scan:** 09-07-2026 13:08
+**Total Tools Tracked:** 626
+**Categories:** Network Automation (351), Observability (155), Network Observability (9), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
 > for target vendors (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
@@ -38,9 +38,9 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 9 | [NetGauze](https://github.com/NetGauze/NetGauze) | Network Automation | High-performance Rust libraries and daemons for network protocol parsing and telemetry collection... | Nokia ✓ | 180 |
 | 10 | [Splice](https://github.com/Open-Ireland-Testbed/splice) | Network Observability | Vendor-agnostic bridge that discovers NETCONF/YANG devices and exposes their telemetry through a ... | — | 1 |
 | 11 | [gnmic](https://github.com/openconfig/gnmic) | Network Automation | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✓ | 800 |
-| 12 | [gNPSI](https://github.com/openconfig/gnpsi) | Observability | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC... | Nokia | 20 |
-| 13 | [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) | Network Automation | Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETC... | Nokia ✓ | 43 |
-| 14 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Network Automation | Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNM... | Nokia ✓ | 17 |
+| 12 | [fcli](https://github.com/srl-labs/fcli) | Network Automation | Fabric observability tool for Nokia SR Linux that uses gNMI to provide a live web UI, topology an... | Nokia ✓ | 19 |
+| 13 | [gNPSI](https://github.com/openconfig/gnpsi) | Observability | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC... | Nokia | 20 |
+| 14 | [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) | Network Automation | Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETC... | Nokia ✓ | 43 |
 | 15 | [Nokia OSSMediator](https://github.com/nokia/OSSMediator) | Observability | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM... | Nokia ✓ | 12 |
 | 16 | [Ciena YANG Modules](https://github.com/ciena/yang) | Network Automation | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveSer... | Ciena ✓ | 5 |
 | 17 | [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) | Network Automation | Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connec... | Nokia ✓ | 1 |
@@ -95,7 +95,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 *Vendor tags: ✓ = verified, (?) = auto-tagged, needs verification*
 
 
-### Network Automation (350 tools)
+### Network Automation (351 tools)
 
 - **[NAPALM](https://github.com/napalm-automation/napalm)** `Ciena` `Nokia` ✓ — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API.
 - **[OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles)** `Nokia` `Ciena` ✓ — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI,...
@@ -104,8 +104,8 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[pydantify](https://github.com/pydantify/pydantify)** `Nokia` ✓ — CLI tool that transforms YANG models into Pydantic datastructures, serializable as RESTCONF payloads. Bridges YANG/NE...
 - **[NetGauze](https://github.com/NetGauze/NetGauze)** `Nokia` ✓ — High-performance Rust libraries and daemons for network protocol parsing and telemetry collection. Supports BGP-4, MP...
 - **[gnmic](https://github.com/openconfig/gnmic)** `Nokia` ✓ — gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC.
+- **[fcli](https://github.com/srl-labs/fcli)** `Nokia` ✓ — Fabric observability tool for Nokia SR Linux that uses gNMI to provide a live web UI, topology and operational report...
 - **[Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections)** `Nokia` ✓ — Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF workflows plus g...
-- **[nornir-srl](https://github.com/srl-labs/nornir-srl)** `Nokia` ✓ — Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNMI to fetch state and...
 - **[Ciena YANG Modules](https://github.com/ciena/yang)** `Ciena` ✓ — Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveServer, etc.). Actively...
 - **[Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection)** `Nokia` ✓ — Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and mod...
 - **[Ciena gNMI C++ Client](https://github.com/ciena/gNMI-cpp-client)** `Ciena` ✓ — Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for building or testing g...
@@ -221,6 +221,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[ncdiff](https://github.com/CiscoTestAutomation/ncdiff)** — Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculates edit-config delta...
 - **[NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform)** — AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools for multi-vendor infr...
 - **[Infrahub Ansible Collection](https://github.com/opsmill/infrahub-ansible)** — Ansible collection for managing Infrahub, useful for tying source-of-truth workflows into network automation, DCIM, a...
+- **[Cambium](https://github.com/signalbreak-labs/cambium)** — Order-correct YANG toolkit and Go SDK with a cgo-free schema IR, typed-struct code generation, JSON_IETF/XML processi...
 - **[netpalm](https://github.com/tbotnz/netpalm)** — REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation.
 - **[SDC (sdctl)](https://github.com/sdcio/sdctl)** — Schema Driven Configuration - cloud-native declarative config management for network devices using YANG schemas. Idem...
 - **[gnoic](https://github.com/karimra/gnoic)** `Nokia` (?) — gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks like cert management, f...
@@ -756,10 +757,20 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[OpenNMS](https://github.com/OpenNMS/opennms)** — Enterprise-grade open-source network management platform. Supports SNMP, JSON, WinRM, XML, SQL, JMX, SFTP, FTP, JDBC,...
 - **[Thola](https://github.com/inexio/thola)** — Go-based tool for monitoring network devices, primarily via SNMP. Features an identify mode (auto-detects vendor/mode...
 
+### Standards & Models (2 tools)
+
+- **[OpenROADM MSA](https://github.com/OpenROADM/OpenROADM_MSA_Public)** — Open ROADM Multi-Source Agreement YANG models and specifications for disaggregated optical transport (DWDM/ROADM). De...
+- **[OpenConfig Public Models](https://github.com/openconfig/public)** — Official vendor-neutral YANG model and documentation repository developed by network operators for programmatic netwo...
+
 ### Lab / Testing (2 tools)
 
 - **[multivendor-evpn-lab](https://github.com/srl-labs/multivendor-evpn-lab)** `Nokia` ✓ — Containerlab-based multivendor EVPN lab topology. Spins up Nokia SROS (route reflectors), Nokia SR Linux (leaf), Aris...
 - **[Nokia Segment Routing Lab](https://github.com/srl-labs/nokia-segment-routing-lab)** `Nokia` ✓ — Containerlab-based Nokia lab demonstrating Segment Routing Flex-Algo use cases. Useful for testing transport path eng...
+
+### Network Analysis (2 tools)
+
+- **[nDPI](https://github.com/ntop/nDPI)** — Open Deep Packet Inspection library from ntop, used under the hood in ntopng, Wireshark, and dozens of commercial app...
+- **[pcaptoparquet](https://github.com/nokia/pcaptoparquet)** — CLI and Python package that converts PCAP captures to Parquet, CSV, or JSON for analysis, with GTP-U and VXLAN decodi...
 
 ### Network Inventory (2 tools)
 
@@ -779,14 +790,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 ### Infrastructure Management (1 tools)
 
 - **[RackPeek](https://github.com/Timmoth/RackPeek)** — CLI tool to discover, manage, and document IT infrastructure and home lab environments. Auto-discovers devices, gener...
-
-### Standards & Models (1 tools)
-
-- **[OpenROADM MSA](https://github.com/OpenROADM/OpenROADM_MSA_Public)** — Open ROADM Multi-Source Agreement YANG models and specifications for disaggregated optical transport (DWDM/ROADM). De...
-
-### Network Analysis (1 tools)
-
-- **[nDPI](https://github.com/ntop/nDPI)** — Open Deep Packet Inspection library from ntop, used under the hood in ntopng, Wireshark, and dozens of commercial app...
 
 ### Documentation & Diagramming (1 tools)
 

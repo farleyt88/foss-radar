@@ -1,6 +1,6 @@
 # Network Automation
 
-**350 tools** — sorted by relevance score.
+**351 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -13,8 +13,8 @@
 | 101 | [pydantify](https://github.com/pydantify/pydantify) | CLI tool that transforms YANG models into Pydantic datastructures, serializable as RESTCONF paylo... | Nokia ✅ |
 | 101 | [NetGauze](https://github.com/NetGauze/NetGauze) | High-performance Rust libraries and daemons for network protocol parsing and telemetry collection... | Nokia ✅ |
 | 98 | [gnmic](https://github.com/openconfig/gnmic) | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✅ |
+| 97 | [fcli](https://github.com/srl-labs/fcli) | Fabric observability tool for Nokia SR Linux that uses gNMI to provide a live web UI, topology an... | Nokia ✅ |
 | 97 | [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) | Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETC... | Nokia ✅ |
-| 95 | [nornir-srl](https://github.com/srl-labs/nornir-srl) | Nornir connection plugin and network-wide CLI tool (fcli) for Nokia SR Linux. Uses gNMI via PyGNM... | Nokia ✅ |
 | 95 | [Ciena YANG Modules](https://github.com/ciena/yang) | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveSer... | Ciena ✅ |
 | 95 | [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) | Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connec... | Nokia ✅ |
 | 95 | [Ciena gNMI C++ Client](https://github.com/ciena/gNMI-cpp-client) | Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for b... | Ciena ✅ |
@@ -130,6 +130,7 @@
 | 47 | [ncdiff](https://github.com/CiscoTestAutomation/ncdiff) | Lightweight NETCONF diff engine (open sourced by Cisco). Compares NETCONF config states, calculat... | — |
 | 47 | [NetworkOps Platform](https://github.com/E-Conners-Lab/NetworkOps_Platform) | AI-powered network automation platform using NetBox and Model Context Protocol (MCP). 178 tools f... | — |
 | 47 | [Infrahub Ansible Collection](https://github.com/opsmill/infrahub-ansible) | Ansible collection for managing Infrahub, useful for tying source-of-truth workflows into network... | — |
+| 47 | [Cambium](https://github.com/signalbreak-labs/cambium) | Order-correct YANG toolkit and Go SDK with a cgo-free schema IR, typed-struct code generation, JS... | — |
 | 45 | [netpalm](https://github.com/tbotnz/netpalm) | REST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT. Unified API for network automation. | — |
 | 45 | [SDC (sdctl)](https://github.com/sdcio/sdctl) | Schema Driven Configuration - cloud-native declarative config management for network devices usin... | — |
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks lik... | Nokia |
