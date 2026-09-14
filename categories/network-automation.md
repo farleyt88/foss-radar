@@ -1,6 +1,6 @@
 # Network Automation
 
-**351 tools** — sorted by relevance score.
+**352 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -87,6 +87,7 @@
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network en... | Nokia ✅ |
 | 61 | [containerlab-sr-mpls-sros](https://github.com/cloud-native-everything/containerlab-sr-mpls-sros) | Containerlab-based Nokia SR OS 7750 lab for SR-MPLS transport engineering, including TE-LSP and F... | Nokia ✅ |
 | 61 | [SR OS Docs Lab](https://github.com/nokia/sros-docs-lab) | Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows... | Nokia ✅ |
+| 61 | [Nokia NSP Automation Examples](https://github.com/nokia/nsp-automation) | Official collection of reproducible Nokia Network Services Platform (NSP) examples for Mistral wo... | Nokia ✅ |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services o... | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language serve... | Nokia ✅ |
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Ari... | Nokia ✅ |

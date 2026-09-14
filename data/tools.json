@@ -12823,5 +12823,85 @@
     "discovered": "2026-09-07",
     "source": "weekly-primary-source-scan",
     "relevance_score": 47
+  },
+  {
+    "name": "Nokia NSP Automation Examples",
+    "url": "https://github.com/nokia/nsp-automation",
+    "description": "Official collection of reproducible Nokia Network Services Platform (NSP) examples for Mistral workflows, network intents, adaptors, mappers, and other programmability features; recent additions include bulk E-Line provisioning, tech-support collection, and NE password auditing.",
+    "category": "Network Automation",
+    "stars": 3,
+    "language": "Jinja",
+    "license": "BSD-3-Clause-Clear",
+    "topics": [
+      "nokia",
+      "nsp",
+      "network-automation",
+      "workflows",
+      "network-intents",
+      "mistral",
+      "adaptors",
+      "service-provisioning",
+      "password-audit"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-09-10",
+    "discovered": "2026-09-14",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 61
+  },
+  {
+    "name": "WeathermapNG",
+    "url": "https://github.com/lance0/weathermapNG",
+    "description": "LibreNMS plugin for real-time topology and traffic visualization, with LLDP/CDP discovery, RRD metrics, alerts, templates, embedded maps, nested drill-down maps, and JSON or legacy .conf import/export.",
+    "category": "Network Observability",
+    "stars": 12,
+    "language": "PHP",
+    "license": "MIT",
+    "topics": [
+      "librenms",
+      "network-topology",
+      "network-observability",
+      "traffic-visualization",
+      "rrd",
+      "lldp",
+      "cdp",
+      "network-monitoring",
+      "dashboard"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-14",
+    "discovered": "2026-09-14",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 51
+  },
+  {
+    "name": "ARSAS",
+    "url": "https://github.com/masarray/arsas",
+    "description": "Windows IEC 61850 engineering workstation for live MMS discovery, multi-IED monitoring, GOOSE/SMV capture, SCL workflows, COMTRADE analysis, IO-list FAT/SAT testing, and Excel/PDF evidence exports.",
+    "category": "Utility / Substation Automation",
+    "stars": 5,
+    "language": "C#",
+    "license": "GPL-3.0-or-later",
+    "topics": [
+      "iec61850",
+      "mms",
+      "goose",
+      "sampled-values",
+      "scl",
+      "comtrade",
+      "substation-automation",
+      "fat-sat",
+      "network-testing"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-11",
+    "discovered": "2026-09-14",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 21
   }
 ]
