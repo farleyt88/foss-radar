@@ -3,15 +3,15 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "09-14-2026"
+updated: "09-21-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 09-14-2026 13:14
-**Total Tools Tracked:** 629
+**Last Scan:** 09-21-2026 13:14
+**Total Tools Tracked:** 631
 **Categories:** Network Automation (352), Observability (155), Network Observability (10), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
@@ -725,6 +725,12 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[saos-labs](https://github.com/ciena/saos-labs)** `Ciena` ✓ — Official Ciena SAOS 10 containerlab curriculum with hands-on labs for IS-IS, SR-MPLS, BGP, LDP, L3VPN, and EVPN-VPWS.
 - **[wsl-containerlab](https://github.com/srl-labs/wsl-containerlab)** `Nokia` (?) — Pre-configured WSL2 Linux distribution purpose-built for Containerlab network labbing on Windows. Bundles Docker, Con...
 
+### Network OS / Infrastructure (3 tools)
+
+- **[Nokia SONiC Platform Support](https://github.com/nokia/sonic-platform)** `Nokia` ✓ — Official Nokia SONiC platform monitoring implementation for Nokia data-center hardware, including platform health and...
+- **[Infix](https://github.com/kernelkit/infix)** — Immutable, YANG-native Linux NOS that turns any ARM or x86 device (Raspberry Pi to enterprise switches) into a manage...
+- **[Ze](https://github.com/ze-software/ze)** — Pre-release network OS, configuration, and protocol engine in Go with BGP, OSPF, RPKI, Linux interface and forwarding...
+
 ### Network Operations (3 tools)
 
 - **[hyperglass](https://github.com/thatmattlove/hyperglass)** `Nokia` (?) — Self-hosted network looking glass that makes BGP route queries, community lookups, AS path queries, ping, and tracero...
@@ -797,10 +803,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 ### Documentation & Diagramming (1 tools)
 
 - **[FossFLOW](https://github.com/stan-smith/FossFLOW)** — Open-source isometric infrastructure diagramming tool for creating beautiful, hand-crafted infrastructure diagrams. W...
-
-### Network OS / Infrastructure (1 tools)
-
-- **[Infix](https://github.com/kernelkit/infix)** — Immutable, YANG-native Linux NOS that turns any ARM or x86 device (Raspberry Pi to enterprise switches) into a manage...
 
 ### Infrastructure Automation (1 tools)
 

@@ -12903,5 +12903,58 @@
     "discovered": "2026-09-14",
     "source": "weekly-primary-source-scan",
     "relevance_score": 21
+  },
+  {
+    "name": "Nokia SONiC Platform Support",
+    "url": "https://github.com/nokia/sonic-platform",
+    "description": "Official Nokia SONiC platform monitoring implementation for Nokia data-center hardware, including platform health and hardware-control code; the latest update optimizes H6-64 fan-speed control.",
+    "category": "Network OS / Infrastructure",
+    "stars": 12,
+    "language": "C",
+    "license": "GPL-2.0",
+    "topics": [
+      "nokia",
+      "sonic",
+      "platform-monitoring",
+      "hardware-monitoring",
+      "fan-control",
+      "data-center-networking",
+      "network-operating-system"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-09-17",
+    "discovered": "2026-09-21",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 63
+  },
+  {
+    "name": "Ze",
+    "url": "https://github.com/ze-software/ze",
+    "description": "Pre-release network OS, configuration, and protocol engine in Go with BGP, OSPF, RPKI, Linux interface and forwarding-table control, shared YANG configuration, SSH and web editors, MCP tools, and ExaBGP migration support.",
+    "category": "Network OS / Infrastructure",
+    "stars": 54,
+    "language": "Go",
+    "license": "AGPL-3.0",
+    "topics": [
+      "bgp",
+      "ospf",
+      "rpki",
+      "yang",
+      "network-operating-system",
+      "routing",
+      "linux-networking",
+      "mcp",
+      "exabgp",
+      "golang"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-09-21",
+    "discovered": "2026-09-21",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 25
   }
 ]
