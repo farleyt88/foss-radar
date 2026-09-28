@@ -1,6 +1,6 @@
 # Network Observability
 
-**10 tools** — sorted by relevance score.
+**11 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -10,6 +10,7 @@
 | 81 | [ktranslate](https://github.com/kentik/ktranslate) | Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IP... | — |
 | 67 | [Riptide](https://github.com/Riptide-Labs/riptide) | Network traffic analysis platform for NetFlow v5/v9, IPFIX, and sFlow backed by ClickHouse and Gr... | — |
 | 63 | [Shumoku](https://github.com/konoe-akitoshi/shumoku) | Network topology generation and monitoring platform that builds diagrams from YAML, NetBox, LLDP,... | — |
+| 53 | [Vantage](https://github.com/jp2195/vantage) | BMP (RFC 7854) collector and BGP routing observability platform with live topology, Looking Glass... | — |
 | 51 | [WeathermapNG](https://github.com/lance0/weathermapNG) | LibreNMS plugin for real-time topology and traffic visualization, with LLDP/CDP discovery, RRD me... | — |
 | 47 | [gnmi-exporter](https://github.com/cobaltcore-dev/gnmi-exporter) | Kubernetes operator for automating monitoring of network devices managed through ironcore network... | — |
 | 40 | [OpenBMP](https://github.com/SNAS/openbmp) | OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing... | — |

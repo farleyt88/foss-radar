@@ -1,6 +1,6 @@
 # Observability
 
-**155 tools** — sorted by relevance score.
+**156 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -137,6 +137,7 @@
 | 29 | [NetAlertX](https://github.com/netalertx/NetAlertX) | Centralized network visibility and continuous asset discovery. Self-hosted Docker app that monito... | — |
 | 29 | [NetObserv Operator](https://github.com/netobserv/netobserv-operator) | Kubernetes operator for network observability. Deploys and manages eBPF-based flow collection wit... | — |
 | 29 | [tsmetrics](https://github.com/sbaerlocher/tsmetrics) | Tailscale Prometheus exporter that combines Tailscale API metadata with live device metrics for n... | — |
+| 29 | [NetBox OpenTelemetry Plugin](https://github.com/thomaschristory/netbox-opentelemetry-plugin) | NetBox plugin that exports application logs, change records, RQ job logs, distributed traces, and... | — |
 | 28 | [Orb](https://github.com/orb-community/orb) | Dynamic network observability platform with agent fleet orchestration and OpenTelemetry data pipe... | — |
 | 27 | [Scanlyne](https://github.com/Josperdo/scanlyne) | Lightweight network change detection built on nmap. Runs scans, stores baseline snapshots in SQLi... | — |
 | 27 | [mermin](https://github.com/elastiflow/mermin) | Kubernetes-native network observability tool that uses eBPF to auto-instrument network traffic an... | — |
