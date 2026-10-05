@@ -13036,5 +13036,84 @@
     "discovered": "2026-09-28",
     "source": "weekly-primary-source-scan",
     "relevance_score": 13
+  },
+  {
+    "name": "Network Traffic Map",
+    "url": "https://github.com/yuri-dubovitsky-labs/grafana-network-traffic-map",
+    "description": "Grafana panel plugin for arranging routers, ports, and tunnels with compact bidirectional IF-MIB traffic history, interface state, outage segments, and editable VictoriaMetrics queries.",
+    "category": "Network Observability",
+    "stars": 0,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "topics": [
+      "grafana",
+      "grafana-panel",
+      "network-topology",
+      "network-observability",
+      "traffic-visualization",
+      "if-mib",
+      "interface-monitoring",
+      "victoriametrics"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-05",
+    "discovered": "2026-10-05",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 49
+  },
+  {
+    "name": "yang2sdk",
+    "url": "https://github.com/ConsortiumGARR/yang2sdk",
+    "description": "Generates versioned Pydantic v2 SDKs directly from device YANG modules, including RESTCONF and NETCONF clients, models, navigators, RPC/action code, and lab verification; primary documentation confirms live testing against Nokia SR Linux.",
+    "category": "Network Automation",
+    "stars": 6,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "topics": [
+      "yang",
+      "netconf",
+      "restconf",
+      "pydantic",
+      "sdk-generation",
+      "network-automation",
+      "rpc",
+      "sr-linux"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-10-05",
+    "discovered": "2026-10-05",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 91
+  },
+  {
+    "name": "conduitscope",
+    "url": "https://github.com/jkobierczynski/conduitscope",
+    "description": "Offline-first OT/ICS packet-capture auditing tool that decodes industrial and utility protocols, infers asset and conduit inventories, validates IEC 62443-style segmentation policies, and learns per-conduit operation baselines.",
+    "category": "Utility / Substation Automation",
+    "stars": 1,
+    "language": "C++",
+    "license": "Apache-2.0",
+    "topics": [
+      "iec61850",
+      "dnp3",
+      "iec104",
+      "modbus",
+      "goose",
+      "sampled-values",
+      "ot-security",
+      "ics",
+      "pcap",
+      "network-segmentation"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-05",
+    "discovered": "2026-10-05",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 9
   }
 ]

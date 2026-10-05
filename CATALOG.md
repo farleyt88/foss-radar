@@ -3,16 +3,16 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "09-28-2026"
+updated: "10-05-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 09-28-2026 13:05
-**Total Tools Tracked:** 634
-**Categories:** Network Automation (352), Observability (156), Network Observability (11), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
+**Last Scan:** 10-05-2026 13:10
+**Total Tools Tracked:** 637
+**Categories:** Network Automation (353), Observability (156), Network Observability (12), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7), Network Management (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
 > for target vendors (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
@@ -50,43 +50,43 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 21 | [ciena.waveserver5](https://github.com/ciena/ciena.waveserver5) | Network Automation | Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF... | Ciena ✓ | 2 |
 | 22 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Observability | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics.... | Nokia ✓ | 27 |
 | 23 | [NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux) | Network Automation | Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPA... | Nokia ✓ | 30 |
-| 24 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Observability | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, an... | Nokia ✓ | 25 |
-| 25 | [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) | Observability | Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical obser... | Nokia ✓ | 8 |
-| 26 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 26,094 |
-| 27 | [nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills) | Network Automation | Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/ver... | Nokia ✓ | 8 |
-| 28 | [ntopng](https://github.com/ntop/ntopng) | Network Monitoring | High-speed web-based network traffic analysis and flow monitoring tool. Supports deep packet insp... | — | 6,200 |
-| 29 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Network Automation | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operation... | Nokia ✓ | 28 |
-| 30 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Network Automation | Official Nokia Ansible collection for SR Linux device management. Provides modules for config man... | Nokia ✓ | — |
-| 31 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Network Automation | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/... | Nokia ✓ | — |
-| 32 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Observability | Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compa... | — | 13,500 |
-| 33 | [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) | Network Automation | Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sampl... | Nokia ✓ | 7 |
-| 34 | [Inmanta](https://github.com/inmanta/inmanta-core) | Network Automation | Infrastructure orchestration and automation tool with intent-based desired-state model. Built for... | Nokia ✓ | 90 |
-| 35 | [notconf](https://github.com/notconf/notconf) | Network Automation | NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper ... | Nokia ✓ | 150 |
-| 36 | [ANX (Advanced NETCONF Explorer)](https://github.com/cisco-ie/anx) | Network Automation | Graphical explorer for YANG models on NETCONF devices. Features include model retrieval, tree vis... | — | 200 |
-| 37 | [nokia-sros-automation](https://github.com/karneliuk-com/nokia-sros-automation) | Network Automation | Demo collection of Python scripts showing Nokia SR OS automation via all major interfaces: pySROS... | Nokia ✓ | 15 |
-| 38 | [pydantic-srlinux](https://github.com/srl-labs/pydantic-srlinux) | Network Automation | Experimental Pydantic model library auto-generated from Nokia SR Linux YANG schemas. Provides str... | Nokia ✓ | 15 |
-| 39 | [napalm-ciena-saos](https://github.com/napalm-automation-community/napalm-ciena-saos) | Network Automation | NAPALM community driver for Ciena SAOS devices. Enables get_facts, get_config, save_config, and g... | Ciena ✓ | 15 |
-| 40 | [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) | Network Automation | Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service lib... | Nokia ✓ | 40 |
-| 41 | [Convergence](https://github.com/byrn-baker/Convergence) | Observability | Network observability platform with Nautobot integration, built on OpenTelemetry Collector, Victo... | — | 6 |
-| 42 | [pySROS](https://github.com/nokia/pysros) | Network Automation | Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF manageme... | Nokia ✓ | — |
-| 43 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Network Automation | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos wi... | Nokia ✓ | 3 |
-| 44 | [ktranslate](https://github.com/kentik/ktranslate) | Network Observability | Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IP... | — | 250 |
-| 45 | [GoFlow2](https://github.com/netsampler/goflow2) | Observability | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflar... | — | 1,400 |
-| 46 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gnmi-mcp-server) | MCP / AI Integration | MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compat... | Nokia ✓ | — |
-| 47 | [small-isp-lab](https://github.com/abelperezr/small-isp-lab) | Network Simulation | Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP tra... | Nokia ✓ | 17 |
-| 48 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 18,160 |
-| 49 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Network Automation | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and acc... | Nokia ✓ | 50 |
-| 50 | [OpenNTI](https://github.com/Juniper/open-nti) | Observability | Containerized open network telemetry collector and visualization stack. Collects data from device... | — | 320 |
-| 51 | [Netdata](https://github.com/netdata/netdata) | Observability | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, ... | — | 78,232 |
-| 52 | [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) | Network Automation | Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR plat... | Nokia ✓ | 14 |
-| 53 | [Nokia YangModels](https://github.com/nokia/YangModels) | Network Automation | Official Nokia repository of YANG models for configuration and management across Nokia products, ... | Nokia ✓ | 18 |
-| 54 | [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) | Network Automation | SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for g... | Nokia ✓ | 4 |
-| 55 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Network Automation | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run nat... | Nokia ✓ | 12 |
-| 56 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Network Automation | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying cla... | Ciena ✓ | 4 |
-| 57 | [Diode](https://github.com/netboxlabs/diode) | Network Automation | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and recon... | — | 134 |
-| 58 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Network Automation | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts inter... | Nokia ✓ | 1 |
-| 59 | [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) | Network Automation | Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for... | Ciena ✓ | — |
-| 60 | [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) | Network Automation | Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and... | Nokia, NVIDIA ✓ | 1 |
+| 24 | [yang2sdk](https://github.com/ConsortiumGARR/yang2sdk) | Network Automation | Generates versioned Pydantic v2 SDKs directly from device YANG modules, including RESTCONF and NE... | Nokia ✓ | 6 |
+| 25 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Observability | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, an... | Nokia ✓ | 25 |
+| 26 | [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) | Observability | Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical obser... | Nokia ✓ | 8 |
+| 27 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 26,094 |
+| 28 | [nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills) | Network Automation | Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/ver... | Nokia ✓ | 8 |
+| 29 | [ntopng](https://github.com/ntop/ntopng) | Network Monitoring | High-speed web-based network traffic analysis and flow monitoring tool. Supports deep packet insp... | — | 6,200 |
+| 30 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Network Automation | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operation... | Nokia ✓ | 28 |
+| 31 | [Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection) | Network Automation | Official Nokia Ansible collection for SR Linux device management. Provides modules for config man... | Nokia ✓ | — |
+| 32 | [Nokia SROS Ansible Collection](https://github.com/nokia/sros-ansible-collection) | Network Automation | Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/... | Nokia ✓ | — |
+| 33 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Observability | Fast, cost-effective, and scalable time series database and monitoring solution. Prometheus-compa... | — | 13,500 |
+| 34 | [Nokia NSP Integration Bootstrap](https://github.com/nokia/NSP-Integration-Bootstrap) | Network Automation | Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sampl... | Nokia ✓ | 7 |
+| 35 | [Inmanta](https://github.com/inmanta/inmanta-core) | Network Automation | Infrastructure orchestration and automation tool with intent-based desired-state model. Built for... | Nokia ✓ | 90 |
+| 36 | [notconf](https://github.com/notconf/notconf) | Network Automation | NETCONF/RESTCONF device simulator based on Netopeer2. Pre-built images for Cisco IOS XR, Juniper ... | Nokia ✓ | 150 |
+| 37 | [ANX (Advanced NETCONF Explorer)](https://github.com/cisco-ie/anx) | Network Automation | Graphical explorer for YANG models on NETCONF devices. Features include model retrieval, tree vis... | — | 200 |
+| 38 | [nokia-sros-automation](https://github.com/karneliuk-com/nokia-sros-automation) | Network Automation | Demo collection of Python scripts showing Nokia SR OS automation via all major interfaces: pySROS... | Nokia ✓ | 15 |
+| 39 | [pydantic-srlinux](https://github.com/srl-labs/pydantic-srlinux) | Network Automation | Experimental Pydantic model library auto-generated from Nokia SR Linux YANG schemas. Provides str... | Nokia ✓ | 15 |
+| 40 | [napalm-ciena-saos](https://github.com/napalm-automation-community/napalm-ciena-saos) | Network Automation | NAPALM community driver for Ciena SAOS devices. Enables get_facts, get_config, save_config, and g... | Ciena ✓ | 15 |
+| 41 | [SROS gRPC Services](https://github.com/nokia/SROS-grpc-services) | Network Automation | Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service lib... | Nokia ✓ | 40 |
+| 42 | [Convergence](https://github.com/byrn-baker/Convergence) | Observability | Network observability platform with Nautobot integration, built on OpenTelemetry Collector, Victo... | — | 6 |
+| 43 | [pySROS](https://github.com/nokia/pysros) | Network Automation | Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF manageme... | Nokia ✓ | — |
+| 44 | [nokia-netconf-yang-operations](https://github.com/karneliuk-com/nokia-netconf-yang-operations) | Network Automation | Practical examples for operating Nokia SR OS routers via NETCONF/YANG. Python automation demos wi... | Nokia ✓ | 3 |
+| 45 | [ktranslate](https://github.com/kentik/ktranslate) | Network Observability | Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IP... | — | 250 |
+| 46 | [GoFlow2](https://github.com/netsampler/goflow2) | Observability | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflar... | — | 1,400 |
+| 47 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gnmi-mcp-server) | MCP / AI Integration | MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compat... | Nokia ✓ | — |
+| 48 | [small-isp-lab](https://github.com/abelperezr/small-isp-lab) | Network Simulation | Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP tra... | Nokia ✓ | 17 |
+| 49 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 18,160 |
+| 50 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Network Automation | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and acc... | Nokia ✓ | 50 |
+| 51 | [OpenNTI](https://github.com/Juniper/open-nti) | Observability | Containerized open network telemetry collector and visualization stack. Collects data from device... | — | 320 |
+| 52 | [Netdata](https://github.com/netdata/netdata) | Observability | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, ... | — | 78,232 |
+| 53 | [Nokia 7x50 Protobufs](https://github.com/nokia/7x50_protobufs) | Network Automation | Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR plat... | Nokia ✓ | 14 |
+| 54 | [Nokia YangModels](https://github.com/nokia/YangModels) | Network Automation | Official Nokia repository of YANG models for configuration and management across Nokia products, ... | Nokia ✓ | 18 |
+| 55 | [srl-grpc-tunnel](https://github.com/karimra/srl-grpc-tunnel) | Network Automation | SR Linux NDK application that adds OpenConfig gRPC tunnel support to Nokia SR Linux. Useful for g... | Nokia ✓ | 4 |
+| 56 | [srlinux-ndk-py](https://github.com/nokia/srlinux-ndk-py) | Network Automation | Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run nat... | Nokia ✓ | 12 |
+| 57 | [cienasaos10ncc](https://github.com/lucasw-eng/cienasaos10ncc) | Network Automation | Python library for interacting with Ciena SAOS 10 devices via NETCONF/YANG. Supports querying cla... | Ciena ✓ | 4 |
+| 58 | [Diode](https://github.com/netboxlabs/diode) | Network Automation | Data ingestion service for NetBox from NetBox Labs. Provides a gRPC-based ingestion API and recon... | — | 134 |
+| 59 | [nokia-config-visualizer](https://github.com/20eung/nokia-config-visualizer) | Network Automation | Web-based Nokia device configuration visualizer. Parses text-format Nokia configs, extracts inter... | Nokia ✓ | 1 |
+| 60 | [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) | Network Automation | Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for... | Ciena ✓ | — |
 
 ---
 
@@ -95,7 +95,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 *Vendor tags: ✓ = verified, (?) = auto-tagged, needs verification*
 
 
-### Network Automation (352 tools)
+### Network Automation (353 tools)
 
 - **[NAPALM](https://github.com/napalm-automation/napalm)** `Ciena` `Nokia` ✓ — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API.
 - **[OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles)** `Nokia` `Ciena` ✓ — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI,...
@@ -113,6 +113,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[NAPALM-SROS](https://github.com/napalm-automation-community/napalm-sros)** `Nokia` ✓ — Community NAPALM driver for Nokia SR OS. Provides unified API for config management and operational data retrieval vi...
 - **[ciena.waveserver5](https://github.com/ciena/ciena.waveserver5)** `Ciena` ✓ — Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF-based modules for A...
 - **[NAPALM SR Linux](https://github.com/napalm-automation-community/napalm-srlinux)** `Nokia` ✓ — Community NAPALM driver for Nokia SR Linux OS. Uses gNMI and JSON-RPC to provide the unified NAPALM API (get_facts, g...
+- **[yang2sdk](https://github.com/ConsortiumGARR/yang2sdk)** `Nokia` ✓ — Generates versioned Pydantic v2 SDKs directly from device YANG modules, including RESTCONF and NETCONF clients, model...
 - **[nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills)** `Nokia` ✓ — Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/version detection, on-d...
 - **[nokia/pygnmi](https://github.com/nokia/pygnmi)** `Nokia` ✓ — Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operational data access over ...
 - **[Nokia SR Linux Ansible Collection](https://github.com/nokia/srlinux-ansible-collection)** `Nokia` ✓ — Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queri...
@@ -609,7 +610,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[InfluxDB](https://github.com/influxdata/influxdb)** — Time-series database for metrics, events, and real-time analytics.
 - **[D2](https://github.com/terrastruct/d2)** — Create beautiful diagrams in minutes. Simple syntax, endlessly customizable.
 
-### Network Observability (11 tools)
+### Network Observability (12 tools)
 
 - **[Splice](https://github.com/Open-Ireland-Testbed/splice)** — Vendor-agnostic bridge that discovers NETCONF/YANG devices and exposes their telemetry through a gNMI server, with op...
 - **[ktranslate](https://github.com/kentik/ktranslate)** — Network data collection and translation system by Kentik Labs. Pulls SNMP, flow (NetFlow/sFlow/IPFIX), and streaming ...
@@ -617,6 +618,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[Shumoku](https://github.com/konoe-akitoshi/shumoku)** — Network topology generation and monitoring platform that builds diagrams from YAML, NetBox, LLDP, and SNMP, with live...
 - **[Vantage](https://github.com/jp2195/vantage)** — BMP (RFC 7854) collector and BGP routing observability platform with live topology, Looking Glass queries, route and ...
 - **[WeathermapNG](https://github.com/lance0/weathermapNG)** — LibreNMS plugin for real-time topology and traffic visualization, with LLDP/CDP discovery, RRD metrics, alerts, templ...
+- **[Network Traffic Map](https://github.com/yuri-dubovitsky-labs/grafana-network-traffic-map)** — Grafana panel plugin for arranging routers, ports, and tunnels with compact bidirectional IF-MIB traffic history, int...
 - **[gnmi-exporter](https://github.com/cobaltcore-dev/gnmi-exporter)** — Kubernetes operator for automating monitoring of network devices managed through ironcore network-operator in cloud-n...
 - **[OpenBMP](https://github.com/SNAS/openbmp)** — OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing/control-plane data ...
 - **[Skydive](https://github.com/skydive-project/skydive)** — Real-time network topology and protocols analyzer. Agents collect topology info and flows, forwarding to a central ag...
@@ -694,13 +696,14 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[clab_mpls_frr](https://github.com/martimy/clab_mpls_frr)** — MPLS network lab implementations using FRRouting and Containerlab. Covers manual MPLS, LDP label distribution, and L3...
 - **[Clabernetes](https://github.com/srl-labs/clabernetes)** `Nokia` (?) — Containerlab but in Kubernetes. Deploys containerlab network topologies on K8s clusters, enabling scalable multi-node...
 
-### Utility / Substation Automation (5 tools)
+### Utility / Substation Automation (6 tools)
 
 - **[EMS Simulate](https://github.com/600888/ems_simulate)** — Utility and substation protocol simulator with client/server support for IEC 61850 MMS, GOOSE, reports and files, IEC...
 - **[ARSAS](https://github.com/masarray/arsas)** — Windows IEC 61850 engineering workstation for live MMS discovery, multi-IED monitoring, GOOSE/SMV capture, SCL workfl...
 - **[pyiec61850-ng](https://github.com/f0rw4rd/pyiec61850-ng)** `SEL` (?) — Experimental next-generation Python bindings for libiec61850, packaged as a Python wheel. Makes IEC 61850 MMS/client ...
 - **[ARIEC61850](https://github.com/masarray/ARIEC61850)** — Native .NET 8 IEC 61850 engineering toolkit for MMS discovery and guarded IED control, reporting, GOOSE, Sampled Valu...
 - **[Process Bus Multi Tool](https://github.com/Victor-Shapoval/Process-Bus-Multi-Tool)** — IEC 61850 process-bus lab and compliance tool with Wireshark integration, PCAP analysis, GOOSE and Sampled Values par...
+- **[conduitscope](https://github.com/jkobierczynski/conduitscope)** — Offline-first OT/ICS packet-capture auditing tool that decodes industrial and utility protocols, infers asset and con...
 
 ### MCP / AI Integration (4 tools)
 
