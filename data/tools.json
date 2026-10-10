@@ -4627,10 +4627,10 @@
   },
   {
     "name": "pyribbon",
-    "url": "https://github.com/consentfactory/pyribbon",
+    "url": "https://github.com/commitconfirm/pyribbon",
     "description": "Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots, and do configuration backups/restores via Ribbon's REST interface. Practical tool for automating Ribbon SBC management from Python scripts.",
     "category": "Network Automation",
-    "stars": 7,
+    "stars": 8,
     "topics": [
       "ribbon",
       "sonus",
