@@ -246,7 +246,7 @@
 | 29 | [vMark](https://github.com/xmas-ar/vMark) | Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployme... | — |
 | 29 | [Finsy](https://github.com/byllyfish/finsy) | Async Python P4Runtime controller library with integrated gNMI support for managing programmable ... | — |
 | 28 | [eNMS](https://github.com/eNMS-automation/eNMS) | Vendor-agnostic NMS for carrier-grade network visualization and automation. | — |
-| 28 | [pyribbon](https://github.com/consentfactory/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots... | Ribbon |
+| 28 | [pyribbon](https://github.com/commitconfirm/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots... | Ribbon |
 | 28 | [libiec61850](https://github.com/mz-automation/libiec61850) | Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, G... | SEL |
 | 27 | [Jerikan](https://github.com/jerikan-network/cmdb) | Network CMDB with Git-based config management. Template-driven network automation. | — |
 | 27 | [yang-comparator](https://github.com/yang-central/yang-comparator) | Compare two YANG release versions. Identifies added/changed/deleted statements, schema tree diffs... | — |

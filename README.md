@@ -227,7 +227,7 @@ Tools with confirmed or tagged Nokia support:
 |------|----------|------|
 | RibbonEdgePsRest | ✅ | [github.com/plessisa/RibbonEdgePsRest](https://github.com/plessisa/RibbonEdgePsRest) |
 | Posh-Ribbon | — | [github.com/EgoManiac/Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) |
-| pyribbon | — | [github.com/consentfactory/pyribbon](https://github.com/consentfactory/pyribbon) |
+| pyribbon | — | [github.com/commitconfirm/pyribbon](https://github.com/commitconfirm/pyribbon) |
 | BNG Blaster | — | [github.com/rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) |
 
 ### SEL / ICON (3 tools)
