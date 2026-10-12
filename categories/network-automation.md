@@ -1,6 +1,6 @@
 # Network Automation
 
-**353 tools** — sorted by relevance score.
+**354 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -78,6 +78,7 @@
 | 65 | [sros-ansible-automation](https://github.com/ters-golemi/sros-ansible-automation) | Ansible-based Nokia SR OS router configuration template repo. Useful as a lightweight starting po... | Nokia ✅ |
 | 65 | [SIMNOS](https://github.com/Route-Reflector/simnos) | Simulated Network Operating System SSH server for network automation testing. Supports multiple N... | Ciena ✅ |
 | 65 | [Nokia NSP Ansible Collection](https://github.com/nokia/nsp-playbooks-for-Ansible) | Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, inc... | Nokia ✅ |
+| 65 | [agentic-netops](https://github.com/mairp/agentic-netops) | Self-contained network automation lab where agents translate intent into Kubernetes resources tha... | — |
 | 64 | [SR Linux JSON-RPC Ansible Examples](https://github.com/srl-labs/jsonrpc-ansible) | Nokia SR Linux automation examples showing how to use Ansible with the SR Linux JSON-RPC API for ... | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containeri... | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port st... | Nokia ✅ |
@@ -126,6 +127,7 @@
 | 49 | [Clixon Controller](https://github.com/clicon/clixon-controller) | Open-source NETCONF/YANG network controller for multi-vendor device management. Templates, device... | — |
 | 49 | [srpls](https://github.com/srl-labs/srpls) | Language Server Protocol (LSP) implementation for Nokia SR Linux and SR OS configuration files. P... | Nokia ✅ |
 | 49 | [h-cli](https://github.com/h-network/h-cli) | AI-powered network infrastructure management CLI with SSH, NETCONF, NetBox, and EVE-NG integratio... | — |
+| 49 | [rustnetconf](https://github.com/mechubsec/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor ... | — |
 | 48 | [OpenWISP Controller](https://github.com/openwisp/openwisp-controller) | Open-source network and Wi-Fi controller for provisioning, configuration management, firmware upd... | — |
 | 47 | [gNXI Tools](https://github.com/google/gnxi) | Google's gRPC Network Management/Operations Interface Tools. Includes gnmi_get, gnmi_set, gnmi_su... | — |
 | 47 | [ConfigDrift](https://github.com/cwccie/configdrift) | Real-time network configuration drift detector with severity scoring. Uses NAPALM/SSH to continuo... | — |
@@ -138,7 +140,6 @@
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks lik... | Nokia |
 | 45 | [KNE](https://github.com/openconfig/kne) | Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, No... | Nokia |
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4... | — |
-| 45 | [rustnetconf](https://github.com/fastrevmd-lab/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor ... | — |
 | 45 | [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) | gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful... | — |
 | 44 | [NTC Rosetta](https://github.com/networktocode/ntc-rosetta) | Python bridge between traditional network CLI/state and YANG data models. Useful for translating ... | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSO... | Nokia, Arista, Cisco, Juniper |

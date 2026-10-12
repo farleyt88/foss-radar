@@ -9805,20 +9805,27 @@
   },
   {
     "name": "rustnetconf",
-    "url": "https://github.com/fastrevmd-lab/rustnetconf",
+    "url": "https://github.com/mechubsec/rustnetconf",
     "description": "Rust network automation platform with async NETCONF client library, YANG code generation, vendor profiles, connection pooling, and a Terraform-like CLI for declarative network config management.",
     "category": "Network Automation",
-    "stars": 3,
+    "stars": 4,
+    "language": "Rust",
+    "license": "MIT",
     "topics": [
+      "infrastructure-as-code",
+      "juniper",
+      "mechub",
       "netconf",
-      "rust"
+      "network-automation",
+      "rust",
+      "yang"
     ],
     "vendors": [],
-    "updated": "2026-04-12",
+    "updated": "2026-10-10",
     "discovered": "2026-04-14",
-    "relevance_score": 45,
+    "relevance_score": 49,
     "vendor_verified": false,
-    "source": "foss-radar-scan"
+    "source": "weekly-primary-source-scan"
   },
   {
     "name": "junos-ops",
@@ -13115,5 +13122,86 @@
     "discovered": "2026-10-05",
     "source": "weekly-primary-source-scan",
     "relevance_score": 9
+  },
+  {
+    "name": "OpenITS Models",
+    "url": "https://github.com/Vikasa2M/openits-models",
+    "description": "Vendor-neutral YANG data models for intelligent transportation systems, with generated Protobuf, Go, JSON Schema, AsyncAPI, and NATS binding artifacts plus NTCIP, J2735, and ARC-IT alignment documentation.",
+    "category": "Standards & Models",
+    "stars": 0,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "topics": [
+      "data-model",
+      "intelligent-transportation-systems",
+      "ntcip",
+      "yang"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-12",
+    "discovered": "2026-10-12",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 31
+  },
+  {
+    "name": "agentic-netops",
+    "url": "https://github.com/mairp/agentic-netops",
+    "description": "Self-contained network automation lab where agents translate intent into Kubernetes resources that controllers reconcile onto a SONiC EVPN/VXLAN fabric, with containerlab, gNMI telemetry, Prometheus/Grafana, drift repair, and SRv6/EVPN conformance tests.",
+    "category": "Network Automation",
+    "stars": 3,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "topics": [
+      "agntcy",
+      "cloud-native",
+      "containerlab",
+      "evpn",
+      "gnmi",
+      "golang",
+      "intent-based-networking",
+      "kubenet",
+      "kubernetes",
+      "kubernetes-operator",
+      "kuid",
+      "langgraph",
+      "network-automation",
+      "observability",
+      "sdcio",
+      "sonic",
+      "srv6",
+      "vxlan",
+      "yang"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-11",
+    "discovered": "2026-10-12",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 65
+  },
+  {
+    "name": "Lachesis",
+    "url": "https://github.com/bigstack-oss/lachesis",
+    "description": "eBPF network telemetry daemon for OVN-based OpenStack that attributes traffic per tenant, zone, and direction, re-attributes Octavia load-balancer bytes, and exposes durable Prometheus counters plus Grafana dashboards.",
+    "category": "Network Observability",
+    "stars": 9,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "topics": [
+      "ebpf",
+      "ebpf-go",
+      "network-analysis",
+      "network-monitoring",
+      "octavia",
+      "openstack",
+      "prometheus"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-12",
+    "discovered": "2026-10-12",
+    "source": "weekly-primary-source-scan",
+    "relevance_score": 41
   }
 ]
