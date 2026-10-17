@@ -82,7 +82,7 @@
 | 64 | [SR Linux JSON-RPC Ansible Examples](https://github.com/srl-labs/jsonrpc-ansible) | Nokia SR Linux automation examples showing how to use Ansible with the SR Linux JSON-RPC API for ... | Nokia ✅ |
 | 63 | [Nokia Validated Designs](https://github.com/nokia/nokia-validated-designs) | Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containeri... | Nokia ✅ |
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port st... | Nokia ✅ |
-| 63 | [nctools](https://github.com/nokia/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that ... | Nokia ✅ |
+| 63 | [nctools](https://github.com/nokia-steward/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that ... | Nokia ✅ |
 | 63 | [netconf-ciena](https://github.com/georgesnow/netconf-ciena) | Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pu... | Ciena ✅ |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS Y... | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
@@ -140,6 +140,7 @@
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks lik... | Nokia |
 | 45 | [KNE](https://github.com/openconfig/kne) | Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, No... | Nokia |
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4... | — |
+| 45 | [rustnetconf](https://github.com/mechubsec/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor ... | — |
 | 45 | [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) | gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful... | — |
 | 44 | [NTC Rosetta](https://github.com/networktocode/ntc-rosetta) | Python bridge between traditional network CLI/state and YANG data models. Useful for translating ... | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSO... | Nokia, Arista, Cisco, Juniper |

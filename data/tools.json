@@ -10792,7 +10792,7 @@
   },
   {
     "name": "nctools",
-    "url": "https://github.com/nokia/nctools",
+    "url": "https://github.com/nokia-steward/nctools",
     "description": "Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that helps troubleshoot client-server RPCs, notifications, framing, and auth flows when packet captures are not enough.",
     "category": "Network Automation",
     "stars": 3,
