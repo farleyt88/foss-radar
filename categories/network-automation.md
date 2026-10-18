@@ -1,6 +1,6 @@
 # Network Automation
 
-**354 tools** — sorted by relevance score.
+**353 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -140,7 +140,6 @@
 | 45 | [gnoic](https://github.com/karimra/gnoic) | gNOI (gRPC Network Operations Interface) CLI client. Companion to gnmic for operational tasks lik... | Nokia |
 | 45 | [KNE](https://github.com/openconfig/kne) | Kubernetes Network Emulation - deploy multi-vendor network topologies (Arista, Cisco, Juniper, No... | Nokia |
 | 45 | [Stratum](https://github.com/stratum/stratum) | Open source silicon-independent switch operating system for software-defined networks. Exposes P4... | — |
-| 45 | [rustnetconf](https://github.com/mechubsec/rustnetconf) | Rust network automation platform with async NETCONF client library, YANG code generation, vendor ... | — |
 | 45 | [sysrepo-gnxi](https://github.com/YohanPipereau/sysrepo-gnxi) | gNXI server for sysrepo that bridges YANG/sysrepo data into gNMI and gNOI style workflows. Useful... | — |
 | 44 | [NTC Rosetta](https://github.com/networktocode/ntc-rosetta) | Python bridge between traditional network CLI/state and YANG data models. Useful for translating ... | — |
 | 43 | [ygot](https://github.com/openconfig/ygot) | YANG Go Tools - Generate Go structs from YANG models, validate data against schema, render to JSO... | Nokia, Arista, Cisco, Juniper |
@@ -162,9 +161,9 @@
 | 41 | [Network Automation Toolkit](https://github.com/network-automation/toolkit) | Ansible content collection for common network functions like dynamic documentation. Handy for reu... | — |
 | 40 | [Lemming](https://github.com/openconfig/lemming) | OpenConfig reference device implementation supporting gNMI, gNOI, gRIBI, P4RT, BGP, and IS-IS. Us... | Nokia |
 | 40 | [BGPalerter](https://github.com/nttgin/BGPalerter) | Self-configuring BGP and RPKI monitoring tool. Monitors prefix visibility loss, hijacks, RPKI inv... | — |
+| 39 | [aiNOC](https://github.com/pdudotdev/aiNOC) | AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterpr... | — |
 | 39 | [jsnac](https://github.com/commitconfirmed/jsnac) | JSON Schema (for) Network Automation Creator. Build JSON schemas using YAML syntax with network/i... | — |
 | 39 | [YANCCM](https://github.com/cunningr/yanccm) | NETCONF-based network configuration and change management tool. Uses ncclient for config-diff, co... | — |
-| 39 | [aiNOC](https://github.com/pdudotdev/aiNOC) | AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterpr... | — |
 | 39 | [Secure Cartography](https://github.com/scottpeterman/secure_cartography) | SSH & SNMP-based network discovery and topology mapping tool. Crawls infrastructure via CDP/LLDP,... | — |
 | 39 | [nautobot-app-ssot](https://github.com/nautobot/nautobot-app-ssot) | Nautobot Single Source of Truth (SSoT) app. Synchronizes data between Nautobot and external syste... | — |
 | 39 | [netbox-librenms-plugin](https://github.com/bonzo81/netbox-librenms-plugin) | NetBox plugin that syncs data bidirectionally between LibreNMS and NetBox. Keeps your network sou... | — |
@@ -197,7 +196,6 @@
 | 35 | [Icinga](https://github.com/Icinga/icinga2) | Network monitoring with real-time graphing, topology maps, bandwidth monitoring, and trend predic... | — |
 | 35 | [yangson](https://github.com/CZ-NIC/yangson) | YANG data modeling language parser and validator. JSON instance validation against YANG schemas. | — |
 | 35 | [netconf-go](https://github.com/nights99/netconf-go) | NETCONF CLI with tab completion and dynamic YANG module download. Can compile to WebAssembly for ... | — |
-| 35 | [NetAI-MCP](https://github.com/pdudotdev/netaimcp) | Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protoc... | — |
 | 35 | [meshnet-cni](https://github.com/networkop/meshnet-cni) | Kubernetes CNI plugin to create arbitrary network topologies using point-to-point links (veth, vx... | — |
 | 35 | [drawio-network-plot](https://github.com/amrelhusseiny/drawio_network_plot) | Python library for programmatically creating Draw.io network topology diagrams. Generate HLDs fro... | — |
 | 35 | [circuit-maintenance-parser](https://github.com/networktocode/circuit-maintenance-parser) | Parses circuit maintenance notification emails from ISP/carrier NOC teams (Zayo, Verizon, Lumen, ... | — |

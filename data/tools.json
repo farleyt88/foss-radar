@@ -2326,24 +2326,28 @@
     "vendor_verified": false
   },
   {
-    "name": "NetAI-MCP",
-    "url": "https://github.com/pdudotdev/netaimcp",
-    "description": "Network automation lab with Claude AI and MCP. Multi-vendor (Arista EOS, Cisco IOS), multi-protocol topology for troubleshooting with containerlab.",
+    "name": "aiNOC",
+    "url": "https://github.com/pdudotdev/aiNOC",
+    "description": "AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks. Built on Claude Code, FastMCP, Scrapli, and RESTCONF with Containerlab test topologies. 15 MCP tools, 12 operational guardrails, HITL for config changes. Supports Cisco IOS-XE core with on-request modules for Arista, Juniper, MikroTik, and more. Integrates with Jira, Discord, NetBox, and HashiCorp Vault.",
     "category": "Network Automation",
-    "stars": 50,
+    "stars": 8,
     "topics": [
-      "network",
-      "automation",
+      "network-automation",
+      "troubleshooting",
       "mcp",
-      "claude-ai",
+      "ai-automation",
+      "scrapli",
+      "restconf",
       "containerlab",
-      "python",
-      "scrapli"
+      "multi-vendor",
+      "python"
     ],
-    "updated": "2026-02-08",
-    "discovered": "2026-02-08",
-    "relevance_score": 35,
-    "vendor_verified": false
+    "vendors": [],
+    "updated": "2026-03-17",
+    "discovered": "2026-03-22",
+    "relevance_score": 39,
+    "vendor_verified": false,
+    "source": "foss-radar-scan"
   },
   {
     "name": "NCM (Network Config Management)",
@@ -3951,30 +3955,6 @@
     "last_checked": "2026-02-24",
     "relevance_score": 20,
     "vendor_verified": false
-  },
-  {
-    "name": "aiNOC",
-    "url": "https://github.com/pdudotdev/aiNOC",
-    "description": "AI-powered network troubleshooting framework for multi-vendor, multi-protocol, multi-area enterprise networks. Built on Claude Code, FastMCP, Scrapli, and RESTCONF with Containerlab test topologies. 15 MCP tools, 12 operational guardrails, HITL for config changes. Supports Cisco IOS-XE core with on-request modules for Arista, Juniper, MikroTik, and more. Integrates with Jira, Discord, NetBox, and HashiCorp Vault.",
-    "category": "Network Automation",
-    "stars": 8,
-    "topics": [
-      "network-automation",
-      "troubleshooting",
-      "mcp",
-      "ai-automation",
-      "scrapli",
-      "restconf",
-      "containerlab",
-      "multi-vendor",
-      "python"
-    ],
-    "vendors": [],
-    "updated": "2026-03-17",
-    "discovered": "2026-03-22",
-    "relevance_score": 39,
-    "vendor_verified": false,
-    "source": "foss-radar-scan"
   },
   {
     "name": "NetOpsForge",

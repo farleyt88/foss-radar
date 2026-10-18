@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-03-28T23:59:24.920945",
-    "new": 0,
-    "updated": 3,
-    "deduped": 0,
-    "total": 404
-  },
-  {
-    "timestamp": "2026-03-29T07:59:29.100861",
-    "new": 0,
-    "updated": 2,
-    "deduped": 0,
-    "total": 406
-  },
-  {
     "timestamp": "2026-03-29T15:59:21.808858",
     "new": 0,
     "updated": 0,
@@ -705,5 +691,12 @@
     "updated": 0,
     "deduped": 0,
     "total": 637
+  },
+  {
+    "timestamp": "2026-10-18T07:55:22.232158+00:00",
+    "new": 0,
+    "updated": 0,
+    "deduped": 1,
+    "total": 639
   }
 ]
