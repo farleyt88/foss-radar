@@ -1,6 +1,6 @@
 # Network Automation
 
-**353 tools** — sorted by relevance score.
+**354 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -103,6 +103,7 @@
 | 57 | [libnetconf2](https://github.com/CESNET/libnetconf2) | C NETCONF library from CESNET. Core building block for NETCONF clients/servers with SSH/TLS trans... | — |
 | 57 | [vscode-eda](https://github.com/eda-labs/vscode-eda) | VS Code extension for Nokia Event-Driven Automation (EDA). Lets you browse EDA namespaces and res... | Nokia ✅ |
 | 57 | [Nokia Network as Code SDKs](https://github.com/nokia/network-as-code-sdks) | Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs f... | Nokia ✅ |
+| 57 | [Infrahub Optical Transport Demo](https://github.com/opsmill/infrahub-demo-otn) | Infrahub reference implementation for modelling and automating an optical transport network down ... | — |
 | 56 | [gnmi-map](https://github.com/hellt/gnmi-map) | gNMI service map utility for exploring and visualizing gNMI-exposed data paths. Useful as a light... | — |
 | 55 | [Nautobot](https://github.com/nautobot/nautobot) | Network automation platform built on NetBox. Extensible network source of truth and automation. | — |
 | 55 | [NORFAB](https://github.com/norfablabs/NORFAB) | Network Automations Fabric — service-oriented platform for extreme network automation. Run on lap... | — |

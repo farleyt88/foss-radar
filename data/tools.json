@@ -10152,10 +10152,10 @@
   },
   {
     "name": "BGP Routing Security Monitor",
-    "url": "https://github.com/nokia/bgp-routing-security-monitor",
+    "url": "https://github.com/nokia-steward/bgp-routing-security-monitor",
     "description": "Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Validation, and ASPA path validation in a single Go binary. Useful for monitoring route leaks, hijacks, and routing policy health in carrier/transport environments.",
     "category": "Observability",
-    "stars": 3,
+    "stars": 29,
     "topics": [
       "aspa",
       "bgp",
@@ -10167,13 +10167,11 @@
       "routing-security",
       "rpki"
     ],
-    "vendors": [
-      "Nokia"
-    ],
-    "updated": "2026-04-16",
+    "vendors": [],
+    "updated": "2026-10-19",
     "discovered": "2026-04-16",
-    "relevance_score": 73,
-    "vendor_verified": true,
+    "relevance_score": 35,
+    "vendor_verified": false,
     "source": "foss-radar-scan"
   },
   {
@@ -13183,5 +13181,74 @@
     "discovered": "2026-10-12",
     "source": "weekly-primary-source-scan",
     "relevance_score": 41
+  },
+  {
+    "name": "Infrahub Optical Transport Demo",
+    "url": "https://github.com/opsmill/infrahub-demo-otn",
+    "description": "Infrahub reference implementation for modelling and automating an optical transport network down to fiber spans and wavelengths. Includes intent-driven wavelength provisioning, optical link budgets, OTN grooming, spectrum capacity analysis, fiber-cut impact reporting, diversity checks, and change-gated validation.",
+    "category": "Network Automation",
+    "stars": 4,
+    "topics": [
+      "infrahub",
+      "optical",
+      "dwdm",
+      "otn",
+      "wavelength-provisioning",
+      "link-budget",
+      "source-of-truth",
+      "impact-analysis"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-19",
+    "discovered": "2026-10-19",
+    "relevance_score": 57
+  },
+  {
+    "name": "NetBox FMS",
+    "url": "https://github.com/jsenecal/netbox-fms",
+    "description": "NetBox fiber management plugin for cable construction, strand and splice planning, analyzed fiber paths, circuit provisioning, per-wavelength loss budgets, provider-span impact tracking, and draw.io exports. The project is pre-1.0 and under active development.",
+    "category": "Network Management",
+    "stars": 25,
+    "topics": [
+      "netbox",
+      "fiber-management",
+      "splice-planning",
+      "circuit-provisioning",
+      "loss-budget",
+      "networkx",
+      "graphql",
+      "optical"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-19",
+    "discovered": "2026-10-19",
+    "relevance_score": 51
+  },
+  {
+    "name": "fcling",
+    "url": "https://github.com/wdesmedt/fcling",
+    "description": "Async gNMI CLI and streaming observability engine for Nokia SR Linux fabrics. Provides typed operational reports, topology and path views, health checks, incident grouping, configuration-attributed history, baselines, drift analysis, web APIs, and read-only MCP tools.",
+    "category": "Observability",
+    "stars": 0,
+    "topics": [
+      "nokia",
+      "sr-linux",
+      "gnmi",
+      "streaming-telemetry",
+      "network-observability",
+      "topology",
+      "drift-analysis",
+      "mcp",
+      "python"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-10-18",
+    "discovered": "2026-10-19",
+    "relevance_score": 107
   }
 ]

@@ -1,6 +1,6 @@
 # Observability
 
-**156 tools** — sorted by relevance score.
+**157 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -8,6 +8,7 @@
 |------:|------|-------------|---------|
 | 146 | [GtExporter](https://github.com/automixer/gtexporter) | YANG data-model-aware gNMI streaming telemetry exporter for Prometheus. Subscribes to OpenConfig-... | Nokia, Ciena ✅ |
 | 111 | [MDT Dialout Collector](https://github.com/network-analytics/mdt-dialout-collector) | Multi-vendor Model-Driven Telemetry (MDT) collector using gRPC dialout mode. Accepts streaming te... | Nokia, Cisco ✅ |
+| 107 | [fcling](https://github.com/wdesmedt/fcling) | Async gNMI CLI and streaming observability engine for Nokia SR Linux fabrics. Provides typed oper... | Nokia ✅ |
 | 97 | [gNPSI](https://github.com/openconfig/gnpsi) | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC... | Nokia |
 | 95 | [Nokia OSSMediator](https://github.com/nokia/OSSMediator) | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM... | Nokia ✅ |
 | 91 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics.... | Nokia ✅ |
@@ -23,7 +24,6 @@
 | 75 | [Akvorado](https://github.com/akvorado/akvorado) | Flow collector, enricher and visualizer. Receives NetFlow/IPFIX and sFlow, enriches with SNMP int... | — |
 | 75 | [terraform-provider-snmp-v1alpha1](https://github.com/nokia-eda/terraform-provider-snmp-v1alpha1) | Official Nokia EDA Terraform provider for SNMP resources. Relevant for codifying legacy-friendly ... | Nokia ✅ |
 | 74 | [pmacct](https://github.com/pmacct/pmacct) | Multi-purpose passive network monitoring toolset supporting NetFlow, IPFIX, sFlow, libpcap, BGP, ... | — |
-| 73 | [BGP Routing Security Monitor](https://github.com/nokia/bgp-routing-security-monitor) | Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Valida... | Nokia ✅ |
 | 69 | [SR Linux ELK Lab](https://github.com/srl-labs/srl-elk-lab) | Containerlab-based reference lab for integrating Nokia SR Linux with the ELK stack. Demonstrates ... | Nokia ✅ |
 | 69 | [FastNetMon](https://github.com/pavel-odintsov/fastnetmon) | High-performance open source DDoS detector/sensor for NetFlow, IPFIX, sFlow, and SPAN traffic. Us... | — |
 | 67 | [panoptes-stream](https://github.com/yahoo/panoptes-stream) | Cloud-native distributed streaming network telemetry platform with gNMI, OpenConfig, JTI, and MDT... | — |
@@ -120,6 +120,7 @@
 | 37 | [bonsai](https://github.com/g-arjuna/bonsai) | Streaming-first, graph-native network state engine for closed-loop autonomous network operations.... | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstas... | — |
 | 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
+| 35 | [BGP Routing Security Monitor](https://github.com/nokia-steward/bgp-routing-security-monitor) | Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Valida... | — |
 | 35 | [Shawk](https://github.com/yuuki/shawk) | Socket-based tracing system for discovering network service dependencies. Helpful for observabili... | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network... | — |
 | 33 | [Steward](https://github.com/braedonsaunders/steward) | Self-hosted IT operations control plane for small networks. Graph-backed inventory, device discov... | — |
