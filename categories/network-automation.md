@@ -1,6 +1,6 @@
 # Network Automation
 
-**354 tools** — sorted by relevance score.
+**355 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -15,6 +15,7 @@
 | 98 | [gnmic](https://github.com/openconfig/gnmic) | gNMI CLI client and collector. Subscribe to telemetry streams, configure devices via gRPC. | Nokia ✅ |
 | 97 | [fcli](https://github.com/srl-labs/fcli) | Fabric observability tool for Nokia SR Linux that uses gNMI to provide a live web UI, topology an... | Nokia ✅ |
 | 97 | [Nokia Ansible Networking Collections](https://github.com/nokia/ansible-networking-collections) | Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETC... | Nokia ✅ |
+| 97 | [StratoWeave](https://github.com/stratoweave/stratoweave) | Open-source intent-based network orchestration platform contributed by Deutsche Telekom to Linux ... | — |
 | 95 | [Ciena YANG Modules](https://github.com/ciena/yang) | Official Ciena YANG data models for NETCONF/RESTCONF automation of Ciena platforms (SAOS, WaveSer... | Ciena ✅ |
 | 95 | [Nokia OpenConfig Ansible Collection](https://github.com/nokia/openconfig-ansible-collection) | Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connec... | Nokia ✅ |
 | 95 | [Ciena gNMI C++ Client](https://github.com/ciena/gNMI-cpp-client) | Official sample gNMI client from Ciena written in C++. Useful as a reference implementation for b... | Ciena ✅ |

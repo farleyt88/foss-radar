@@ -13250,5 +13250,25 @@
     "updated": "2026-10-18",
     "discovered": "2026-10-19",
     "relevance_score": 107
+  },
+  {
+    "name": "StratoWeave",
+    "url": "https://github.com/stratoweave/stratoweave",
+    "description": "Open-source intent-based network orchestration platform contributed by Deutsche Telekom to Linux Foundation Networking. Models systems in YANG, composes layered declarative transforms, and reacts to streaming telemetry; exposes northbound NETCONF/RESTCONF APIs and applies configuration through southbound device adapters. Originally built for optical transport network automation.",
+    "category": "Network Automation",
+    "stars": 32,
+    "topics": [
+      "yang",
+      "netconf",
+      "restconf",
+      "orchestration",
+      "telemetry",
+      "intent-based-networking",
+      "automation"
+    ],
+    "updated": "2026-10-19",
+    "discovered": "2026-10-20",
+    "relevance_score": 97,
+    "vendor_verified": false
   }
 ]
