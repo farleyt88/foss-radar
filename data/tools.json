@@ -2578,7 +2578,7 @@
   },
   {
     "name": "Nokia SR Linux YANG Models",
-    "url": "https://github.com/nokia/srlinux-yang-models",
+    "url": "https://github.com/nokia-steward/srlinux-yang-models",
     "description": "Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and state models, tagged by release version.",
     "category": "Network Automation",
     "stars": 45,

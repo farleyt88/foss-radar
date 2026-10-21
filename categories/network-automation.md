@@ -50,7 +50,7 @@
 | 77 | [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) | Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and... | Nokia, NVIDIA ✅ |
 | 77 | [terraform-provider-netbox-v1alpha1](https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1) | Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-tru... | Nokia ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operat... | Nokia ✅ |
-| 75 | [Nokia SR Linux YANG Models](https://github.com/nokia/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and st... | Nokia ✅ |
+| 75 | [Nokia SR Linux YANG Models](https://github.com/nokia-steward/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and st... | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR... | Nokia ✅ |
 | 75 | [ciena.waveserverai](https://github.com/ciena/ciena.waveserverai) | Ansible Collection for Ciena Waveserver Ai optical platforms. Supports NETCONF connection for aut... | Ciena ✅ |
 | 75 | [Nokia NAPALM SR Linux Driver](https://github.com/nokia/napalm-srlinux) | Official Nokia NAPALM driver for SR Linux. Uses gNMI for state retrieval and JSON-RPC for load/se... | Nokia ✅ |
