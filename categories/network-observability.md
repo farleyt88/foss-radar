@@ -1,6 +1,6 @@
 # Network Observability
 
-**13 tools** — sorted by relevance score.
+**12 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -12,7 +12,6 @@
 | 63 | [Shumoku](https://github.com/konoe-akitoshi/shumoku) | Network topology generation and monitoring platform that builds diagrams from YAML, NetBox, LLDP,... | — |
 | 53 | [Vantage](https://github.com/jp2195/vantage) | BMP (RFC 7854) collector and BGP routing observability platform with live topology, Looking Glass... | — |
 | 51 | [WeathermapNG](https://github.com/lance0/weathermapNG) | LibreNMS plugin for real-time topology and traffic visualization, with LLDP/CDP discovery, RRD me... | — |
-| 49 | [Network Traffic Map](https://github.com/yuri-dubovitsky-labs/grafana-network-traffic-map) | Grafana panel plugin for arranging routers, ports, and tunnels with compact bidirectional IF-MIB ... | — |
 | 47 | [gnmi-exporter](https://github.com/cobaltcore-dev/gnmi-exporter) | Kubernetes operator for automating monitoring of network devices managed through ironcore network... | — |
 | 41 | [Lachesis](https://github.com/bigstack-oss/lachesis) | eBPF network telemetry daemon for OVN-based OpenStack that attributes traffic per tenant, zone, a... | — |
 | 40 | [OpenBMP](https://github.com/SNAS/openbmp) | OpenBMP Server Collector for BGP Monitoring Protocol (BMP) and BGP-LS telemetry. Collects routing... | — |

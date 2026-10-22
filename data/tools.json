@@ -61,7 +61,7 @@
   },
   {
     "name": "nokia-netconf-examples",
-    "url": "https://github.com/nokia/netconf-examples",
+    "url": "https://github.com/nokia-steward/netconf-examples",
     "description": "Official Nokia NETCONF example scripts and code samples. Reference implementations for NETCONF operations on Nokia platforms.",
     "category": "Network Automation",
     "stars": 15,
@@ -99,7 +99,7 @@
   },
   {
     "name": "acton-yang",
-    "url": "https://github.com/orchestron-orchestrator/acton-yang",
+    "url": "https://github.com/stratoweave/acton-yang",
     "description": "YANG parser and library for Acton language. Works with YANG schemas and YANG-modeled data with XML & JSON serializers. Part of the Orchestron orchestrator project.",
     "category": "Network Automation",
     "stars": 10,
@@ -721,7 +721,7 @@
   },
   {
     "name": "EasySNMP",
-    "url": "https://github.com/kamakazikamikaze/easysnmp",
+    "url": "https://github.com/easysnmp/easysnmp",
     "description": "Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring.",
     "category": "Observability",
     "stars": 250,
@@ -1107,7 +1107,7 @@
   },
   {
     "name": "Netshot",
-    "url": "https://github.com/netfishers-onl/Netshot",
+    "url": "https://github.com/netshot-net/Netshot",
     "description": "Network configuration and compliance management. Backup, audit, and report.",
     "category": "Network Automation",
     "stars": 300,
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "NetBox Topology Views",
-    "url": "https://github.com/mattieserver/netbox-topology-views",
+    "url": "https://github.com/netbox-community/netbox-topology-views",
     "description": "NetBox plugin for network topology visualization. D3.js based diagrams.",
     "category": "Observability",
     "stars": 400,
@@ -1551,7 +1551,7 @@
   },
   {
     "name": "D2",
-    "url": "https://github.com/terrastruct/d2",
+    "url": "https://github.com/d2lang/d2",
     "description": "Create beautiful diagrams in minutes. Simple syntax, endlessly customizable.",
     "category": "Observability",
     "stars": 0,
@@ -2075,7 +2075,7 @@
   },
   {
     "name": "Nokia SR Linux Ansible Collection",
-    "url": "https://github.com/nokia/srlinux-ansible-collection",
+    "url": "https://github.com/nokia-steward/srlinux-ansible-integration",
     "description": "Official Nokia Ansible collection for SR Linux device management. Provides modules for config management, state queries, and operational tasks via JSON-RPC/gNMI.",
     "category": "Network Automation",
     "stars": 0,
@@ -2098,7 +2098,7 @@
   },
   {
     "name": "Nokia SROS Ansible Collection",
-    "url": "https://github.com/nokia/sros-ansible-collection",
+    "url": "https://github.com/nokia-steward/sros-ansible-integration",
     "description": "Official Nokia Ansible collection for SR OS routers. CLI and NETCONF plugins enabling cli_config/cli_command modules, device info, and capability discovery. BSD-3 licensed.",
     "category": "Network Automation",
     "stars": 0,
@@ -2121,7 +2121,7 @@
   },
   {
     "name": "pySROS",
-    "url": "https://github.com/nokia/pysros",
+    "url": "https://github.com/nokia-steward/pysros",
     "description": "Python 3 library for Nokia Service Router Operating System (SR OS). Model-driven NETCONF management API for Nokia routers.",
     "category": "Network Automation",
     "stars": 0,
@@ -2534,7 +2534,7 @@
   },
   {
     "name": "vscode-netconf",
-    "url": "https://github.com/nokia/vscode-netconf",
+    "url": "https://github.com/nokia-steward/vscode-netconf",
     "description": "Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operations for SR OS and SRLinux routers. Supports SSH jump hosts, containerlab, event notifications (RFC 5277), and parallel sessions.",
     "category": "Network Automation",
     "stars": 50,
@@ -2957,7 +2957,7 @@
   },
   {
     "name": "Clabernetes",
-    "url": "https://github.com/srl-labs/clabernetes",
+    "url": "https://github.com/clabernetes/clabernetes",
     "description": "Containerlab but in Kubernetes. Deploys containerlab network topologies on K8s clusters, enabling scalable multi-node network labs. Supports Nokia SR Linux, Arista cEOS, and other containerized NOSes.",
     "category": "Network Simulation",
     "stars": 105,
@@ -3066,27 +3066,6 @@
     "vendors": [],
     "score": 0,
     "relevance_score": 28,
-    "vendor_verified": false
-  },
-  {
-    "name": "Network Observability Platform",
-    "url": "https://github.com/shankar0123/network-observability-platform",
-    "description": "Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents (Ping, DNS, HTTP, Traceroute) and BGP analysis. Results via Kafka to Prometheus metrics and Grafana dashboards.",
-    "category": "Observability",
-    "stars": 0,
-    "topics": [
-      "synthetic-monitoring",
-      "bgp",
-      "thousandeyes",
-      "prometheus",
-      "grafana",
-      "network-monitoring"
-    ],
-    "language": "Python",
-    "added": "2026-02-15",
-    "vendors": [],
-    "score": 0,
-    "relevance_score": 40,
     "vendor_verified": false
   },
   {
@@ -3446,7 +3425,7 @@
   },
   {
     "name": "Nokia 7x50 YANG Models",
-    "url": "https://github.com/nokia/7x50_YangModels",
+    "url": "https://github.com/nokia-steward/7x50_YangModels",
     "description": "Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR, 7450 ESS, 7950 XRS, VSR). Essential reference for NETCONF/YANG automation against Nokia SROS devices.",
     "category": "Network Automation",
     "stars": 50,
@@ -3687,7 +3666,7 @@
   },
   {
     "name": "srlinux-ndk-py",
-    "url": "https://github.com/nokia/srlinux-ndk-py",
+    "url": "https://github.com/nokia-steward/srlinux-ndk-py",
     "description": "Python bindings for Nokia SR Linux NetOps Development Kit (NDK). Build custom agents that run natively on SR Linux \u2014 monitoring, automation, or integration agents with full access to the SR Linux state and config via gRPC protobufs.",
     "category": "Network Automation",
     "stars": 12,
@@ -3957,24 +3936,6 @@
     "vendor_verified": false
   },
   {
-    "name": "NetOpsForge",
-    "url": "https://github.com/JT-BFS/NetOpsForge",
-    "description": "AI-assisted zero-code network automation platform with self-growing pack library. Aligned to Cisco AUTOCOR v2.0. Features documentation site, quick-start guides, and a visual project board. Designed for network engineers transitioning to automation.",
-    "category": "Network Automation",
-    "stars": 10,
-    "topics": [
-      "network-automation",
-      "ai",
-      "zero-code",
-      "python",
-      "automation-platform"
-    ],
-    "updated": "2026-02-25",
-    "discovered": "2026-02-25",
-    "relevance_score": 25,
-    "vendor_verified": false
-  },
-  {
     "name": "Network Importer",
     "url": "https://github.com/networktocode/network-importer",
     "description": "Tool/library to analyze and synchronize an existing network with a Network Source of Truth (SOT). Idempotent by default, shows differences between running network and remote SOT. Integrates with Batfish, DiffSync, NetBox, and Nornir.",
@@ -4144,7 +4105,7 @@
   },
   {
     "name": "SR Linux NDK Protobufs",
-    "url": "https://github.com/nokia/srlinux-ndk-protobufs",
+    "url": "https://github.com/nokia-steward/srlinux-ndk-protobufs",
     "description": "Official Nokia SR Linux NetOps Development Kit (NDK) protobuf definitions. Defines the gRPC APIs for building custom agents on SR Linux. Essential reference for NDK agent development.",
     "category": "Network Automation",
     "stars": 10,
@@ -4184,27 +4145,6 @@
     "updated": "2026-02-27",
     "discovered": "2026-02-27",
     "relevance_score": 31,
-    "vendor_verified": false
-  },
-  {
-    "name": "Secure Cartography",
-    "url": "https://github.com/scottpeterman/secure_cartography",
-    "description": "SSH & SNMP-based network discovery and topology mapping tool. Crawls infrastructure via CDP/LLDP, auto-generates topology maps. v2 features async discovery, SNMP v2c/v3, AES-256 credential vault, embedded topology viewer with PyQt6 GUI, and CLI with test/discover/crawl commands.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "network-discovery",
-      "topology",
-      "lldp",
-      "cdp",
-      "snmp",
-      "ssh",
-      "python",
-      "pyqt6"
-    ],
-    "updated": "2026-02-27",
-    "discovered": "2026-02-27",
-    "relevance_score": 39,
     "vendor_verified": false
   },
   {
@@ -4487,26 +4427,6 @@
     "vendor_verified": false
   },
   {
-    "name": "network-mcp",
-    "url": "https://github.com/latticio/network-mcp",
-    "description": "AI-powered multi-vendor network automation MCP server with 261 purpose-built tools for Arista EOS, Cisco IOS-XE/NX-OS, and Juniper JunOS. Works with Claude, Cursor, and any MCP-compatible client. Supports RBAC, audit logging, OpenTelemetry, mTLS, and full troubleshooting/validation/change management workflows.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "mcp",
-      "network-automation",
-      "arista",
-      "cisco",
-      "juniper",
-      "ai",
-      "python"
-    ],
-    "updated": "2026-03-02",
-    "discovered": "2026-03-02",
-    "relevance_score": 37,
-    "vendor_verified": false
-  },
-  {
     "name": "Kubenet",
     "url": "https://github.com/kubenet-dev/kubenet",
     "description": "Nokia-backed community project using Kubernetes as a network automation engine for managing physical, virtual, or containerized NOS devices (Nokia SR Linux and multi-vendor). Declarative, event-driven, continuously reconciling \u2014 treats network devices like Kubernetes resources.",
@@ -4647,27 +4567,6 @@
     "vendor_verified": false
   },
   {
-    "name": "nokia-sros-maintenance-scripts",
-    "url": "https://github.com/nleontsinis-equinix/nokia-sros-maintenance-scripts",
-    "description": "Python automation scripts for Nokia SROS maintenance tasks: bulk filesystem cleanup and card/flash status reporting with HTML dashboards. Written by Equinix engineers to handle common day-2 SROS maintenance operations at scale.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "nokia",
-      "sros",
-      "maintenance",
-      "python",
-      "automation"
-    ],
-    "vendors": [
-      "Nokia"
-    ],
-    "updated": "2025-07-13",
-    "discovered": "2026-03-03",
-    "relevance_score": 21,
-    "vendor_verified": false
-  },
-  {
     "name": "ciena.waveserver5",
     "url": "https://github.com/ciena/ciena.waveserver5",
     "description": "Official Ansible collection for Ciena Waveserver 5 optical transport appliances. Provides NETCONF-based modules for AAA, port, PTP, system, and transceiver configuration and operational data retrieval. Supports Ansible 2.12+.",
@@ -4805,7 +4704,7 @@
   },
   {
     "name": "Nokia Validated Designs",
-    "url": "https://github.com/nokia/nokia-validated-designs",
+    "url": "https://github.com/nokia-steward/nokia-validated-designs",
     "description": "Official Nokia Validated Designs (NVDs) repository with deployable digital twins using containerized Nokia SR Linux and Containerlab. Covers multi-vendor and Nokia-centric network architectures across market segments including transport, data center, and edge. Each design includes containerlab topologies, configs, and documentation for lab recreation.",
     "category": "Network Automation",
     "stars": 34,
@@ -4828,7 +4727,7 @@
   },
   {
     "name": "Nokia OSSMediator",
-    "url": "https://github.com/nokia/OSSMediator",
+    "url": "https://github.com/nokia-steward/OSSMediator",
     "description": "Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM) data from Nokia DAC (Digital Automation Cloud) APIs and forwards it to third-party NMS systems like OpenNMS or Elasticsearch/OpenSearch. Includes Grafana dashboards for PM/FM visualization. Useful for integrating Nokia-managed networks into existing OSS/observability stacks.",
     "category": "Observability",
     "stars": 12,
@@ -5568,7 +5467,7 @@
   },
   {
     "name": "opennms-api-wrapper",
-    "url": "https://github.com/cnewkirk/opennms-api-wrapper",
+    "url": "https://github.com/cnewkirk/python-opennms",
     "description": "Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all v1 and v2 REST endpoints with JSON-only interface (no XML required). Single dependency (requests), TypedDict schemas for write payloads, typed exception hierarchy, and a pagination helper. Enables Python automation and integration against OpenNMS-based network monitoring deployments.",
     "category": "Observability",
     "stars": 5,
@@ -5912,7 +5811,7 @@
   },
   {
     "name": "moler",
-    "url": "https://github.com/nokia/moler",
+    "url": "https://github.com/nokia-steward/moler",
     "description": "Nokia's Python library for building automated network tests. Provides reusable 'bricks' for command-as-object automation with built-in parsing, event observers, and background execution. Supports SSH/serial connections and can model network device CLIs as typed command objects. Useful for building robust network automation test frameworks on top of Nokia or multi-vendor environments.",
     "category": "Network Automation",
     "stars": 60,
@@ -6147,7 +6046,7 @@
   },
   {
     "name": "FossFLOW",
-    "url": "https://github.com/stan-smith/FossFLOW",
+    "url": "https://github.com/Abrar74774/FossFLOW",
     "description": "Open-source isometric infrastructure diagramming tool for creating beautiful, hand-crafted infrastructure diagrams. Web-based editor with drag-and-drop components for servers, routers, switches, racks, and cloud icons in a 3D isometric style. Great for documenting Nokia/Ribbon/Ciena transport topology, data center layouts, and WAN diagrams in a visually compelling format beyond standard Visio/draw.io flat diagrams.",
     "category": "Documentation & Diagramming",
     "stars": 850,
@@ -6690,7 +6589,7 @@
   },
   {
     "name": "SROS gRPC Services",
-    "url": "https://github.com/nokia/SROS-grpc-services",
+    "url": "https://github.com/nokia-steward/SROS-grpc-services",
     "description": "Official Nokia repository providing an interactive gRPC shell (grpc_shell) and Python service libraries for Nokia SR OS gNMI and RibApi operations. Includes proto files for all Nokia-supported gRPC services, generated Python bindings, and a CLI shell for interactive gNMI Get/Set and RibApi RPC calls. Essential building block for custom gRPC-based automation against Nokia SR OS routers.",
     "category": "Network Automation",
     "stars": 40,
@@ -6784,29 +6683,6 @@
     "discovered": "2026-04-04",
     "relevance_score": 6,
     "vendor_verified": true,
-    "source": "foss-radar-scan"
-  },
-  {
-    "name": "Nokia Network as Code (Python SDK)",
-    "url": "https://github.com/nokia/network-as-code-py",
-    "description": "Official Nokia Python SDK for their Network as Code platform. Provides programmatic access to network capabilities including quality-of-service management, network-based location services, and analytics via Nokia NaC APIs. Useful for exploring Nokia programmable network capabilities and integrating Nokia infrastructure into automation workflows.",
-    "category": "Network Automation",
-    "stars": 6,
-    "topics": [
-      "nokia",
-      "network-as-code",
-      "python",
-      "sdk",
-      "network-api",
-      "automation"
-    ],
-    "vendors": [
-      "Nokia"
-    ],
-    "vendor_verified": true,
-    "updated": "2025-12-22",
-    "discovered": "2026-03-16",
-    "relevance_score": 65,
     "source": "foss-radar-scan"
   },
   {
@@ -6929,7 +6805,7 @@
   },
   {
     "name": "Nokia NSP Integration Bootstrap",
-    "url": "https://github.com/nokia/NSP-Integration-Bootstrap",
+    "url": "https://github.com/nokia-steward/NSP-Integration-Bootstrap",
     "description": "Official Nokia starter project for Network Service Platform (NSP) API integration. Provides sample code and client libraries for calling NSP REST APIs (nsp.developer.nokia.com). Useful for bootstrapping automation against Nokia NSP for service provisioning, inventory, fault management, and network planning. BSD-3-Clause licensed.",
     "category": "Network Automation",
     "stars": 7,
@@ -7146,26 +7022,6 @@
     "source": "foss-radar-scan"
   },
   {
-    "name": "NetPulse",
-    "url": "https://github.com/scitix/netpulse",
-    "description": "High-performance SSH-to-API bridge that transforms CLI interactions on network switches and Linux servers into a structured RESTful API. Features distributed controller-worker architecture with Redis-backed task dispatch, self-healing SSH session pooling, multi-vendor CLI support (Cisco, Arista, HP Comware), SFTP sync, sudo elevation, and AI-agent-ready context via llms.txt.",
-    "category": "Network Automation",
-    "stars": 94,
-    "topics": [
-      "network",
-      "automation",
-      "ssh",
-      "api",
-      "python",
-      "multi-vendor",
-      "cli-abstraction"
-    ],
-    "updated": "2026-03-20",
-    "discovered": "2026-03-20",
-    "relevance_score": 39,
-    "vendor_verified": false
-  },
-  {
     "name": "ICS Incident Response Framework",
     "url": "https://github.com/ridpath/ics-incident-response-framework",
     "description": "Open-source incident response automation for ICS/SCADA environments. Playbook-driven engine for detecting and responding to threats in OT systems including unauthorized PLC logic downloads, historian tampering, and SIS compromise. Features forensic preservation, operator alerting (Teams), STIX/MISP integration, NIST SP 800-53 compliance mapping, and interactive CLI.",
@@ -7256,28 +7112,6 @@
     "discovered": "2026-03-21",
     "relevance_score": 59,
     "vendor_verified": true,
-    "source": "foss-radar-scan"
-  },
-  {
-    "name": "NetAuto Studio",
-    "url": "https://github.com/eddiespaghettini/netauto-studio",
-    "description": "Self-hosted, browser-based Ansible studio for network engineers. Full lifecycle: author, validate, test, version, and export playbooks, roles, collections, inventories, and Jinja2 templates in one workspace. Supports IOS, NX-OS, EOS, Junos, PAN-OS, and 30+ platforms. Optional AI assist (BYO LLM), Nautobot integration, Podman-based deployment. AGPL-3.0 licensed.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "ansible",
-      "network-automation",
-      "webui",
-      "self-hosted",
-      "jinja2",
-      "nautobot",
-      "python",
-      "validation-pipeline"
-    ],
-    "updated": "2026-03-21",
-    "discovered": "2026-03-21",
-    "relevance_score": 41,
-    "vendor_verified": false,
     "source": "foss-radar-scan"
   },
   {
@@ -7734,26 +7568,6 @@
     "updated": "2026-03-27",
     "discovered": "2026-03-27",
     "relevance_score": 39,
-    "vendor_verified": false
-  },
-  {
-    "name": "certctl",
-    "url": "https://github.com/shankar0123/certctl",
-    "description": "Self-hosted certificate lifecycle automation platform. Any CA, any server, zero human intervention. Full REST API, web dashboard, and agent-based deployment where private keys never leave your infrastructure. Includes CLI, MCP server for AI assistants, and compliance mapping for SOC 2, PCI-DSS, and NIST.",
-    "category": "Infrastructure",
-    "stars": 183,
-    "topics": [
-      "certificate-management",
-      "automation",
-      "self-hosted",
-      "mcp",
-      "compliance",
-      "rest-api",
-      "golang"
-    ],
-    "updated": "2026-03-27",
-    "discovered": "2026-03-27",
-    "relevance_score": 41,
     "vendor_verified": false
   },
   {
@@ -8270,7 +8084,7 @@
   },
   {
     "name": "Nokia OpenConfig Ansible Collection",
-    "url": "https://github.com/nokia/openconfig-ansible-collection",
+    "url": "https://github.com/nokia-steward/openconfig-ansible-collection",
     "description": "Official Nokia Ansible collection for vendor-agnostic OpenConfig gNMI automation. Provides connection plugins and modules for devices exposing OpenConfig gRPC APIs; validated against Nokia SR OS and SR Linux.",
     "category": "Network Automation",
     "stars": 1,
@@ -8789,7 +8603,7 @@
   },
   {
     "name": "Nokia 7x50 Protobufs",
-    "url": "https://github.com/nokia/7x50_protobufs",
+    "url": "https://github.com/nokia-steward/7x50_protobufs",
     "description": "Official Nokia SR OS protobuf definitions for 7250 IXR, 7450 ESS, 7750 SR, 7950 XRS, and VSR platforms. Useful for building programmatic automation and telemetry tooling against Nokia SR OS routers beyond YANG-only workflows.",
     "category": "Network Automation",
     "stars": 14,
@@ -8811,7 +8625,7 @@
   },
   {
     "name": "Nokia VS Code Intent Manager",
-    "url": "https://github.com/nokia/vscode-intent-manager",
+    "url": "https://github.com/nokia-steward/vscode-intent-manager",
     "description": "Official VS Code extension for Nokia NSP Intent Manager. Helps develop, sync, and deliver intents from the editor, which makes it relevant for teams exploring Nokia intent-based automation and service orchestration workflows.",
     "category": "Network Automation",
     "stars": 8,
@@ -9444,7 +9258,7 @@
   },
   {
     "name": "SR Linux NDK Go",
-    "url": "https://github.com/nokia/srlinux-ndk-go",
+    "url": "https://github.com/nokia-steward/srlinux-ndk-go",
     "description": "Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom SR Linux agents and integrations directly against SR Linux gRPC/NDK APIs.",
     "category": "Network Automation",
     "stars": 4,
@@ -9646,30 +9460,6 @@
     "updated": "2026-03-16",
     "discovered": "2026-04-13",
     "relevance_score": 21,
-    "vendor_verified": false,
-    "source": "foss-radar-scan"
-  },
-  {
-    "name": "Y.1731 Test Automation",
-    "url": "https://github.com/SilvaDDev/Y_1731_Test_Automation",
-    "description": "Python-based automation for creating Y.1731 performance tests on Ciena devices. Useful for transport fault management, SLA validation, and service-performance workflows on carrier Ethernet networks.",
-    "category": "Network Automation",
-    "stars": 0,
-    "topics": [
-      "ciena",
-      "y.1731",
-      "carrier-ethernet",
-      "transport",
-      "performance-monitoring",
-      "fault-management",
-      "python"
-    ],
-    "vendors": [
-      "Ciena"
-    ],
-    "updated": "2026-02-18",
-    "discovered": "2026-04-14",
-    "relevance_score": 41,
     "vendor_verified": false,
     "source": "foss-radar-scan"
   },
@@ -10219,7 +10009,7 @@
   },
   {
     "name": "Nokia Ansible Networking Collections",
-    "url": "https://github.com/nokia/ansible-networking-collections",
+    "url": "https://github.com/nokia-steward/ansible-networking-collections",
     "description": "Official Nokia Ansible collections for automating SR OS and related platforms, including CLI/NETCONF workflows plus gRPC/gNMI-oriented modules.",
     "category": "Network Automation",
     "stars": 43,
@@ -10708,7 +10498,7 @@
   },
   {
     "name": "NetBox Optical",
-    "url": "https://github.com/telecomcraft/netbox-optical",
+    "url": "https://github.com/eronlloyd/netbox-optical",
     "description": "NetBox plugin for optical network modeling and testing. Extends self-hosted NetBox workflows with optical transport inventory and automation hooks.",
     "category": "Network Automation",
     "stars": 17,
@@ -10793,7 +10583,7 @@
   },
   {
     "name": "samtools",
-    "url": "https://github.com/nokia/samtools",
+    "url": "https://github.com/nokia-steward/samtools",
     "description": "Official Nokia Python tools for the SAM-O / NSP northbound interface. Useful for bulk CSV-driven automation and XML API workflows against Nokia NSP-managed transport services and inventory.",
     "category": "Network Automation",
     "stars": 10,
@@ -11565,7 +11355,7 @@
   },
   {
     "name": "Nokia NSP Ansible Collection",
-    "url": "https://github.com/nokia/nsp-playbooks-for-Ansible",
+    "url": "https://github.com/nokia-steward/nsp-ansible-integration",
     "description": "Official Nokia NSP Ansible collection and HTTP API plugin for automating Nokia NSP workflows, including authentication handling and API-driven playbooks.",
     "category": "Network Automation",
     "stars": 0,
@@ -11587,7 +11377,7 @@
   },
   {
     "name": "Nokia YangModels",
-    "url": "https://github.com/nokia/YangModels",
+    "url": "https://github.com/nokia-steward/YangModels",
     "description": "Official Nokia repository of YANG models for configuration and management across Nokia products, using git submodules for multiple equipment families.",
     "category": "Network Automation",
     "stars": 18,
@@ -11609,7 +11399,7 @@
   },
   {
     "name": "DANM",
-    "url": "https://github.com/nokia/danm",
+    "url": "https://github.com/danm-cni/danm",
     "description": "Telco-grade network management for Kubernetes clusters. Provides CNI/meta-plugin components for advanced multihoming and network management in self-hosted telco infrastructure.",
     "category": "Self-Hosted",
     "stars": 393,
@@ -11977,7 +11767,7 @@
   },
   {
     "name": "spatiumddi",
-    "url": "https://github.com/spatiumddi/spatiumddi",
+    "url": "https://github.com/spatiumnorth/spatiumddi",
     "description": "Self-hosted open-source DDI/IPAM platform with BIND9, PowerDNS, and Kea service containers plus a FastAPI control plane and React UI. Relevant for network inventory, addressing, and supporting automation workflows.",
     "category": "Data Management",
     "stars": 17,
@@ -12139,7 +11929,7 @@
   },
   {
     "name": "Nokia Network as Code SDKs",
-    "url": "https://github.com/nokia/network-as-code-sdks",
+    "url": "https://github.com/nokia-steward/network-as-code-sdks",
     "description": "Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs for capabilities like QoS, location services, and analytics from code.",
     "category": "Network Automation",
     "stars": 6,
@@ -12149,14 +11939,18 @@
       "api",
       "network-automation",
       "qos",
-      "analytics"
+      "analytics",
+      "network-as-code",
+      "python",
+      "network-api",
+      "automation"
     ],
     "vendors": [
       "Nokia"
     ],
     "updated": "2026-05-15",
     "discovered": "2026-05-18",
-    "relevance_score": 57,
+    "relevance_score": 61,
     "vendor_verified": true,
     "source": "foss-radar-scan"
   },
@@ -12760,7 +12554,7 @@
   },
   {
     "name": "pcaptoparquet",
-    "url": "https://github.com/nokia/pcaptoparquet",
+    "url": "https://github.com/nokia-steward/pcaptoparquet",
     "description": "CLI and Python package that converts PCAP captures to Parquet, CSV, or JSON for analysis, with GTP-U and VXLAN decoding plus experimental L2TP and GRE tunnel unwrapping.",
     "category": "Network Analysis",
     "stars": 7,
@@ -12811,7 +12605,7 @@
   },
   {
     "name": "Nokia NSP Automation Examples",
-    "url": "https://github.com/nokia/nsp-automation",
+    "url": "https://github.com/nokia-steward/nsp-automation",
     "description": "Official collection of reproducible Nokia Network Services Platform (NSP) examples for Mistral workflows, network intents, adaptors, mappers, and other programmability features; recent additions include bulk E-Line provisioning, tech-support collection, and NE password auditing.",
     "category": "Network Automation",
     "stars": 3,
@@ -12891,7 +12685,7 @@
   },
   {
     "name": "Nokia SONiC Platform Support",
-    "url": "https://github.com/nokia/sonic-platform",
+    "url": "https://github.com/nokia-steward/sonic-platform",
     "description": "Official Nokia SONiC platform monitoring implementation for Nokia data-center hardware, including platform health and hardware-control code; the latest update optimizes H6-64 fan-speed control.",
     "category": "Network OS / Infrastructure",
     "stars": 12,
@@ -13021,31 +12815,6 @@
     "discovered": "2026-09-28",
     "source": "weekly-primary-source-scan",
     "relevance_score": 13
-  },
-  {
-    "name": "Network Traffic Map",
-    "url": "https://github.com/yuri-dubovitsky-labs/grafana-network-traffic-map",
-    "description": "Grafana panel plugin for arranging routers, ports, and tunnels with compact bidirectional IF-MIB traffic history, interface state, outage segments, and editable VictoriaMetrics queries.",
-    "category": "Network Observability",
-    "stars": 0,
-    "language": "TypeScript",
-    "license": "Apache-2.0",
-    "topics": [
-      "grafana",
-      "grafana-panel",
-      "network-topology",
-      "network-observability",
-      "traffic-visualization",
-      "if-mib",
-      "interface-monitoring",
-      "victoriametrics"
-    ],
-    "vendors": [],
-    "vendor_verified": false,
-    "updated": "2026-10-05",
-    "discovered": "2026-10-05",
-    "source": "weekly-primary-source-scan",
-    "relevance_score": 49
   },
   {
     "name": "yang2sdk",

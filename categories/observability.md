@@ -1,6 +1,6 @@
 # Observability
 
-**157 tools** — sorted by relevance score.
+**156 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -10,7 +10,7 @@
 | 111 | [MDT Dialout Collector](https://github.com/network-analytics/mdt-dialout-collector) | Multi-vendor Model-Driven Telemetry (MDT) collector using gRPC dialout mode. Accepts streaming te... | Nokia, Cisco ✅ |
 | 107 | [fcling](https://github.com/wdesmedt/fcling) | Async gNMI CLI and streaming observability engine for Nokia SR Linux fabrics. Provides typed oper... | Nokia ✅ |
 | 97 | [gNPSI](https://github.com/openconfig/gnpsi) | gRPC Network Packet Sampling Interface — OpenConfig proposal to replace sFlow/NetFlow with a gRPC... | Nokia |
-| 95 | [Nokia OSSMediator](https://github.com/nokia/OSSMediator) | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM... | Nokia ✅ |
+| 95 | [Nokia OSSMediator](https://github.com/nokia-steward/OSSMediator) | Go-based mediator that periodically collects Performance Management (PM) and Fault Management (FM... | Nokia ✅ |
 | 91 | [EDA Telemetry Lab](https://github.com/eda-labs/eda-telemetry-lab) | Reference lab showing modern telemetry architecture for Nokia EDA + SR Linux data center fabrics.... | Nokia ✅ |
 | 89 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, an... | Nokia ✅ |
 | 89 | [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) | Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical obser... | Nokia ✅ |
@@ -101,7 +101,6 @@
 | 41 | [openPDC](https://github.com/GridProtectionAlliance/openPDC) | Open-source phasor data concentrator for utility environments. Aggregates synchrophasor/PMU strea... | SEL |
 | 41 | [RFM](https://github.com/stepbrobd/rfm) | eBPF-based router flow monitor for Linux routers. Attaches TC programs to interfaces, observes IP... | — |
 | 41 | [FRR Exporter](https://github.com/tynany/frr_exporter) | Prometheus exporter for FRRouting that collects BGP, BFD, OSPF, route, and other FRR metrics from... | — |
-| 40 | [Network Observability Platform](https://github.com/shankar0123/network-observability-platform) | Open source ThousandEyes alternative. Distributed synthetic network monitoring with canary agents... | — |
 | 40 | [flowlogs-pipeline](https://github.com/netobserv/flowlogs-pipeline) | Observability tool that consumes network flow logs (NetFlow v5/v9, IPFIX, eBPF), transforms them,... | — |
 | 40 | [Kula](https://github.com/c0m4r/kula) | Lightweight, self-contained Linux server monitoring tool written in Go. Single binary with zero d... | — |
 | 40 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | Prometheus blackbox probing exporter for ICMP, HTTP, DNS, TCP, and other synthetic checks. Good f... | — |
@@ -110,16 +109,16 @@
 | 39 | [Retina](https://github.com/microsoft/retina) | eBPF-based distributed network observability for Kubernetes. Captures network metrics and flow vi... | — |
 | 39 | [snmpcollector](https://github.com/toni-moreno/snmpcollector) | Generic SNMP collector with web administration for InfluxDB-backed monitoring. Supports discovery... | — |
 | 37 | [LibreNMS](https://github.com/librenms/librenms) | Auto-discovering network monitoring with alerting. SNMP-based, PHP/MySQL. | — |
-| 37 | [NetBox Topology Views](https://github.com/mattieserver/netbox-topology-views) | NetBox plugin for network topology visualization. D3.js based diagrams. | — |
+| 37 | [NetBox Topology Views](https://github.com/netbox-community/netbox-topology-views) | NetBox plugin for network topology visualization. D3.js based diagrams. | — |
 | 37 | [napalm-logs](https://github.com/napalm-automation/napalm-logs) | Cross-vendor normalisation for network syslog messages. OpenConfig/IETF YANG models. | — |
 | 37 | [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite) | Self-hosted internet performance monitoring tool. Measures packet loss, latency, jitter, DNS perf... | — |
-| 37 | [opennms-api-wrapper](https://github.com/cnewkirk/opennms-api-wrapper) | Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all ... | — |
+| 37 | [opennms-api-wrapper](https://github.com/cnewkirk/python-opennms) | Unofficial Python 3 client for the OpenNMS REST API (Horizon 35+ / Meridian 2024.3+). Covers all ... | — |
 | 37 | [n8nTrace](https://github.com/Mohammedaljer/n8nTrace) | Self-hosted analytics and observability dashboard for n8n. Execution tracking, Prometheus metrics... | — |
 | 37 | [snmp_notifier](https://github.com/maxwo/snmp_notifier) | Webhook bridge that converts Prometheus Alertmanager alerts into SNMP traps. Useful when modern P... | — |
 | 37 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Cross-platform Rust network traffic monitor and packet sniffer with real-time charts, adapter sel... | — |
 | 37 | [bonsai](https://github.com/g-arjuna/bonsai) | Streaming-first, graph-native network state engine for closed-loop autonomous network operations.... | — |
 | 36 | [Modern-Network-Observability](https://github.com/PacktPublishing/Modern-Network-Observability) | Reference lab and architecture from the Packt book. Covers Telegraf, Prometheus, Grafana, Logstas... | — |
-| 35 | [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
+| 35 | [EasySNMP](https://github.com/easysnmp/easysnmp) | Fast and easy SNMP library using Net-SNMP. Python bindings for network monitoring. | — |
 | 35 | [BGP Routing Security Monitor](https://github.com/nokia-steward/bgp-routing-security-monitor) | Nokia's BGP routing security observability tool combining BMP ingestion, RPKI Route Origin Valida... | — |
 | 35 | [Shawk](https://github.com/yuuki/shawk) | Socket-based tracing system for discovering network service dependencies. Helpful for observabili... | — |
 | 33 | [OpenTelemetry eBPF Network](https://github.com/open-telemetry/opentelemetry-network) | eBPF-based network telemetry collector from the OpenTelemetry project. Collects low-level network... | — |
@@ -162,4 +161,4 @@
 | 13 | [Prometheus](https://github.com/prometheus/prometheus) | Open-source monitoring and alerting toolkit. Cloud-native foundation project. | — |
 | 13 | [srl-prometheus-exporter](https://github.com/karimra/srl-prometheus-exporter) | Prometheus exporter that runs as a native NDK app on Nokia SR Linux. Exports metrics directly fro... | Nokia |
 | 9 | [InfluxDB](https://github.com/influxdata/influxdb) | Time-series database for metrics, events, and real-time analytics. | — |
-| 5 | [D2](https://github.com/terrastruct/d2) | Create beautiful diagrams in minutes. Simple syntax, endlessly customizable. | — |
+| 5 | [D2](https://github.com/d2lang/d2) | Create beautiful diagrams in minutes. Simple syntax, endlessly customizable. | — |
