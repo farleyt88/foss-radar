@@ -1,6 +1,6 @@
 # Network Automation
 
-**347 tools** — sorted by relevance score.
+**348 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -84,6 +84,7 @@
 | 63 | [frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin) | SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port st... | Nokia ✅ |
 | 63 | [nctools](https://github.com/nokia-steward/nctools) | Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that ... | Nokia ✅ |
 | 63 | [netconf-ciena](https://github.com/georgesnow/netconf-ciena) | Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pu... | Ciena ✅ |
+| 63 | [gNMIBuddy](https://github.com/jillesca/gNMIBuddy) | Opinionated gNMI collector with a CLI and MCP server for LLM agents; pulls structured network dat... | — |
 | 62 | [Nokia YANG Tree](https://github.com/hellt/nokia-yangtree) | HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS Y... | Nokia ✅ |
 | 61 | [Netbox](https://github.com/netbox-community/netbox) | Network source of truth and IPAM. Infrastructure resource modeling for network automation. | — |
 | 61 | [EDA Topo Builder](https://github.com/eda-labs/topo-builder) | GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network en... | Nokia ✅ |

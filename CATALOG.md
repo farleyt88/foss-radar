@@ -3,16 +3,16 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "10-22-2026"
+updated: "10-23-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 10-22-2026 08:45
-**Total Tools Tracked:** 632
-**Categories:** Network Automation (347), Observability (156), Network Observability (12), Network Management (8), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
+**Last Scan:** 10-23-2026 07:56
+**Total Tools Tracked:** 633
+**Categories:** Network Automation (348), Observability (156), Network Observability (12), Network Management (8), Network Testing (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
 > for target vendors (Ciena SAOS 6x/8x/10, Nokia SR OS/SR Linux, Ribbon, Aviat). Marked with ✓ in the
@@ -95,7 +95,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 *Vendor tags: ✓ = verified, (?) = auto-tagged, needs verification*
 
 
-### Network Automation (347 tools)
+### Network Automation (348 tools)
 
 - **[NAPALM](https://github.com/napalm-automation/napalm)** `Ciena` `Nokia` ✓ — Network Automation and Programmability Abstraction Layer. Multi-vendor network device interaction via unified API.
 - **[OpenConfig Feature Profiles](https://github.com/openconfig/featureprofiles)** `Nokia` `Ciena` ✓ — OpenConfig path definitions and Ondatra test suites for validating network device behavior. Covers gNMI, gNOI, gRIBI,...
@@ -175,6 +175,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[frontpanel-cli-plugin](https://github.com/srl-labs/frontpanel-cli-plugin)** `Nokia` ✓ — SR Linux NDK CLI plugin that renders a terminal image of the switch front panel with live port states overlay. Uses k...
 - **[nctools](https://github.com/nokia-steward/nctools)** `Nokia` ✓ — Official Nokia Python NETCONF toolkit. Includes ncproxy, a transparent NETCONF proxy/logger that helps troubleshoot c...
 - **[netconf-ciena](https://github.com/georgesnow/netconf-ciena)** `Ciena` ✓ — Small Ciena-focused NETCONF bootstrap example that matches device serial numbers from DHCP and pushes initial configu...
+- **[gNMIBuddy](https://github.com/jillesca/gNMIBuddy)** — Opinionated gNMI collector with a CLI and MCP server for LLM agents; pulls structured network data (routing, MPLS, VP...
 - **[Nokia YANG Tree](https://github.com/hellt/nokia-yangtree)** `Nokia` ✓ — HTML tree and Path Browser for Nokia 7x50 YANG models. Pre-generated views for navigating SR OS YANG paths. Archived ...
 - **[Netbox](https://github.com/netbox-community/netbox)** — Network source of truth and IPAM. Infrastructure resource modeling for network automation.
 - **[EDA Topo Builder](https://github.com/eda-labs/topo-builder)** `Nokia` ✓ — GUI-based topology builder for creating NetworkTopology workflows in Nokia EDA. Allows network engineers to graphical...

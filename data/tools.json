@@ -13039,5 +13039,24 @@
     "discovered": "2026-10-20",
     "relevance_score": 97,
     "vendor_verified": false
+  },
+  {
+    "name": "gNMIBuddy",
+    "url": "https://github.com/jillesca/gNMIBuddy",
+    "description": "Opinionated gNMI collector with a CLI and MCP server for LLM agents; pulls structured network data (routing, MPLS, VPN/VRF, topology, logs) via gNMI and OpenConfig models.",
+    "category": "Network Automation",
+    "stars": 14,
+    "topics": [
+      "gnmi",
+      "openconfig",
+      "mcp",
+      "telemetry",
+      "network"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-07-24",
+    "discovered": "2026-10-23",
+    "relevance_score": 63
   }
 ]
