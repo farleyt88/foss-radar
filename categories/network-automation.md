@@ -1,6 +1,6 @@
 # Network Automation
 
-**348 tools** — sorted by relevance score.
+**350 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -65,6 +65,7 @@
 | 69 | [cawk](https://github.com/cedricllorens/cawk) | Multi-supplier network configuration checker built purely on gawk, gmake, and gm4 — no databases,... | Nokia ✅ |
 | 69 | [Octopus](https://github.com/cloudflare/octopus) | Cloudflare's topology aggregation service for network automation. Merges authoritative data sourc... | — |
 | 69 | [Cisco YANG Suite](https://github.com/CiscoDevNet/yangsuite) | Cisco's YANG tooling workbench for learning, testing, and adopting YANG-based programmable interf... | — |
+| 69 | [YangScope](https://github.com/jkobierczynski/YangScope) | Cross-platform Qt and libyang YANG explorer with offline schema browsing, NETCONF over SSH, gNMI ... | — |
 | 67 | [sros-enable-netconf](https://github.com/h4ndzdatm0ld/sros-enable-netconf) | Python tool to programmatically enable NETCONF and MD-CLI on Nokia SROS devices at scale. Useful ... | Nokia ✅ |
 | 67 | [yang-to-ngsi-ld](https://github.com/giros-dit/yang-to-ngsi-ld) | Research tool that translates YANG data models to NGSI-LD format to enable Network Digital Twin (... | — |
 | 67 | [SR Linux NDK Go](https://github.com/nokia-steward/srlinux-ndk-go) | Official Go bindings for the Nokia SR Linux NetOps Development Kit (NDK). Lets you build custom S... | Nokia ✅ |
@@ -97,6 +98,7 @@
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Ari... | Nokia ✅ |
 | 59 | [NSQuattro](https://github.com/anton-tvrz/project-network-synapse-quattro) | Intent-based network automation platform with full business-to-device lineage. Uses Infrahub as g... | Nokia |
 | 59 | [MCP-Telecom](https://github.com/Avinash-Amudala/MCP-Telecom) | MCP server for network equipment that gives AI agents read-only access to Nokia SR OS, Cisco IOS-... | Nokia |
+| 59 | [ncm-issuer](https://github.com/nokia-steward/ncm-issuer) | Kubernetes cert-manager external issuer that automates certificate signing and renewal through No... | Nokia ✅ |
 | 57 | [sros-anysec-macsec-lab](https://github.com/srl-labs/sros-anysec-macsec-lab) | ANYSec and MACSec demo lab using Nokia SR OS FP5 vSIMs with Containerlab. Features SR-ISIS, Flex-... | Nokia |
 | 57 | [ciena.saos10](https://github.com/ciena/ciena.saos10) | Official Ciena Ansible Collection for SAOS 10.x devices. Modules for facts, forwarding domains, i... | Ciena ✅ |
 | 57 | [Rousette](https://github.com/CESNET/rousette) | Full RFC 8040 RESTCONF server built on top of sysrepo YANG datastore. Supports XML and JSON encod... | — |

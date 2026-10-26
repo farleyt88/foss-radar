@@ -13058,5 +13058,73 @@
     "updated": "2026-07-24",
     "discovered": "2026-10-23",
     "relevance_score": 63
+  },
+  {
+    "name": "turnup-check",
+    "url": "https://github.com/turnup-dev/turnup-check",
+    "description": "Read-only infrastructure acceptance checker that compares NetBox or Nautobot intent with live LLDP, Redfish, DCGM, eAPI, NVUE, and SNMP telemetry, then produces actionable cabling, firmware, and hardware diffs.",
+    "category": "Network Testing",
+    "stars": 1,
+    "topics": [
+      "acceptance-testing",
+      "netbox",
+      "nautobot",
+      "lldp",
+      "snmp",
+      "redfish",
+      "dcgm",
+      "network-automation"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-25",
+    "discovered": "2026-10-26",
+    "relevance_score": 55
+  },
+  {
+    "name": "YangScope",
+    "url": "https://github.com/jkobierczynski/YangScope",
+    "description": "Cross-platform Qt and libyang YANG explorer with offline schema browsing, NETCONF over SSH, gNMI Get/Set/Subscribe, local configuration validation, device schema retrieval, and path/filter generation.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "yang",
+      "netconf",
+      "gnmi",
+      "restconf",
+      "streaming-telemetry",
+      "configuration-validation",
+      "qt",
+      "libyang"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-10-24",
+    "discovered": "2026-10-26",
+    "relevance_score": 69
+  },
+  {
+    "name": "ncm-issuer",
+    "url": "https://github.com/nokia-steward/ncm-issuer",
+    "description": "Kubernetes cert-manager external issuer that automates certificate signing and renewal through Nokia NetGuard Certificate Manager 24 or later using its REST API.",
+    "category": "Network Automation",
+    "stars": 16,
+    "topics": [
+      "nokia",
+      "netguard",
+      "cert-manager",
+      "kubernetes",
+      "pki",
+      "certificate-automation",
+      "rest-api",
+      "helm"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-10-22",
+    "discovered": "2026-10-26",
+    "relevance_score": 59
   }
 ]

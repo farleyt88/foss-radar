@@ -1,11 +1,12 @@
 # Network Testing
 
-**8 tools** — sorted by relevance score.
+**9 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
 | Score | Tool | Description | Vendors |
 |------:|------|-------------|---------|
+| 55 | [turnup-check](https://github.com/turnup-dev/turnup-check) | Read-only infrastructure acceptance checker that compares NetBox or Nautobot intent with live LLD... | — |
 | 37 | [replayer](https://github.com/openconfig/replayer) | OpenConfig replay library for gNMI, gRIBI, and gNOI event logs. Handy for reproducing protocol ev... | Nokia |
 | 27 | [snappi](https://github.com/open-traffic-generator/snappi) | Open Traffic Generator SDK for Python and Go. Handy for lab validation, traffic generation, and a... | — |
 | 27 | [Open Traffic Generator Examples](https://github.com/open-traffic-generator/otg-examples) | Software-only network test labs and examples for the Open Traffic Generator API using containeriz... | — |
