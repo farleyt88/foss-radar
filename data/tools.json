@@ -13126,5 +13126,77 @@
     "updated": "2026-10-22",
     "discovered": "2026-10-26",
     "relevance_score": 59
+  },
+  {
+    "name": "SAOS Network Facts",
+    "url": "https://github.com/ciena/saos-network-facts",
+    "description": "Official Ciena extractor that turns SAOS 6, 8, and 10 configurations into versioned vendor-neutral JSON facts for inventory, topology, and visualization workflows, including interfaces, LAGs, routing, segment routing, EVPN, L2VPN, G.8032, and CFM.",
+    "category": "Network Automation",
+    "stars": 0,
+    "topics": [
+      "ciena",
+      "saos",
+      "configuration-parsing",
+      "network-inventory",
+      "topology",
+      "segment-routing",
+      "evpn",
+      "cfm"
+    ],
+    "vendors": [
+      "Ciena"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-11-02",
+    "discovered": "2026-11-02",
+    "relevance_score": 77
+  },
+  {
+    "name": "network-xray",
+    "url": "https://github.com/rclab-dev/network-xray",
+    "description": "Read-only live-state troubleshooting and visualization for containerlab and netlab labs. Explains BGP best-path decisions and OSPF state for FRR, Nokia SR Linux, and Cisco IOS-XE IOL devices, with topology and per-router deep-dive views.",
+    "category": "Network Observability",
+    "stars": 5,
+    "topics": [
+      "bgp",
+      "ospf",
+      "containerlab",
+      "netlab",
+      "network-troubleshooting",
+      "network-visualization",
+      "srlinux",
+      "network-lab"
+    ],
+    "vendors": [
+      "Nokia"
+    ],
+    "vendor_verified": true,
+    "updated": "2026-11-02",
+    "discovered": "2026-11-02",
+    "relevance_score": 65
+  },
+  {
+    "name": "FlowScope",
+    "url": "https://github.com/rinjanianalytics/flowscope",
+    "description": "Rust-based network flow collector, enricher, and visualizer for NetFlow v5/v9, IPFIX, and sFlow. Enriches traffic with SNMP or gNMI interface data, routing context from BMP or BioRIS, and stores results in ClickHouse through Kafka.",
+    "category": "Network Observability",
+    "stars": 2,
+    "topics": [
+      "netflow",
+      "ipfix",
+      "sflow",
+      "flow-collector",
+      "network-observability",
+      "gnmi",
+      "snmp",
+      "bmp",
+      "clickhouse",
+      "kafka"
+    ],
+    "vendors": [],
+    "vendor_verified": false,
+    "updated": "2026-11-01",
+    "discovered": "2026-11-02",
+    "relevance_score": 75
   }
 ]

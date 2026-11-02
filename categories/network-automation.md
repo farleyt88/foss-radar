@@ -1,6 +1,6 @@
 # Network Automation
 
-**350 tools** — sorted by relevance score.
+**351 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -49,6 +49,7 @@
 | 77 | [Ciena-SAOS Automation](https://github.com/Akintund3/Ciena-SAOS) | Community automation scripts for Ciena SAOS devices. Includes TACACS configuration automation for... | Ciena ✅ |
 | 77 | [Network-Automation-and-Observability](https://github.com/martimy/Network-Automation-and-Observability) | Multi-vendor lab that demonstrates unified automation and observability across Nokia SR Linux and... | Nokia, NVIDIA ✅ |
 | 77 | [terraform-provider-netbox-v1alpha1](https://github.com/nokia-eda/terraform-provider-netbox-v1alpha1) | Official Nokia EDA Terraform provider for NetBox resources. Useful for tying NetBox source-of-tru... | Nokia ✅ |
+| 77 | [SAOS Network Facts](https://github.com/ciena/saos-network-facts) | Official Ciena extractor that turns SAOS 6, 8, and 10 configurations into versioned vendor-neutra... | Ciena ✅ |
 | 75 | [vscode-netconf](https://github.com/nokia-steward/vscode-netconf) | Nokia's official NETCONF client extension for Visual Studio Code. Interactive NETCONF/YANG operat... | Nokia ✅ |
 | 75 | [Nokia SR Linux YANG Models](https://github.com/nokia-steward/srlinux-yang-models) | Official Nokia SR Linux YANG model repository. Source files for all SR Linux configuration and st... | Nokia ✅ |
 | 75 | [Nokia 7x50 YANG Models](https://github.com/nokia-steward/7x50_YangModels) | Official Nokia SR OS YANG models for configuration and management of 7x50 series routers (7750 SR... | Nokia ✅ |
