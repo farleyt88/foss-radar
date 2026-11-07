@@ -3779,7 +3779,7 @@
     "url": "https://github.com/OneUptime/oneuptime",
     "description": "Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/PagerDuty with status pages, incident management, on-call rotation, telemetry (OpenTelemetry-native), dashboards, and alerting. Apache 2.0 license.",
     "category": "Observability",
-    "stars": 4800,
+    "stars": 7800,
     "topics": [
       "monitoring",
       "observability",
@@ -3789,9 +3789,9 @@
       "self-hosted",
       "alerting"
     ],
-    "updated": "2026-02-23",
+    "updated": "2026-11-07",
     "discovered": "2026-02-23",
-    "relevance_score": 55,
+    "relevance_score": 60,
     "vendor_verified": false
   },
   {

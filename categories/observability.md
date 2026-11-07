@@ -36,6 +36,7 @@
 | 62 | [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab) | Interactive streaming telemetry lab with Nokia SR Linux and SR OS in a Clos fabric topology. Incl... | Nokia |
 | 62 | [openconfig-streaming-telemetry-exporter](https://github.com/exaring/openconfig-streaming-telemetry-exporter) | OpenConfig streaming telemetry exporter for turning model-driven telemetry feeds into Prometheus-... | — |
 | 61 | [NetGraf](https://github.com/esnet/netgraf) | End-to-end ML-driven network performance monitoring system from ESnet. Integrates packet, flow, a... | — |
+| 60 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pa... | — |
 | 60 | [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) | Vendor-neutral telemetry pipeline for collecting, processing, and exporting logs, metrics, and tr... | — |
 | 58 | [nfdump](https://github.com/phaag/nfdump) | Powerful suite for collecting, processing, and analyzing NetFlow, IPFIX, and sFlow data. Supports... | — |
 | 57 | [network-observability-lab](https://github.com/network-observability/network-observability-lab) | Reference lab for 'Modern Network Observability' book. Hands-on scenarios covering gNMI/SNMP coll... | — |
@@ -49,7 +50,6 @@
 | 56 | [Keep](https://github.com/keephq/keep) | Open-source AIOps and alert management platform. Provides a single pane of glass for all alerts w... | — |
 | 56 | [Grafana Network Weathermap](https://github.com/knightss27/grafana-network-weathermap) | Grafana plugin for building customizable network weathermaps. Useful for transport and backbone d... | — |
 | 56 | [Fluent Bit](https://github.com/fluent/fluent-bit) | Lightweight log, metric, and trace processor that fits well as an edge collector for network devi... | — |
-| 55 | [OneUptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform. Self-hosted alternative to Datadog/Pa... | — |
 | 55 | [DeepFlow](https://github.com/deepflowio/deepflow) | eBPF-powered zero-code observability platform. Automatically captures application, network, and i... | — |
 | 55 | [xenoeye](https://github.com/vmxdev/xenoeye) | Lightweight self-hosted NetFlow/IPFIX/sFlow collector and analyzer with ClickHouse, PostgreSQL, a... | — |
 | 55 | [NetOpsKube](https://github.com/CSPDevLabs/NetOpsKube) | Kubernetes-based NetOps platform for deploying network automation, observability, and configurati... | — |

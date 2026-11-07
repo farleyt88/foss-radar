@@ -175,7 +175,7 @@ Tools with confirmed or tagged Nokia support:
 | pydantify | ✅ | [github.com/pydantify/pydantify](https://github.com/pydantify/pydantify) |
 | NetGauze | ✅ | [github.com/NetGauze/NetGauze](https://github.com/NetGauze/NetGauze) |
 | gnmic | ✅ | [github.com/openconfig/gnmic](https://github.com/openconfig/gnmic) |
-| Nokia OSSMediator | ✅ | [github.com/nokia/OSSMediator](https://github.com/nokia/OSSMediator) |
+| Nokia OSSMediator | ✅ | [github.com/nokia-steward/OSSMediator](https://github.com/nokia-steward/OSSMediator) |
 | ncclient | ✅ | [github.com/ncclient/ncclient](https://github.com/ncclient/ncclient) |
 | NAPALM-SROS | ✅ | [github.com/napalm-automation-community/napalm-sros](https://github.com/napalm-automation-community/napalm-sros) |
 | EDA Telemetry Lab | ✅ | [github.com/eda-labs/eda-telemetry-lab](https://github.com/eda-labs/eda-telemetry-lab) |
