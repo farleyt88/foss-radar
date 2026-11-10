@@ -4247,7 +4247,7 @@
     "url": "https://github.com/automateyournetwork/netclaw",
     "description": "CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backends. Covers Cisco, Juniper, Arista, F5, Meraki, SD-WAN, NSO, CML, ContainerLab, Grafana, Prometheus, BGP/OSPF, GitHub config-as-code, and ITSM gating with immutable audit trails.",
     "category": "Network Automation",
-    "stars": 0,
+    "stars": 719,
     "topics": [
       "network-automation",
       "ai-agent",
@@ -4257,9 +4257,9 @@
       "juniper",
       "arista"
     ],
-    "updated": "2026-02-28",
+    "updated": "2026-11-09",
     "discovered": "2026-03-01",
-    "relevance_score": 21,
+    "relevance_score": 28,
     "vendor_verified": false
   },
   {
@@ -8347,7 +8347,7 @@
     "url": "https://github.com/Avinash-Amudala/MCP-Telecom",
     "description": "MCP server for network equipment that gives AI agents read-only access to Nokia SR OS, Cisco IOS-XR, Juniper Junos, Arista EOS, and Cisco NX-OS via SSH, NETCONF, gNMI, and SNMP. Includes topology discovery, compliance checks, and multi-device parallel queries.",
     "category": "Network Automation",
-    "stars": 0,
+    "stars": 1,
     "topics": [
       "mcp",
       "network-automation",
@@ -8360,7 +8360,7 @@
     "vendors": [
       "Nokia"
     ],
-    "updated": "2026-04-07",
+    "updated": "2026-05-30",
     "discovered": "2026-04-07",
     "relevance_score": 59,
     "vendor_verified": false,
@@ -13198,5 +13198,23 @@
     "updated": "2026-11-01",
     "discovered": "2026-11-02",
     "relevance_score": 75
+  },
+  {
+    "name": "Yangify",
+    "url": "https://github.com/networktocode/yangify",
+    "description": "Parsing and translation engine for model-driven network automation using YANG \u2014 translates YANG models to and from native text and structures. First building block of Network to Code's open source Rosetta RESTCONF API.",
+    "category": "Network Automation",
+    "stars": 117,
+    "topics": [
+      "yang",
+      "restconf",
+      "network-automation",
+      "model-driven",
+      "python"
+    ],
+    "updated": "2026-10-02",
+    "discovered": "2026-11-10",
+    "relevance_score": 61,
+    "vendor_verified": false
   }
 ]

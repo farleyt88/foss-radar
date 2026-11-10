@@ -1,6 +1,6 @@
 # Network Automation
 
-**351 tools** — sorted by relevance score.
+**352 tools** — sorted by relevance score.
 
 [← Back to FOSS Radar](../README.md)
 
@@ -94,6 +94,7 @@
 | 61 | [SR OS Docs Lab](https://github.com/nokia/sros-docs-lab) | Official Nokia SR OS reference labs for spinning up repeatable SR OS scenarios, testing workflows... | Nokia ✅ |
 | 61 | [Nokia Network as Code SDKs](https://github.com/nokia-steward/network-as-code-sdks) | Official Nokia SDKs for the Network as Code platform. Lets applications call Nokia network APIs f... | Nokia ✅ |
 | 61 | [Nokia NSP Automation Examples](https://github.com/nokia-steward/nsp-automation) | Official collection of reproducible Nokia Network Services Platform (NSP) examples for Mistral wo... | Nokia ✅ |
+| 61 | [Yangify](https://github.com/networktocode/yangify) | Parsing and translation engine for model-driven network automation using YANG — translates YANG m... | — |
 | 59 | [gNSI](https://github.com/openconfig/gnsi) | gRPC Network Security Interface — OpenConfig specification for security infrastructure services o... | Nokia |
 | 59 | [vscode-sr](https://github.com/srl-labs/vscode-sr) | VS Code extension for Nokia SR OS and SR Linux configuration files. Uses the srpls language serve... | Nokia ✅ |
 | 59 | [MultiCLI](https://github.com/srl-labs/MultiCLI) | Custom CLI plugins for Nokia SR Linux that emulate familiar show commands from other vendors (Ari... | Nokia ✅ |
@@ -245,6 +246,7 @@
 | 29 | [vMark](https://github.com/xmas-ar/vMark) | Carrier Ethernet demarcation management system for vMark-node endpoints. Includes Docker deployme... | — |
 | 29 | [Finsy](https://github.com/byllyfish/finsy) | Async Python P4Runtime controller library with integrated gNMI support for managing programmable ... | — |
 | 28 | [eNMS](https://github.com/eNMS-automation/eNMS) | Vendor-agnostic NMS for carrier-grade network visualization and automation. | — |
+| 28 | [NetClaw](https://github.com/automateyournetwork/netclaw) | CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backen... | — |
 | 28 | [pyribbon](https://github.com/commitconfirm/pyribbon) | Python module for Sonus/Ribbon SBC REST API. Query data, create/update resources, perform reboots... | Ribbon |
 | 28 | [libiec61850](https://github.com/mz-automation/libiec61850) | Open-source (GPLv3) C library implementing IEC 61850 client and server protocols including MMS, G... | SEL |
 | 27 | [Jerikan](https://github.com/jerikan-network/cmdb) | Network CMDB with Git-based config management. Template-driven network automation. | — |
@@ -292,7 +294,6 @@
 | 21 | [netlab](https://github.com/ipspace/netlab) | Infrastructure-as-code for network labs. YAML topology to VirtualBox/libvirt/containerlab. | — |
 | 21 | [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) | Salt plugin for network automation at scale without running Proxy Minions. | — |
 | 21 | [Infoblox Python Client](https://github.com/infobloxopen/infoblox-client) | Python wrapper for Infoblox REST API. | — |
-| 21 | [NetClaw](https://github.com/automateyournetwork/netclaw) | CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backen... | — |
 | 21 | [Kubenet](https://github.com/kubenet-dev/kubenet) | Nokia-backed community project using Kubernetes as a network automation engine for managing physi... | Nokia |
 | 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calcul... | Nokia |
 | 21 | [rneter](https://github.com/demohiiiii/rneter) | High-performance Rust library for network automation SSH with intelligent connection pooling, aut... | — |
