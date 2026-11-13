@@ -8,9 +8,9 @@
 |------:|------|-------------|---------|
 | 69 | [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) | Next-generation Network Management System built with Go, Svelte, and Wails for a lightweight desk... | — |
 | 59 | [NOC Project](https://github.com/nocproject/noc) | Open-source Operation Support System (OSS) designed for telecom companies, ISPs, and enterprise N... | — |
+| 54 | [Scanopy](https://github.com/scanopy/scanopy) | Self-hosted network discovery and documentation tool that automatically scans networks, identifie... | — |
 | 51 | [OpenNetworkDiagram](https://github.com/jcreek/OpenNetworkDiagram) | Declarative, self-hosted containerized tool for visualizing and managing network architecture dia... | — |
 | 51 | [NetBox FMS](https://github.com/jsenecal/netbox-fms) | NetBox fiber management plugin for cable construction, strand and splice planning, analyzed fiber... | — |
-| 49 | [Scanopy](https://github.com/scanopy/scanopy) | Self-hosted network discovery and documentation tool that automatically scans networks, identifie... | — |
 | 41 | [Netipam](https://github.com/nodeplex/Netipam) | Self-hosted IP address management (IPAM) and network visibility tool. Docker-based, easy to deplo... | — |
 | 32 | [LibreQoS](https://github.com/LibreQoE/LibreQoS) | Self-hosted traffic management and network operations platform for ISPs. Uses CAKE and fq_codel t... | — |
 | 28 | [Rackula](https://github.com/RackulaLives/Rackula) | Open-source drag-and-drop rack layout designer that runs entirely in the browser. Supports real d... | — |

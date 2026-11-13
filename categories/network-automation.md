@@ -293,6 +293,7 @@
 | 21 | [diffsync](https://github.com/networktocode/diffsync) | Library for synchronizing data between sources. Network data reconciliation. | — |
 | 21 | [netlab](https://github.com/ipspace/netlab) | Infrastructure-as-code for network labs. YAML topology to VirtualBox/libvirt/containerlab. | — |
 | 21 | [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) | Salt plugin for network automation at scale without running Proxy Minions. | — |
+| 21 | [Rconfig](https://github.com/rconfig/rconfig) | Free, open source network device configuration management. Customizable to your needs. | — |
 | 21 | [Infoblox Python Client](https://github.com/infobloxopen/infoblox-client) | Python wrapper for Infoblox REST API. | — |
 | 21 | [Kubenet](https://github.com/kubenet-dev/kubenet) | Nokia-backed community project using Kubernetes as a network automation engine for managing physi... | Nokia |
 | 21 | [evpn-ninja](https://github.com/ashimov/evpn-ninja) | Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calcul... | Nokia |
@@ -308,7 +309,6 @@
 | 19 | [RTRlib](https://github.com/rtrlib/rtrlib) | Open-source RPKI-to-Router client library and tools for validating BGP route origins. Handy for r... | — |
 | 17 | [Netshot](https://github.com/netshot-net/Netshot) | Network configuration and compliance management. Backup, audit, and report. | — |
 | 17 | [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) | Ansible modules for Palo Alto Networks PAN-OS. | — |
-| 17 | [Rconfig](https://github.com/rconfig/rconfig) | Free, open source network device configuration management. Customizable to your needs. | — |
 | 17 | [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) | Go wrapper for Infoblox REST API. | — |
 | 17 | [CML virl2_client](https://github.com/CiscoDevNet/virl2-client) | Python client for Cisco CML (VIRL 2) API. Automate lab creation and management. | — |
 | 17 | [Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon) | PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for quer... | Ribbon |

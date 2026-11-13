@@ -181,7 +181,7 @@
     "url": "https://github.com/openobserve/openobserve",
     "description": "Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs vs Elasticsearch. Single binary deployment, Rust-based, supports OpenTelemetry, Prometheus remote write, syslog, and SNMP trap ingestion via OTel Collector. Built-in dashboards and alerting. AGPL-3.0 licensed. A compelling alternative to ELK/Splunk for collecting network device logs and telemetry at scale without massive infrastructure overhead.",
     "category": "Observability",
-    "stars": 18160,
+    "stars": 23045,
     "topics": [
       "observability",
       "logs",
@@ -196,7 +196,7 @@
     ],
     "vendors": [],
     "vendor_verified": false,
-    "updated": "2026-03-17",
+    "updated": "2026-11-13",
     "discovered": "2026-03-17",
     "relevance_score": 79,
     "source": "foss-radar-scan"
@@ -1830,11 +1830,11 @@
     "url": "https://github.com/rconfig/rconfig",
     "description": "Free, open source network device configuration management. Customizable to your needs.",
     "category": "Network Automation",
-    "stars": 0,
+    "stars": 224,
     "topics": [],
-    "updated": "2026-01-01",
+    "updated": "2026-11-10",
     "discovered": "2026-02-04",
-    "relevance_score": 17,
+    "relevance_score": 21,
     "vendor_verified": false
   },
   {
@@ -1992,7 +1992,7 @@
     "url": "https://github.com/scanopy/scanopy",
     "description": "Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services (200+ service definitions), and generates interactive topology diagrams. Runs as lightweight Docker daemon(s) that scan VLANs via ARP and full 65k-port scans. Supports SNMP v2c polling for network devices. Produces living, self-updating network diagrams \u2014 no manual Visio/draw.io maintenance required. Also available as cloud-hosted option.",
     "category": "Network Management",
-    "stars": 1200,
+    "stars": 5954,
     "topics": [
       "network-discovery",
       "topology",
@@ -2003,9 +2003,9 @@
       "docker",
       "network-scanner"
     ],
-    "updated": "2026-03-15",
+    "updated": "2026-11-13",
     "discovered": "2026-03-15",
-    "relevance_score": 49,
+    "relevance_score": 54,
     "vendor_verified": false
   },
   {
@@ -6616,7 +6616,7 @@
     "url": "https://github.com/SigNoz/signoz",
     "description": "Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hosted alternative to Datadog and New Relic. Built on ClickHouse for fast queries at scale. Features distributed tracing, log management with pipeline processing, metrics with PromQL-compatible queries, alerting, and dashboards. Supports SNMP and syslog receivers via OTel Collector for network device monitoring. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 26094,
+    "stars": 32619,
     "topics": [
       "observability",
       "opentelemetry",
@@ -6631,7 +6631,7 @@
     ],
     "vendors": [],
     "vendor_verified": false,
-    "updated": "2026-03-16",
+    "updated": "2026-11-13",
     "discovered": "2026-03-16",
     "relevance_score": 87,
     "source": "foss-radar-scan"

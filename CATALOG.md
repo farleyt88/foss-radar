@@ -3,14 +3,14 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "11-12-2026"
+updated: "11-13-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 11-12-2026 08:57
+**Last Scan:** 11-13-2026 08:57
 **Total Tools Tracked:** 640
 **Categories:** Network Automation (352), Observability (156), Network Observability (14), Network Testing (9), Network Management (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
 
@@ -55,7 +55,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 26 | [yang2sdk](https://github.com/ConsortiumGARR/yang2sdk) | Network Automation | Generates versioned Pydantic v2 SDKs directly from device YANG modules, including RESTCONF and NE... | Nokia ✓ | 6 |
 | 27 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Observability | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, an... | Nokia ✓ | 25 |
 | 28 | [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) | Observability | Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical obser... | Nokia ✓ | 8 |
-| 29 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 26,094 |
+| 29 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 32,619 |
 | 30 | [nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills) | Network Automation | Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/ver... | Nokia ✓ | 8 |
 | 31 | [ntopng](https://github.com/ntop/ntopng) | Network Monitoring | High-speed web-based network traffic analysis and flow monitoring tool. Supports deep packet insp... | — | 6,200 |
 | 32 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Network Automation | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operation... | Nokia ✓ | 28 |
@@ -77,7 +77,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 48 | [GoFlow2](https://github.com/netsampler/goflow2) | Observability | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflar... | — | 1,400 |
 | 49 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gnmi-mcp-server) | MCP / AI Integration | MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compat... | Nokia ✓ | — |
 | 50 | [small-isp-lab](https://github.com/abelperezr/small-isp-lab) | Network Simulation | Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP tra... | Nokia ✓ | 17 |
-| 51 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 18,160 |
+| 51 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 23,045 |
 | 52 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Network Automation | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and acc... | Nokia ✓ | 50 |
 | 53 | [OpenNTI](https://github.com/Juniper/open-nti) | Observability | Containerized open network telemetry collector and visualization stack. Collects data from device... | — | 320 |
 | 54 | [Netdata](https://github.com/netdata/netdata) | Observability | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, ... | — | 78,232 |
@@ -384,6 +384,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[diffsync](https://github.com/networktocode/diffsync)** — Library for synchronizing data between sources. Network data reconciliation.
 - **[netlab](https://github.com/ipspace/netlab)** — Infrastructure-as-code for network labs. YAML topology to VirtualBox/libvirt/containerlab.
 - **[salt-sproxy](https://github.com/mirceaulinic/salt-sproxy)** — Salt plugin for network automation at scale without running Proxy Minions.
+- **[Rconfig](https://github.com/rconfig/rconfig)** — Free, open source network device configuration management. Customizable to your needs.
 - **[Infoblox Python Client](https://github.com/infobloxopen/infoblox-client)** — Python wrapper for Infoblox REST API.
 - **[Kubenet](https://github.com/kubenet-dev/kubenet)** `Nokia` (?) — Nokia-backed community project using Kubernetes as a network automation engine for managing physical, virtual, or con...
 - **[evpn-ninja](https://github.com/ashimov/evpn-ninja)** `Nokia` (?) — Network engineer toolkit for VXLAN/EVPN fabric design with multi-vendor config generation. Calculate VNI, MTU, RD/RT ...
@@ -399,7 +400,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[RTRlib](https://github.com/rtrlib/rtrlib)** — Open-source RPKI-to-Router client library and tools for validating BGP route origins. Handy for routing security vali...
 - **[Netshot](https://github.com/netshot-net/Netshot)** — Network configuration and compliance management. Backup, audit, and report.
 - **[pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible)** — Ansible modules for Palo Alto Networks PAN-OS.
-- **[Rconfig](https://github.com/rconfig/rconfig)** — Free, open source network device configuration management. Customizable to your needs.
 - **[Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client)** — Go wrapper for Infoblox REST API.
 - **[CML virl2_client](https://github.com/CiscoDevNet/virl2-client)** — Python client for Cisco CML (VIRL 2) API. Automate lab creation and management.
 - **[Posh-Ribbon](https://github.com/EgoManiac/Posh-Ribbon)** `Ribbon` (?) — PowerShell module for controlling Ribbon SBC Edge devices via REST API. Provides cmdlets for querying state, creating...
@@ -642,9 +642,9 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 
 - **[TWSNMP FK](https://github.com/twsnmp/twsnmpfk)** — Next-generation Network Management System built with Go, Svelte, and Wails for a lightweight desktop NMS experience. ...
 - **[NOC Project](https://github.com/nocproject/noc)** — Open-source Operation Support System (OSS) designed for telecom companies, ISPs, and enterprise NOCs. Features fault ...
+- **[Scanopy](https://github.com/scanopy/scanopy)** — Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services...
 - **[OpenNetworkDiagram](https://github.com/jcreek/OpenNetworkDiagram)** — Declarative, self-hosted containerized tool for visualizing and managing network architecture diagrams. Stores topolo...
 - **[NetBox FMS](https://github.com/jsenecal/netbox-fms)** — NetBox fiber management plugin for cable construction, strand and splice planning, analyzed fiber paths, circuit prov...
-- **[Scanopy](https://github.com/scanopy/scanopy)** — Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services...
 - **[Netipam](https://github.com/nodeplex/Netipam)** — Self-hosted IP address management (IPAM) and network visibility tool. Docker-based, easy to deploy, designed for netw...
 - **[LibreQoS](https://github.com/LibreQoE/LibreQoS)** — Self-hosted traffic management and network operations platform for ISPs. Uses CAKE and fq_codel to reduce bufferbloat...
 - **[Rackula](https://github.com/RackulaLives/Rackula)** — Open-source drag-and-drop rack layout designer that runs entirely in the browser. Supports real device images, drag-a...
