@@ -3,14 +3,14 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "11-13-2026"
+updated: "11-15-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 11-13-2026 08:57
+**Last Scan:** 11-15-2026 08:56
 **Total Tools Tracked:** 640
 **Categories:** Network Automation (352), Observability (156), Network Observability (14), Network Testing (9), Network Management (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
 
