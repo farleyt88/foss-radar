@@ -6616,7 +6616,7 @@
     "url": "https://github.com/SigNoz/signoz",
     "description": "Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hosted alternative to Datadog and New Relic. Built on ClickHouse for fast queries at scale. Features distributed tracing, log management with pipeline processing, metrics with PromQL-compatible queries, alerting, and dashboards. Supports SNMP and syslog receivers via OTel Collector for network device monitoring. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 32619,
+    "stars": 32657,
     "topics": [
       "observability",
       "opentelemetry",
