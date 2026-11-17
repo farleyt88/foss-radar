@@ -3,15 +3,15 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "11-16-2026"
+updated: "11-17-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 11-16-2026 08:57
-**Total Tools Tracked:** 640
+**Last Scan:** 11-17-2026 08:58
+**Total Tools Tracked:** 641
 **Categories:** Network Automation (352), Observability (156), Network Observability (14), Network Testing (9), Network Management (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
 
 > **Scoring note:** Vendor bonus (+40/vendor) applies ONLY to tools with confirmed, verified support
@@ -776,6 +776,11 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 - **[nipap](https://github.com/SpriteLink/NIPAP)** — Sleek, intuitive and powerful IP address management system for large-scale networks.
 - **[TeemIP](https://github.com/TeemIp/teemip-standalone)** — Open source IPAM tool for IPv4 and IPv6 management with web interface.
 
+### Network Visualization (2 tools)
+
+- **[Network Weathermap NG](https://github.com/allamiro/grafana-network-weathermap-ng)** — Modernized, actively maintained network weathermap panel plugin for Grafana. Live topology maps with nodes, links, an...
+- **[NetVisor](https://github.com/a2s-ai/A2S_netvisor)** — Automatic network topology discovery and interactive visualization. Scans networks, identifies hosts/services, genera...
+
 ### Uncategorized (2 tools)
 
 - **[OpenNMS](https://github.com/OpenNMS/opennms)** — Enterprise-grade open-source network management platform. Supports SNMP, JSON, WinRM, XML, SQL, JMX, SFTP, FTP, JDBC,...
@@ -824,10 +829,6 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 ### Network Discovery (1 tools)
 
 - **[Atlas](https://github.com/karam-ajaj/atlas)** — Full-stack containerized tool to scan, analyze, and visualize network infrastructure. Go-powered scanner with FastAPI...
-
-### Network Visualization (1 tools)
-
-- **[NetVisor](https://github.com/a2s-ai/A2S_netvisor)** — Automatic network topology discovery and interactive visualization. Scans networks, identifies hosts/services, genera...
 
 ### Reference (1 tools)
 

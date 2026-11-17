@@ -4247,7 +4247,7 @@
     "url": "https://github.com/automateyournetwork/netclaw",
     "description": "CCIE-level AI network engineering agent built on OpenClaw with 82 skills and 37 MCP server backends. Covers Cisco, Juniper, Arista, F5, Meraki, SD-WAN, NSO, CML, ContainerLab, Grafana, Prometheus, BGP/OSPF, GitHub config-as-code, and ITSM gating with immutable audit trails.",
     "category": "Network Automation",
-    "stars": 719,
+    "stars": 730,
     "topics": [
       "network-automation",
       "ai-agent",
@@ -4257,7 +4257,7 @@
       "juniper",
       "arista"
     ],
-    "updated": "2026-11-09",
+    "updated": "2026-11-13",
     "discovered": "2026-03-01",
     "relevance_score": 28,
     "vendor_verified": false
@@ -13216,5 +13216,26 @@
     "discovered": "2026-11-10",
     "relevance_score": 61,
     "vendor_verified": false
+  },
+  {
+    "name": "Network Weathermap NG",
+    "url": "https://github.com/allamiro/grafana-network-weathermap-ng",
+    "description": "Modernized, actively maintained network weathermap panel plugin for Grafana. Live topology maps with nodes, links, and color scales driven by real metrics from any Grafana data source, with incident replay and in-panel editing. Continuation of the archived knightss27 weathermap plugin, rebuilt for Grafana 11-13 with signed releases.",
+    "category": "Network Visualization",
+    "stars": 18,
+    "topics": [
+      "grafana",
+      "monitoring",
+      "network-topology",
+      "network-visualization",
+      "observability",
+      "dashboard",
+      "snmp",
+      "weathermap"
+    ],
+    "updated": "2026-11-17",
+    "discovered": "2026-11-17",
+    "vendor_verified": false,
+    "relevance_score": 73
   }
 ]
