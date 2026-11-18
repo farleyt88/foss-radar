@@ -60,6 +60,7 @@
 | 53 | [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Extended OpenTelemetry Collector distribution with a large receiver/exporter ecosystem. Especiall... | — |
 | 53 | [NetXMS Grafana Datasource](https://github.com/netxms/grafana-datasource) | Grafana data source plugin for NetXMS, useful for pulling network and infrastructure monitoring d... | — |
 | 52 | [clio](https://github.com/openconfig/clio) | OpenTelemetry to gNMI bridge by OpenConfig. Converts OpenTelemetry data into gNMI format, enablin... | Nokia, Ciena |
+| 52 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, log... | — |
 | 52 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight self-hosted network IP scanner with web UI, host history, new-device notifications, a... | — |
 | 51 | [Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven agent for collecting and reporting metrics. 300+ input plugins including SNMP. | — |
 | 51 | [DiGSiViz](https://github.com/netlab-hfd/digsiviz) | gNMI-powered real-time visualization of Network Digital Twin topologies running in Containerlab. ... | — |
@@ -76,7 +77,6 @@
 | 49 | [sonic-exporter](https://github.com/vinted/sonic-exporter) | Prometheus exporter for SONiC network switches. Useful reference for switch telemetry pipelines a... | — |
 | 49 | [Centreon](https://github.com/centreon/centreon) | Open source monitoring platform for networks, systems, and applications. Includes dashboards, gra... | — |
 | 48 | [pktvisor](https://github.com/netboxlabs/pktvisor) | Dynamic network observability agent that analyzes packet traffic and emits OpenTelemetry, Prometh... | — |
-| 47 | [Coroot](https://github.com/coroot/coroot) | Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, log... | — |
 | 47 | [OpenBMP Collector](https://github.com/OpenBMP/obmp-collector) | BGP Monitoring Protocol (BMP) collector for the OpenBMP stack. Ingests BMP feeds from routers and... | — |
 | 45 | [NetStruct](https://github.com/IT-4-ALL/NetStruct) | Browser-based network planning and visualization tool. Drag-and-drop interface for routers, switc... | — |
 | 45 | [gnmi-gateway](https://github.com/openconfig/gnmi-gateway) | Distributed, highly available gNMI telemetry gateway from OpenConfig. Connects to multiple gNMI t... | — |
