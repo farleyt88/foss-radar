@@ -181,7 +181,7 @@
     "url": "https://github.com/openobserve/openobserve",
     "description": "Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs vs Elasticsearch. Single binary deployment, Rust-based, supports OpenTelemetry, Prometheus remote write, syslog, and SNMP trap ingestion via OTel Collector. Built-in dashboards and alerting. AGPL-3.0 licensed. A compelling alternative to ELK/Splunk for collecting network device logs and telemetry at scale without massive infrastructure overhead.",
     "category": "Observability",
-    "stars": 23101,
+    "stars": 23114,
     "topics": [
       "observability",
       "logs",
@@ -1992,7 +1992,7 @@
     "url": "https://github.com/scanopy/scanopy",
     "description": "Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services (200+ service definitions), and generates interactive topology diagrams. Runs as lightweight Docker daemon(s) that scan VLANs via ARP and full 65k-port scans. Supports SNMP v2c polling for network devices. Produces living, self-updating network diagrams \u2014 no manual Visio/draw.io maintenance required. Also available as cloud-hosted option.",
     "category": "Network Management",
-    "stars": 5979,
+    "stars": 5984,
     "topics": [
       "network-discovery",
       "topology",
@@ -6306,7 +6306,7 @@
     "url": "https://github.com/coroot/coroot",
     "description": "Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. Uses eBPF for zero-instrumentation service map discovery. Self-hosted alternative to Datadog/New Relic with significantly less setup overhead. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 8023,
+    "stars": 8026,
     "topics": [
       "observability",
       "apm",
@@ -6617,7 +6617,7 @@
     "url": "https://github.com/SigNoz/signoz",
     "description": "Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hosted alternative to Datadog and New Relic. Built on ClickHouse for fast queries at scale. Features distributed tracing, log management with pipeline processing, metrics with PromQL-compatible queries, alerting, and dashboards. Supports SNMP and syslog receivers via OTel Collector for network device monitoring. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 32673,
+    "stars": 32681,
     "topics": [
       "observability",
       "opentelemetry",
@@ -8361,7 +8361,7 @@
     "vendors": [
       "Nokia"
     ],
-    "updated": "2026-05-30",
+    "updated": "2026-04-07",
     "discovered": "2026-04-07",
     "relevance_score": 59,
     "vendor_verified": false,
