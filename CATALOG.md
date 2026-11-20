@@ -3,14 +3,14 @@ title: "FOSS Radar"
 category: "Reference"
 tags: ["foss", "tools", "automation", "network"]
 created: "02-03-2026"
-updated: "11-19-2026"
+updated: "11-20-2026"
 ---
 
 # FOSS Radar 📡
 
 A continuously updated list of Free and Open Source tools relevant to Transport Network Traffic Engineering, automation, and modernization.
 
-**Last Scan:** 11-19-2026 08:55
+**Last Scan:** 11-20-2026 08:55
 **Total Tools Tracked:** 641
 **Categories:** Network Automation (352), Observability (156), Network Observability (14), Network Testing (9), Network Management (8), Self-Hosted Infrastructure (8), Self-Hosted (7), CLI Tools (7)
 
@@ -55,7 +55,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 26 | [yang2sdk](https://github.com/ConsortiumGARR/yang2sdk) | Network Automation | Generates versioned Pydantic v2 SDKs directly from device YANG modules, including RESTCONF and NE... | Nokia ✓ | 6 |
 | 27 | [telemetry-demo](https://github.com/JaakkoRautanen/telemetry-demo) | Observability | Containerlab-based streaming telemetry demo environment using Nokia SR Linux, gNMIc, InfluxDB, an... | Nokia ✓ | 25 |
 | 28 | [SR Linux SNMP Framework Lab](https://github.com/srl-labs/srl-snmp-framework-lab) | Observability | Nokia SR Linux lab showing SNMP workflows backed by gRPC-era tooling. Useful as a practical obser... | Nokia ✓ | 8 |
-| 29 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 32,681 |
+| 29 | [SigNoz](https://github.com/SigNoz/signoz) | Observability | Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a singl... | — | 32,689 |
 | 30 | [nokia-sr-skills](https://github.com/antoinekh/nokia-sr-skills) | Network Automation | Claude Code skill plugin for inspecting and operating Nokia SR OS and SR Linux, including NOS/ver... | Nokia ✓ | 8 |
 | 31 | [ntopng](https://github.com/ntop/ntopng) | Network Monitoring | High-speed web-based network traffic analysis and flow monitoring tool. Supports deep packet insp... | — | 6,200 |
 | 32 | [nokia/pygnmi](https://github.com/nokia/pygnmi) | Network Automation | Official Nokia Python gNMI tools. Lightweight scripts for subscribe-style telemetry and operation... | Nokia ✓ | 28 |
@@ -77,7 +77,7 @@ A continuously updated list of Free and Open Source tools relevant to Transport 
 | 48 | [GoFlow2](https://github.com/netsampler/goflow2) | Observability | High-performance NetFlow v5/v9, IPFIX, and sFlow collector in Go — a maintained fork of Cloudflar... | — | 1,400 |
 | 49 | [gNMI MCP Server (Nokia SR OS)](https://github.com/coolexer/gnmi-mcp-server) | MCP / AI Integration | MCP server for managing Nokia SR OS devices via gNMI (gRPC) from Claude Desktop or any MCP-compat... | Nokia ✓ | — |
 | 50 | [small-isp-lab](https://github.com/abelperezr/small-isp-lab) | Network Simulation | Containerlab-based ISP/edge lab with Nokia SR OS and SR Linux, including SRRP redundancy, BGP tra... | Nokia ✓ | 17 |
-| 51 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 23,114 |
+| 51 | [OpenObserve](https://github.com/openobserve/openobserve) | Observability | Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140... | — | 23,121 |
 | 52 | [SR Linux YANG Browser](https://github.com/srl-labs/yang-browser) | Network Automation | Web portal for browsing Nokia SR Linux YANG models. Fast path search, tree visualization, and acc... | Nokia ✓ | 50 |
 | 53 | [OpenNTI](https://github.com/Juniper/open-nti) | Observability | Containerized open network telemetry collector and visualization stack. Collects data from device... | — | 320 |
 | 54 | [Netdata](https://github.com/netdata/netdata) | Observability | Real-time infrastructure monitoring with AI-powered anomaly detection. Supports SNMP monitoring, ... | — | 78,232 |

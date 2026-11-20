@@ -181,7 +181,7 @@
     "url": "https://github.com/openobserve/openobserve",
     "description": "Open-source observability platform for logs, metrics, traces, and frontend monitoring. Claims 140x lower storage costs vs Elasticsearch. Single binary deployment, Rust-based, supports OpenTelemetry, Prometheus remote write, syslog, and SNMP trap ingestion via OTel Collector. Built-in dashboards and alerting. AGPL-3.0 licensed. A compelling alternative to ELK/Splunk for collecting network device logs and telemetry at scale without massive infrastructure overhead.",
     "category": "Observability",
-    "stars": 23114,
+    "stars": 23121,
     "topics": [
       "observability",
       "logs",
@@ -1992,7 +1992,7 @@
     "url": "https://github.com/scanopy/scanopy",
     "description": "Self-hosted network discovery and documentation tool that automatically scans networks, identifies hosts and services (200+ service definitions), and generates interactive topology diagrams. Runs as lightweight Docker daemon(s) that scan VLANs via ARP and full 65k-port scans. Supports SNMP v2c polling for network devices. Produces living, self-updating network diagrams \u2014 no manual Visio/draw.io maintenance required. Also available as cloud-hosted option.",
     "category": "Network Management",
-    "stars": 5984,
+    "stars": 5986,
     "topics": [
       "network-discovery",
       "topology",
@@ -6306,7 +6306,7 @@
     "url": "https://github.com/coroot/coroot",
     "description": "Open-source observability and APM tool with AI-powered Root Cause Analysis. Combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. Uses eBPF for zero-instrumentation service map discovery. Self-hosted alternative to Datadog/New Relic with significantly less setup overhead. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 8026,
+    "stars": 8024,
     "topics": [
       "observability",
       "apm",
@@ -6374,7 +6374,7 @@
     "url": "https://github.com/henrygd/beszel",
     "description": "Lightweight self-hosted server monitoring hub. Historical data, Docker container stats, alerting, multi-server dashboard. Simple agent-based architecture with minimal resource footprint. Great for monitoring lab and automation infrastructure.",
     "category": "Observability",
-    "stars": 19934,
+    "stars": 27501,
     "topics": [
       "monitoring",
       "self-hosted",
@@ -6383,7 +6383,7 @@
       "alerting",
       "dashboard"
     ],
-    "updated": "2026-03-13",
+    "updated": "2026-11-19",
     "discovered": "2026-03-14",
     "relevance_score": 57,
     "vendor_verified": false
@@ -6617,7 +6617,7 @@
     "url": "https://github.com/SigNoz/signoz",
     "description": "Open-source OpenTelemetry-native observability platform with logs, traces, and metrics in a single application. Self-hosted alternative to Datadog and New Relic. Built on ClickHouse for fast queries at scale. Features distributed tracing, log management with pipeline processing, metrics with PromQL-compatible queries, alerting, and dashboards. Supports SNMP and syslog receivers via OTel Collector for network device monitoring. Apache 2.0 licensed.",
     "category": "Observability",
-    "stars": 32681,
+    "stars": 32689,
     "topics": [
       "observability",
       "opentelemetry",
